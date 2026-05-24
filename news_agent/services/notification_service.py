@@ -19,14 +19,19 @@ def send_telegram(message):
 def send_whatsapp(msg):
     # send instantly (must keep WhatsApp Web logged in)
     print("📲 Sending WhatsApp...")
-    kit.sendwhatmsg_instantly(
-        phone_no=PHONE_NO,
-        message=msg,
-        wait_time=70,
-        tab_close=True
-    )
-    time.sleep(5)
-    print("Watsapp Sent")
+    try:
+        kit.sendwhatmsg_instantly(
+            phone_no=PHONE_NO,
+            message=msg,
+            wait_time=15,
+            tab_close=True
+        )
+
+        time.sleep(10)   #avoid blocking
+
+    except Exception as e:
+        print(f"Error: {e}")
+    print("WhatsApp Sent")
 
 def send_whatsapp_group(message):
     try:
@@ -65,7 +70,7 @@ def send_all(message):
         print("Telegram failed")
         
     try:
-        send_whatsapp(message)
+        send_whatsapp(message) # will not work for prod
         # send_whatsapp_group(message)
     except:
         print("WhatsApp failed")

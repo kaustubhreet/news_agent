@@ -246,3 +246,288 @@
 2026-05-24 17:13:47,248 - INFO - Trends updated: ['malware', 'google', 'attack', 'linux', '2026']
 2026-05-24 17:13:47,248 - INFO - Memory updated successfully
 2026-05-24 17:15:08,278 - INFO - \u2705 Graph execution completed
+2026-05-24 20:59:59,654 - INFO - App started
+2026-05-24 20:59:59,668 - INFO - \u2699\ufe0f Graph execution started
+2026-05-24 20:59:59,685 - INFO - Fetching articles... {}
+2026-05-24 21:00:06,329 - INFO - Fetched 115 articles
+2026-05-24 21:00:06,331 - INFO - Filter node...
+2026-05-24 21:00:06,332 - INFO - Filter node filter_new_articles start
+2026-05-24 21:00:06,335 - INFO - rank node...
+2026-05-24 21:00:06,341 - INFO - summarize node
+2026-05-24 21:00:06,341 - INFO - Summarizing 1
+2026-05-24 21:00:06,341 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,424 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,424 - INFO - Summarizing 2
+2026-05-24 21:00:06,425 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,428 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,428 - INFO - Summarizing 3
+2026-05-24 21:00:06,428 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,434 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,434 - INFO - Summarizing 4
+2026-05-24 21:00:06,434 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,437 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,437 - INFO - Summarizing 5
+2026-05-24 21:00:06,438 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,441 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,441 - INFO - Summarizing 6
+2026-05-24 21:00:06,442 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,446 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,447 - INFO - Summarizing 7
+2026-05-24 21:00:06,447 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,451 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,452 - INFO - Summarizing 8
+2026-05-24 21:00:06,452 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,472 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,473 - INFO - Summarizing 9
+2026-05-24 21:00:06,473 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,505 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,505 - INFO - Summarizing 10
+2026-05-24 21:00:06,505 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,509 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,510 - INFO - Summarizing 11
+2026-05-24 21:00:06,510 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,513 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,513 - INFO - Summarizing 12
+2026-05-24 21:00:06,513 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,517 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,517 - INFO - Summarizing 13
+2026-05-24 21:00:06,517 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,520 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,521 - INFO - Summarizing 14
+2026-05-24 21:00:06,521 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,524 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,524 - INFO - Summarizing 15
+2026-05-24 21:00:06,525 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,529 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,530 - INFO - Summarizing 16
+2026-05-24 21:00:06,530 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,543 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,543 - INFO - Summarizing 17
+2026-05-24 21:00:06,543 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,554 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,554 - INFO - Summarizing 18
+2026-05-24 21:00:06,554 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,557 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,557 - INFO - Summarizing 19
+2026-05-24 21:00:06,557 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,560 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,560 - INFO - Summarizing 20
+2026-05-24 21:00:06,560 - INFO - Using HuggingFace model
+2026-05-24 21:00:06,563 - ERROR - LLM error: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/Qwen/Qwen2.5-0.5B-Instruct (Caused by NameResolutionError("HTTPSConnection(host='api-inference.huggingface.co', port=443): Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-05-24 21:00:06,566 - INFO - Updating memory...
+2026-05-24 21:00:06,576 - INFO - Trends updated: ['failed', 'best', 'browser', 'both', 'memorial']
+2026-05-24 21:00:06,576 - INFO - Memory updated successfully
+2026-05-24 21:01:27,765 - INFO - \u2705 Graph execution completed
+2026-05-24 21:26:37,567 - INFO - App started
+2026-05-24 21:26:37,580 - INFO - \u2699\ufe0f Graph execution started
+2026-05-24 21:26:37,589 - INFO - Fetching articles... {}
+2026-05-24 21:26:51,108 - INFO - Fetched 115 articles
+2026-05-24 21:26:51,110 - INFO - Filter node...
+2026-05-24 21:26:51,110 - INFO - Filter node filter_new_articles start
+2026-05-24 21:26:51,146 - INFO - rank node...
+2026-05-24 21:26:51,149 - INFO - summarize node
+2026-05-24 21:26:51,149 - INFO - Summarizing 1
+2026-05-24 21:26:51,149 - INFO - Using HuggingFace model
+2026-05-24 21:26:54,192 - ERROR - LLM error: list index out of range
+2026-05-24 21:26:54,193 - INFO - Summarizing 2
+2026-05-24 21:26:54,194 - INFO - Using HuggingFace model
+2026-05-24 21:26:56,489 - ERROR - LLM error: list index out of range
+2026-05-24 21:26:56,491 - INFO - Summarizing 3
+2026-05-24 21:26:56,491 - INFO - Using HuggingFace model
+2026-05-24 21:26:59,180 - ERROR - LLM error: list index out of range
+2026-05-24 21:26:59,182 - INFO - Summarizing 4
+2026-05-24 21:26:59,182 - INFO - Using HuggingFace model
+2026-05-24 21:27:01,924 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:01,926 - INFO - Summarizing 5
+2026-05-24 21:27:01,926 - INFO - Using HuggingFace model
+2026-05-24 21:27:05,304 - INFO - Summarizing 6
+2026-05-24 21:27:05,304 - INFO - Using HuggingFace model
+2026-05-24 21:27:09,179 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:09,180 - INFO - Summarizing 7
+2026-05-24 21:27:09,180 - INFO - Using HuggingFace model
+2026-05-24 21:27:12,570 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:12,571 - INFO - Summarizing 8
+2026-05-24 21:27:12,571 - INFO - Using HuggingFace model
+2026-05-24 21:27:16,187 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:16,189 - INFO - Summarizing 9
+2026-05-24 21:27:16,189 - INFO - Using HuggingFace model
+2026-05-24 21:27:18,985 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:18,987 - INFO - Summarizing 10
+2026-05-24 21:27:18,987 - INFO - Using HuggingFace model
+2026-05-24 21:27:21,464 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:21,466 - INFO - Summarizing 11
+2026-05-24 21:27:21,466 - INFO - Using HuggingFace model
+2026-05-24 21:27:24,448 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:24,450 - INFO - Summarizing 12
+2026-05-24 21:27:24,450 - INFO - Using HuggingFace model
+2026-05-24 21:27:28,136 - INFO - Summarizing 13
+2026-05-24 21:27:28,136 - INFO - Using HuggingFace model
+2026-05-24 21:27:32,314 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:32,316 - INFO - Summarizing 14
+2026-05-24 21:27:32,316 - INFO - Using HuggingFace model
+2026-05-24 21:27:35,137 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:35,139 - INFO - Summarizing 15
+2026-05-24 21:27:35,139 - INFO - Using HuggingFace model
+2026-05-24 21:27:37,561 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:37,563 - INFO - Summarizing 16
+2026-05-24 21:27:37,563 - INFO - Using HuggingFace model
+2026-05-24 21:27:40,769 - INFO - Summarizing 17
+2026-05-24 21:27:40,769 - INFO - Using HuggingFace model
+2026-05-24 21:27:43,842 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:43,843 - INFO - Summarizing 18
+2026-05-24 21:27:43,844 - INFO - Using HuggingFace model
+2026-05-24 21:27:45,921 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:45,922 - INFO - Summarizing 19
+2026-05-24 21:27:45,922 - INFO - Using HuggingFace model
+2026-05-24 21:27:48,884 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:48,885 - INFO - Summarizing 20
+2026-05-24 21:27:48,885 - INFO - Using HuggingFace model
+2026-05-24 21:27:51,797 - ERROR - LLM error: list index out of range
+2026-05-24 21:27:51,800 - INFO - Updating memory...
+2026-05-24 21:27:51,806 - INFO - Trends updated: ['failed', 'ultra', 'best', 'exploited', 'memorial']
+2026-05-24 21:27:51,806 - INFO - Memory updated successfully
+2026-05-24 21:28:05,879 - INFO - \u2705 Graph execution completed
+2026-05-24 21:32:36,117 - INFO - App started
+2026-05-24 21:32:36,131 - INFO - \u2699\ufe0f Graph execution started
+2026-05-24 21:32:36,138 - INFO - Fetching articles... {}
+2026-05-24 21:32:41,904 - INFO - Fetched 115 articles
+2026-05-24 21:32:41,906 - INFO - Filter node...
+2026-05-24 21:32:41,906 - INFO - Filter node filter_new_articles start
+2026-05-24 21:32:41,909 - INFO - rank node...
+2026-05-24 21:32:41,913 - INFO - summarize node
+2026-05-24 21:32:41,914 - INFO - Summarizing 1
+2026-05-24 21:32:41,914 - INFO - Using HuggingFace model
+2026-05-24 21:32:41,914 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:32:46,658 - INFO - Summarizing 2
+2026-05-24 21:32:46,658 - INFO - Using HuggingFace model
+2026-05-24 21:32:46,659 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:32:51,712 - INFO - Summarizing 3
+2026-05-24 21:32:51,712 - INFO - Using HuggingFace model
+2026-05-24 21:32:51,712 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:32:59,299 - INFO - Summarizing 4
+2026-05-24 21:32:59,299 - INFO - Using HuggingFace model
+2026-05-24 21:32:59,299 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:01,635 - INFO - Summarizing 5
+2026-05-24 21:33:01,635 - INFO - Using HuggingFace model
+2026-05-24 21:33:01,635 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:05,340 - INFO - Summarizing 6
+2026-05-24 21:33:05,340 - INFO - Using HuggingFace model
+2026-05-24 21:33:05,341 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:08,292 - INFO - Summarizing 7
+2026-05-24 21:33:08,292 - INFO - Using HuggingFace model
+2026-05-24 21:33:08,292 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:11,646 - INFO - Summarizing 8
+2026-05-24 21:33:11,646 - INFO - Using HuggingFace model
+2026-05-24 21:33:11,646 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:14,629 - INFO - Summarizing 9
+2026-05-24 21:33:14,629 - INFO - Using HuggingFace model
+2026-05-24 21:33:14,629 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:17,898 - INFO - Summarizing 10
+2026-05-24 21:33:17,898 - INFO - Using HuggingFace model
+2026-05-24 21:33:17,898 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:20,348 - INFO - Summarizing 11
+2026-05-24 21:33:20,348 - INFO - Using HuggingFace model
+2026-05-24 21:33:20,348 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:22,837 - INFO - Summarizing 12
+2026-05-24 21:33:22,837 - INFO - Using HuggingFace model
+2026-05-24 21:33:22,837 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:26,208 - INFO - Summarizing 13
+2026-05-24 21:33:26,208 - INFO - Using HuggingFace model
+2026-05-24 21:33:26,208 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:29,497 - INFO - Summarizing 14
+2026-05-24 21:33:29,497 - INFO - Using HuggingFace model
+2026-05-24 21:33:29,497 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:32,389 - INFO - Summarizing 15
+2026-05-24 21:33:32,390 - INFO - Using HuggingFace model
+2026-05-24 21:33:32,390 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:35,586 - INFO - Summarizing 16
+2026-05-24 21:33:35,586 - INFO - Using HuggingFace model
+2026-05-24 21:33:35,586 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:39,204 - INFO - Summarizing 17
+2026-05-24 21:33:39,204 - INFO - Using HuggingFace model
+2026-05-24 21:33:39,204 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:42,928 - INFO - Summarizing 18
+2026-05-24 21:33:42,928 - INFO - Using HuggingFace model
+2026-05-24 21:33:42,928 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:47,029 - INFO - Summarizing 19
+2026-05-24 21:33:47,029 - INFO - Using HuggingFace model
+2026-05-24 21:33:47,029 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:49,678 - INFO - Summarizing 20
+2026-05-24 21:33:49,679 - INFO - Using HuggingFace model
+2026-05-24 21:33:49,679 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:33:53,308 - INFO - Updating memory...
+2026-05-24 21:33:53,315 - INFO - Trends updated: ['data', 'power', 'over', 'stop', 'costs']
+2026-05-24 21:33:53,315 - INFO - Memory updated successfully
+2026-05-24 21:35:14,342 - INFO - \u2705 Graph execution completed
+2026-05-24 21:44:57,020 - INFO - App started
+2026-05-24 21:44:57,033 - INFO - \u2699\ufe0f Graph execution started
+2026-05-24 21:44:57,045 - INFO - Fetching articles... {}
+2026-05-24 21:45:03,237 - INFO - Fetched 115 articles
+2026-05-24 21:45:03,238 - INFO - Filter node...
+2026-05-24 21:45:03,239 - INFO - Filter node filter_new_articles start
+2026-05-24 21:45:03,242 - INFO - rank node...
+2026-05-24 21:45:03,244 - INFO - summarize node
+2026-05-24 21:45:03,244 - INFO - Summarizing 1
+2026-05-24 21:45:03,244 - INFO - Using HuggingFace model
+2026-05-24 21:45:03,244 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:07,896 - INFO - Summarizing 2
+2026-05-24 21:45:07,897 - INFO - Using HuggingFace model
+2026-05-24 21:45:07,897 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:10,698 - INFO - Summarizing 3
+2026-05-24 21:45:10,698 - INFO - Using HuggingFace model
+2026-05-24 21:45:10,698 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:13,023 - INFO - Summarizing 4
+2026-05-24 21:45:13,023 - INFO - Using HuggingFace model
+2026-05-24 21:45:13,024 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:15,509 - INFO - Summarizing 5
+2026-05-24 21:45:15,509 - INFO - Using HuggingFace model
+2026-05-24 21:45:15,509 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:18,187 - INFO - Summarizing 6
+2026-05-24 21:45:18,187 - INFO - Using HuggingFace model
+2026-05-24 21:45:18,187 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:22,015 - INFO - Summarizing 7
+2026-05-24 21:45:22,015 - INFO - Using HuggingFace model
+2026-05-24 21:45:22,015 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:25,716 - INFO - Summarizing 8
+2026-05-24 21:45:25,716 - INFO - Using HuggingFace model
+2026-05-24 21:45:25,716 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:40,292 - INFO - Summarizing 9
+2026-05-24 21:45:40,293 - INFO - Using HuggingFace model
+2026-05-24 21:45:40,293 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:44,311 - INFO - Summarizing 10
+2026-05-24 21:45:44,311 - INFO - Using HuggingFace model
+2026-05-24 21:45:44,311 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:46,882 - INFO - Summarizing 11
+2026-05-24 21:45:46,882 - INFO - Using HuggingFace model
+2026-05-24 21:45:46,882 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:50,126 - INFO - Summarizing 12
+2026-05-24 21:45:50,126 - INFO - Using HuggingFace model
+2026-05-24 21:45:50,126 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:52,925 - INFO - Summarizing 13
+2026-05-24 21:45:52,926 - INFO - Using HuggingFace model
+2026-05-24 21:45:52,926 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:56,282 - INFO - Summarizing 14
+2026-05-24 21:45:56,283 - INFO - Using HuggingFace model
+2026-05-24 21:45:56,283 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:45:59,636 - INFO - Summarizing 15
+2026-05-24 21:45:59,636 - INFO - Using HuggingFace model
+2026-05-24 21:45:59,636 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:46:03,796 - INFO - Summarizing 16
+2026-05-24 21:46:03,796 - INFO - Using HuggingFace model
+2026-05-24 21:46:03,796 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:46:07,016 - INFO - Summarizing 17
+2026-05-24 21:46:07,016 - INFO - Using HuggingFace model
+2026-05-24 21:46:07,016 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:46:12,800 - INFO - Summarizing 18
+2026-05-24 21:46:12,800 - INFO - Using HuggingFace model
+2026-05-24 21:46:12,801 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:46:17,317 - INFO - Summarizing 19
+2026-05-24 21:46:17,317 - INFO - Using HuggingFace model
+2026-05-24 21:46:17,317 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:46:21,306 - INFO - Summarizing 20
+2026-05-24 21:46:21,306 - INFO - Using HuggingFace model
+2026-05-24 21:46:21,307 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-24 21:46:24,323 - INFO - Updating memory...
+2026-05-24 21:46:24,330 - INFO - Trends updated: ['tech', 'future', 'test', 'space', 'news']
+2026-05-24 21:46:24,331 - INFO - Memory updated successfully
+2026-05-24 21:47:52,514 - INFO - \u2705 Graph execution completed
