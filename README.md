@@ -1,0 +1,1 @@
+This project is related to agent whose work is to track tech related news and send it to msg apps.
