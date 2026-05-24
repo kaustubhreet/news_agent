@@ -1,7 +1,7 @@
 import requests
-import pywhatkit as kit
+# import pywhatkit as kit
 import time
-import pyautogui
+# import pyautogui
 from news_agent.core.config import TELEGRAM_TOKEN, CHAT_ID, PHONE_NO
 
 def send_telegram(message):
@@ -16,51 +16,51 @@ def send_telegram(message):
 
     return response.status_code
 
-def send_whatsapp(msg):
-    # send instantly (must keep WhatsApp Web logged in)
-    print("📲 Sending WhatsApp...")
-    try:
-        kit.sendwhatmsg_instantly(
-            phone_no=PHONE_NO,
-            message=msg,
-            wait_time=15,
-            tab_close=True
-        )
+# def send_whatsapp(msg):
+#     # send instantly (must keep WhatsApp Web logged in)
+#     print("📲 Sending WhatsApp...")
+#     try:
+#         kit.sendwhatmsg_instantly(
+#             phone_no=PHONE_NO,
+#             message=msg,
+#             wait_time=15,
+#             tab_close=True
+#         )
 
-        time.sleep(10)   #avoid blocking
+#         time.sleep(10)   #avoid blocking
 
-    except Exception as e:
-        print(f"Error: {e}")
-    print("WhatsApp Sent")
+#     except Exception as e:
+#         print(f"Error: {e}")
+#     print("WhatsApp Sent")
 
-def send_whatsapp_group(message):
-    try:
-        print("📲 Opening WhatsApp Web...")
+# def send_whatsapp_group(message):
+#     try:
+#         print("📲 Opening WhatsApp Web...")
 
-        # open any chat first
-        kit.sendwhatmsg_instantly(
-            phone_no="+91XXXXXXXXX",  # your own number
-            message="temp",
-            wait_time=35,
-            tab_close=False
-        )
+#         # open any chat first
+#         kit.sendwhatmsg_instantly(
+#             phone_no="+91XXXXXXXXX",  # your own number
+#             message="temp",
+#             wait_time=35,
+#             tab_close=False
+#         )
 
-        time.sleep(10)
+#         time.sleep(10)
 
-        # search group manually via typing
-        grp_name="Mazza the group"
-        pyautogui.write("grp_name")
-        pyautogui.press("enter")
+#         # search group manually via typing
+#         grp_name="Mazza the group"
+#         pyautogui.write("grp_name")
+#         pyautogui.press("enter")
 
-        time.sleep(2)
+#         time.sleep(2)
 
-        pyautogui.write(message)
-        pyautogui.press("enter")
+#         pyautogui.write(message)
+#         pyautogui.press("enter")
 
-        print("✅ Group message sent")
+#         print("✅ Group message sent")
 
-    except Exception as e:
-        print("❌ Failed:", e)
+#     except Exception as e:
+#         print("❌ Failed:", e)
 
 def send_all(message):
     try:
