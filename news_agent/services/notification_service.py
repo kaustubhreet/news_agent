@@ -69,8 +69,8 @@ def send_all(message):
     except:
         print("Telegram failed")
         
-    try:
-        send_whatsapp(message) # will not work for prod
-        # send_whatsapp_group(message)
-    except:
-        print("WhatsApp failed")
+    # try:
+    #     send_whatsapp(message) # will not work for prod
+    #     # send_whatsapp_group(message)
+    # except:
+    #     print("WhatsApp failed")
