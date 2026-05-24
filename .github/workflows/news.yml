@@ -1,0 +1,36 @@
+name: Daily News Agent
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+    inputs:
+      provider:
+        description: "LLM Provider (ollama/hf)"
+        required: false
+        default: "hf"
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run agent
+        run: python -m news_agent.main
+        env:
+          MODEL_PROVIDER: ${{ github.event.inputs.provider }}
+          HF_API_KEY: ${{ secrets.HF_API_KEY }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          PHONE_NO: ${{ secrets.PHONE_NO }}
