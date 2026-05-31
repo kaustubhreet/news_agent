@@ -34,7 +34,7 @@ def summarize_node(state):
     logger.info("summarize node")
     summaries = []
 
-    for i, article in enumerate(state["ranked_articles"][:20]):
+    for i, article in enumerate(state["ranked_articles"][:25]):
         logger.info(f"Summarizing {i+1}")
 
         try:

@@ -531,3 +531,181 @@
 2026-05-24 21:46:24,330 - INFO - Trends updated: ['tech', 'future', 'test', 'space', 'news']
 2026-05-24 21:46:24,331 - INFO - Memory updated successfully
 2026-05-24 21:47:52,514 - INFO - \u2705 Graph execution completed
+2026-05-31 08:28:23,154 - INFO - App started
+2026-05-31 08:28:23,222 - INFO - \u2699\ufe0f Graph execution started
+2026-05-31 08:28:23,243 - INFO - Fetching articles... {}
+2026-05-31 08:28:45,820 - ERROR - \u274c App failed: object has no attribute 'summary'
+2026-05-31 08:37:22,289 - INFO - App started
+2026-05-31 08:37:22,312 - INFO - \u2699\ufe0f Graph execution started
+2026-05-31 08:37:22,333 - INFO - Fetching articles... {}
+2026-05-31 08:37:40,919 - WARNING - Could not find summary for entry: Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler
+2026-05-31 08:37:40,919 - WARNING - Could not find summary for entry: ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM
+2026-05-31 08:37:40,919 - WARNING - Could not find summary for entry: Reachy Mini goes fully local
+2026-05-31 08:37:40,919 - WARNING - Could not find summary for entry: Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL
+2026-05-31 08:37:40,919 - WARNING - Could not find summary for entry: Harness, Scaffold, and the AI Agent Terms Worth Getting Right
+2026-05-31 08:37:40,920 - WARNING - Could not find summary for entry: Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models
+2026-05-31 08:37:40,920 - WARNING - Could not find summary for entry: Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook
+2026-05-31 08:37:40,920 - WARNING - Could not find summary for entry: OlmoEarth v1.1: A more efficient family of Earth observation models
+2026-05-31 08:37:40,920 - WARNING - Could not find summary for entry: Introducing the Ettin Reranker Family
+2026-05-31 08:37:40,920 - WARNING - Could not find summary for entry: PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
+2026-05-31 08:37:40,921 - WARNING - Could not find summary for entry: Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality
+2026-05-31 08:37:40,921 - WARNING - Could not find summary for entry: Unlocking asynchronicity in continuous batching
+2026-05-31 08:37:40,921 - WARNING - Could not find summary for entry: Building Blocks for Foundation Model Training and Inference on AWS
+2026-05-31 08:37:40,921 - WARNING - Could not find summary for entry: vLLM V0 to V1: Correctness Before Corrections in RL
+2026-05-31 08:37:40,921 - WARNING - Could not find summary for entry: Adding Benchmaxxer Repellant to the Open ASR Leaderboard
+2026-05-31 08:37:47,442 - INFO - Fetched 220 articles
+2026-05-31 08:37:47,443 - INFO - Filter node...
+2026-05-31 08:37:47,457 - INFO - Filter node filter_new_articles start
+2026-05-31 08:37:47,459 - INFO - rank node...
+2026-05-31 08:37:47,465 - INFO - summarize node
+2026-05-31 08:37:47,465 - INFO - Summarizing 1
+2026-05-31 08:37:47,465 - INFO - Using HuggingFace model
+2026-05-31 08:37:47,465 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:37:49,974 - INFO - Summarizing 2
+2026-05-31 08:37:49,974 - INFO - Using HuggingFace model
+2026-05-31 08:37:49,974 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:37:52,862 - INFO - Summarizing 3
+2026-05-31 08:37:52,862 - INFO - Using HuggingFace model
+2026-05-31 08:37:52,862 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:37:56,059 - INFO - Summarizing 4
+2026-05-31 08:37:56,059 - INFO - Using HuggingFace model
+2026-05-31 08:37:56,060 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:37:58,469 - INFO - Summarizing 5
+2026-05-31 08:37:58,470 - INFO - Using HuggingFace model
+2026-05-31 08:37:58,470 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:02,005 - INFO - Summarizing 6
+2026-05-31 08:38:02,005 - INFO - Using HuggingFace model
+2026-05-31 08:38:02,005 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:06,001 - INFO - Summarizing 7
+2026-05-31 08:38:06,001 - INFO - Using HuggingFace model
+2026-05-31 08:38:06,001 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:09,043 - INFO - Summarizing 8
+2026-05-31 08:38:09,043 - INFO - Using HuggingFace model
+2026-05-31 08:38:09,043 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:11,866 - INFO - Summarizing 9
+2026-05-31 08:38:11,866 - INFO - Using HuggingFace model
+2026-05-31 08:38:11,867 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:14,747 - INFO - Summarizing 10
+2026-05-31 08:38:14,748 - INFO - Using HuggingFace model
+2026-05-31 08:38:14,748 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:19,770 - INFO - Summarizing 11
+2026-05-31 08:38:19,770 - INFO - Using HuggingFace model
+2026-05-31 08:38:19,771 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:22,542 - INFO - Summarizing 12
+2026-05-31 08:38:22,542 - INFO - Using HuggingFace model
+2026-05-31 08:38:22,542 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:25,215 - INFO - Summarizing 13
+2026-05-31 08:38:25,216 - INFO - Using HuggingFace model
+2026-05-31 08:38:25,216 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:29,102 - INFO - Summarizing 14
+2026-05-31 08:38:29,102 - INFO - Using HuggingFace model
+2026-05-31 08:38:29,103 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:32,022 - INFO - Summarizing 15
+2026-05-31 08:38:32,023 - INFO - Using HuggingFace model
+2026-05-31 08:38:32,023 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:35,850 - INFO - Summarizing 16
+2026-05-31 08:38:35,851 - INFO - Using HuggingFace model
+2026-05-31 08:38:35,851 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:38,865 - INFO - Summarizing 17
+2026-05-31 08:38:38,866 - INFO - Using HuggingFace model
+2026-05-31 08:38:38,866 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:41,557 - INFO - Summarizing 18
+2026-05-31 08:38:41,558 - INFO - Using HuggingFace model
+2026-05-31 08:38:41,558 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:45,738 - INFO - Summarizing 19
+2026-05-31 08:38:45,738 - INFO - Using HuggingFace model
+2026-05-31 08:38:45,738 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:48,345 - INFO - Summarizing 20
+2026-05-31 08:38:48,345 - INFO - Using HuggingFace model
+2026-05-31 08:38:48,346 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:38:51,523 - INFO - Updating memory...
+2026-05-31 08:38:51,530 - INFO - Trends updated: ['meta', 'pizza', 'googles', 'gemini', 'spark']
+2026-05-31 08:38:51,530 - INFO - Memory updated successfully
+2026-05-31 08:38:53,005 - INFO - \u2705 Graph execution completed
+2026-05-31 08:40:43,756 - INFO - App started
+2026-05-31 08:40:43,767 - INFO - \u2699\ufe0f Graph execution started
+2026-05-31 08:40:43,776 - INFO - Fetching articles... {}
+2026-05-31 08:41:29,865 - WARNING - Could not find summary for entry: Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler
+2026-05-31 08:41:29,866 - WARNING - Could not find summary for entry: ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM
+2026-05-31 08:41:29,866 - WARNING - Could not find summary for entry: Reachy Mini goes fully local
+2026-05-31 08:41:29,866 - WARNING - Could not find summary for entry: Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL
+2026-05-31 08:41:29,866 - WARNING - Could not find summary for entry: Harness, Scaffold, and the AI Agent Terms Worth Getting Right
+2026-05-31 08:41:29,866 - WARNING - Could not find summary for entry: Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models
+2026-05-31 08:41:29,866 - WARNING - Could not find summary for entry: Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook
+2026-05-31 08:41:29,866 - WARNING - Could not find summary for entry: OlmoEarth v1.1: A more efficient family of Earth observation models
+2026-05-31 08:41:29,866 - WARNING - Could not find summary for entry: Introducing the Ettin Reranker Family
+2026-05-31 08:41:29,867 - WARNING - Could not find summary for entry: PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
+2026-05-31 08:41:29,867 - WARNING - Could not find summary for entry: Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality
+2026-05-31 08:41:29,867 - WARNING - Could not find summary for entry: Unlocking asynchronicity in continuous batching
+2026-05-31 08:41:29,867 - WARNING - Could not find summary for entry: Building Blocks for Foundation Model Training and Inference on AWS
+2026-05-31 08:41:29,867 - WARNING - Could not find summary for entry: vLLM V0 to V1: Correctness Before Corrections in RL
+2026-05-31 08:41:29,867 - WARNING - Could not find summary for entry: Adding Benchmaxxer Repellant to the Open ASR Leaderboard
+2026-05-31 08:41:37,477 - INFO - Fetched 220 articles
+2026-05-31 08:41:37,481 - INFO - Filter node...
+2026-05-31 08:41:37,483 - INFO - Filter node filter_new_articles start
+2026-05-31 08:41:37,489 - INFO - rank node...
+2026-05-31 08:41:37,494 - INFO - summarize node
+2026-05-31 08:41:37,495 - INFO - Summarizing 1
+2026-05-31 08:41:37,495 - INFO - Using HuggingFace model
+2026-05-31 08:41:37,495 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:41:40,782 - INFO - Summarizing 2
+2026-05-31 08:41:40,782 - INFO - Using HuggingFace model
+2026-05-31 08:41:40,782 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:41:47,341 - INFO - Summarizing 3
+2026-05-31 08:41:47,342 - INFO - Using HuggingFace model
+2026-05-31 08:41:47,342 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:41:50,650 - INFO - Summarizing 4
+2026-05-31 08:41:50,650 - INFO - Using HuggingFace model
+2026-05-31 08:41:50,651 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:41:54,252 - INFO - Summarizing 5
+2026-05-31 08:41:54,253 - INFO - Using HuggingFace model
+2026-05-31 08:41:54,253 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:41:57,478 - INFO - Summarizing 6
+2026-05-31 08:41:57,479 - INFO - Using HuggingFace model
+2026-05-31 08:41:57,479 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:00,243 - INFO - Summarizing 7
+2026-05-31 08:42:00,244 - INFO - Using HuggingFace model
+2026-05-31 08:42:00,244 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:02,977 - INFO - Summarizing 8
+2026-05-31 08:42:02,978 - INFO - Using HuggingFace model
+2026-05-31 08:42:02,978 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:06,048 - INFO - Summarizing 9
+2026-05-31 08:42:06,048 - INFO - Using HuggingFace model
+2026-05-31 08:42:06,048 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:11,508 - INFO - Summarizing 10
+2026-05-31 08:42:11,509 - INFO - Using HuggingFace model
+2026-05-31 08:42:11,509 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:14,682 - INFO - Summarizing 11
+2026-05-31 08:42:14,683 - INFO - Using HuggingFace model
+2026-05-31 08:42:14,683 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:17,649 - INFO - Summarizing 12
+2026-05-31 08:42:17,650 - INFO - Using HuggingFace model
+2026-05-31 08:42:17,650 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:21,951 - INFO - Summarizing 13
+2026-05-31 08:42:21,952 - INFO - Using HuggingFace model
+2026-05-31 08:42:21,952 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:24,717 - INFO - Summarizing 14
+2026-05-31 08:42:24,718 - INFO - Using HuggingFace model
+2026-05-31 08:42:24,718 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:27,373 - INFO - Summarizing 15
+2026-05-31 08:42:27,373 - INFO - Using HuggingFace model
+2026-05-31 08:42:27,373 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:30,454 - INFO - Summarizing 16
+2026-05-31 08:42:30,454 - INFO - Using HuggingFace model
+2026-05-31 08:42:30,454 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:34,533 - INFO - Summarizing 17
+2026-05-31 08:42:34,534 - INFO - Using HuggingFace model
+2026-05-31 08:42:34,534 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:37,160 - INFO - Summarizing 18
+2026-05-31 08:42:37,161 - INFO - Using HuggingFace model
+2026-05-31 08:42:37,161 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:41,102 - INFO - Summarizing 19
+2026-05-31 08:42:41,102 - INFO - Using HuggingFace model
+2026-05-31 08:42:41,103 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:44,071 - INFO - Summarizing 20
+2026-05-31 08:42:44,072 - INFO - Using HuggingFace model
+2026-05-31 08:42:44,072 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-05-31 08:42:47,352 - INFO - Updating memory...
+2026-05-31 08:42:47,360 - INFO - Trends updated: ['more', 'microsoft', 'openai', 'claude', 'code']
+2026-05-31 08:42:47,361 - INFO - Memory updated successfully
+2026-05-31 08:42:49,296 - INFO - \u2705 Graph execution completed

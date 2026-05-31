@@ -1,6 +1,8 @@
+from collections import Counter
+
 KEYWORDS = [
-    "AI", "OpenAI", "Google", "Microsoft",
-    "startup", "funding", "India", "Nvidia",
+    "AI", "OpenAI", "Google", "Microsoft","huggingface",
+    "startup", "funding", "India", "Nvidia", "Nvidia","agent","anthropic",
     "LLM", "GPT", "chip", "acquisition", "Layoff", "engineer"
 ]
 
@@ -33,8 +35,6 @@ def score_article(article):
         score -= 2
 
     return score
-
-from collections import Counter
 
 def detect_trends(articles):
     words = []

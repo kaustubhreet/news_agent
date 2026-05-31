@@ -46,7 +46,7 @@ def hf_summarize_with_fallback(prompt):
 
 def summarize(text):
     prompt = f"""
-    Summarize this tech news in 1 short line (max 20 words).
+    Summarize this tech news in 1 short line (max 50 words).
     Focus on impact.
 
     {text}

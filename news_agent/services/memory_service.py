@@ -76,7 +76,7 @@ def update_trends(news):
 
     counter = Counter(words)
 
-    trends = dict(counter.most_common(20))
+    trends = dict(counter.most_common(25))
 
     os.makedirs("data/memory", exist_ok=True)
 

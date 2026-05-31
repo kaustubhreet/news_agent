@@ -25,10 +25,10 @@ def run_pipeline():
 
     summarized_news = []
 
-    # only top 15 → reduces LLM calls 🔥
-    for i,article in enumerate(articles[:20]):
-        logger.info(f"🤖 Summarizing {i+1}: {article.title[:90]}")
-        print(f"🤖 Summarizing: {article.title[:90]}")
+    # only top 25 → reduces LLM calls 🔥
+    for i,article in enumerate(articles[:25]):
+        logger.info(f"🤖 Summarizing {i+1}: {article.title[:120]}")
+        print(f"🤖 Summarizing: {article.title[:120]}")
 
         short = summarize(article.summary)
 

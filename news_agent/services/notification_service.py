@@ -13,6 +13,7 @@ def send_telegram(message):
     }
 
     response = requests.post(url, data=payload)
+    print(f"Telegram response: {response.text}")
 
     return response.status_code
 
