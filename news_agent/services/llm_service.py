@@ -42,7 +42,7 @@ def hf_summarize_with_fallback(prompt):
         except:
             continue
 
-    return "⚠️ All models failed"
+    return ""
 
 def summarize(text):
     prompt = f"""
@@ -71,12 +71,12 @@ def summarize(text):
 
             if not response.text.strip():
                 logger.error("Empty response from Ollama")
-                return "⚠️ No summary available"
+                return ""
 
             logger.info(f"Ollama raw: {response.text[:150]}")
 
             data = response.json()
-            return data.get("response", "⚠️ No summary")
+            return data.get("response", "")
 
         # =========================
         # 🌐 HUGGING FACE (REMOTE)
@@ -89,8 +89,8 @@ def summarize(text):
         # =========================
         else:
             logger.error(f"Invalid MODEL_PROVIDER: {MODEL_PROVIDER}")
-            return "⚠️ Invalid model config"
+            return ""
 
     except Exception as e:
         logger.error(f"LLM error: {e}")
-        return "⚠️ LLM failed"
+        return ""

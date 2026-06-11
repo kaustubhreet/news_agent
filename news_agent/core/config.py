@@ -25,11 +25,36 @@ RSS_FEEDS = [
     "https://www.reddit.com/r/technology/.rss",          # Your original general technology feed
 
     # --- Primary AI Lab & Open Source Ecosystem Feeds ---
-    "https://huggingface.co/blog/feed.xml",              # Hub for open models & framework releases
     "https://openai.com/news/rss.xml",                   # Official OpenAI releases
     "https://deepmind.google/blog/rss.xml",              # Google DeepMind frontier models
     "https://aws.amazon.com/blogs/machine-learning/feed/", # Bedrock updates & agent toolchains
     
+    # --- Research & Papers ---
+    "https://export.arxiv.org/rss/cs.AI",
+    "https://export.arxiv.org/rss/cs.LG",
+
+    # --- Editorial / Industry ---
+    "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "https://venturebeat.com/category/ai/feed/",
+
+    # --- Google AI ---
+    "https://ai.googleblog.com/feeds/posts/default",
+
+    # --- AI Dev / Tools ---
+    "https://marktechpost.com/feed/",
+    "https://towardsdatascience.com/feed",
+
+    # --- HuggingFace Extended ---
+    "https://huggingface.co/papers/rss",
+
+    # --- GitHub Trends ---
+    "https://github.com/trending/python.atom",
+    "https://github.com/trending/jupyter-notebook.atom",
+
+    # --- India News ---
+    "https://www.thehindu.com/news/national/feeder/default.rss",
+    "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+
     # --- Specialized AI Engineering & Media Publications ---
     "https://www.unite.ai/feed/",                        # High-frequency focus on specialized AI tooling
     "https://www.infoq.com/feed/AI-ML-Data-Engineering/" # Architecture & production deployment of agents

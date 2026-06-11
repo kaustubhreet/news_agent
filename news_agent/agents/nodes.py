@@ -40,6 +40,10 @@ def summarize_node(state):
         try:
             short = summarize(article.summary)
 
+            if not short or len(short.strip()) < 10:
+                logger.warning(f"Skipping article {i+1}: empty or invalid summary returned")
+                continue
+
             summaries.append({
                 "title": article.title,
                 "summary": short
@@ -50,14 +54,22 @@ def summarize_node(state):
             logger.error(f"Article summary: {article.summary[:200]}")
             continue
 
+    logger.info(f"Valid summaries: {len(summaries)} out of {len(state['ranked_articles'][:25])} articles")
     return {"summaries": summaries}
 
 def critic_node(state):
     summaries = state["summaries"]
 
-    # simple filter (can upgrade later)
-    clean = [s for s in summaries if len(s["summary"]) > 10]
+    # Filter out summaries that are empty, too short, or contain error/invalid indicators
+    clean = []
+    for s in summaries:
+        summary_text = s["summary"]
+        if not summary_text or len(summary_text.strip()) < 10:
+            logger.warning(f"critic_node filtering out short/empty summary for: {s.get('title', 'unknown')[:50]}")
+            continue
+        clean.append(s)
 
+    logger.info(f"critic_node: {len(clean)} valid summaries out of {len(summaries)}")
     return {"summaries": clean}
 
 def notify_node(state):
