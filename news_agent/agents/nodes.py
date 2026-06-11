@@ -1,7 +1,7 @@
 from news_agent.utils.cleaner import deduplicate
 from news_agent.services.memory_service import filter_new_articles
 from news_agent.services.ranking_service import rank_articles
-from news_agent.services.llm_service import summarize
+from news_agent.services.llm_service import summarize, summarize_batch
 from news_agent.services.notification_service import send_all
 from news_agent.utils.formatter import format_news
 from news_agent.services.rss_service import fetch_articles
@@ -31,30 +31,53 @@ def rank_node(state):
     return {"ranked_articles": ranked}
 
 def summarize_node(state):
-    logger.info("summarize node")
+    logger.info("summarize node (batched mode)")
     summaries = []
 
-    for i, article in enumerate(state["ranked_articles"][:25]):
-        logger.info(f"Summarizing {i+1}")
+    # Take top 25 articles
+    articles = state["ranked_articles"][:25]
+    total = len(articles)
+
+    # Convert Article objects to dicts for batch processing
+    batch_input = []
+    for art in articles:
+        batch_input.append({
+            "title": art.title,
+            "summary": art.summary
+        })
+
+    # Process in batches of 5
+    batch_size = 5
+    for batch_start in range(0, total, batch_size):
+        batch_end = min(batch_start + batch_size, total)
+        batch = batch_input[batch_start:batch_end]
+        batch_nums = f"{batch_start+1}-{batch_end}"
+
+        logger.info(f"Summarizing batch {batch_nums} ({len(batch)} articles)")
 
         try:
-            short = summarize(article.summary)
+            batch_results = summarize_batch(batch)
 
-            if not short or len(short.strip()) < 10:
-                logger.warning(f"Skipping article {i+1}: empty or invalid summary returned")
-                continue
+            for idx, short in enumerate(batch_results):
+                article_idx = batch_start + idx
+                if not short or len(short.strip()) < 10:
+                    logger.warning(f"Skipping article {article_idx+1}: empty or invalid summary")
+                    continue
 
-            summaries.append({
-                "title": article.title,
-                "summary": short
-            })
+                summaries.append({
+                    "title": articles[article_idx].title,
+                    "summary": short.strip()
+                })
 
         except Exception as e:
-            logger.error(f"Error in summarize_node: {e}")
-            logger.error(f"Article summary: {article.summary[:200]}")
+            logger.error(f"Error summarizing batch {batch_nums}: {e}")
+            # Mark all articles in this batch as skipped
+            for idx in range(len(batch)):
+                article_idx = batch_start + idx
+                logger.warning(f"Skipping article {article_idx+1} due to batch failure")
             continue
 
-    logger.info(f"Valid summaries: {len(summaries)} out of {len(state['ranked_articles'][:25])} articles")
+    logger.info(f"Valid summaries: {len(summaries)} out of {total} articles")
     return {"summaries": summaries}
 
 def critic_node(state):

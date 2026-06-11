@@ -1,5 +1,6 @@
 import json
 import requests
+import re
 from news_agent.utils.logger import logger
 from news_agent.core.config import (
     OLLAMA_URL,
@@ -44,21 +45,12 @@ def hf_summarize_with_fallback(prompt):
 
     return ""
 
-def summarize(text):
-    prompt = f"""
-    Summarize this tech news in 1 short line (max 50 words).
-    Focus on impact.
 
-    {text}
-    """
-
+def _call_llm(prompt):
+    """Internal helper: send a prompt to the configured LLM and return the raw response text."""
     try:
-        # =========================
-        # 🔥 OLLAMA (LOCAL)
-        # =========================
         if MODEL_PROVIDER == "ollama":
             logger.info("Using Ollama model")
-
             response = requests.post(
                 OLLAMA_URL,
                 json={
@@ -66,31 +58,104 @@ def summarize(text):
                     "prompt": prompt,
                     "stream": False
                 },
-                timeout=30
+                timeout=60
             )
-
             if not response.text.strip():
                 logger.error("Empty response from Ollama")
                 return ""
-
-            logger.info(f"Ollama raw: {response.text[:150]}")
-
             data = response.json()
             return data.get("response", "")
 
-        # =========================
-        # 🌐 HUGGING FACE (REMOTE)
-        # =========================
         elif MODEL_PROVIDER == "hf":
             logger.info("Using HuggingFace model")
             return hf_summarize_with_fallback(prompt)
-        # =========================
-        # ❌ UNKNOWN PROVIDER
-        # =========================
+
         else:
             logger.error(f"Invalid MODEL_PROVIDER: {MODEL_PROVIDER}")
             return ""
 
     except Exception as e:
-        logger.error(f"LLM error: {e}")
+        logger.error(f"LLM call error: {e}")
         return ""
+
+
+def summarize(text):
+    """Summarize a single article (legacy, kept for compatibility)."""
+    prompt = f"""
+    Summarize this tech news in 1 short line (max 50 words).
+    Focus on impact.
+
+    {text}
+    """
+    return _call_llm(prompt)
+
+
+def summarize_batch(articles):
+    """
+    Summarize a batch of articles (up to 5) in a single LLM call.
+    
+    Args:
+        articles: list of dicts with 'title' and 'summary' keys
+        
+    Returns:
+        list of summary strings, same length as input (empty string for failures)
+    """
+    if not articles:
+        return []
+
+    # Build a single prompt with all articles numbered
+    parts = []
+    for i, art in enumerate(articles, 1):
+        parts.append(f"Article {i}:\nTitle: {art['title']}\nContent: {art['summary'][:500]}")
+    
+    batch_text = "\n\n".join(parts)
+    
+    prompt = f"""You are a tech news summarizer. Below are {len(articles)} tech articles.
+
+For EACH article, write ONE short summary line (max 50 words each). Focus on impact.
+Number your responses exactly as shown.
+
+{batch_text}
+
+Now write your summaries (one per line, numbered 1 to {len(articles)}):"""
+
+    response = _call_llm(prompt)
+    
+    if not response:
+        logger.warning(f"Empty response for batch of {len(articles)} articles")
+        return [""] * len(articles)
+
+    logger.info(f"Batch response received ({len(response)} chars)")
+
+    # Parse numbered summaries from the response
+    # Look for patterns like "1. summary" or "1: summary" or "1) summary"
+    results = []
+    for i in range(1, len(articles) + 1):
+        # Try multiple patterns for flexibility
+        patterns = [
+            rf"(?:^|\n)\s*{i}[.)]\s*(.+?)(?=\n\s*{i+1}[.)]\s*|\n?\s*$)",
+            rf"(?:^|\n)\s*{i}[:)\-]\s*(.+?)(?=\n\s*{i+1}[:)\-]\s*|\n?\s*$)",
+        ]
+        
+        summary = ""
+        for pattern in patterns:
+            match = re.search(pattern, response, re.DOTALL)
+            if match:
+                summary = match.group(1).strip()
+                break
+        
+        # Fallback: split by newlines and find the line starting with the number
+        if not summary:
+            for line in response.split("\n"):
+                line = line.strip()
+                if re.match(rf"^{i}[.)]\s*", line):
+                    summary = re.sub(rf"^{i}[.)]\s*", "", line).strip()
+                    break
+        
+        if summary:
+            results.append(summary)
+        else:
+            logger.warning(f"Could not parse summary #{i} from batch response")
+            results.append("")
+
+    return results
