@@ -11,7 +11,8 @@ def send_telegram(message):
         "chat_id": CHAT_ID,
         "text": message
     }
-
+    print("📲 Sending Telegram...")
+    print(f"Payload: {payload}")
     response = requests.post(url, data=payload)
     print(f"Telegram response: {response.text}")
 
