@@ -12,7 +12,7 @@ def send_telegram(message):
         "text": message
     }
     print("📲 Sending Telegram...")
-    print(f"Payload: {payload}")
+    print(f"Payload: {payload['text']}")
     response = requests.post(url, data=payload)
     print(f"Telegram response: {response.text}")
 

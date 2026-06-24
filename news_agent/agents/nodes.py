@@ -1,5 +1,5 @@
 from news_agent.utils.cleaner import deduplicate
-from news_agent.services.memory_service import filter_new_articles
+from news_agent.services.memory_service import filter_new_articles, update_memory_attempts
 from news_agent.services.ranking_service import rank_articles
 from news_agent.services.llm_service import summarize, summarize_batch
 from news_agent.services.notification_service import send_all
@@ -106,8 +106,16 @@ def memory_node(state):
 
     summaries = state["summaries"]
 
+    # Store successfully summarized articles in history
     update_memory(summaries)
     update_trends(summaries)
+
+    # Also store ALL articles that were sent for summarization (even if LLM failed them)
+    # This prevents re-fetching the same articles when LLM is temporarily down
+    if "ranked_articles" in state:
+        attempted = state["ranked_articles"][:25]
+        logger.info(f"Storing {len(attempted)} attempted articles in memory (incl. LLM failures)")
+        update_memory_attempts(attempted)
 
     logger.info("Memory updated successfully")
 
