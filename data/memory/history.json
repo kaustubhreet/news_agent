@@ -973,5 +973,130 @@
     "title": "Figma adds code layers, support for animations, more AI features in new update",
     "normalized": "figma adds code layers, support for animations, more ai features in new update",
     "content_hash": "19f4272d969338a1e68154153862b643"
+  },
+  {
+    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "normalized": "amazon ups india bet with fresh $13b ai infrastructure investment",
+    "content_hash": "965d54d571b7cd27a14f3f35fa3a85aa"
+  },
+  {
+    "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "normalized": "ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "content_hash": "77510de55d358b827442c9a4be041df4"
+  },
+  {
+    "title": "Ask HN: What are your favorite CLIs to use as LLM tools?",
+    "normalized": "ask hn: what are your favorite clis to use as llm tools?",
+    "content_hash": "b2cb83c1a6de911909b48d454d1da946"
+  },
+  {
+    "title": "Florida sues OpenAI and CEO Sam Altman, claiming company hid ChatGPT risks",
+    "normalized": "florida sues openai and ceo sam altman, claiming company hid chatgpt risks",
+    "content_hash": "e991e663cbac24ce1061cf5392c271ce"
+  },
+  {
+    "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+    "normalized": "adobe acquires image and video enhancement tool maker topaz labs",
+    "content_hash": "90204a481362251f1b4b592d3e9d5f83"
+  },
+  {
+    "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
+    "normalized": "cellebrite said it cut off russia, but russia used its tools anyway",
+    "content_hash": "0e80c9b6340f42d573c36fc7f84f3835"
+  },
+  {
+    "title": "World Cup Teams Are in a Race for AI Dominance",
+    "normalized": "world cup teams are in a race for ai dominance",
+    "content_hash": "fec03d7bbeeb86514f6aa6888874fac9"
+  },
+  {
+    "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+    "normalized": "cisco catalyst sd-wan zero-day cve-2026-20245 exploited to gain root access",
+    "content_hash": "38b524d2696b7c9e3cc7118a0a6b13e3"
+  },
+  {
+    "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+    "normalized": "amadey and stealc malware network disrupted, 27m stolen credentials recovered",
+    "content_hash": "08eef3b79b7033eff72b305c88d2d80a"
+  },
+  {
+    "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+    "normalized": "fake ai agent skill passed security scans and reportedly reached 26,000 agents",
+    "content_hash": "6be3512c95f04508d0f2af309d508cf7"
+  },
+  {
+    "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+    "normalized": "agentic ai: the weapon that no longer needs a warrior",
+    "content_hash": "f11e45b34bb1e2b3b9030ae424dc62c1"
+  },
+  {
+    "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+    "normalized": "whatsapp vbscript campaign uses fake documents to install manageengine rmm tool",
+    "content_hash": "5b8653a93b8c1bc509e50ce9109cb6ba"
+  },
+  {
+    "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+    "normalized": "researchers detail difytap flaws in dify that could expose ai chats across tenants",
+    "content_hash": "80235ef30c9c4377399d40e82ff95b2e"
+  },
+  {
+    "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+    "normalized": "new oxloader loader uses malicious google ads to deliver castlestealer",
+    "content_hash": "9f5d9b7bf7e0bdccda21cf97a288e005"
+  },
+  {
+    "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+    "normalized": "google sets sept. 30 deadline for android developer verification in four countries",
+    "content_hash": "26dcf89d0f1c1b2cf168fe6a96363053"
+  },
+  {
+    "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+    "normalized": "stop your legacy infrastructure from hijacking your ai agents",
+    "content_hash": "cc38e467514d4b57f9e72c33fa8f408e"
+  },
+  {
+    "title": "OpenAI's free GPT-5.5 model makes ChatGPT better at understanding context",
+    "normalized": "openai's free gpt-5.5 model makes chatgpt better at understanding context",
+    "content_hash": "012c88be4465e1db07368ad67bf8ba14"
+  },
+  {
+    "title": "Jalape\u00f1o is the first AI chip from OpenAI and Broadcom",
+    "normalized": "jalape\u00f1o is the first ai chip from openai and broadcom",
+    "content_hash": "779d4af66a312dd0e7de42f7d3e0d289"
+  },
+  {
+    "title": "Leica\u2019s $6,690 SL3-P pairs 44-megapixel stills with 8K video",
+    "normalized": "leica's $6,690 sl3-p pairs 44-megapixel stills with 8k video",
+    "content_hash": "443827376fd1f674430661a8137e9015"
+  },
+  {
+    "title": "Apple raises prices on Macs, iPads, and more by hundreds of dollars",
+    "normalized": "apple raises prices on macs, ipads, and more by hundreds of dollars",
+    "content_hash": "5f12a63ab2135461170b3246d8665237"
+  },
+  {
+    "title": "Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers",
+    "normalized": "disney agrees to pay $50 million to youtube tv and directv subscribers",
+    "content_hash": "7a2ec021c532e05098e8668a7f9d8558"
+  },
+  {
+    "title": "Is this solar e-bike a good idea or sophisticated e-waste?",
+    "normalized": "is this solar e-bike a good idea or sophisticated e-waste?",
+    "content_hash": "4956674bbbf701eb4dcd697f47ec4f25"
+  },
+  {
+    "title": "Facebook\u2019s Creator Studio has been revived as an AI companion app",
+    "normalized": "facebook's creator studio has been revived as an ai companion app",
+    "content_hash": "0c14192a2a33daf81ee3edc6b58adfc6"
+  },
+  {
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "normalized": "anthropic says alibaba illicitly extracted claude ai model capabilities",
+    "content_hash": "36fe00e54dcfc6704bdbdce2f3483f3e"
+  },
+  {
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "normalized": "rubyllm: a ruby framework for all major ai providers",
+    "content_hash": "824fc793b2afa64202722789799fefa4"
   }
 ]
