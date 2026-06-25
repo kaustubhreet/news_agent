@@ -709,3 +709,317 @@
 2026-05-31 08:42:47,360 - INFO - Trends updated: ['more', 'microsoft', 'openai', 'claude', 'code']
 2026-05-31 08:42:47,361 - INFO - Memory updated successfully
 2026-05-31 08:42:49,296 - INFO - \u2705 Graph execution completed
+2026-06-21 22:29:33,678 - INFO - App started
+2026-06-21 22:29:33,709 - INFO - \u2699\ufe0f Graph execution started
+2026-06-21 22:29:33,722 - INFO - Fetching articles... {}
+2026-06-21 22:30:06,833 - INFO - Fetched 372 articles
+2026-06-21 22:30:06,835 - INFO - Filter node...
+2026-06-21 22:30:06,837 - INFO - Filter node filter_new_articles start
+2026-06-21 22:30:06,841 - INFO - rank node...
+2026-06-21 22:30:06,861 - INFO - summarize node (batched mode)
+2026-06-21 22:30:06,862 - INFO - Summarizing batch 1-5 (5 articles)
+2026-06-21 22:30:06,862 - INFO - Using HuggingFace model
+2026-06-21 22:30:06,862 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-06-21 22:30:08,199 - INFO - Trying model: Qwen/Qwen2.5-7B-Instruct
+2026-06-21 22:30:09,278 - INFO - Trying model: mistralai/Mistral-7B-Instruct-v0.3
+2026-06-21 22:30:10,457 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:30:10,457 - WARNING - Skipping article 1: empty or invalid summary
+2026-06-21 22:30:10,457 - WARNING - Skipping article 2: empty or invalid summary
+2026-06-21 22:30:10,457 - WARNING - Skipping article 3: empty or invalid summary
+2026-06-21 22:30:10,457 - WARNING - Skipping article 4: empty or invalid summary
+2026-06-21 22:30:10,458 - WARNING - Skipping article 5: empty or invalid summary
+2026-06-21 22:30:10,458 - INFO - Summarizing batch 6-10 (5 articles)
+2026-06-21 22:30:10,458 - INFO - Using HuggingFace model
+2026-06-21 22:30:10,458 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-06-21 22:30:11,857 - INFO - Trying model: Qwen/Qwen2.5-7B-Instruct
+2026-06-21 22:30:13,131 - INFO - Trying model: mistralai/Mistral-7B-Instruct-v0.3
+2026-06-21 22:30:14,351 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:30:14,351 - WARNING - Skipping article 6: empty or invalid summary
+2026-06-21 22:30:14,352 - WARNING - Skipping article 7: empty or invalid summary
+2026-06-21 22:30:14,352 - WARNING - Skipping article 8: empty or invalid summary
+2026-06-21 22:30:14,352 - WARNING - Skipping article 9: empty or invalid summary
+2026-06-21 22:30:14,352 - WARNING - Skipping article 10: empty or invalid summary
+2026-06-21 22:30:14,352 - INFO - Summarizing batch 11-15 (5 articles)
+2026-06-21 22:30:14,352 - INFO - Using HuggingFace model
+2026-06-21 22:30:14,352 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-06-21 22:30:15,847 - INFO - Trying model: Qwen/Qwen2.5-7B-Instruct
+2026-06-21 22:30:16,988 - INFO - Trying model: mistralai/Mistral-7B-Instruct-v0.3
+2026-06-21 22:30:17,972 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:30:17,973 - WARNING - Skipping article 11: empty or invalid summary
+2026-06-21 22:30:17,985 - WARNING - Skipping article 12: empty or invalid summary
+2026-06-21 22:30:17,985 - WARNING - Skipping article 13: empty or invalid summary
+2026-06-21 22:30:17,985 - WARNING - Skipping article 14: empty or invalid summary
+2026-06-21 22:30:17,985 - WARNING - Skipping article 15: empty or invalid summary
+2026-06-21 22:30:17,985 - INFO - Summarizing batch 16-20 (5 articles)
+2026-06-21 22:30:17,986 - INFO - Using HuggingFace model
+2026-06-21 22:30:17,986 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-06-21 22:30:19,568 - INFO - Trying model: Qwen/Qwen2.5-7B-Instruct
+2026-06-21 22:30:20,668 - INFO - Trying model: mistralai/Mistral-7B-Instruct-v0.3
+2026-06-21 22:30:21,937 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:30:21,937 - WARNING - Skipping article 16: empty or invalid summary
+2026-06-21 22:30:21,937 - WARNING - Skipping article 17: empty or invalid summary
+2026-06-21 22:30:21,937 - WARNING - Skipping article 18: empty or invalid summary
+2026-06-21 22:30:21,937 - WARNING - Skipping article 19: empty or invalid summary
+2026-06-21 22:30:21,937 - WARNING - Skipping article 20: empty or invalid summary
+2026-06-21 22:30:21,937 - INFO - Summarizing batch 21-25 (5 articles)
+2026-06-21 22:30:21,938 - INFO - Using HuggingFace model
+2026-06-21 22:30:21,938 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-06-21 22:30:23,130 - INFO - Trying model: Qwen/Qwen2.5-7B-Instruct
+2026-06-21 22:30:24,310 - INFO - Trying model: mistralai/Mistral-7B-Instruct-v0.3
+2026-06-21 22:30:25,664 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:30:25,664 - WARNING - Skipping article 21: empty or invalid summary
+2026-06-21 22:30:25,665 - WARNING - Skipping article 22: empty or invalid summary
+2026-06-21 22:30:25,665 - WARNING - Skipping article 23: empty or invalid summary
+2026-06-21 22:30:25,665 - WARNING - Skipping article 24: empty or invalid summary
+2026-06-21 22:30:25,665 - WARNING - Skipping article 25: empty or invalid summary
+2026-06-21 22:30:25,665 - INFO - Valid summaries: 0 out of 25 articles
+2026-06-21 22:30:25,667 - INFO - critic_node: 0 valid summaries out of 0
+2026-06-21 22:30:25,669 - INFO - Updating memory...
+2026-06-21 22:30:25,678 - INFO - Trends updated: []
+2026-06-21 22:30:25,678 - INFO - Memory updated successfully
+2026-06-21 22:30:46,732 - INFO - \u2705 Graph execution completed
+2026-06-21 22:31:38,080 - INFO - App started
+2026-06-21 22:31:38,112 - INFO - \u2699\ufe0f Graph execution started
+2026-06-21 22:31:38,122 - INFO - Fetching articles... {}
+2026-06-21 22:32:19,657 - INFO - Fetched 372 articles
+2026-06-21 22:32:19,659 - INFO - Filter node...
+2026-06-21 22:32:19,660 - INFO - Filter node filter_new_articles start
+2026-06-21 22:32:19,660 - WARNING - Memory file empty, returning []
+2026-06-21 22:32:19,662 - INFO - rank node...
+2026-06-21 22:32:19,685 - INFO - summarize node (batched mode)
+2026-06-21 22:32:19,685 - INFO - Summarizing batch 1-5 (5 articles)
+2026-06-21 22:32:19,686 - INFO - Using HuggingFace model
+2026-06-21 22:32:19,686 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-06-21 22:32:21,263 - INFO - Trying model: Qwen/Qwen2.5-7B-Instruct
+2026-06-21 22:32:22,684 - INFO - Trying model: mistralai/Mistral-7B-Instruct-v0.3
+2026-06-21 22:32:24,206 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:32:24,206 - WARNING - Skipping article 1: empty or invalid summary
+2026-06-21 22:32:24,206 - WARNING - Skipping article 2: empty or invalid summary
+2026-06-21 22:32:24,207 - WARNING - Skipping article 3: empty or invalid summary
+2026-06-21 22:32:24,207 - WARNING - Skipping article 4: empty or invalid summary
+2026-06-21 22:32:24,207 - WARNING - Skipping article 5: empty or invalid summary
+2026-06-21 22:32:24,207 - INFO - Summarizing batch 6-10 (5 articles)
+2026-06-21 22:32:24,207 - INFO - Using HuggingFace model
+2026-06-21 22:32:24,207 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-06-21 22:32:25,793 - INFO - Trying model: Qwen/Qwen2.5-7B-Instruct
+2026-06-21 22:32:27,469 - INFO - Trying model: mistralai/Mistral-7B-Instruct-v0.3
+2026-06-21 22:32:28,858 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:32:28,858 - WARNING - Skipping article 6: empty or invalid summary
+2026-06-21 22:32:28,858 - WARNING - Skipping article 7: empty or invalid summary
+2026-06-21 22:32:28,858 - WARNING - Skipping article 8: empty or invalid summary
+2026-06-21 22:32:28,858 - WARNING - Skipping article 9: empty or invalid summary
+2026-06-21 22:32:28,858 - WARNING - Skipping article 10: empty or invalid summary
+2026-06-21 22:32:28,859 - INFO - Summarizing batch 11-15 (5 articles)
+2026-06-21 22:32:28,859 - INFO - Using HuggingFace model
+2026-06-21 22:32:28,859 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-06-21 22:32:30,235 - INFO - Trying model: Qwen/Qwen2.5-7B-Instruct
+2026-06-21 22:32:31,750 - INFO - Trying model: mistralai/Mistral-7B-Instruct-v0.3
+2026-06-21 22:32:33,530 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:32:33,530 - WARNING - Skipping article 11: empty or invalid summary
+2026-06-21 22:32:33,530 - WARNING - Skipping article 12: empty or invalid summary
+2026-06-21 22:32:33,530 - WARNING - Skipping article 13: empty or invalid summary
+2026-06-21 22:32:33,531 - WARNING - Skipping article 14: empty or invalid summary
+2026-06-21 22:32:33,531 - WARNING - Skipping article 15: empty or invalid summary
+2026-06-21 22:32:33,531 - INFO - Summarizing batch 16-20 (5 articles)
+2026-06-21 22:32:33,531 - INFO - Using HuggingFace model
+2026-06-21 22:32:33,531 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-06-21 22:32:34,943 - INFO - Trying model: Qwen/Qwen2.5-7B-Instruct
+2026-06-21 22:32:36,391 - INFO - Trying model: mistralai/Mistral-7B-Instruct-v0.3
+2026-06-21 22:32:38,198 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:32:38,198 - WARNING - Skipping article 16: empty or invalid summary
+2026-06-21 22:32:38,199 - WARNING - Skipping article 17: empty or invalid summary
+2026-06-21 22:32:38,199 - WARNING - Skipping article 18: empty or invalid summary
+2026-06-21 22:32:38,199 - WARNING - Skipping article 19: empty or invalid summary
+2026-06-21 22:32:38,199 - WARNING - Skipping article 20: empty or invalid summary
+2026-06-21 22:32:38,199 - INFO - Summarizing batch 21-25 (5 articles)
+2026-06-21 22:32:38,199 - INFO - Using HuggingFace model
+2026-06-21 22:32:38,200 - INFO - Trying model: deepseek-ai/DeepSeek-V4-Flash:novita
+2026-06-21 22:32:39,701 - INFO - Trying model: Qwen/Qwen2.5-7B-Instruct
+2026-06-21 22:32:40,920 - INFO - Trying model: mistralai/Mistral-7B-Instruct-v0.3
+2026-06-21 22:32:42,186 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:32:42,187 - WARNING - Skipping article 21: empty or invalid summary
+2026-06-21 22:32:42,187 - WARNING - Skipping article 22: empty or invalid summary
+2026-06-21 22:32:42,187 - WARNING - Skipping article 23: empty or invalid summary
+2026-06-21 22:32:42,187 - WARNING - Skipping article 24: empty or invalid summary
+2026-06-21 22:32:42,187 - WARNING - Skipping article 25: empty or invalid summary
+2026-06-21 22:32:42,187 - INFO - Valid summaries: 0 out of 25 articles
+2026-06-21 22:32:42,189 - INFO - critic_node: 0 valid summaries out of 0
+2026-06-21 22:32:42,190 - INFO - Updating memory...
+2026-06-21 22:32:42,191 - WARNING - Memory file empty, returning []
+2026-06-21 22:32:42,194 - INFO - Trends updated: []
+2026-06-21 22:32:42,194 - INFO - Memory updated successfully
+2026-06-21 22:33:03,297 - INFO - \u2705 Graph execution completed
+2026-06-21 22:35:47,419 - INFO - App started
+2026-06-21 22:35:47,446 - INFO - \u2699\ufe0f Graph execution started
+2026-06-21 22:35:47,457 - INFO - Fetching articles... {}
+2026-06-21 22:36:18,313 - INFO - Fetched 372 articles
+2026-06-21 22:36:18,315 - INFO - Filter node...
+2026-06-21 22:36:18,341 - INFO - Filter node filter_new_articles start
+2026-06-21 22:36:18,396 - ERROR - Raw titles load failed: 'str' object has no attribute 'read'
+2026-06-21 22:36:18,406 - INFO - rank node...
+2026-06-21 22:36:18,424 - INFO - summarize node (batched mode)
+2026-06-21 22:36:18,425 - INFO - Summarizing batch 1-5 (5 articles)
+2026-06-21 22:36:18,425 - INFO - Using Ollama model
+2026-06-21 22:37:20,496 - ERROR - LLM call error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+2026-06-21 22:37:20,497 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:37:20,497 - WARNING - Skipping article 1: empty or invalid summary
+2026-06-21 22:37:20,497 - WARNING - Skipping article 2: empty or invalid summary
+2026-06-21 22:37:20,497 - WARNING - Skipping article 3: empty or invalid summary
+2026-06-21 22:37:20,497 - WARNING - Skipping article 4: empty or invalid summary
+2026-06-21 22:37:20,497 - WARNING - Skipping article 5: empty or invalid summary
+2026-06-21 22:37:20,497 - INFO - Summarizing batch 6-10 (5 articles)
+2026-06-21 22:37:20,497 - INFO - Using Ollama model
+2026-06-21 22:38:22,642 - ERROR - LLM call error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+2026-06-21 22:38:22,642 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:38:22,643 - WARNING - Skipping article 6: empty or invalid summary
+2026-06-21 22:38:22,643 - WARNING - Skipping article 7: empty or invalid summary
+2026-06-21 22:38:22,643 - WARNING - Skipping article 8: empty or invalid summary
+2026-06-21 22:38:22,643 - WARNING - Skipping article 9: empty or invalid summary
+2026-06-21 22:38:22,643 - WARNING - Skipping article 10: empty or invalid summary
+2026-06-21 22:38:22,643 - INFO - Summarizing batch 11-15 (5 articles)
+2026-06-21 22:38:22,643 - INFO - Using Ollama model
+2026-06-21 22:39:16,790 - INFO - Batch response received (649 chars)
+2026-06-21 22:39:16,794 - INFO - Summarizing batch 16-20 (5 articles)
+2026-06-21 22:39:16,795 - INFO - Using Ollama model
+2026-06-21 22:40:02,737 - INFO - Batch response received (594 chars)
+2026-06-21 22:40:02,738 - WARNING - Could not parse summary #1 from batch response
+2026-06-21 22:40:02,739 - WARNING - Could not parse summary #2 from batch response
+2026-06-21 22:40:02,739 - WARNING - Could not parse summary #3 from batch response
+2026-06-21 22:40:02,740 - WARNING - Could not parse summary #4 from batch response
+2026-06-21 22:40:02,741 - WARNING - Could not parse summary #5 from batch response
+2026-06-21 22:40:02,741 - WARNING - Skipping article 16: empty or invalid summary
+2026-06-21 22:40:02,741 - WARNING - Skipping article 17: empty or invalid summary
+2026-06-21 22:40:02,741 - WARNING - Skipping article 18: empty or invalid summary
+2026-06-21 22:40:02,741 - WARNING - Skipping article 19: empty or invalid summary
+2026-06-21 22:40:02,741 - WARNING - Skipping article 20: empty or invalid summary
+2026-06-21 22:40:02,741 - INFO - Summarizing batch 21-25 (5 articles)
+2026-06-21 22:40:02,741 - INFO - Using Ollama model
+2026-06-21 22:40:48,896 - INFO - Batch response received (658 chars)
+2026-06-21 22:40:48,897 - INFO - Valid summaries: 10 out of 25 articles
+2026-06-21 22:40:48,898 - INFO - critic_node: 10 valid summaries out of 10
+2026-06-21 22:40:48,899 - INFO - Updating memory...
+2026-06-21 22:40:48,904 - INFO - Trends updated: ['that', 'without', 'about', 'videos', 'eink']
+2026-06-21 22:40:48,905 - INFO - Memory updated successfully
+2026-06-21 22:41:09,949 - INFO - \u2705 Graph execution completed
+2026-06-21 22:45:26,489 - INFO - App started
+2026-06-21 22:45:26,504 - INFO - \u2699\ufe0f Graph execution started
+2026-06-21 22:45:26,512 - INFO - Fetching articles... {}
+2026-06-21 22:46:11,347 - INFO - Fetched 372 articles
+2026-06-21 22:46:11,351 - INFO - Filter node...
+2026-06-21 22:46:11,375 - INFO - Filter node filter_new_articles start
+2026-06-21 22:46:11,412 - INFO - rank node...
+2026-06-21 22:46:11,413 - INFO - summarize node (batched mode)
+2026-06-21 22:46:11,413 - INFO - Valid summaries: 0 out of 0 articles
+2026-06-21 22:46:11,414 - INFO - critic_node: 0 valid summaries out of 0
+2026-06-21 22:46:11,415 - INFO - Updating memory...
+2026-06-21 22:46:11,418 - INFO - Trends updated: []
+2026-06-21 22:46:11,418 - INFO - Memory updated successfully
+2026-06-21 22:46:32,464 - INFO - \u2705 Graph execution completed
+2026-06-21 22:50:15,331 - INFO - App started
+2026-06-21 22:50:15,346 - INFO - \u2699\ufe0f Graph execution started
+2026-06-21 22:50:15,353 - INFO - Fetching articles... {}
+2026-06-21 22:50:48,591 - INFO - Fetched 372 articles
+2026-06-21 22:50:48,596 - INFO - Filter node...
+2026-06-21 22:50:48,611 - INFO - Filter node filter_new_articles start
+2026-06-21 22:50:48,643 - INFO - rank node...
+2026-06-21 22:50:48,644 - INFO - summarize node (batched mode)
+2026-06-21 22:50:48,644 - INFO - Valid summaries: 0 out of 0 articles
+2026-06-21 22:50:48,645 - INFO - critic_node: 0 valid summaries out of 0
+2026-06-21 22:50:48,645 - INFO - Updating memory...
+2026-06-21 22:50:48,649 - INFO - Trends updated: []
+2026-06-21 22:50:48,649 - INFO - Memory updated successfully
+2026-06-21 22:51:09,699 - INFO - \u2705 Graph execution completed
+2026-06-21 22:57:41,344 - INFO - App started
+2026-06-21 22:57:41,359 - INFO - \u2699\ufe0f Graph execution started
+2026-06-21 22:57:41,367 - INFO - Fetching articles... {}
+2026-06-21 22:58:19,244 - INFO - Fetched 372 articles
+2026-06-21 22:58:19,248 - INFO - Filter node...
+2026-06-21 22:58:19,254 - INFO - Filter node filter_new_articles start
+2026-06-21 22:58:19,258 - INFO - rank node...
+2026-06-21 22:58:19,268 - INFO - summarize node (batched mode)
+2026-06-21 22:58:19,269 - INFO - Summarizing batch 1-5 (5 articles)
+2026-06-21 22:58:19,269 - INFO - Using Ollama model
+2026-06-21 22:59:21,354 - ERROR - LLM call error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+2026-06-21 22:59:21,355 - WARNING - Empty response for batch of 5 articles
+2026-06-21 22:59:21,355 - WARNING - Skipping article 1: empty or invalid summary
+2026-06-21 22:59:21,355 - WARNING - Skipping article 2: empty or invalid summary
+2026-06-21 22:59:21,355 - WARNING - Skipping article 3: empty or invalid summary
+2026-06-21 22:59:21,355 - WARNING - Skipping article 4: empty or invalid summary
+2026-06-21 22:59:21,355 - WARNING - Skipping article 5: empty or invalid summary
+2026-06-21 22:59:21,355 - INFO - Summarizing batch 6-10 (5 articles)
+2026-06-21 22:59:21,356 - INFO - Using Ollama model
+2026-06-21 23:00:03,911 - INFO - Batch response received (402 chars)
+2026-06-21 23:00:03,913 - INFO - Summarizing batch 11-15 (5 articles)
+2026-06-21 23:00:03,914 - INFO - Using Ollama model
+2026-06-21 23:01:02,763 - INFO - Batch response received (875 chars)
+2026-06-21 23:01:02,764 - WARNING - Could not parse summary #1 from batch response
+2026-06-21 23:01:02,765 - WARNING - Could not parse summary #2 from batch response
+2026-06-21 23:01:02,766 - WARNING - Could not parse summary #3 from batch response
+2026-06-21 23:01:02,767 - WARNING - Could not parse summary #4 from batch response
+2026-06-21 23:01:02,767 - WARNING - Could not parse summary #5 from batch response
+2026-06-21 23:01:02,767 - WARNING - Skipping article 11: empty or invalid summary
+2026-06-21 23:01:02,768 - WARNING - Skipping article 12: empty or invalid summary
+2026-06-21 23:01:02,768 - WARNING - Skipping article 13: empty or invalid summary
+2026-06-21 23:01:02,768 - WARNING - Skipping article 14: empty or invalid summary
+2026-06-21 23:01:02,768 - WARNING - Skipping article 15: empty or invalid summary
+2026-06-21 23:01:02,768 - INFO - Summarizing batch 16-20 (5 articles)
+2026-06-21 23:01:02,768 - INFO - Using Ollama model
+2026-06-21 23:01:38,545 - INFO - Batch response received (578 chars)
+2026-06-21 23:01:38,547 - INFO - Summarizing batch 21-25 (5 articles)
+2026-06-21 23:01:38,547 - INFO - Using Ollama model
+2026-06-21 23:04:29,941 - INFO - App started
+2026-06-21 23:04:29,957 - INFO - \u2699\ufe0f Graph execution started
+2026-06-21 23:04:29,967 - INFO - Fetching articles... {}
+2026-06-21 23:05:03,483 - INFO - Fetched 372 articles
+2026-06-21 23:05:03,485 - INFO - Filter node...
+2026-06-21 23:05:03,488 - INFO - Filter node filter_new_articles start
+2026-06-21 23:05:03,493 - INFO - rank node...
+2026-06-21 23:05:03,504 - INFO - summarize node (batched mode)
+2026-06-21 23:05:03,504 - INFO - Summarizing batch 1-5 (5 articles)
+2026-06-21 23:05:03,504 - INFO - Using Ollama model
+2026-06-21 23:06:05,599 - ERROR - LLM call error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+2026-06-21 23:06:05,599 - WARNING - Empty response for batch of 5 articles
+2026-06-21 23:06:05,599 - WARNING - Skipping article 1: empty or invalid summary
+2026-06-21 23:06:05,599 - WARNING - Skipping article 2: empty or invalid summary
+2026-06-21 23:06:05,599 - WARNING - Skipping article 3: empty or invalid summary
+2026-06-21 23:06:05,599 - WARNING - Skipping article 4: empty or invalid summary
+2026-06-21 23:06:05,599 - WARNING - Skipping article 5: empty or invalid summary
+2026-06-21 23:06:05,600 - INFO - Summarizing batch 6-10 (5 articles)
+2026-06-21 23:06:05,600 - INFO - Using Ollama model
+2026-06-21 23:06:47,480 - INFO - Batch response received (489 chars)
+2026-06-21 23:06:47,482 - INFO - Summarizing batch 11-15 (5 articles)
+2026-06-21 23:06:47,482 - INFO - Using Ollama model
+2026-06-21 23:07:41,858 - INFO - Batch response received (808 chars)
+2026-06-21 23:07:41,859 - INFO - Summarizing batch 16-20 (5 articles)
+2026-06-21 23:07:41,859 - INFO - Using Ollama model
+2026-06-21 23:08:23,310 - INFO - Batch response received (476 chars)
+2026-06-21 23:08:23,310 - INFO - Summarizing batch 21-25 (5 articles)
+2026-06-21 23:08:23,310 - INFO - Using Ollama model
+2026-06-22 19:37:52,874 - ERROR - LLM call error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+2026-06-22 19:37:52,875 - WARNING - Empty response for batch of 5 articles
+2026-06-22 19:37:52,875 - WARNING - Skipping article 21: empty or invalid summary
+2026-06-22 19:37:52,875 - WARNING - Skipping article 22: empty or invalid summary
+2026-06-22 19:37:52,875 - WARNING - Skipping article 23: empty or invalid summary
+2026-06-22 19:37:52,875 - WARNING - Skipping article 24: empty or invalid summary
+2026-06-22 19:37:52,875 - WARNING - Skipping article 25: empty or invalid summary
+2026-06-22 19:37:52,875 - INFO - Valid summaries: 15 out of 25 articles
+2026-06-22 19:37:52,881 - INFO - critic_node: 15 valid summaries out of 15
+2026-06-22 19:37:52,882 - INFO - Updating memory...
+2026-06-22 19:37:52,890 - INFO - Trends updated: ['deepmind', 'google', 'anthropic', 'agents', 'after']
+2026-06-22 19:37:52,890 - INFO - Storing 25 attempted articles in memory (incl. LLM failures)
+2026-06-22 19:37:52,930 - INFO - Stored 25 attempted articles in memory
+2026-06-22 19:37:52,930 - INFO - Memory updated successfully
+2026-06-22 19:38:05,646 - INFO - \u2705 Graph execution completed
+2026-06-24 22:44:18,239 - INFO - App started
+2026-06-24 22:44:18,260 - INFO - \u2699\ufe0f Graph execution started
+2026-06-24 22:44:18,272 - INFO - Fetching articles... {}
+2026-06-24 22:44:53,239 - INFO - Fetched 422 articles
+2026-06-24 22:44:53,240 - INFO - Filter node...
+2026-06-24 22:44:53,244 - INFO - Filter node filter_new_articles start
+2026-06-24 22:44:53,286 - INFO - rank node...
+2026-06-24 22:44:53,298 - INFO - summarize node (batched mode)
+2026-06-24 22:44:53,298 - INFO - Summarizing batch 1-5 (5 articles)
+2026-06-24 22:44:53,298 - INFO - Using Ollama model
+2026-06-24 23:10:13,760 - ERROR - CRITICAL: Memory file corrupted (JSON parse error): Expecting property name enclosed in double quotes: line 139 column 1 (char 6711)
+2026-06-24 23:10:13,760 - ERROR - Attempting to repair memory file...
+2026-06-24 23:10:13,761 - ERROR - Memory file repair failed: Expecting ',' delimiter: line 545 column 5 (char 19752)
