@@ -423,5 +423,130 @@
     "title": "It\u2019s the last day of Prime Day \u2014 here are over 140 great deals to choose from",
     "normalized": "it's the last day of prime day -- here are over 140 great deals to choose from",
     "content_hash": "6d9c8b90c7fd18d25ebe12f35139998c"
+  },
+  {
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
+    "normalized": "asian ai startups launch mythos-like models as anthropic's export ban drags on",
+    "content_hash": "a3a6c95d907043f9c9624cd9f19db201"
+  },
+  {
+    "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+    "normalized": "openai previews gpt-5.6 sol with restricted access and stronger cyber safeguards",
+    "content_hash": "620fde12d57569acfa9b84aa57f2391e"
+  },
+  {
+    "title": "U.S. government restricts access to OpenAI's new AI model",
+    "normalized": "u.s. government restricts access to openai's new ai model",
+    "content_hash": "05eaeb65e993f16dc147c6efc2dd6e0c"
+  },
+  {
+    "title": "Security News This Week: LastPass Users Had Their Data Stolen\u2014Again",
+    "normalized": "security news this week: lastpass users had their data stolen--again",
+    "content_hash": "96abddf4ce061ddfcdda542dc0894cd0"
+  },
+  {
+    "title": "OpenAI launches a limited preview of GPT-5.6 for a 'small group of trusted partners'",
+    "normalized": "openai launches a limited preview of gpt-5.6 for a 'small group of trusted partners'",
+    "content_hash": "32e1eff729d9cba137a00cdb083918f7"
+  },
+  {
+    "title": "Inside the room where the smart home industry is still betting on Matter",
+    "normalized": "inside the room where the smart home industry is still betting on matter",
+    "content_hash": "5e954cadc50e8644285e0d7354fe68bb"
+  },
+  {
+    "title": "This puzzle game&#8217;s simple premise hides surprising depth",
+    "normalized": "this puzzle game's simple premise hides surprising depth",
+    "content_hash": "24168854c865049c4cb22689a73d1e2f"
+  },
+  {
+    "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
+    "normalized": "u.s. allows anthropic to release mythos ai to 'trusted' us organizations",
+    "content_hash": "8f3deb858b02d15bc9cb81afdca81ccb"
+  },
+  {
+    "title": "Show HN: Hacker News on a train station-style flip board",
+    "normalized": "show hn: hacker news on a train station-style flip board",
+    "content_hash": "22549f406c0d442c17830725e93b3025"
+  },
+  {
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "normalized": "the gap between open weights llms and closed source llms",
+    "content_hash": "70004fdc22eeb064a805bfc47465214c"
+  },
+  {
+    "title": "Show HN: Nirnam \u2013 a browser-native message bus and AI agent framework for MFEs",
+    "normalized": "show hn: nirnam - a browser-native message bus and ai agent framework for mfes",
+    "content_hash": "29d881ec2c655c6e5890be42abd52bb5"
+  },
+  {
+    "title": "Everyone Will Have an AI Coding Agent",
+    "normalized": "everyone will have an ai coding agent",
+    "content_hash": "43ef15c15d898d5444869896e85f69b3"
+  },
+  {
+    "title": "Ask HN: How do we measure software in LLM era?",
+    "normalized": "ask hn: how do we measure software in llm era?",
+    "content_hash": "062e43e9854d769b2f15f316157838de"
+  },
+  {
+    "title": "Apple's Vision Pro and Smart Glasses Chief to Join OpenAI",
+    "normalized": "apple's vision pro and smart glasses chief to join openai",
+    "content_hash": "ea149080aae215db6e95d95769383af1"
+  },
+  {
+    "title": "Show HN: OpenClaw Launch \u2013 deploy a managed OpenClaw AI agent in 30s",
+    "normalized": "show hn: openclaw launch - deploy a managed openclaw ai agent in 30s",
+    "content_hash": "8d9f30d12ca3c8b6a396f38820a6d58a"
+  },
+  {
+    "title": "Apple Loses Another Top Executive to OpenAI",
+    "normalized": "apple loses another top executive to openai",
+    "content_hash": "a9ab0406c12cda3b2975ab246814080f"
+  },
+  {
+    "title": "Promptetheus \u2013 Trace, detect, and auto-repair AI agent failures",
+    "normalized": "promptetheus - trace, detect, and auto-repair ai agent failures",
+    "content_hash": "b0b0895800e2c0a11a6a3ced7159e5cc"
+  },
+  {
+    "title": "Coding agent harness written in native Golang with built-in file and Git viewer",
+    "normalized": "coding agent harness written in native golang with built-in file and git viewer",
+    "content_hash": "3c03aecdbfe49b29b7736d5204f36507"
+  },
+  {
+    "title": "TUI email client in native Golang with LLM based drafting functions",
+    "normalized": "tui email client in native golang with llm based drafting functions",
+    "content_hash": "b505087b866f8a83cd79e2f5ae3ea48c"
+  },
+  {
+    "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
+    "normalized": "us allows anthropic to release mythos ai to 'trusted' us organizations",
+    "content_hash": "ca02f7157d523be85d6d2481bb5fa08d"
+  },
+  {
+    "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+    "normalized": "cybersecurity firms targeted by fraudulent openai organization invites",
+    "content_hash": "740d2973e3e9545e8c0765dcdae7cc3a"
+  },
+  {
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "normalized": "previewing gpt-5.6 sol: a next-generation model",
+    "content_hash": "0a36b89b514101ddac57af3aa0114498"
+  },
+  {
+    "title": "How agents are transforming work",
+    "normalized": "how agents are transforming work",
+    "content_hash": "ee5cf8725a1b3bf1020d50f34b8d13ac"
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "normalized": "daybreak: tools for securing every organization in the world",
+    "content_hash": "6f92d373ec18b2ecc07cb0cdcb8f743e"
+  },
+  {
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "normalized": "samsung electronics brings chatgpt and codex to employees",
+    "content_hash": "e7188b81aaae04a583f704e894820f45"
   }
 ]
