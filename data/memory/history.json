@@ -298,5 +298,130 @@
     "title": "With GTA looming, consoles are getting expensive at the worst possible time",
     "normalized": "with gta looming, consoles are getting expensive at the worst possible time",
     "content_hash": "06ec43f81657a54fc6c77b3e07a5bb0d"
+  },
+  {
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "normalized": "why everyone from openai to spacex is building their own chips (and turning up the heat on nvidia)",
+    "content_hash": "9cfb958b364c4efaded47fdb0b9d1bc0"
+  },
+  {
+    "title": "Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics",
+    "normalized": "building supervised fine-tuning data from nvidia open-swe-traces: trajectory parsing, patch analysis, token budgets, and tool-use metrics",
+    "content_hash": "9592dc93358e42ea19651aebc46d9c04"
+  },
+  {
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
+    "normalized": "openai limits gpt-5.6 rollout after government request, says restrictions shouldn't be the norm",
+    "content_hash": "a906e051091a482affab4aa338f572b2"
+  },
+  {
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "normalized": "openai poaches uber india chief to lead its biggest market outside the us",
+    "content_hash": "ba777fa11bc1f56525c34b500e31d302"
+  },
+  {
+    "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
+    "normalized": "it's not about anthropic vs. openai anymore",
+    "content_hash": "b3d8c7a3e7b2975a58d9a1a623e7cfd1"
+  },
+  {
+    "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
+    "normalized": "after covering prime day for 36 hours over four days, this is the one thing i bought",
+    "content_hash": "9e364cf81ec3d8361eaac9bf97e80f6a"
+  },
+  {
+    "title": "Join .agent \u2013 Pre-Register Your Domain Free",
+    "normalized": "join .agent - pre-register your domain free",
+    "content_hash": "78269ee054491b085e9b87d9b5f46d04"
+  },
+  {
+    "title": "Show HN: I scanned 87 MCP servers for agent-authority hygiene \u2013 leaderboard",
+    "normalized": "show hn: i scanned 87 mcp servers for agent-authority hygiene - leaderboard",
+    "content_hash": "fdcea410acb7b3bcabe1eac73ec3d8a0"
+  },
+  {
+    "title": "I removed the vector database from my AI agent stack",
+    "normalized": "i removed the vector database from my ai agent stack",
+    "content_hash": "78d05754ed3ef5739dc91c04fe63f1d7"
+  },
+  {
+    "title": "Ask HN: Anthropic Billing Issues?",
+    "normalized": "ask hn: anthropic billing issues?",
+    "content_hash": "ccf6c65c96b5dc312cf72a2f9cb95e08"
+  },
+  {
+    "title": "OpenAI Has New AI Models. Here\u2019s Why You Can\u2019t Use Them",
+    "normalized": "openai has new ai models. here's why you can't use them",
+    "content_hash": "3f70897a404b94f7513bb9be60ff89e8"
+  },
+  {
+    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn\u2019t steal an open source product",
+    "normalized": "corgi, the buzzy y combinator-backed insurance tech startup, says it didn't steal an open source product",
+    "content_hash": "429ed755ee6d944a3355b43db5c75a96"
+  },
+  {
+    "title": "These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in",
+    "normalized": "these are the best deals you can still get on macbooks before apple's price hike kicks in",
+    "content_hash": "6fcf1551e75208a3e6e1fb19e6e2c41a"
+  },
+  {
+    "title": "Enterprise AI customers pulling back from OpenAI and Anthropic as costs mount",
+    "normalized": "enterprise ai customers pulling back from openai and anthropic as costs mount",
+    "content_hash": "ff831508ac87c193caa040211e70f194"
+  },
+  {
+    "title": "$5k in compute and LLM credits on JackHamr for the first 30 qualified startups",
+    "normalized": "$5k in compute and llm credits on jackhamr for the first 30 qualified startups",
+    "content_hash": "644d68b2f7aa58581f4c0abff1d4dc32"
+  },
+  {
+    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
+    "normalized": "openai previews gpt-5.6 with sol, terra, and luna: tiered models, new reasoning modes, limited access",
+    "content_hash": "c2282314ef16eecb2dbc1d8016d17248"
+  },
+  {
+    "title": "From Local LLM to Tool-Using Agent",
+    "normalized": "from local llm to tool-using agent",
+    "content_hash": "08183bda81d91a1fd54f731f72b88b43"
+  },
+  {
+    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "normalized": "trump admin releases anthropic mythos to be used by more than 100 us companies, agencies",
+    "content_hash": "a2d54e7b8df53ac06cb00fdcbf9090f2"
+  },
+  {
+    "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+    "normalized": "ftc gives musk the ok to acquire spacex alumni startup mesh",
+    "content_hash": "51f96be8b9d64e0ca35e0879e6e37ab6"
+  },
+  {
+    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+    "normalized": "trump administration allows anthropic to release mythos to select us organizations",
+    "content_hash": "8ab7dbd5081c91a7aa208d2144504b83"
+  },
+  {
+    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+    "normalized": "nyt slams microsoft for building copyright-infringing supercomputer for openai",
+    "content_hash": "c0f3d1cb1441d9e8faddacf7adc58572"
+  },
+  {
+    "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
+    "normalized": "the 17 best robot vacuum deals you can still get before prime day ends",
+    "content_hash": "916005acd41df62b8929b41a80fe50c0"
+  },
+  {
+    "title": "Anthropic&#8217;s Mythos 5 is back",
+    "normalized": "anthropic's mythos 5 is back",
+    "content_hash": "db5a629f6f486fd39e4ae21d9b8252d4"
+  },
+  {
+    "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
+    "normalized": "prime day is almost over, but these are still the best apple deals i've seen",
+    "content_hash": "5f19b0def32850e1bd1908a6efba9837"
+  },
+  {
+    "title": "It\u2019s the last day of Prime Day \u2014 here are over 140 great deals to choose from",
+    "normalized": "it's the last day of prime day -- here are over 140 great deals to choose from",
+    "content_hash": "6d9c8b90c7fd18d25ebe12f35139998c"
   }
 ]
