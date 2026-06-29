@@ -798,5 +798,130 @@
     "title": "How People in China Keep Outsmarting Anthropic\u2019s Geolocation Restrictions",
     "normalized": "how people in china keep outsmarting anthropic's geolocation restrictions",
     "content_hash": "886a513459d9f504e322abc32438319f"
+  },
+  {
+    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "normalized": "why wall street thinks us memory maker micron is the next nvidia",
+    "content_hash": "df04fb49b6b788d3ab76c3a8ce2ca992"
+  },
+  {
+    "title": "China\u2019s Z.ai claims it can match Mythos on cybersecurity",
+    "normalized": "china's z.ai claims it can match mythos on cybersecurity",
+    "content_hash": "28ae459d467446d3a23e59ab4a61ed67"
+  },
+  {
+    "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short",
+    "normalized": "ford rehires 'gray beard' engineers after ai falls short",
+    "content_hash": "8b7799761bc5ca287900ec33b71d5353"
+  },
+  {
+    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+    "normalized": "prosecutors used chatgpt logs as evidence in the palisades fire trial",
+    "content_hash": "1fd41f66aaecafaf4d6f77ab8c65cdae"
+  },
+  {
+    "title": "Writer Ian Bogost says \u2018The Small Stuff\u2019 can help us reclaim our lives from too much convenience",
+    "normalized": "writer ian bogost says 'the small stuff' can help us reclaim our lives from too much convenience",
+    "content_hash": "f5d7d4ee3ff6ee963293f5b8b9b511f8"
+  },
+  {
+    "title": "TechCrunch Mobility: All eyes on Tesla FSD",
+    "normalized": "techcrunch mobility: all eyes on tesla fsd",
+    "content_hash": "46a937843a38426bf56f0cb0578c6ee2"
+  },
+  {
+    "title": "Govee\u2019s smart nugget ice maker makes every iced drink feel like a luxury",
+    "normalized": "govee's smart nugget ice maker makes every iced drink feel like a luxury",
+    "content_hash": "efe43c25218d9da8a9368a8779e9485a"
+  },
+  {
+    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "normalized": "suno launches spark incubator program to feed independent artists to its ai machine",
+    "content_hash": "f13fed3a02db938f886354ba594b9249"
+  },
+  {
+    "title": "China claims the world&#8217;s fastest supercomputer",
+    "normalized": "china claims the world's fastest supercomputer",
+    "content_hash": "1b84f592572073de8f5e1f605fa91b11"
+  },
+  {
+    "title": "Show HN: I Made a WebGPU Based Agent/Worlflow Explainer",
+    "normalized": "show hn: i made a webgpu based agent/worlflow explainer",
+    "content_hash": "852accbe8305a52f19fc0a288febe145"
+  },
+  {
+    "title": "Google: An 8-minute step-by-step guide to building the smallest Agent loop",
+    "normalized": "google: an 8-minute step-by-step guide to building the smallest agent loop",
+    "content_hash": "1c3a8238d8f0857fbb5c5490eea42548"
+  },
+  {
+    "title": "AI Agent Credential Crisis: Six Months of Incidents",
+    "normalized": "ai agent credential crisis: six months of incidents",
+    "content_hash": "77dd771120e83d1ac3f239f3218bddd4"
+  },
+  {
+    "title": "AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI",
+    "normalized": "ai agent triggers nuclear strike after getting outmaneuvered in civilization vi",
+    "content_hash": "1cbda6918d356ebad97fba546ab466eb"
+  },
+  {
+    "title": "Show HN: Selixes - Self-hosted LLM failover gateway, budget caps and PII",
+    "normalized": "show hn: selixes - self-hosted llm failover gateway, budget caps and pii",
+    "content_hash": "6076fc2b96d0ec58f46f006074c153c5"
+  },
+  {
+    "title": "Show HN: Drift, write LLM agents in English and transpile to async Python",
+    "normalized": "show hn: drift, write llm agents in english and transpile to async python",
+    "content_hash": "09f16ba38c3951334ac2336c92d25f70"
+  },
+  {
+    "title": "Monlite Simple Infrastructure for AI Agent",
+    "normalized": "monlite simple infrastructure for ai agent",
+    "content_hash": "b4996cc2edbdc1021484a2408082f98c"
+  },
+  {
+    "title": "Agent Identity: Why Every Agent Vulnerability Is a Trust Boundary Failure",
+    "normalized": "agent identity: why every agent vulnerability is a trust boundary failure",
+    "content_hash": "112e31a3d38c36e7f3865a22ab84fa87"
+  },
+  {
+    "title": "OpenAI (2015)",
+    "normalized": "openai (2015)",
+    "content_hash": "1e4f2ce85538d1e7b27c91b5cda520ee"
+  },
+  {
+    "title": "Ask HN: Best local LLM under 2B paramater and consuming RAM less than 3gb",
+    "normalized": "ask hn: best local llm under 2b paramater and consuming ram less than 3gb",
+    "content_hash": "883f0fa91f8ea91f434d1c138846ce2c"
+  },
+  {
+    "title": "Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows",
+    "normalized": "tail control: the counterintuitive engineering of reliable agentic workflows",
+    "content_hash": "3bc8904c58d1e03b8749f000cdb075ea"
+  },
+  {
+    "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
+    "normalized": "ukraine says russian intelligence used fake support texts to steal messaging credentials",
+    "content_hash": "8c000660189b690be954d71714c036c0"
+  },
+  {
+    "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+    "normalized": "new sharkloader malware deploys cobalt strike in strikeshark cyberattacks",
+    "content_hash": "0de572ecf48f7371853a80eebbbaeb31"
+  },
+  {
+    "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+    "normalized": "chinese-speaking apt deploys new tinyrct backdoor in southeast asia campaign",
+    "content_hash": "8adc70f8980f3c325ce3f01fe53ec359"
+  },
+  {
+    "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+    "normalized": "new linux pedit cow exploit enables root access by poisoning cached binaries",
+    "content_hash": "32e39c407ca1f6dc17045ed2576f5af3"
+  },
+  {
+    "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+    "normalized": "amazon q developer flaw could let malicious repos run code via mcp configs",
+    "content_hash": "c53fd88b512b81149b5fad72dd8a702a"
   }
 ]
