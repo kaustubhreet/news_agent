@@ -1048,5 +1048,130 @@
     "title": "\u26a1 Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
     "normalized": "\u26a1 weekly recap: linux kernel flaws, ai malware tricks, turla backdoor, infostealers and more",
     "content_hash": "97abfcae2a05ae28dc41d00f45070dcd"
+  },
+  {
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "normalized": "anthropic and gov. newsom forge deal allowing california government to use claude at half price",
+    "content_hash": "5236ad8a16ab128a611055633fd11844"
+  },
+  {
+    "title": "Publishers sue OpenAI, Microsoft for training ChatGPT with their content",
+    "normalized": "publishers sue openai, microsoft for training chatgpt with their content",
+    "content_hash": "1a0e8de2195fca948a938549cd4577e9"
+  },
+  {
+    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "normalized": "vibe coding platform base44 launches own model as ai startups seek defensibility",
+    "content_hash": "4ddc84e44bf5304467eb97311e5fc644"
+  },
+  {
+    "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+    "normalized": "chamath palihapitiya raises $135m series a for his ai coding startup, takes ceo role",
+    "content_hash": "8aa5dc0812b569d844e6669008dc8064"
+  },
+  {
+    "title": "Gemini\u2019s personalized AI image generation is now free for US users",
+    "normalized": "gemini's personalized ai image generation is now free for us users",
+    "content_hash": "3918cc8715e0f9af3bfc18ecbcf2c29c"
+  },
+  {
+    "title": "South Korean tech giants commit over $550B to ease \u2018RAMageddon\u2019",
+    "normalized": "south korean tech giants commit over $550b to ease 'ramageddon'",
+    "content_hash": "9198ce37e41077869ebb19bf7e5fb3c5"
+  },
+  {
+    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "normalized": "arena, the ai leaderboard everyone uses, is now a $100m business",
+    "content_hash": "167b81e7d80ec8797e2e1cab206d671f"
+  },
+  {
+    "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+    "normalized": "malicious perplexity chrome extension intercepted searches and address bar input",
+    "content_hash": "1c3a148c549afca00a9d693ec4268e38"
+  },
+  {
+    "title": "OpenAI is teasing new hardware\u2026 for Codex",
+    "normalized": "openai is teasing new hardware... for codex",
+    "content_hash": "f12f9f3d2b6908d2c8748d07b5d860fa"
+  },
+  {
+    "title": "Lawmakers want to ban AI companies from selling your health data",
+    "normalized": "lawmakers want to ban ai companies from selling your health data",
+    "content_hash": "2b610647c07e5c5918dd17e3cb99e296"
+  },
+  {
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+    "normalized": "micro-agent: beat frontier models with collaboration inside model api",
+    "content_hash": "0cfe87381faeaf6fea56697b071c8c7c"
+  },
+  {
+    "title": "Show HN: TinyAgents \u2013 a Rust based recursive LLM harness",
+    "normalized": "show hn: tinyagents - a rust based recursive llm harness",
+    "content_hash": "915b4aeeefb739d105dc7e68a103df91"
+  },
+  {
+    "title": "Show HN: AMA2, messenger built for AI agent",
+    "normalized": "show hn: ama2, messenger built for ai agent",
+    "content_hash": "8f0c890996cc1f72ca5fa667c4d2b54c"
+  },
+  {
+    "title": "Waymo and Uber quietly part ways in Phoenix",
+    "normalized": "waymo and uber quietly part ways in phoenix",
+    "content_hash": "23e19042322fb2d57249153f7d81f796"
+  },
+  {
+    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+    "normalized": "cursor now has a mobile app for guiding your coding agent on the go",
+    "content_hash": "a1e24d0dd10485b0b919d4468a72f731"
+  },
+  {
+    "title": "TIDAL cracks down on AI music by cutting off monetization",
+    "normalized": "tidal cracks down on ai music by cutting off monetization",
+    "content_hash": "36c7f5b4480929278f67f36ae12bc0d0"
+  },
+  {
+    "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+    "normalized": "mustang panda uses zoho workdrive as command channel in indian government attacks",
+    "content_hash": "ec9f28d4a3bfb8f7babe2ec24058115e"
+  },
+  {
+    "title": "Tidal won\u2019t pay royalties on AI-generated music but isn\u2019t banning it outright",
+    "normalized": "tidal won't pay royalties on ai-generated music but isn't banning it outright",
+    "content_hash": "81c342caeac1046a31b3ec76079aafc4"
+  },
+  {
+    "title": "At $499, Apple&#8217;s M3-powered iPad Air is a good deal",
+    "normalized": "at $499, apple's m3-powered ipad air is a good deal",
+    "content_hash": "b1ed6ca8f157ad3df4e6b9ba823c4d08"
+  },
+  {
+    "title": "WhatsApp is launching usernames: here\u2019s how to reserve yours",
+    "normalized": "whatsapp is launching usernames: here's how to reserve yours",
+    "content_hash": "882ff83d110bb48dd0f68f69e83c0a94"
+  },
+  {
+    "title": "Reports of Anthropic Cutting Usage Limits Again",
+    "normalized": "reports of anthropic cutting usage limits again",
+    "content_hash": "c45fc44d7ca84f5f50d48ceb3ccda4bc"
+  },
+  {
+    "title": "Open-source AI agent workflow for auditing Solidity smart contracts",
+    "normalized": "open-source ai agent workflow for auditing solidity smart contracts",
+    "content_hash": "08bc1d930d7d2f0e3e6d193f59abc06e"
+  },
+  {
+    "title": "Zeus \u2013 a local AI agent orchestrator with web and phone UI (open source)",
+    "normalized": "zeus - a local ai agent orchestrator with web and phone ui (open source)",
+    "content_hash": "93dc6b97963ee43832618944459e6482"
+  },
+  {
+    "title": "A user-space firewall that gates an AI agent's actions",
+    "normalized": "a user-space firewall that gates an ai agent's actions",
+    "content_hash": "41bc8356268841b1cceb98c936c2bd39"
+  },
+  {
+    "title": "KitForge\u2013generate an AI agent manifest; scaffold with enforced approval gates",
+    "normalized": "kitforge-generate an ai agent manifest; scaffold with enforced approval gates",
+    "content_hash": "702e50be8aac3387be114822ab47b55c"
   }
 ]
