@@ -1298,5 +1298,130 @@
     "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
     "normalized": "imcbench: a benchmark for multimodal llms in image-grounded medical conversations",
     "content_hash": "f2b0c31a9deb7583c9cfd912f2a7e3fa"
+  },
+  {
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "normalized": "amazon launches new $1 billion fde org, following openai and anthropic",
+    "content_hash": "e539d8fbb460c52e409f7a35ed22088a"
+  },
+  {
+    "title": "Show HN: Morph Reflexes \u2013 Multi-head classifiers for agent traces",
+    "normalized": "show hn: morph reflexes - multi-head classifiers for agent traces",
+    "content_hash": "5d8c2b6441801733b415dde8641bd6b2"
+  },
+  {
+    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "normalized": "nvidia competitor etched hits $5b valuation, $1b in sales for ai chip",
+    "content_hash": "d00561ae69d1adc9bdf54379aacc5f36"
+  },
+  {
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "normalized": "anthropic launches claude sonnet 5 as a cheaper way to run agents",
+    "content_hash": "4ca8429364e9d729e3f72e068b4c0467"
+  },
+  {
+    "title": "Acti puts AI agents directly into your smartphone keyboard",
+    "normalized": "acti puts ai agents directly into your smartphone keyboard",
+    "content_hash": "829aeba0951092be3b78c2775688ef3d"
+  },
+  {
+    "title": "Show HN: Frontier AI Lab Jobs \u2013 Open Jobs by Function at OpenAI, Anthropic",
+    "normalized": "show hn: frontier ai lab jobs - open jobs by function at openai, anthropic",
+    "content_hash": "af8060ae84f1855abf5d45b2a68f47b8"
+  },
+  {
+    "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
+    "normalized": "trump drops restrictions on anthropic's mythos and fable models",
+    "content_hash": "b5e704493fd71ba1e94fdd6930a7ee08"
+  },
+  {
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "normalized": "wayve launches $85m employee tender offer at $8.5b valuation",
+    "content_hash": "36e7cca2851a5c70be02a694bd6b2b46"
+  },
+  {
+    "title": "OpenClaw is finally available on Android and iOS",
+    "normalized": "openclaw is finally available on android and ios",
+    "content_hash": "2503c25cc7a3dd31c3d2c4ff2ad8d8ec"
+  },
+  {
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "normalized": "google introduces a faster, cheaper image generator with nano banana 2 lite",
+    "content_hash": "715e2308639a24c6892a9240164b1d17"
+  },
+  {
+    "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+    "normalized": "microsoft warns poisoned mcp tool descriptions can make ai agents leak data",
+    "content_hash": "567d277b248f544e1f909b2942bd9db9"
+  },
+  {
+    "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+    "normalized": "anthropic's long-sidelined fable 5 is greenlit to return",
+    "content_hash": "acb1e546feb03a5c5ba2a8e34b7109a3"
+  },
+  {
+    "title": "Google\u2019s NotebookLM can sum up your research in a TikTok-style clip",
+    "normalized": "google's notebooklm can sum up your research in a tiktok-style clip",
+    "content_hash": "211f20df0b69d25e74497ae5d5128c7c"
+  },
+  {
+    "title": "007 First Light&#8217;s developer lays off staff but claims its next franchise will continue",
+    "normalized": "007 first light's developer lays off staff but claims its next franchise will continue",
+    "content_hash": "e6618b4d67b796428dd534ad9f4a90d2"
+  },
+  {
+    "title": "Anthropic launches AI drug discovery program",
+    "normalized": "anthropic launches ai drug discovery program",
+    "content_hash": "64dc6a639da2f21c0b448f359a2729ee"
+  },
+  {
+    "title": "Show HN: Kage, verification and freshness for Google's OKF agent memory",
+    "normalized": "show hn: kage, verification and freshness for google's okf agent memory",
+    "content_hash": "b7c083018460f36cdebf6e4d24cba0e0"
+  },
+  {
+    "title": "Show HN: Distributed LLM tracing and GH PR/issue linking [Apache 2.0]",
+    "normalized": "show hn: distributed llm tracing and gh pr/issue linking [apache 2.0]",
+    "content_hash": "13df1aa2c1802a28ae91558ceb1f74fb"
+  },
+  {
+    "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+    "normalized": "startup battlefield australia application closes in days: apply before july 6",
+    "content_hash": "9da700669c4b5c5d209b0ad421be40df"
+  },
+  {
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "normalized": "the deepmind trio who built a poker ai are now making money for quant hedge funds",
+    "content_hash": "5d6c516a8c4d704ec021fdf53de85ed6"
+  },
+  {
+    "title": "Anthropic\u2019s Claude Science bets on workflow, not a new model, to win over scientists",
+    "normalized": "anthropic's claude science bets on workflow, not a new model, to win over scientists",
+    "content_hash": "90266b2c63ff884c09e26564a9fb1200"
+  },
+  {
+    "title": "Blue Origin still doesn\u2019t know why its New Glenn rocket blew up last month",
+    "normalized": "blue origin still doesn't know why its new glenn rocket blew up last month",
+    "content_hash": "c4c467de8e570e101fdce6b71beb8031"
+  },
+  {
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "normalized": "x now offers an mcp server to make its platform easier for ai tools to use",
+    "content_hash": "366d45ab7aa595067575883a21eeba2e"
+  },
+  {
+    "title": "Arcturus could halve the grid\u2019s electrical losses using its nano-infused metals",
+    "normalized": "arcturus could halve the grid's electrical losses using its nano-infused metals",
+    "content_hash": "388538ed89ebc78757b1a1fddc312c2b"
+  },
+  {
+    "title": "Podcasting platform Riverside enters the newsletter publishing game",
+    "normalized": "podcasting platform riverside enters the newsletter publishing game",
+    "content_hash": "e7de6a9813a29ad3836c3c0c26a9b329"
+  },
+  {
+    "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic\u2019s Mythos and Fable AI Models",
+    "normalized": "the trump administration is lifting its export controls on anthropic's mythos and fable ai models",
+    "content_hash": "8d29156646efd2b8b95889a48ecd00ef"
   }
 ]
