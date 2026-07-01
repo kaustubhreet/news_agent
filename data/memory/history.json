@@ -1423,5 +1423,130 @@
     "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic\u2019s Mythos and Fable AI Models",
     "normalized": "the trump administration is lifting its export controls on anthropic's mythos and fable ai models",
     "content_hash": "8d29156646efd2b8b95889a48ecd00ef"
+  },
+  {
+    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "normalized": "meta, like spacex, looks to turn excess ai compute into cash",
+    "content_hash": "46d8262a3c53d04404fce93a7684c092"
+  },
+  {
+    "title": "Google built a great smart speaker, but Gemini isn\u2019t ready for it",
+    "normalized": "google built a great smart speaker, but gemini isn't ready for it",
+    "content_hash": "af8fabaa5ccc52605175bd4dc73da597"
+  },
+  {
+    "title": "Contrastive Reflection for Iterative Prompt Optimization",
+    "normalized": "contrastive reflection for iterative prompt optimization",
+    "content_hash": "420ec8fb711e8a2d15cdb4615ada6b41"
+  },
+  {
+    "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
+    "normalized": "why solve it twice? hierarchical accumulation of skills for transfer-efficient ml engineering",
+    "content_hash": "c63335c0be4f082bb2c20f60dfda4f7d"
+  },
+  {
+    "title": "Global AMR Fund picks 12 Indian innovations to tackle antibiotic resistance in environment",
+    "normalized": "global amr fund picks 12 indian innovations to tackle antibiotic resistance in environment",
+    "content_hash": "188007b73c128c1b00e9039c492923f5"
+  },
+  {
+    "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+    "normalized": "builders stage agenda revealed: practical strategies for scaling startups at techcrunch disrupt 2026",
+    "content_hash": "7a716f83535b08692c6e3423d346c88c"
+  },
+  {
+    "title": "The \u2018Father of the Internet\u2019 is finally retiring",
+    "normalized": "the 'father of the internet' is finally retiring",
+    "content_hash": "ec00d83a9c7bc5922e81e88fce549d1e"
+  },
+  {
+    "title": "Daisy\u2019s First Headphones Are Premium, High-Quality\u2014and Just a Little Bit Cheaper",
+    "normalized": "daisy's first headphones are premium, high-quality--and just a little bit cheaper",
+    "content_hash": "343d7f6cdfc1dcd3ada4c8679786f861"
+  },
+  {
+    "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+    "normalized": "microsoft accelerates post-quantum cryptography shift to 2029",
+    "content_hash": "390f7e4f82ea17bae52cb6eccd1f07e7"
+  },
+  {
+    "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+    "normalized": "anthropic restores claude fable 5 after u.s. lifts jailbreak-linked export controls",
+    "content_hash": "f4b256643e40d8dac104a26935748267"
+  },
+  {
+    "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+    "normalized": "azure cli password spray hits at least 78 microsoft accounts in 81m+ attempts",
+    "content_hash": "2eae9a127ad12ed7a5329f7a079e3d62"
+  },
+  {
+    "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+    "normalized": "silent swap crypto clipper uses fake google notes extension to replace wallet addresses",
+    "content_hash": "382946a725463030d777d833ce7c8fe7"
+  },
+  {
+    "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+    "normalized": "guardfall exposes open-source ai coding agents to decades-old shell injection risks",
+    "content_hash": "80c79ae6aa0846904fdf5167dfafcdd3"
+  },
+  {
+    "title": "Gemini Spark comes to Google's Gemini app for macOS",
+    "normalized": "gemini spark comes to google's gemini app for macos",
+    "content_hash": "09772bd33f91bc9d593ede741ea09f55"
+  },
+  {
+    "title": "Anthropic's new Sonnet 5 model is better at the tasks that are running up enterprise bills",
+    "normalized": "anthropic's new sonnet 5 model is better at the tasks that are running up enterprise bills",
+    "content_hash": "435bbe0b9bcab3a90413da137b4e2dea"
+  },
+  {
+    "title": "Sony is killing all physical PlayStation game discs",
+    "normalized": "sony is killing all physical playstation game discs",
+    "content_hash": "2a497b9165b05501610bdbd07018d4b8"
+  },
+  {
+    "title": "Cleared by the US, derailed by the UK: Getty\u2019s Shutterstock merger falls apart",
+    "normalized": "cleared by the us, derailed by the uk: getty's shutterstock merger falls apart",
+    "content_hash": "858644e628a3802b5dc33c69497e6507"
+  },
+  {
+    "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
+    "normalized": "meta is adding ridiculous 'rate limits' and a soft paywall to its smart glasses",
+    "content_hash": "028c1cf5361deba84104fbe7e913023a"
+  },
+  {
+    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "normalized": "department of commerce has lifted export controls on claude fable 5 and mythos 5",
+    "content_hash": "3a6c545f1f8a0d791da6eb34fce7de73"
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "normalized": "how chatgpt adoption has expanded",
+    "content_hash": "6ce9c12c19f542a5d55d7a6f96b320d5"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "normalized": "core dump epidemiology: fixing an 18-year-old bug",
+    "content_hash": "cf9e9960ca4629cebb12d763c60247d3"
+  },
+  {
+    "title": "Introducing Claude Sonnet 5 on AWS: Anthropic\u2019s most capable Sonnet model",
+    "normalized": "introducing claude sonnet 5 on aws: anthropic's most capable sonnet model",
+    "content_hash": "5c0df599d1d60e4baad24fb92f3beefb"
+  },
+  {
+    "title": "Investigating Multi-Agent Deliberation in Law",
+    "normalized": "investigating multi-agent deliberation in law",
+    "content_hash": "7a9ed20efaa7698ebfd36ad0800c9449"
+  },
+  {
+    "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
+    "normalized": "agrefactor: self-evolving agentic workflow for hls compatibility and performance",
+    "content_hash": "089becd56149cf5d8f20d2a07b794861"
+  },
+  {
+    "title": "OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents",
+    "normalized": "openlife: toward open-world artificial life with autonomous llm agents",
+    "content_hash": "c7032753d76513e55c70896cde113a51"
   }
 ]
