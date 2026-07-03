@@ -1923,5 +1923,130 @@
     "title": "NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
     "normalized": "nvidia releases nemotron-labs-twotower: an open-weight diffusion language model built on a frozen autoregressive nemotron-3-nano-30b-a3b backbone",
     "content_hash": "2c983951f95992ad021daf2db5cf2b05"
+  },
+  {
+    "title": "A behind-the-scenes look at Midjourney\u2019s medical scanner leaves many questions unanswered",
+    "normalized": "a behind-the-scenes look at midjourney's medical scanner leaves many questions unanswered",
+    "content_hash": "9d7cc4e2ee1d01c399ac8d392a7c269a"
+  },
+  {
+    "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
+    "normalized": "opine-world: programmatic world modeling with ontology-error-prioritized interactive exploration",
+    "content_hash": "f14031dcb9901c8ba06b6cf654bb717e"
+  },
+  {
+    "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+    "normalized": "eo-agents: a three-agent llm pipeline for earth observation hypothesis generation",
+    "content_hash": "5618e9aa122035a8856154717dd3b461"
+  },
+  {
+    "title": "All Your Favorite Gadgets Are Getting Way More Expensive \u2026 Again",
+    "normalized": "all your favorite gadgets are getting way more expensive ... again",
+    "content_hash": "88ec60b1a5a1f2cce6fb2f28ac24f990"
+  },
+  {
+    "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
+    "normalized": "jon prosser responds to apple lawsuit by blaming the other guy",
+    "content_hash": "f9d23498b0dd8995467e01c41ec8b8c2"
+  },
+  {
+    "title": "The Verge\u2019s annual summer \u2018in\u2019 and \u2018out\u2019 list",
+    "normalized": "the verge's annual summer 'in' and 'out' list",
+    "content_hash": "8977978fe5bcd66c9c49160dfe621510"
+  },
+  {
+    "title": "The Wiola Architecture for Efficient Small Language Models",
+    "normalized": "the wiola architecture for efficient small language models",
+    "content_hash": "9a371fa690a49e8ecd9fbd4e23c77465"
+  },
+  {
+    "title": "Diverse Evidence, Better Forecasts: Multi-Agent Deliberation Under Information Asymmetry",
+    "normalized": "diverse evidence, better forecasts: multi-agent deliberation under information asymmetry",
+    "content_hash": "5aeb8b5dfb51885aad49e533b56dd4be"
+  },
+  {
+    "title": "Multi-Head Recurrent Memory Agents",
+    "normalized": "multi-head recurrent memory agents",
+    "content_hash": "637df120c5a2d9784484eb4272c8d70e"
+  },
+  {
+    "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression",
+    "normalized": "google ai introduces tabfm: a hybrid-attention tabular foundation model for zero-shot classification and regression",
+    "content_hash": "ae24fdae48cdc6933667f24eb9eaf68f"
+  },
+  {
+    "title": "LLM Wikis Are Over-Engineered \u2014 I Replaced Mine With a Pure Python Compiler",
+    "normalized": "llm wikis are over-engineered -- i replaced mine with a pure python compiler",
+    "content_hash": "f91de0aabd0b92542819a9027ea8848b"
+  },
+  {
+    "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+    "normalized": "politician who investigated spyware abuses had his phone hacked with pegasus spyware",
+    "content_hash": "966152dbe1976a4db0e4cdc990d4dbec"
+  },
+  {
+    "title": "Private space pilots are flying orbital missions for the US Space Force",
+    "normalized": "private space pilots are flying orbital missions for the us space force",
+    "content_hash": "8b9db98118ef41e2a20c1e0bb60c953b"
+  },
+  {
+    "title": "Lucid Motors\u2019 CFO is out as its new CEO continues leadership shakeup",
+    "normalized": "lucid motors' cfo is out as its new ceo continues leadership shakeup",
+    "content_hash": "6c5588d97c1a4aaa557ae3389e208c90"
+  },
+  {
+    "title": "7 Best Phones You Can\u2019t Buy in the US (2026)",
+    "normalized": "7 best phones you can't buy in the us (2026)",
+    "content_hash": "50ea79d3d3fa380f3d6e6b1b1c6c77c1"
+  },
+  {
+    "title": "The FDA Ruled That ZYN Pouches Are Safer Than Cigarettes. That Doesn\u2019t Mean They\u2019re Safe",
+    "normalized": "the fda ruled that zyn pouches are safer than cigarettes. that doesn't mean they're safe",
+    "content_hash": "271d0d25a8fb43ac3d05507eb7f12ff3"
+  },
+  {
+    "title": "The Onion\u2019s \u2018Infowars\u2019 Parody Is Here. Alex Jones Is Going to Hate It",
+    "normalized": "the onion's 'infowars' parody is here. alex jones is going to hate it",
+    "content_hash": "4c2a1a50ac743d1138298068efc428b4"
+  },
+  {
+    "title": "The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH",
+    "normalized": "the dea plans to ban opioid-like kratom compound 7-oh",
+    "content_hash": "95c6af6cbff31932ba8fdd54b6b0f250"
+  },
+  {
+    "title": "7 Lesser-Known Google Account Settings You Should Change",
+    "normalized": "7 lesser-known google account settings you should change",
+    "content_hash": "538a7f2d472743c1f6e7391879eab92b"
+  },
+  {
+    "title": "Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse",
+    "normalized": "heat domes are dangerous. july fourth activities will make things worse",
+    "content_hash": "bc2a35c1bfd9cf4d9bf22efc40366bd2"
+  },
+  {
+    "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+    "normalized": "ransomware groups turn to citrix bleed 2, byovd, and supply chain credentials",
+    "content_hash": "803ca031782012445823c6e92d454e2e"
+  },
+  {
+    "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+    "normalized": "threatsday: ai compute hijacking, apple email flaw, bluehammer ransomware + 14 stories",
+    "content_hash": "a5dee4ed4032a46da17abfda81fc4c4b"
+  },
+  {
+    "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+    "normalized": "fortibleed credential theft linked to inc and lynx ransomware operations",
+    "content_hash": "b2e4e1b246c7b9e0baba3b4385f2abf0"
+  },
+  {
+    "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+    "normalized": "new chocopoc rat targets vulnerability researchers via fake poc exploit repos",
+    "content_hash": "c8230a0bd49f25397ee81565c2b72ade"
+  },
+  {
+    "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+    "normalized": "sharepoint rce cve-2026-45659 added to cisa kev after active exploitation",
+    "content_hash": "682b414e784ca68cf45895fcd90087cb"
   }
 ]
