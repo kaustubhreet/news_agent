@@ -1798,5 +1798,130 @@
     "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
     "normalized": "autonomous vehicle hype is back, and humble robotics is bringing it to freight",
     "content_hash": "a9c1772d4e1e510704690b5507e54800"
+  },
+  {
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "normalized": "anthropic is discussing a new custom chip with samsung",
+    "content_hash": "f6afa8671aeb42bc9b70f1fb88a8199f"
+  },
+  {
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "normalized": "microsoft launches its own ai deployment company with $2.5 billion commitment",
+    "content_hash": "afd797135f522e139e8d86d657e7bbdc"
+  },
+  {
+    "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
+    "normalized": "mark zuckerberg tells staff that ai agents haven't progressed as quickly as he'd hoped",
+    "content_hash": "f431df8d26cefae6262d2c3cf2f7870b"
+  },
+  {
+    "title": "Thiel Capital\u2019s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+    "normalized": "thiel capital's jack selby nabs stakes in hot startups like etched through arizona connections",
+    "content_hash": "806cebcffab48c98a11e46c058ff4b56"
+  },
+  {
+    "title": "A warning sign about AI\u2019s real cost, courtesy of Google and Amazon",
+    "normalized": "a warning sign about ai's real cost, courtesy of google and amazon",
+    "content_hash": "3f5375a7a9ef6c6120765a18bae3d727"
+  },
+  {
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "normalized": "openai proposed donating 5% of its equity to a us sovereign wealth fund",
+    "content_hash": "6c7a3bad26b562e5b1228f9cf6012d11"
+  },
+  {
+    "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
+    "normalized": "can cursor remain a platform for openai and anthropic's models inside spacex?",
+    "content_hash": "05923280632357af1676c75cced1c072"
+  },
+  {
+    "title": "Last chance to apply \u2014 Startup Battlefield Australia applications close July 6",
+    "normalized": "last chance to apply -- startup battlefield australia applications close july 6",
+    "content_hash": "48371fe1b5524f7a2d7dbb04e89f0868"
+  },
+  {
+    "title": "IQM, Europe\u2019s first public quantum company, admits the future of the tech is uncertain",
+    "normalized": "iqm, europe's first public quantum company, admits the future of the tech is uncertain",
+    "content_hash": "d9b61cb88999053bc4161d9311138b87"
+  },
+  {
+    "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
+    "normalized": "jersey mike's ipo illustrates how bad the ai hype has become",
+    "content_hash": "f0c78a9af48d36dd033ac8c3f341c7e5"
+  },
+  {
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "normalized": "meta quietly launches vibe-coded gaming app pocket",
+    "content_hash": "5d4386bd0852b3ed00a95a5182a68ce2"
+  },
+  {
+    "title": "Travel app Hopper to pay $35M in FTC settlement over \u2018unfairly\u2019 charging hidden fees",
+    "normalized": "travel app hopper to pay $35m in ftc settlement over 'unfairly' charging hidden fees",
+    "content_hash": "14a08cf2cafb2383471b1f46a7399ce5"
+  },
+  {
+    "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+    "normalized": "boeing-owned wisk aero accused of firing manager who raised safety concerns",
+    "content_hash": "d1a51957ec5f92aa2484d93519907d1d"
+  },
+  {
+    "title": "Melinda Gates\u2019 venture firm backs Magnify Ventures\u2019 $46.6M Fund II",
+    "normalized": "melinda gates' venture firm backs magnify ventures' $46.6m fund ii",
+    "content_hash": "f8fb421a7e6e3ce1130f5effe6a44493"
+  },
+  {
+    "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+    "normalized": "popular tv-tracking app tv time is shutting down as company focuses on ai",
+    "content_hash": "0e3f69f5ea4929c75a6d9242b8271582"
+  },
+  {
+    "title": "US government says it got hacked \u2014 again",
+    "normalized": "us government says it got hacked -- again",
+    "content_hash": "37aed428987279cf483186aae7783ca8"
+  },
+  {
+    "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+    "normalized": "google disrupts netnut residential proxy network spanning 2 million home devices",
+    "content_hash": "861f0a3cb5b1d4d0f702dd5bb5766848"
+  },
+  {
+    "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
+    "normalized": "toddycat-linked umbrij malware abuses oauth to access gmail via google api",
+    "content_hash": "6625741ca8d8677c1d002184c90dbaa1"
+  },
+  {
+    "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+    "normalized": "tesla driver faces manslaughter charges over texas crash that killed a woman inside her home",
+    "content_hash": "11d797706c7534b780fb6f189c99ad1e"
+  },
+  {
+    "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
+    "normalized": "meta has a new app called pocket that is absolutely nothing like the old pocket",
+    "content_hash": "e56c9621a7380bf3fec931afb9f9770a"
+  },
+  {
+    "title": "Tesla&#8217;s Q2 sales jump 25 percent",
+    "normalized": "tesla's q2 sales jump 25 percent",
+    "content_hash": "ddfbd5397f38bbfac53514465df97165"
+  },
+  {
+    "title": "AI won\u2019t save advertising, says Digitas\u2019 Amy Lanzi",
+    "normalized": "ai won't save advertising, says digitas' amy lanzi",
+    "content_hash": "531bbc9f8e8b1eef4d3b2fbb5e68fb67"
+  },
+  {
+    "title": "Show HN: ctx \u2013 Search the coding agent history already on your machine",
+    "normalized": "show hn: ctx - search the coding agent history already on your machine",
+    "content_hash": "9a15dee856a02701fe33bed339bdab03"
+  },
+  {
+    "title": "The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+    "normalized": "the google health api got a cli: ghealth is an open-source tool for your fitbit air data",
+    "content_hash": "888a79d59c2009a5c88bf59e2b6a9a3e"
+  },
+  {
+    "title": "NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
+    "normalized": "nvidia releases nemotron-labs-twotower: an open-weight diffusion language model built on a frozen autoregressive nemotron-3-nano-30b-a3b backbone",
+    "content_hash": "2c983951f95992ad021daf2db5cf2b05"
   }
 ]
