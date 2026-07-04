@@ -2173,5 +2173,130 @@
     "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
     "normalized": "unpatched argo cd repo-server flaw could let attackers take over kubernetes clusters",
     "content_hash": "bcd96f8d9442751e3109913369401103"
+  },
+  {
+    "title": "The fanfiction community is at war with AI \u2014 and itself",
+    "normalized": "the fanfiction community is at war with ai -- and itself",
+    "content_hash": "25de687fa5a1c48d792e5a9ac2fc064b"
+  },
+  {
+    "title": "Security Roundup: Apple\u2019s Hide My Email Service Fails to Hide Your Email",
+    "normalized": "security roundup: apple's hide my email service fails to hide your email",
+    "content_hash": "75d1948f9a9bdc5f5b40955afbd700d5"
+  },
+  {
+    "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+    "normalized": "north korean hackers publish 108 malicious packages and extensions in polinrider campaign",
+    "content_hash": "bb43ceceaedbcee5d42b986150e968ca"
+  },
+  {
+    "title": "Show HN: Owthorize: catch destructive AI-agent tool calls before they run",
+    "normalized": "show hn: owthorize: catch destructive ai-agent tool calls before they run",
+    "content_hash": "c3e404a9ca3b0f909f054001b49d5288"
+  },
+  {
+    "title": "Show HN: Qpilot \u2013 AI agent runs plain-text manual test cases in a real browser",
+    "normalized": "show hn: qpilot - ai agent runs plain-text manual test cases in a real browser",
+    "content_hash": "3004af1f6449fa0dac97553b746621b0"
+  },
+  {
+    "title": "NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Long Tasks",
+    "normalized": "nvidia ai introduces aspire: a self-improving robotics framework reaching 31% zero-shot on libero-pro long tasks",
+    "content_hash": "ab8f066734df0a0176469d79a6ac37bc"
+  },
+  {
+    "title": "Doctor, engineer\u2026 or something else? How India\u2019s career dream is changing",
+    "normalized": "doctor, engineer... or something else? how india's career dream is changing",
+    "content_hash": "8821bb3fff6617f85ef08c0574109e64"
+  },
+  {
+    "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+    "normalized": "seo-poisoned software sites abuse screenconnect to deploy asyncrat",
+    "content_hash": "9a7440bb11eac307102b001a78333875"
+  },
+  {
+    "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+    "normalized": "ousaban banking trojan targets iberian bank users with fake pdf lures",
+    "content_hash": "71778363a68167708d4eb19f8ce75891"
+  },
+  {
+    "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+    "normalized": "adobe patches 7 cvss 10.0 flaws in coldfusion and campaign classic",
+    "content_hash": "39246cd102f57e4d1888a72e168166c0"
+  },
+  {
+    "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+    "normalized": "critical cursor flaws could let prompt injection escape sandbox and run commands",
+    "content_hash": "181192bbe7ed2c4a3a9b9aba8dd39de8"
+  },
+  {
+    "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+    "normalized": "progress kemp loadmaster pre-auth rce flaw faces active exploitation attempts",
+    "content_hash": "026d396bbc874f0f84ced63aacc2c1b1"
+  },
+  {
+    "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+    "normalized": "rocket report: indian startup nears first launch; spacex's millenary milestone",
+    "content_hash": "7553dfa4d88e83bb10275076f0d269d0"
+  },
+  {
+    "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders\u2019 target",
+    "normalized": "trump gets openai to offer us 5% stake, far lower than sanders' target",
+    "content_hash": "4ffcfac23bd517ee534797985caec9e5"
+  },
+  {
+    "title": "Google\u2019s AI buildout drove 37% increase in electricity use in 2025",
+    "normalized": "google's ai buildout drove 37% increase in electricity use in 2025",
+    "content_hash": "e25d3587fd4cbb46f687499bac8b3b75"
+  },
+  {
+    "title": "Termi Protocol",
+    "normalized": "termi protocol",
+    "content_hash": "5c4f7ba1ea73dcac1a4165ea31cf76c9"
+  },
+  {
+    "title": "PieterPost MCP",
+    "normalized": "pieterpost mcp",
+    "content_hash": "388c582c16c323889e255d60f57b2981"
+  },
+  {
+    "title": "Flowly",
+    "normalized": "flowly",
+    "content_hash": "5f19055d5ee4c7e4131acb1383990284"
+  },
+  {
+    "title": "Banger Mail",
+    "normalized": "banger mail",
+    "content_hash": "06ef89770bd4f0fedc0a6f031b279349"
+  },
+  {
+    "title": "Needle",
+    "normalized": "needle",
+    "content_hash": "4bf84babe76dabda6c4da4d25354704d"
+  },
+  {
+    "title": "Retrace",
+    "normalized": "retrace",
+    "content_hash": "df7ad663c9db65863d06a08c2a4d073a"
+  },
+  {
+    "title": "The square-ish phone that I wanted to love",
+    "normalized": "the square-ish phone that i wanted to love",
+    "content_hash": "20d64d8271e4d28cece4f5342ec1acc9"
+  },
+  {
+    "title": "Qi fan fan",
+    "normalized": "qi fan fan",
+    "content_hash": "9db66dd4ac089db301fb8bc3d76f57d9"
+  },
+  {
+    "title": "Amazon updated 2023\u2019s Fire HD 10 tablet with 4GB of RAM",
+    "normalized": "amazon updated 2023's fire hd 10 tablet with 4gb of ram",
+    "content_hash": "5747c416e74265f145be90154bb0afb3"
+  },
+  {
+    "title": "While you\u2019re watching the World Cup, the feds may be watching you",
+    "normalized": "while you're watching the world cup, the feds may be watching you",
+    "content_hash": "7a50f708f4e43db0f676546207585a6d"
   }
 ]
