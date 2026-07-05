@@ -1,55 +1,5 @@
 [
   {
-    "title": "Aura\u2019s impressive e-ink photo frame doesn\u2019t even look digital",
-    "normalized": "aura's impressive e-ink photo frame doesn't even look digital",
-    "content_hash": "c8d9e9b9a9b9c9d9e9f9a9b9c9d9e9f9"
-  },
-  {
-    "title": "Every fusion startup that has raised over $100M",
-    "normalized": "every fusion startup that has raised over $100m",
-    "content_hash": "d8e9f9a9b9c9d9e9f9a9b9c9d9e9f9a9"
-  },
-  {
-    "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
-    "normalized": "is the us government's anthropic ban accidentally helping the brand?",
-    "content_hash": "e9f9a9b9c9d9e9f9a9b9c9d9e9f9a9b9"
-  },
-  {
-    "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no team",
-    "normalized": "the ceo of allbirds' new ai biz has a plan, but no team",
-    "content_hash": "f9a9b9c9d9e9f9a9b9c9d9e9f9a9b9c9"
-  },
-  {
-    "title": "The US says ASML\u2019s top chip tool may be in China, but how?",
-    "normalized": "the us says asml's top chip tool may be in china, but how?",
-    "content_hash": "a9b9c9d9e9f9a9b9c9d9e9f9a9b9c9d9"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-    "normalized": "google just redesigned the search box for the first time in 25 years -- here's why it matters more than you think.",
-    "content_hash": "b9c9d9e9f9a9b9c9d9e9f9a9b9c9d9e9"
-  },
-  {
-    "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
-    "normalized": "nvidia ai introduce spatialclaw: a training-free agent that treats code as the action interface for spatial reasoning",
-    "content_hash": "c9d9e9f9a9b9c9d9e9f9a9b9c9d9e9f9"
-  },
-  {
-    "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
-    "normalized": "polymarket reportedly paid creators to post deceptive videos about fake bets",
-    "content_hash": "d9e9f9a9b9c9d9e9f9a9b9c9d9e9f9a9"
-  },
-  {
-    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-    "normalized": "beyond siri: here are the practical ai features coming to your iphone in ios 27",
-    "content_hash": "e9f9a9b9c9d9e9f9a9b9c9d9e9f9a9b9"
-  },
-  {
-    "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
-    "normalized": "signal's meredith whittaker wants you to remember that ai chatbots 'are not your friends'",
-    "content_hash": "f9a9b9c9d9e9f9a9b9c9d9e9f9a9b9c9"
-  },
-  {
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
     "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
     "content_hash": "da0fb803a3702f3abd12611d409173e2"
@@ -2423,5 +2373,130 @@
     "title": "Predicting model behavior before release by simulating deployment",
     "normalized": "predicting model behavior before release by simulating deployment",
     "content_hash": "1ed460d14e6daf5dc1ae07d13a909e46"
+  },
+  {
+    "title": "Almost 90 new unicorns have been minted so far this year \u2014 here they are",
+    "normalized": "almost 90 new unicorns have been minted so far this year -- here they are",
+    "content_hash": "da667f80e6b1d4f1f619efc41681af55"
+  },
+  {
+    "title": "Agentsnap \u2013 find which config change broke your AI agent",
+    "normalized": "agentsnap - find which config change broke your ai agent",
+    "content_hash": "027e6d0569b06af798ce8d9b278fe5f2"
+  },
+  {
+    "title": "Xbox is a disaster",
+    "normalized": "xbox is a disaster",
+    "content_hash": "b6f326579ccb95aa8f4ea1747c9d5c21"
+  },
+  {
+    "title": "JadePuffer ransomware used AI agent to automate entire attack",
+    "normalized": "jadepuffer ransomware used ai agent to automate entire attack",
+    "content_hash": "647aefe224df12a5d8bb41143fcef5ec"
+  },
+  {
+    "title": "OpenAI's apparent failure to visit key site raises questions over UK investment",
+    "normalized": "openai's apparent failure to visit key site raises questions over uk investment",
+    "content_hash": "7be70c4770621432fde7a92e6620588f"
+  },
+  {
+    "title": "Learning Multi-Agent Coordination via Sheaf-ADMM",
+    "normalized": "learning multi-agent coordination via sheaf-admm",
+    "content_hash": "8f1790303ee5434ab88960bfc7743e0c"
+  },
+  {
+    "title": "code-on-incus: Give each AI agent its own isolated machine with root",
+    "normalized": "code-on-incus: give each ai agent its own isolated machine with root",
+    "content_hash": "5aac66077ef707234ebc774824e978e6"
+  },
+  {
+    "title": "Show HN: WakaWiki, a CLI that maintains agent documentation for your codebase",
+    "normalized": "show hn: wakawiki, a cli that maintains agent documentation for your codebase",
+    "content_hash": "6eb1b8ca3f6cc1c722ee3e13fe4938ce"
+  },
+  {
+    "title": "Fidx \u2013 local semantic search in one SQLite file, no LLM at query",
+    "normalized": "fidx - local semantic search in one sqlite file, no llm at query",
+    "content_hash": "60954bedf253000058c4b6c22668ea32"
+  },
+  {
+    "title": "Ask HN: How Do You Connect OpenAI Secure MCP Tunnel with Claude Desktop",
+    "normalized": "ask hn: how do you connect openai secure mcp tunnel with claude desktop",
+    "content_hash": "8dad30fdd9f7c118cf9d9c4f6fda3c73"
+  },
+  {
+    "title": "Anthropic performing prompt injection on its users",
+    "normalized": "anthropic performing prompt injection on its users",
+    "content_hash": "d0ace6e65146f57e5c1d776a0dfcb4ce"
+  },
+  {
+    "title": "Damo Academy unveils an AI agent able to discover superconductors",
+    "normalized": "damo academy unveils an ai agent able to discover superconductors",
+    "content_hash": "df029b1b23cfc63ee0e5e62c19fc02ed"
+  },
+  {
+    "title": "\u2018Vote chori, seat chori, chanda chori\u2019: Congress attacks BJP over Ayodhya donation row",
+    "normalized": "'vote chori, seat chori, chanda chori': congress attacks bjp over ayodhya donation row",
+    "content_hash": "66ed6347f8edb7cb779aee21add95cc0"
+  },
+  {
+    "title": "CircleChat",
+    "normalized": "circlechat",
+    "content_hash": "af84219c00dfc68804d1197108b2ccc4"
+  },
+  {
+    "title": "MentionDrop MCP",
+    "normalized": "mentiondrop mcp",
+    "content_hash": "8baad7a54774910fce46474e43d15a2f"
+  },
+  {
+    "title": "TryCase",
+    "normalized": "trycase",
+    "content_hash": "3770e5c8b4c49adcdc3376eff2090e92"
+  },
+  {
+    "title": "Vizio accidentally made the best dumb TV on the market",
+    "normalized": "vizio accidentally made the best dumb tv on the market",
+    "content_hash": "fdaa533e26b4db08e29563b45fd8b597"
+  },
+  {
+    "title": "The Log is the Agent",
+    "normalized": "the log is the agent",
+    "content_hash": "beda67aa8a06fd987ad99bd8b99d809a"
+  },
+  {
+    "title": "Show HN: Gubbi \u2013 Minimalist LLM Chatbot",
+    "normalized": "show hn: gubbi - minimalist llm chatbot",
+    "content_hash": "72769117f4b1b9aec7302826891799fa"
+  },
+  {
+    "title": "Show HN: Agent Torrent, a BitTorrent inspired mesh for idle coding agents",
+    "normalized": "show hn: agent torrent, a bittorrent inspired mesh for idle coding agents",
+    "content_hash": "81ab2f3d7ab47632d068180117628d69"
+  },
+  {
+    "title": "T3MP3ST autonomous red team platform multi-agent offensive-security meta-harness",
+    "normalized": "t3mp3st autonomous red team platform multi-agent offensive-security meta-harness",
+    "content_hash": "0f4c8e8afc307cee71d5b3cd08013547"
+  },
+  {
+    "title": "Latent Collaboration in Multi-Agent Systems",
+    "normalized": "latent collaboration in multi-agent systems",
+    "content_hash": "547e70626418a0d4463f092b435727a9"
+  },
+  {
+    "title": "A Postmortem of an LLM Social Network",
+    "normalized": "a postmortem of an llm social network",
+    "content_hash": "036777c0516929bd43903a05cc6b3b3e"
+  },
+  {
+    "title": "Authors Sue Anthropic for $75M",
+    "normalized": "authors sue anthropic for $75m",
+    "content_hash": "5c925a10d5aa1ecb169cb8398bd2027f"
+  },
+  {
+    "title": "LLM's as a Different Kind of Intelligence",
+    "normalized": "llm's as a different kind of intelligence",
+    "content_hash": "8478be538bbe58cad3bafee41a00f996"
   }
 ]
