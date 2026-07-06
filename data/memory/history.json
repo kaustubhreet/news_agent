@@ -1,130 +1,5 @@
 [
   {
-    "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
-    "normalized": "robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
-    "content_hash": "bdfe519981c21c0794c74b5a0bd8d3bb"
-  },
-  {
-    "title": "Apple\u2019s most powerful Macs might be waiting until 2027 for big processor upgrades",
-    "normalized": "apple's most powerful macs might be waiting until 2027 for big processor upgrades",
-    "content_hash": "ba659dcf94dd9648e540035e4be0ccc3"
-  },
-  {
-    "title": "Trump administration asks OpenAI to stagger release of GPT 5.6",
-    "normalized": "trump administration asks openai to stagger release of gpt 5.6",
-    "content_hash": "8a4a2410137a56151ca27af6ac03096e"
-  },
-  {
-    "title": "Trump administration asks OpenAI to limit next model release",
-    "normalized": "trump administration asks openai to limit next model release",
-    "content_hash": "e77fe4880ab0aa514e8f4630ade361fa"
-  },
-  {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "normalized": "openai and broadcom unveil llm-optimized inference chip",
-    "content_hash": "c567ad0346f6bb68ed12f1aea8929a83"
-  },
-  {
-    "title": "Investing in multi-agent AI safety research",
-    "normalized": "investing in multi-agent ai safety research",
-    "content_hash": "58d5ff80f8a6d836907e866275f152d9"
-  },
-  {
-    "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-    "normalized": "agentic analysis for agentic infrastructure: an llm-powered pipeline for comparative governance of dao and corporate ai protocols",
-    "content_hash": "0c74feda9f64d9acee4197ffcafa34d2"
-  },
-  {
-    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-    "normalized": "google deepmind is worried about what happens when millions of agents start to interact",
-    "content_hash": "286c2bdcb52cdbf2e74abe761d63f116"
-  },
-  {
-    "title": "Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers",
-    "normalized": "build a nanobot-style ai agent in google colab with tool calling, session memory, skills, and mcp servers",
-    "content_hash": "234a750dc05c50e5c2da5836c4c2eed2"
-  },
-  {
-    "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
-    "normalized": "databricks' former ai chief thinks he can cut ai's power bill by 1,000x",
-    "content_hash": "dbe1bffca244621b117e4814c88290ad"
-  },
-  {
-    "title": "Rippling now wants to be your entire data stack",
-    "normalized": "rippling now wants to be your entire data stack",
-    "content_hash": "f6b01dfc63701d284c7fc26a73618bc9"
-  },
-  {
-    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-    "normalized": "netris raises $15m series a from a16z to help ai neoclouds go live faster",
-    "content_hash": "b5a5d5d2e45067a5b471665344529a46"
-  },
-  {
-    "title": "Apple raises Mac and iPad prices, spares iPhone for now",
-    "normalized": "apple raises mac and ipad prices, spares iphone for now",
-    "content_hash": "79f081b8db243a3a9fa2b3de686ac9fa"
-  },
-  {
-    "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-    "normalized": "anthropic thinks its own success is key to making ai safe",
-    "content_hash": "4c384532747b132fbacc9cf500a46a01"
-  },
-  {
-    "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-    "normalized": "why amazon dropped its openai movie, data center workers fight back, and meta leaks employee data",
-    "content_hash": "b491cdd382a38ce33b8e5727a10da477"
-  },
-  {
-    "title": "Guardian Agents: The Next Layer of Identity Governance",
-    "normalized": "guardian agents: the next layer of identity governance",
-    "content_hash": "0441e003317eafd0899d2070b4aa0c77"
-  },
-  {
-    "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
-    "normalized": "microsoft warns of photo zip phishing campaign targeting hotels with node.js implant",
-    "content_hash": "9b0ad97a88c6962f393c127d44855916"
-  },
-  {
-    "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
-    "normalized": "google details turla's new stockstay backdoor used in ukraine espionage attacks",
-    "content_hash": "abc69885156cd4f7c736373d40e8fba6"
-  },
-  {
-    "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-    "normalized": "cisco catalyst sd-wan zero-day cve-2026-20245 exploited to gain root access",
-    "content_hash": "3a797efffdd53e8b4119ec227ff7d5f0"
-  },
-  {
-    "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
-    "normalized": "amadey and stealc malware network disrupted, 27m stolen credentials recovered",
-    "content_hash": "f15ef27cd469f0da344c7cb80ea5d9a1"
-  },
-  {
-    "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-    "normalized": "fake ai agent skill passed security scans and reportedly reached 26,000 agents",
-    "content_hash": "8c282da779e4e8d49da5dc01c3e6defd"
-  },
-  {
-    "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-    "normalized": "agentic ai: the weapon that no longer needs a warrior",
-    "content_hash": "f11e45b34bb1e2b3b9030ae424dc62c1"
-  },
-  {
-    "title": "Apple&#8217;s AirPods Max 2 headphones are still $150 off \u2014 for now",
-    "normalized": "apple's airpods max 2 headphones are still $150 off -- for now",
-    "content_hash": "bb34b1f0eecd4670be1199d664183a0d"
-  },
-  {
-    "title": "Prime Day is offering rare discounts on Philips Hue smart lights",
-    "normalized": "prime day is offering rare discounts on philips hue smart lights",
-    "content_hash": "4bf84d23c75157f6deede7c195d4e481"
-  },
-  {
-    "title": "With GTA looming, consoles are getting expensive at the worst possible time",
-    "normalized": "with gta looming, consoles are getting expensive at the worst possible time",
-    "content_hash": "06ec43f81657a54fc6c77b3e07a5bb0d"
-  },
-  {
     "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
     "normalized": "why everyone from openai to spacex is building their own chips (and turning up the heat on nvidia)",
     "content_hash": "9cfb958b364c4efaded47fdb0b9d1bc0"
@@ -2498,5 +2373,130 @@
     "title": "How Preply combines AI and human tutors to personalize learning",
     "normalized": "how preply combines ai and human tutors to personalize learning",
     "content_hash": "1fc2b830b7d7863aa9f585bf10273a0a"
+  },
+  {
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
+    "content_hash": "da0fb803a3702f3abd12611d409173e2"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "normalized": "claude code costs up to $200 a month. goose does the same thing for free.",
+    "content_hash": "65248b0266dc1f08a04a2e243e5e13e8"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "normalized": "salesforce rolls out new slackbot ai agent as it battles microsoft and google in workplace ai",
+    "content_hash": "37f7465d43119228a5340488494c5cd0"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
+    "normalized": "anthropic launches cowork, a claude desktop agent that works in your files -- no coding required",
+    "content_hash": "9b4ec2bb172ef63f1cfc32c6f3255ae3"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
+    "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "normalized": "listen labs raises $69m after viral billboard hiring stunt to scale ai customer interviews",
+    "content_hash": "b38a14630ce16f4da4c5b72d4109ed41"
+  },
+  {
+    "title": "Inside the big business of the creator economy, with the agents making it happen",
+    "normalized": "inside the big business of the creator economy, with the agents making it happen",
+    "content_hash": "71e03c62bfe4d5b27e10606288102a37"
+  },
+  {
+    "title": "Bounding the Blast Radius: A Survey of Prompt-Injection Defenses for LLM Agents",
+    "normalized": "bounding the blast radius: a survey of prompt-injection defenses for llm agents",
+    "content_hash": "45c8fd5b41ef83bb6916a8e0094e7386"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+    "normalized": "\u26a1 weekly recap: proxy botnets, browser ransomware, ai agent tricks, fake poc malware and more",
+    "content_hash": "5ed62e315714b107e3beaa46fa67a431"
+  },
+  {
+    "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+    "normalized": "skillcloak lets malicious ai agent skills evade static scanners with self-extracting packing",
+    "content_hash": "c8150474584f8c011ab0e90932d73c54"
+  },
+  {
+    "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
+    "normalized": "station f ramps up as a launchpad for europe's hottest ai startups",
+    "content_hash": "8ed747957c5d4a0cab10e0eb5453da9f"
+  },
+  {
+    "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+    "normalized": "smart glasses maker even realities hits $1b valuation with $150m funding led by meituan, tencent",
+    "content_hash": "556fe0b6f99e806f48e57c6f008b0bc5"
+  },
+  {
+    "title": "Show HN: Scan your AI agents for dangerous capabilities",
+    "normalized": "show hn: scan your ai agents for dangerous capabilities",
+    "content_hash": "ce60dfe2b161d24a70ab0165120db927"
+  },
+  {
+    "title": "Show HN: Xalgorix \u2013 Autonomous AI Pentesting Agent",
+    "normalized": "show hn: xalgorix - autonomous ai pentesting agent",
+    "content_hash": "b53ce0d9beca7e250e7ad70c5c0f8e1b"
+  },
+  {
+    "title": "Agent Infra: curated resources for production AI agent infrastructure",
+    "normalized": "agent infra: curated resources for production ai agent infrastructure",
+    "content_hash": "a0cafe2d0c8b7d279351427ec8d35b4e"
+  },
+  {
+    "title": "AgentPost \u2013 async agent-to-agent messaging without hosting a receive endpoint",
+    "normalized": "agentpost - async agent-to-agent messaging without hosting a receive endpoint",
+    "content_hash": "080a4574ce0b35dd639257f66075fb32"
+  },
+  {
+    "title": "Show HN: Loopers \u2013 Open-source fail-closed firewall for AI agent runtimes",
+    "normalized": "show hn: loopers - open-source fail-closed firewall for ai agent runtimes",
+    "content_hash": "b1882c0da98f14f4adf01814589a6a98"
+  },
+  {
+    "title": "Domain-specific agents: composition against the bloated agent",
+    "normalized": "domain-specific agents: composition against the bloated agent",
+    "content_hash": "22b73b85b0b12325dbaa212c6a0f385e"
+  },
+  {
+    "title": "Show HN: Explain this \u2013 agent skills to create HTML explainer for topics or code",
+    "normalized": "show hn: explain this - agent skills to create html explainer for topics or code",
+    "content_hash": "17035e896821de127728cba928348a3f"
+  },
+  {
+    "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
+    "normalized": "microsoft is selling off four xbox studios as part of significant gaming cuts",
+    "content_hash": "7a52be3075f08103ae213c5c2cddfbf4"
+  },
+  {
+    "title": "Microsoft is laying off 4,800 employees",
+    "normalized": "microsoft is laying off 4,800 employees",
+    "content_hash": "7e70b6ff2c2481fe9f43d322b35a35b5"
+  },
+  {
+    "title": "This humanoid robotics company is going public, but its CEO isn\u2019t promising a robot in your home anytime soon",
+    "normalized": "this humanoid robotics company is going public, but its ceo isn't promising a robot in your home anytime soon",
+    "content_hash": "d8f6075f2a89d0301e2dd5c15e46134f"
+  },
+  {
+    "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+    "normalized": "how to evaluate an ai soc platform in 2026: 6 capabilities that separate leaders from bolt-on ai solutions",
+    "content_hash": "1636404a54fbe688a5535bf6093b5945"
+  },
+  {
+    "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+    "normalized": "suspected china-nexus hackers use fake indian tax filing utility to deploy dcrat",
+    "content_hash": "9bc8347cf332ccab02aa472ac5411205"
+  },
+  {
+    "title": "Hy3 (295B A21B), a reasoning and agent model with great cost efficiency",
+    "normalized": "hy3 (295b a21b), a reasoning and agent model with great cost efficiency",
+    "content_hash": "e7fdd40cef5f45cd3217a70668d712a7"
   }
 ]
