@@ -1,130 +1,5 @@
 [
   {
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
-    "normalized": "asian ai startups launch mythos-like models as anthropic's export ban drags on",
-    "content_hash": "a3a6c95d907043f9c9624cd9f19db201"
-  },
-  {
-    "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
-    "normalized": "openai previews gpt-5.6 sol with restricted access and stronger cyber safeguards",
-    "content_hash": "620fde12d57569acfa9b84aa57f2391e"
-  },
-  {
-    "title": "U.S. government restricts access to OpenAI's new AI model",
-    "normalized": "u.s. government restricts access to openai's new ai model",
-    "content_hash": "05eaeb65e993f16dc147c6efc2dd6e0c"
-  },
-  {
-    "title": "Security News This Week: LastPass Users Had Their Data Stolen\u2014Again",
-    "normalized": "security news this week: lastpass users had their data stolen--again",
-    "content_hash": "96abddf4ce061ddfcdda542dc0894cd0"
-  },
-  {
-    "title": "OpenAI launches a limited preview of GPT-5.6 for a 'small group of trusted partners'",
-    "normalized": "openai launches a limited preview of gpt-5.6 for a 'small group of trusted partners'",
-    "content_hash": "32e1eff729d9cba137a00cdb083918f7"
-  },
-  {
-    "title": "Inside the room where the smart home industry is still betting on Matter",
-    "normalized": "inside the room where the smart home industry is still betting on matter",
-    "content_hash": "5e954cadc50e8644285e0d7354fe68bb"
-  },
-  {
-    "title": "This puzzle game&#8217;s simple premise hides surprising depth",
-    "normalized": "this puzzle game's simple premise hides surprising depth",
-    "content_hash": "24168854c865049c4cb22689a73d1e2f"
-  },
-  {
-    "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
-    "normalized": "u.s. allows anthropic to release mythos ai to 'trusted' us organizations",
-    "content_hash": "8f3deb858b02d15bc9cb81afdca81ccb"
-  },
-  {
-    "title": "Show HN: Hacker News on a train station-style flip board",
-    "normalized": "show hn: hacker news on a train station-style flip board",
-    "content_hash": "22549f406c0d442c17830725e93b3025"
-  },
-  {
-    "title": "The gap between open weights LLMs and closed source LLMs",
-    "normalized": "the gap between open weights llms and closed source llms",
-    "content_hash": "70004fdc22eeb064a805bfc47465214c"
-  },
-  {
-    "title": "Show HN: Nirnam \u2013 a browser-native message bus and AI agent framework for MFEs",
-    "normalized": "show hn: nirnam - a browser-native message bus and ai agent framework for mfes",
-    "content_hash": "29d881ec2c655c6e5890be42abd52bb5"
-  },
-  {
-    "title": "Everyone Will Have an AI Coding Agent",
-    "normalized": "everyone will have an ai coding agent",
-    "content_hash": "43ef15c15d898d5444869896e85f69b3"
-  },
-  {
-    "title": "Ask HN: How do we measure software in LLM era?",
-    "normalized": "ask hn: how do we measure software in llm era?",
-    "content_hash": "062e43e9854d769b2f15f316157838de"
-  },
-  {
-    "title": "Apple's Vision Pro and Smart Glasses Chief to Join OpenAI",
-    "normalized": "apple's vision pro and smart glasses chief to join openai",
-    "content_hash": "ea149080aae215db6e95d95769383af1"
-  },
-  {
-    "title": "Show HN: OpenClaw Launch \u2013 deploy a managed OpenClaw AI agent in 30s",
-    "normalized": "show hn: openclaw launch - deploy a managed openclaw ai agent in 30s",
-    "content_hash": "8d9f30d12ca3c8b6a396f38820a6d58a"
-  },
-  {
-    "title": "Apple Loses Another Top Executive to OpenAI",
-    "normalized": "apple loses another top executive to openai",
-    "content_hash": "a9ab0406c12cda3b2975ab246814080f"
-  },
-  {
-    "title": "Promptetheus \u2013 Trace, detect, and auto-repair AI agent failures",
-    "normalized": "promptetheus - trace, detect, and auto-repair ai agent failures",
-    "content_hash": "b0b0895800e2c0a11a6a3ced7159e5cc"
-  },
-  {
-    "title": "Coding agent harness written in native Golang with built-in file and Git viewer",
-    "normalized": "coding agent harness written in native golang with built-in file and git viewer",
-    "content_hash": "3c03aecdbfe49b29b7736d5204f36507"
-  },
-  {
-    "title": "TUI email client in native Golang with LLM based drafting functions",
-    "normalized": "tui email client in native golang with llm based drafting functions",
-    "content_hash": "b505087b866f8a83cd79e2f5ae3ea48c"
-  },
-  {
-    "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
-    "normalized": "us allows anthropic to release mythos ai to 'trusted' us organizations",
-    "content_hash": "ca02f7157d523be85d6d2481bb5fa08d"
-  },
-  {
-    "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-    "normalized": "cybersecurity firms targeted by fraudulent openai organization invites",
-    "content_hash": "740d2973e3e9545e8c0765dcdae7cc3a"
-  },
-  {
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "normalized": "previewing gpt-5.6 sol: a next-generation model",
-    "content_hash": "0a36b89b514101ddac57af3aa0114498"
-  },
-  {
-    "title": "How agents are transforming work",
-    "normalized": "how agents are transforming work",
-    "content_hash": "ee5cf8725a1b3bf1020d50f34b8d13ac"
-  },
-  {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "normalized": "daybreak: tools for securing every organization in the world",
-    "content_hash": "6f92d373ec18b2ecc07cb0cdcb8f743e"
-  },
-  {
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "normalized": "samsung electronics brings chatgpt and codex to employees",
-    "content_hash": "e7188b81aaae04a583f704e894820f45"
-  },
-  {
     "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
     "normalized": "apple vision pro exec is reportedly leaving for openai",
     "content_hash": "e3bdbfb37e2d20bb3a9420fa5554a68a"
@@ -2498,5 +2373,130 @@
     "title": "Bentley Torcal EV: Price, Specs, Availability",
     "normalized": "bentley torcal ev: price, specs, availability",
     "content_hash": "ecbca2264a6866c48c12a59797df7224"
+  },
+  {
+    "title": "Xbox\u2019s bold plan for the future sounds nearly impossible",
+    "normalized": "xbox's bold plan for the future sounds nearly impossible",
+    "content_hash": "1ced2df9106b79d3207c0f7b579c9eb4"
+  },
+  {
+    "title": "This startup pits dealerships against each other to bid on your used car",
+    "normalized": "this startup pits dealerships against each other to bid on your used car",
+    "content_hash": "9d82187e1052bdc24b08dbfce8ad161b"
+  },
+  {
+    "title": "Savi\u2019s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+    "normalized": "savi's app aims to protect consumers from realistic ai scams like kidnappers demanding ransom",
+    "content_hash": "2258939c7217824c71822353b0e986d5"
+  },
+  {
+    "title": "Show HN: Open-source desktop agent that uses a local folder as its memory",
+    "normalized": "show hn: open-source desktop agent that uses a local folder as its memory",
+    "content_hash": "ebd45255daa9bbe9a23660e6be713caf"
+  },
+  {
+    "title": "RealityPatch \u2013 OpenAI-compatible gateway to mainland China-hosted LLMs",
+    "normalized": "realitypatch - openai-compatible gateway to mainland china-hosted llms",
+    "content_hash": "c84ebbcfb2be366303618c207cd33cbc"
+  },
+  {
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "normalized": "the first american autonomous ground vehicles are fighting in ukraine",
+    "content_hash": "4bac221b91e6266fa2b72c194ac9f05a"
+  },
+  {
+    "title": "British Space Startup Launches Longevity Lab Into Orbit",
+    "normalized": "british space startup launches longevity lab into orbit",
+    "content_hash": "c73673ec151ebcd13ed909d181d573af"
+  },
+  {
+    "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+    "normalized": "court filing reveals windows device id helped fbi trace alleged scattered spider hacker",
+    "content_hash": "0dc6022f06dd68b8ba953b909d4ec43b"
+  },
+  {
+    "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+    "normalized": "writer ai flaw could let agent previews leak session tokens across tenants",
+    "content_hash": "883b313a37c2604c1c03d453a60b6901"
+  },
+  {
+    "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+    "normalized": "suspected china-aligned hackers exploit roundcube flaws against universities",
+    "content_hash": "b61d5e5093028f235731ac18c64a5f86"
+  },
+  {
+    "title": "Microsoft fixes storage-hogging Windows 11 folder",
+    "normalized": "microsoft fixes storage-hogging windows 11 folder",
+    "content_hash": "39209dddb2071a4ee481826d994400c1"
+  },
+  {
+    "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+    "normalized": "solos debuts an even lighter version of its camera-less smart glasses",
+    "content_hash": "417df56788c85dcfbb7bf636b92853e7"
+  },
+  {
+    "title": "Google Search lets creators know more about their reach",
+    "normalized": "google search lets creators know more about their reach",
+    "content_hash": "a94ce6c683be4c8b91345c9779130e39"
+  },
+  {
+    "title": "iFixit has a new toolkit for fixing appliances, building furniture, and household repairs",
+    "normalized": "ifixit has a new toolkit for fixing appliances, building furniture, and household repairs",
+    "content_hash": "b6e8a32a103d490d40a4f73a73e922cf"
+  },
+  {
+    "title": "Marshall upgrades the bass and repairability of two wireless speakers",
+    "normalized": "marshall upgrades the bass and repairability of two wireless speakers",
+    "content_hash": "0f13b7c44192e248176a349f6daca10d"
+  },
+  {
+    "title": "Nothing\u2019s new earbuds can record calls and what you\u2019re listening to",
+    "normalized": "nothing's new earbuds can record calls and what you're listening to",
+    "content_hash": "67ff72e57aaada8d209a984b2cb6ff97"
+  },
+  {
+    "title": "Observability Design for the AI Era \u2013 App, Infra, CI, LLM (Part 1)",
+    "normalized": "observability design for the ai era - app, infra, ci, llm (part 1)",
+    "content_hash": "5613939c242b5895d82ee26a3a91c807"
+  },
+  {
+    "title": "Show HN: AI Trading Agent via WhatsApp",
+    "normalized": "show hn: ai trading agent via whatsapp",
+    "content_hash": "ea292dbf895830ed794602016603b89c"
+  },
+  {
+    "title": "AI Agent using a Burp-style toolkit over MCP",
+    "normalized": "ai agent using a burp-style toolkit over mcp",
+    "content_hash": "4006d181078aa7507565830cbb9f04dc"
+  },
+  {
+    "title": "Show HN: I Built PixelGlass \u2013 An AI Agent for Building Ghost Themes",
+    "normalized": "show hn: i built pixelglass - an ai agent for building ghost themes",
+    "content_hash": "7f5781fdbcb4f65b858993d5de223148"
+  },
+  {
+    "title": "Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections",
+    "normalized": "persistent control of self-evolving llm agents via self-reinforcing injections",
+    "content_hash": "fac721bac373a040338000cec5fb5a35"
+  },
+  {
+    "title": "Show HN: Access-aware text-to-SQL \u2013 stop LLM agents overfetching data",
+    "normalized": "show hn: access-aware text-to-sql - stop llm agents overfetching data",
+    "content_hash": "da0074af4eb2be2d47bdf187218a22e1"
+  },
+  {
+    "title": "Show HN: Shadow Web \u2013 Cut 64\u201397% of web page tokens for LLM agents",
+    "normalized": "show hn: shadow web - cut 64-97% of web page tokens for llm agents",
+    "content_hash": "5f47fcf1fcfbd763f96d423492dc5b65"
+  },
+  {
+    "title": "Oikoumene: Autonomous Agent Civilization Simulator",
+    "normalized": "oikoumene: autonomous agent civilization simulator",
+    "content_hash": "236df6cbcdc0c3e7ee35d161820547d9"
+  },
+  {
+    "title": "Family's $300 Stake in OpenAI",
+    "normalized": "family's $300 stake in openai",
+    "content_hash": "91fc8180bb851e940477509612df99c9"
   }
 ]
