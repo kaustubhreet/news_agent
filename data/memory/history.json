@@ -1,130 +1,5 @@
 [
   {
-    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-    "normalized": "why everyone from openai to spacex is building their own chips (and turning up the heat on nvidia)",
-    "content_hash": "9cfb958b364c4efaded47fdb0b9d1bc0"
-  },
-  {
-    "title": "Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics",
-    "normalized": "building supervised fine-tuning data from nvidia open-swe-traces: trajectory parsing, patch analysis, token budgets, and tool-use metrics",
-    "content_hash": "9592dc93358e42ea19651aebc46d9c04"
-  },
-  {
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
-    "normalized": "openai limits gpt-5.6 rollout after government request, says restrictions shouldn't be the norm",
-    "content_hash": "a906e051091a482affab4aa338f572b2"
-  },
-  {
-    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-    "normalized": "openai poaches uber india chief to lead its biggest market outside the us",
-    "content_hash": "ba777fa11bc1f56525c34b500e31d302"
-  },
-  {
-    "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
-    "normalized": "it's not about anthropic vs. openai anymore",
-    "content_hash": "b3d8c7a3e7b2975a58d9a1a623e7cfd1"
-  },
-  {
-    "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
-    "normalized": "after covering prime day for 36 hours over four days, this is the one thing i bought",
-    "content_hash": "9e364cf81ec3d8361eaac9bf97e80f6a"
-  },
-  {
-    "title": "Join .agent \u2013 Pre-Register Your Domain Free",
-    "normalized": "join .agent - pre-register your domain free",
-    "content_hash": "78269ee054491b085e9b87d9b5f46d04"
-  },
-  {
-    "title": "Show HN: I scanned 87 MCP servers for agent-authority hygiene \u2013 leaderboard",
-    "normalized": "show hn: i scanned 87 mcp servers for agent-authority hygiene - leaderboard",
-    "content_hash": "fdcea410acb7b3bcabe1eac73ec3d8a0"
-  },
-  {
-    "title": "I removed the vector database from my AI agent stack",
-    "normalized": "i removed the vector database from my ai agent stack",
-    "content_hash": "78d05754ed3ef5739dc91c04fe63f1d7"
-  },
-  {
-    "title": "Ask HN: Anthropic Billing Issues?",
-    "normalized": "ask hn: anthropic billing issues?",
-    "content_hash": "ccf6c65c96b5dc312cf72a2f9cb95e08"
-  },
-  {
-    "title": "OpenAI Has New AI Models. Here\u2019s Why You Can\u2019t Use Them",
-    "normalized": "openai has new ai models. here's why you can't use them",
-    "content_hash": "3f70897a404b94f7513bb9be60ff89e8"
-  },
-  {
-    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn\u2019t steal an open source product",
-    "normalized": "corgi, the buzzy y combinator-backed insurance tech startup, says it didn't steal an open source product",
-    "content_hash": "429ed755ee6d944a3355b43db5c75a96"
-  },
-  {
-    "title": "These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in",
-    "normalized": "these are the best deals you can still get on macbooks before apple's price hike kicks in",
-    "content_hash": "6fcf1551e75208a3e6e1fb19e6e2c41a"
-  },
-  {
-    "title": "Enterprise AI customers pulling back from OpenAI and Anthropic as costs mount",
-    "normalized": "enterprise ai customers pulling back from openai and anthropic as costs mount",
-    "content_hash": "ff831508ac87c193caa040211e70f194"
-  },
-  {
-    "title": "$5k in compute and LLM credits on JackHamr for the first 30 qualified startups",
-    "normalized": "$5k in compute and llm credits on jackhamr for the first 30 qualified startups",
-    "content_hash": "644d68b2f7aa58581f4c0abff1d4dc32"
-  },
-  {
-    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
-    "normalized": "openai previews gpt-5.6 with sol, terra, and luna: tiered models, new reasoning modes, limited access",
-    "content_hash": "c2282314ef16eecb2dbc1d8016d17248"
-  },
-  {
-    "title": "From Local LLM to Tool-Using Agent",
-    "normalized": "from local llm to tool-using agent",
-    "content_hash": "08183bda81d91a1fd54f731f72b88b43"
-  },
-  {
-    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-    "normalized": "trump admin releases anthropic mythos to be used by more than 100 us companies, agencies",
-    "content_hash": "a2d54e7b8df53ac06cb00fdcbf9090f2"
-  },
-  {
-    "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-    "normalized": "ftc gives musk the ok to acquire spacex alumni startup mesh",
-    "content_hash": "51f96be8b9d64e0ca35e0879e6e37ab6"
-  },
-  {
-    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-    "normalized": "trump administration allows anthropic to release mythos to select us organizations",
-    "content_hash": "8ab7dbd5081c91a7aa208d2144504b83"
-  },
-  {
-    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-    "normalized": "nyt slams microsoft for building copyright-infringing supercomputer for openai",
-    "content_hash": "c0f3d1cb1441d9e8faddacf7adc58572"
-  },
-  {
-    "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
-    "normalized": "the 17 best robot vacuum deals you can still get before prime day ends",
-    "content_hash": "916005acd41df62b8929b41a80fe50c0"
-  },
-  {
-    "title": "Anthropic&#8217;s Mythos 5 is back",
-    "normalized": "anthropic's mythos 5 is back",
-    "content_hash": "db5a629f6f486fd39e4ae21d9b8252d4"
-  },
-  {
-    "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
-    "normalized": "prime day is almost over, but these are still the best apple deals i've seen",
-    "content_hash": "5f19b0def32850e1bd1908a6efba9837"
-  },
-  {
-    "title": "It\u2019s the last day of Prime Day \u2014 here are over 140 great deals to choose from",
-    "normalized": "it's the last day of prime day -- here are over 140 great deals to choose from",
-    "content_hash": "6d9c8b90c7fd18d25ebe12f35139998c"
-  },
-  {
     "title": "Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
     "normalized": "asian ai startups launch mythos-like models as anthropic's export ban drags on",
     "content_hash": "a3a6c95d907043f9c9624cd9f19db201"
@@ -2498,5 +2373,130 @@
     "title": "Hy3 (295B A21B), a reasoning and agent model with great cost efficiency",
     "normalized": "hy3 (295b a21b), a reasoning and agent model with great cost efficiency",
     "content_hash": "e7fdd40cef5f45cd3217a70668d712a7"
+  },
+  {
+    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+    "normalized": "microsoft lays off nearly 5,000 employees across xbox, commercial sales",
+    "content_hash": "1c3d981b36532eb0d507613b4bad1f1c"
+  },
+  {
+    "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
+    "normalized": "the 'first' ai-run ransomware attack still needed a human",
+    "content_hash": "939ebc55d1b68b18947e8748ec6133fc"
+  },
+  {
+    "title": "Every major tech layoff in 2026 that has name-checked AI",
+    "normalized": "every major tech layoff in 2026 that has name-checked ai",
+    "content_hash": "b2de0e677e78dd617dc8a638dc1351f2"
+  },
+  {
+    "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out.",
+    "normalized": "if you use google, you're training its ai. here's how to opt out.",
+    "content_hash": "f4a4a0c986e4c39c7775ebc5d5e5c542"
+  },
+  {
+    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+    "normalized": "reddit is using llms to solve a problem llms largely created",
+    "content_hash": "b38d0efe8a5310a51ad3b6dc0fa6a2c4"
+  },
+  {
+    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "normalized": "officecli: office suite for ai agents to read and edit microsoft office files",
+    "content_hash": "ae57229100d9b3953ba89815c073cec4"
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "normalized": "openai and broadcom unveil llm-optimized inference chip",
+    "content_hash": "c567ad0346f6bb68ed12f1aea8929a83"
+  },
+  {
+    "title": "Investing in multi-agent AI safety research",
+    "normalized": "investing in multi-agent ai safety research",
+    "content_hash": "f15755133eca743d3794b7838c5bb1fa"
+  },
+  {
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "normalized": "us investors will soon get access to sk hynix, another memory maker riding the ai boom",
+    "content_hash": "fad76603199b0becd2c025d8650ce4e6"
+  },
+  {
+    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+    "normalized": "vercel ceo guillermo rauch on the fight to split off models from agents",
+    "content_hash": "26e5c60db0ad2fa5b360998dd4e00f31"
+  },
+  {
+    "title": "You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
+    "normalized": "you can now customize siri's pace and expressivity in the latest ios 27 beta",
+    "content_hash": "ad0f804b280643d3a4c2a27e99df162a"
+  },
+  {
+    "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
+    "normalized": "amazon competitor bookshop.org says kobo ereader support will happen this year after all",
+    "content_hash": "d6b8d0cf4804eab77d77f8cec82155b9"
+  },
+  {
+    "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
+    "normalized": "apple brings back card payments for apple account purchases in india after a four-year hiatus",
+    "content_hash": "4c957e2d214dc2d222df3f126f127d82"
+  },
+  {
+    "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
+    "normalized": "hoto's pixeldrive screwdriver is down to $60, matching its best price",
+    "content_hash": "0ea1b9b4565058e0242a4713442aada2"
+  },
+  {
+    "title": "America\u2019s greatest idea is still under threat",
+    "normalized": "america's greatest idea is still under threat",
+    "content_hash": "1c7452386952412eba8380877a1927b9"
+  },
+  {
+    "title": "Five questions for Dr. Rubin, who\u2019s armed with a mic and a bowtie",
+    "normalized": "five questions for dr. rubin, who's armed with a mic and a bowtie",
+    "content_hash": "f8603d46ed98ecb1a6e54848b85a5632"
+  },
+  {
+    "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
+    "normalized": "former xbox studios double fine and compulsion will keep games after going indie",
+    "content_hash": "5f7df9ed69eb1ba89448269ae655d60e"
+  },
+  {
+    "title": "The DJI Osmo Pocket 3 lookalike is down to $329",
+    "normalized": "the dji osmo pocket 3 lookalike is down to $329",
+    "content_hash": "7b9996ebaf7c19f8bcf3dfe228c45b2b"
+  },
+  {
+    "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+    "normalized": "stealth robotics startup (yc s26) is hiring principal engineers (palo alto)",
+    "content_hash": "96960bd38edb83e1b0f944a03e6279b8"
+  },
+  {
+    "title": "LLMs Are Not a Default Execution Engine",
+    "normalized": "llms are not a default execution engine",
+    "content_hash": "f1a7b4cf22dfdbd880ae2ff6bfc9b228"
+  },
+  {
+    "title": "Run MiniMax models on Amazon Bedrock",
+    "normalized": "run minimax models on amazon bedrock",
+    "content_hash": "9d2807e7955e1aa4784f3c3cbd292618"
+  },
+  {
+    "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+    "normalized": "netflix invented binge-watching. now it may have outgrown it.",
+    "content_hash": "a58acaa7abe015add611e9401f2a3e8a"
+  },
+  {
+    "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
+    "normalized": "canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
+    "content_hash": "42816d191b315e57c2a971d436a54adb"
+  },
+  {
+    "title": "How to reserve and change your WhatsApp username",
+    "normalized": "how to reserve and change your whatsapp username",
+    "content_hash": "2df0112014f111546d4147fee2dbc366"
+  },
+  {
+    "title": "Bentley Torcal EV: Price, Specs, Availability",
+    "normalized": "bentley torcal ev: price, specs, availability",
+    "content_hash": "ecbca2264a6866c48c12a59797df7224"
   }
 ]
