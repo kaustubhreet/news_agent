@@ -1,130 +1,5 @@
 [
   {
-    "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-    "normalized": "this humanoid robot is a terrifyingly competent office intern",
-    "content_hash": "0835d38c37fbf912a224435b21c36fde"
-  },
-  {
-    "title": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
-    "normalized": "normact: a benchmark for hidden social norm compliance in embodied planning",
-    "content_hash": "378cd145eda0f728b0c5e4363441ca79"
-  },
-  {
-    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-    "normalized": "robot hand company settles tesla trade secret suit and announces $11m raise",
-    "content_hash": "4e5485e6090ff05e23950d6c8c9c102c"
-  },
-  {
-    "title": "Omen AI\u2019s plan to optimize data centers is all wet",
-    "normalized": "omen ai's plan to optimize data centers is all wet",
-    "content_hash": "ad2052c3e7a8e24fd56482dc0aa3a7a6"
-  },
-  {
-    "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
-    "normalized": "grounded iterative language planning: how parameterized world models reduce hallucination propagation in llm agents",
-    "content_hash": "2387f8c7764270ccdccb23b9dfe959be"
-  },
-  {
-    "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
-    "normalized": "rocket lab continues buying spree by acquiring satellite company iridium",
-    "content_hash": "ebd7bf9766ca0f6cef9c5f7eef29b1e3"
-  },
-  {
-    "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
-    "normalized": "pocket raises $11m in bet on rising demand for ai note-taking devices",
-    "content_hash": "6f67224e563edba7f64e776d1d0ead4a"
-  },
-  {
-    "title": "Flipper Device\u2019s new Busy Bar is a customizable display for productivity",
-    "normalized": "flipper device's new busy bar is a customizable display for productivity",
-    "content_hash": "272cf54342fa515d1c9a791c2ec34c87"
-  },
-  {
-    "title": "Top Google Security Staff Warn Search Data Could Be Hacked if EU Rules Change",
-    "normalized": "top google security staff warn search data could be hacked if eu rules change",
-    "content_hash": "18f23f05612b92df271b19f626c17df3"
-  },
-  {
-    "title": "Let him cook: How Weber Blackstone CEO Roger Dahle went from upstart to the biggest name in grilling",
-    "normalized": "let him cook: how weber blackstone ceo roger dahle went from upstart to the biggest name in grilling",
-    "content_hash": "5611d503162a5b152302a20ebe5147d1"
-  },
-  {
-    "title": "The Flipper Zero creators\u2019 Busy Bar productivity display will go on sale next month",
-    "normalized": "the flipper zero creators' busy bar productivity display will go on sale next month",
-    "content_hash": "6fb130a6d2a558c29dfed44fa613fbeb"
-  },
-  {
-    "title": "Comcast is splitting in two",
-    "normalized": "comcast is splitting in two",
-    "content_hash": "14023e4bd56fdf124ddd41047fd6a518"
-  },
-  {
-    "title": "The war against &#8216;woke&#8217; could end US science as we know it",
-    "normalized": "the war against 'woke' could end us science as we know it",
-    "content_hash": "85eb462af80e75982960bfe2e3dc4fdc"
-  },
-  {
-    "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-    "normalized": "when does personality composition matter for multi-agent llm teams?",
-    "content_hash": "1b2d5e6938ed00ad5e802dc3d4e4816c"
-  },
-  {
-    "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
-    "normalized": "internalizing the future: a unified agentic training paradigm for world model planning",
-    "content_hash": "47c8819c626c80223e327fd32b8480d5"
-  },
-  {
-    "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
-    "normalized": "toe: a hierarchical and explainable claim verification framework with dynamic multi-source evidence retrieval and aggregation",
-    "content_hash": "1557e5183b3a418ffc91b938ffedc0e0"
-  },
-  {
-    "title": "Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing",
-    "normalized": "verifiable geometry problem solving: solver-driven autoformalization and theorem proposing",
-    "content_hash": "40b17b3634f56013a2a478213e815d8c"
-  },
-  {
-    "title": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
-    "normalized": "jd oxygen ai item center (oxygen aiic) v1: an industrial-scale llm/vlm-centric solution for item understanding, management, and applications",
-    "content_hash": "79442bf67c6bb4f6f796222fa1d0aac5"
-  },
-  {
-    "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
-    "normalized": "agent-native immune system: architecture, taxonomy, and engineering",
-    "content_hash": "1e84f3404aaab580230d45102b017f1f"
-  },
-  {
-    "title": "CalBrief: A Pilot Diagnostic Benchmark for Evidence-Calibrated Scientific Briefing with Large Language Models",
-    "normalized": "calbrief: a pilot diagnostic benchmark for evidence-calibrated scientific briefing with large language models",
-    "content_hash": "e7917f839abafa5bb239490acc2a1ced"
-  },
-  {
-    "title": "COOPA: A Modular LLM Agent Architecture for Operations Research Problems",
-    "normalized": "coopa: a modular llm agent architecture for operations research problems",
-    "content_hash": "92173c648c56fbdd70b02fedb92a41fb"
-  },
-  {
-    "title": "Robin Byrd, the Sex Godmother of Millennials, Says the Internet Ruined Porn",
-    "normalized": "robin byrd, the sex godmother of millennials, says the internet ruined porn",
-    "content_hash": "4d4d82455c4d9de1838e6419d62bc368"
-  },
-  {
-    "title": "Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App",
-    "normalized": "yeasound ric800 hearing aids review: good audio, glitchy app",
-    "content_hash": "12a7e2459d3662bc1d802a39eb3489c5"
-  },
-  {
-    "title": "Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory",
-    "normalized": "truckloads of tesla batteries keep getting stolen before they even leave the factory",
-    "content_hash": "b029016fc9e7c4d70a624a84e7393d69"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-    "normalized": "\u26a1 weekly recap: linux kernel flaws, ai malware tricks, turla backdoor, infostealers and more",
-    "content_hash": "97abfcae2a05ae28dc41d00f45070dcd"
-  },
-  {
     "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
     "normalized": "anthropic and gov. newsom forge deal allowing california government to use claude at half price",
     "content_hash": "5236ad8a16ab128a611055633fd11844"
@@ -2498,5 +2373,130 @@
     "title": "Meta is reportedly working on smart glasses that would be recording all the time",
     "normalized": "meta is reportedly working on smart glasses that would be recording all the time",
     "content_hash": "2bf985ee497f19f6e2361a17d2b065ac"
+  },
+  {
+    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+    "normalized": "nandan nilekani leaves gp role at fundamentum as it launches $200m third fund",
+    "content_hash": "c1a10af7dea7611ed64b480b541a7144"
+  },
+  {
+    "title": "Top\u00a0AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+    "normalized": "top ai agents built to catch malicious code can be tricked into running it",
+    "content_hash": "f5b5b519d08d6bb530dede02fc49c71c"
+  },
+  {
+    "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+    "normalized": "ghostapproval symlink flaws could let malicious repos run code in ai coding agents",
+    "content_hash": "13b80349ad78c84ec3d81d29b5d2db71"
+  },
+  {
+    "title": "Say hello to Claude Wrapped",
+    "normalized": "say hello to claude wrapped",
+    "content_hash": "37b9719127fb9b3b23dc86931026f0ac"
+  },
+  {
+    "title": "Character.AI wants a piece of the microdrama pie",
+    "normalized": "character.ai wants a piece of the microdrama pie",
+    "content_hash": "f77a8dfc388c806ab3f63b8adb3360f0"
+  },
+  {
+    "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+    "normalized": "fl studio 2026 turns its ai chatbot into your assistant engineer",
+    "content_hash": "b72c396727aa7a99ed96c813b82a5e38"
+  },
+  {
+    "title": "Show HN: Slopera, a browser that hallucinates every page with an LLM",
+    "normalized": "show hn: slopera, a browser that hallucinates every page with an llm",
+    "content_hash": "eefc7e59767d5009833f87b61106c2c4"
+  },
+  {
+    "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+    "normalized": "evaluating sagemath-augmented llm agents for computational and experimental mathematics",
+    "content_hash": "99cf176c551f4892a61f6b1861d69b92"
+  },
+  {
+    "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
+    "normalized": "operational reframing and approval-framed delegation in multi-agent llm safety",
+    "content_hash": "fba65919de1d88bef53dc78345062312"
+  },
+  {
+    "title": "Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents",
+    "normalized": "reason less, verify more: deterministic gates recover a silent policy-violation failure mode in tool-using llm agents",
+    "content_hash": "d2ad94ca3c1daa4b1d70608c63c1f3a4"
+  },
+  {
+    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+    "normalized": "popular open source ai developer tool ollama raises $65m, grows to nearly 9m users",
+    "content_hash": "a57f7133d9bf11dec5defed86dfab020"
+  },
+  {
+    "title": "Character.AI enters the microdrama arena with its own productions, but there\u2019s a twist",
+    "normalized": "character.ai enters the microdrama arena with its own productions, but there's a twist",
+    "content_hash": "33845aa4f1db7b66952d5b11bc0ab698"
+  },
+  {
+    "title": "Truecaller clashes with India\u2019s telecom regulator over anti-spam rules",
+    "normalized": "truecaller clashes with india's telecom regulator over anti-spam rules",
+    "content_hash": "90acfee83082f511b35a72ed3eade797"
+  },
+  {
+    "title": "Best Microsoft Surface Laptop (2026): Which Model to Buy or Avoid",
+    "normalized": "best microsoft surface laptop (2026): which model to buy or avoid",
+    "content_hash": "1bb1d9c7f1f46e407ba76a975b674577"
+  },
+  {
+    "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
+    "normalized": "microsoft patches rogueplanet defender flaw that can grant system privileges",
+    "content_hash": "9a72bac1da057369b05edb7cb04d7984"
+  },
+  {
+    "title": "GPT-Live",
+    "normalized": "gpt-live",
+    "content_hash": "f8919836b591804112494f3a68e50f30"
+  },
+  {
+    "title": "Sonos Ace wireless headphones are steeply discounted",
+    "normalized": "sonos ace wireless headphones are steeply discounted",
+    "content_hash": "1096ef8e1f66dff3103292adc3a61c72"
+  },
+  {
+    "title": "The PocketMage resurrects the PDA with an e-paper screen",
+    "normalized": "the pocketmage resurrects the pda with an e-paper screen",
+    "content_hash": "c7da01c1c80e3befb040e07999c71022"
+  },
+  {
+    "title": "Sony brings back the superzoom RX10 with a stacked sensor and a high price",
+    "normalized": "sony brings back the superzoom rx10 with a stacked sensor and a high price",
+    "content_hash": "6dc78c8df2fd7899bb23aa3eb3df403c"
+  },
+  {
+    "title": "Comcast is breaking up with NBCU. Why did it ever buy it in the first place?",
+    "normalized": "comcast is breaking up with nbcu. why did it ever buy it in the first place?",
+    "content_hash": "ba40441e4a9d0ab20fc5bfc926d03af6"
+  },
+  {
+    "title": "Meta says its new AI model is ready to compete on coding",
+    "normalized": "meta says its new ai model is ready to compete on coding",
+    "content_hash": "8b8bd6da26e6227cf428980f026e08eb"
+  },
+  {
+    "title": "ICE agents are making house calls for online critics",
+    "normalized": "ice agents are making house calls for online critics",
+    "content_hash": "3a57504719ac06d9a6369790b1cd1830"
+  },
+  {
+    "title": "Show HN: FableCut \u2013 A browser video editor AI agents can drive (zero deps)",
+    "normalized": "show hn: fablecut - a browser video editor ai agents can drive (zero deps)",
+    "content_hash": "27d2782741f34f62d87e8d4a5bfca6bf"
+  },
+  {
+    "title": "Separating signal from noise in coding evaluations",
+    "normalized": "separating signal from noise in coding evaluations",
+    "content_hash": "45bf0da3fd8e38ec4b7fec96d454d31c"
+  },
+  {
+    "title": "Email as an agent tool: MCP, the SDK, or your own webhook \u2013 MailKite",
+    "normalized": "email as an agent tool: mcp, the sdk, or your own webhook - mailkite",
+    "content_hash": "229f7978e5b77e4772e332d6cd02dc2c"
   }
 ]
