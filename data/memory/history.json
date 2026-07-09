@@ -1,130 +1,5 @@
 [
   {
-    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-    "normalized": "why wall street thinks us memory maker micron is the next nvidia",
-    "content_hash": "df04fb49b6b788d3ab76c3a8ce2ca992"
-  },
-  {
-    "title": "China\u2019s Z.ai claims it can match Mythos on cybersecurity",
-    "normalized": "china's z.ai claims it can match mythos on cybersecurity",
-    "content_hash": "28ae459d467446d3a23e59ab4a61ed67"
-  },
-  {
-    "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short",
-    "normalized": "ford rehires 'gray beard' engineers after ai falls short",
-    "content_hash": "8b7799761bc5ca287900ec33b71d5353"
-  },
-  {
-    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-    "normalized": "prosecutors used chatgpt logs as evidence in the palisades fire trial",
-    "content_hash": "1fd41f66aaecafaf4d6f77ab8c65cdae"
-  },
-  {
-    "title": "Writer Ian Bogost says \u2018The Small Stuff\u2019 can help us reclaim our lives from too much convenience",
-    "normalized": "writer ian bogost says 'the small stuff' can help us reclaim our lives from too much convenience",
-    "content_hash": "f5d7d4ee3ff6ee963293f5b8b9b511f8"
-  },
-  {
-    "title": "TechCrunch Mobility: All eyes on Tesla FSD",
-    "normalized": "techcrunch mobility: all eyes on tesla fsd",
-    "content_hash": "46a937843a38426bf56f0cb0578c6ee2"
-  },
-  {
-    "title": "Govee\u2019s smart nugget ice maker makes every iced drink feel like a luxury",
-    "normalized": "govee's smart nugget ice maker makes every iced drink feel like a luxury",
-    "content_hash": "efe43c25218d9da8a9368a8779e9485a"
-  },
-  {
-    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-    "normalized": "suno launches spark incubator program to feed independent artists to its ai machine",
-    "content_hash": "f13fed3a02db938f886354ba594b9249"
-  },
-  {
-    "title": "China claims the world&#8217;s fastest supercomputer",
-    "normalized": "china claims the world's fastest supercomputer",
-    "content_hash": "1b84f592572073de8f5e1f605fa91b11"
-  },
-  {
-    "title": "Show HN: I Made a WebGPU Based Agent/Worlflow Explainer",
-    "normalized": "show hn: i made a webgpu based agent/worlflow explainer",
-    "content_hash": "852accbe8305a52f19fc0a288febe145"
-  },
-  {
-    "title": "Google: An 8-minute step-by-step guide to building the smallest Agent loop",
-    "normalized": "google: an 8-minute step-by-step guide to building the smallest agent loop",
-    "content_hash": "1c3a8238d8f0857fbb5c5490eea42548"
-  },
-  {
-    "title": "AI Agent Credential Crisis: Six Months of Incidents",
-    "normalized": "ai agent credential crisis: six months of incidents",
-    "content_hash": "77dd771120e83d1ac3f239f3218bddd4"
-  },
-  {
-    "title": "AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI",
-    "normalized": "ai agent triggers nuclear strike after getting outmaneuvered in civilization vi",
-    "content_hash": "1cbda6918d356ebad97fba546ab466eb"
-  },
-  {
-    "title": "Show HN: Selixes - Self-hosted LLM failover gateway, budget caps and PII",
-    "normalized": "show hn: selixes - self-hosted llm failover gateway, budget caps and pii",
-    "content_hash": "6076fc2b96d0ec58f46f006074c153c5"
-  },
-  {
-    "title": "Show HN: Drift, write LLM agents in English and transpile to async Python",
-    "normalized": "show hn: drift, write llm agents in english and transpile to async python",
-    "content_hash": "09f16ba38c3951334ac2336c92d25f70"
-  },
-  {
-    "title": "Monlite Simple Infrastructure for AI Agent",
-    "normalized": "monlite simple infrastructure for ai agent",
-    "content_hash": "b4996cc2edbdc1021484a2408082f98c"
-  },
-  {
-    "title": "Agent Identity: Why Every Agent Vulnerability Is a Trust Boundary Failure",
-    "normalized": "agent identity: why every agent vulnerability is a trust boundary failure",
-    "content_hash": "112e31a3d38c36e7f3865a22ab84fa87"
-  },
-  {
-    "title": "OpenAI (2015)",
-    "normalized": "openai (2015)",
-    "content_hash": "1e4f2ce85538d1e7b27c91b5cda520ee"
-  },
-  {
-    "title": "Ask HN: Best local LLM under 2B paramater and consuming RAM less than 3gb",
-    "normalized": "ask hn: best local llm under 2b paramater and consuming ram less than 3gb",
-    "content_hash": "883f0fa91f8ea91f434d1c138846ce2c"
-  },
-  {
-    "title": "Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows",
-    "normalized": "tail control: the counterintuitive engineering of reliable agentic workflows",
-    "content_hash": "3bc8904c58d1e03b8749f000cdb075ea"
-  },
-  {
-    "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
-    "normalized": "ukraine says russian intelligence used fake support texts to steal messaging credentials",
-    "content_hash": "8c000660189b690be954d71714c036c0"
-  },
-  {
-    "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-    "normalized": "new sharkloader malware deploys cobalt strike in strikeshark cyberattacks",
-    "content_hash": "0de572ecf48f7371853a80eebbbaeb31"
-  },
-  {
-    "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-    "normalized": "chinese-speaking apt deploys new tinyrct backdoor in southeast asia campaign",
-    "content_hash": "8adc70f8980f3c325ce3f01fe53ec359"
-  },
-  {
-    "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-    "normalized": "new linux pedit cow exploit enables root access by poisoning cached binaries",
-    "content_hash": "32e39c407ca1f6dc17045ed2576f5af3"
-  },
-  {
-    "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-    "normalized": "amazon q developer flaw could let malicious repos run code via mcp configs",
-    "content_hash": "c53fd88b512b81149b5fad72dd8a702a"
-  },
-  {
     "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
     "normalized": "this humanoid robot is a terrifyingly competent office intern",
     "content_hash": "0835d38c37fbf912a224435b21c36fde"
@@ -2498,5 +2373,130 @@
     "title": "Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning",
     "normalized": "beyond static evaluation: building simulation environments for scalable agentic reinforcement learning",
     "content_hash": "49e371c153f219942788960fa27e35c8"
+  },
+  {
+    "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+    "normalized": "with eu backing, quantumdiamonds aims to speed up chip manufacturing",
+    "content_hash": "79b9f5109f674fcb88ea4d853ee51480"
+  },
+  {
+    "title": "This startup thinks robotics is about to have its ChatGPT moment",
+    "normalized": "this startup thinks robotics is about to have its chatgpt moment",
+    "content_hash": "e92dcc62a673358e3251b920a4d6f0ef"
+  },
+  {
+    "title": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
+    "normalized": "microsoft's xbox reset is pivoting obsidian to make fallout instead of avowed",
+    "content_hash": "22886f2e6fcba1d675ce5437a9aab148"
+  },
+  {
+    "title": "ChatGPT\u2019s upgraded voice mode is better at shutting up",
+    "normalized": "chatgpt's upgraded voice mode is better at shutting up",
+    "content_hash": "631e30142658ff4d32a6c5051c696d49"
+  },
+  {
+    "title": "Google\u2019s deepfake detector system used to debunk McConnell hoax pic",
+    "normalized": "google's deepfake detector system used to debunk mcconnell hoax pic",
+    "content_hash": "fb6cfddd57f0f565fdad0d2478b718ae"
+  },
+  {
+    "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool",
+    "normalized": "google photos adds a new ai 'video remix' tool",
+    "content_hash": "9ab8f637bcdea7170eaddab9644d8529"
+  },
+  {
+    "title": "Why this CEO thinks video games make better training data than the internet",
+    "normalized": "why this ceo thinks video games make better training data than the internet",
+    "content_hash": "36a82ffaa1adc76e389e82e12a6369a8"
+  },
+  {
+    "title": "OpenAI releases new voice models for more natural live conversations",
+    "normalized": "openai releases new voice models for more natural live conversations",
+    "content_hash": "a1a57c0c1ecd48835e91874112020025"
+  },
+  {
+    "title": "Crypto VC firm Paradigm raises $1.2B to invest in \u2018technical frontier\u2019 startups",
+    "normalized": "crypto vc firm paradigm raises $1.2b to invest in 'technical frontier' startups",
+    "content_hash": "8c26613dcbcea098d31f0074cac971b1"
+  },
+  {
+    "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+    "normalized": "prime intellect raises $130m series a to help enterprises build their own ai agents",
+    "content_hash": "1433ea0a71b68475cd4f7f3dcdd0c976"
+  },
+  {
+    "title": "These AI startups are growing  revenue at faster and faster rates",
+    "normalized": "these ai startups are growing revenue at faster and faster rates",
+    "content_hash": "96210d86d3992843d525039f5ad4ffa3"
+  },
+  {
+    "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+    "normalized": "solo gp ashley smith announces second $25m fund to back startups in ai, security and more",
+    "content_hash": "c95de454947b3861b997e6eb83ae8e3e"
+  },
+  {
+    "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+    "normalized": "ai coding agents found triggering endpoint security rules built to catch attackers",
+    "content_hash": "41654bc43342871e52c935367860a732"
+  },
+  {
+    "title": "The whole Pixel line could get more expensive this year",
+    "normalized": "the whole pixel line could get more expensive this year",
+    "content_hash": "df17664f8432c11911b81179393903f9"
+  },
+  {
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "normalized": "show hn: microsoft releases flint, a visualization language for ai agents",
+    "content_hash": "6efdac3fd73ef3e571f83652caf5b712"
+  },
+  {
+    "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+    "normalized": "feds demand autonomous vehicle companies stop interfering with first responders",
+    "content_hash": "bf04d125528a905c563bfb6a97b93994"
+  },
+  {
+    "title": "Autonomous drone delivery startup Manna plots major US expansion",
+    "normalized": "autonomous drone delivery startup manna plots major us expansion",
+    "content_hash": "5ff847879b1b280676dddae99cfb8233"
+  },
+  {
+    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
+    "normalized": "spacexai releases grok 4.5, which elon describes as an 'opus-class model'",
+    "content_hash": "1f47d72d33eaee7ac4be7eb91e317975"
+  },
+  {
+    "title": "Elon Musk says X will send DMs when posts you\u2019ve engaged with are corrected",
+    "normalized": "elon musk says x will send dms when posts you've engaged with are corrected",
+    "content_hash": "14caa038d8bf746eb8cfb7d6cb4c908a"
+  },
+  {
+    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+    "normalized": "meta wants its ai glasses to seem less creepy. its ai strategy says otherwise.",
+    "content_hash": "d476d07aea8859339256d4a2f98cb596"
+  },
+  {
+    "title": "Apple to produce Made in America wireless chips with Broadcom",
+    "normalized": "apple to produce made in america wireless chips with broadcom",
+    "content_hash": "f549138285cf58367aed0d4f595ce325"
+  },
+  {
+    "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+    "normalized": "messi and ronaldo are building tech portfolios. mo salah is playing a different game",
+    "content_hash": "888b01fcb63dd7701e49beeff5b975ee"
+  },
+  {
+    "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+    "normalized": "new ghost phishing wave is breaking traditional email security",
+    "content_hash": "1f4ab1576b721a8d49054446c8e4fa47"
+  },
+  {
+    "title": "ChatGPT's new voice mode will slow down if you tell it to",
+    "normalized": "chatgpt's new voice mode will slow down if you tell it to",
+    "content_hash": "3f060e39ef8988ce39490f33cecc0664"
+  },
+  {
+    "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+    "normalized": "meta is reportedly working on smart glasses that would be recording all the time",
+    "content_hash": "2bf985ee497f19f6e2361a17d2b065ac"
   }
 ]
