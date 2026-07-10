@@ -1,130 +1,5 @@
 [
   {
-    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-    "normalized": "anthropic and gov. newsom forge deal allowing california government to use claude at half price",
-    "content_hash": "5236ad8a16ab128a611055633fd11844"
-  },
-  {
-    "title": "Publishers sue OpenAI, Microsoft for training ChatGPT with their content",
-    "normalized": "publishers sue openai, microsoft for training chatgpt with their content",
-    "content_hash": "1a0e8de2195fca948a938549cd4577e9"
-  },
-  {
-    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-    "normalized": "vibe coding platform base44 launches own model as ai startups seek defensibility",
-    "content_hash": "4ddc84e44bf5304467eb97311e5fc644"
-  },
-  {
-    "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-    "normalized": "chamath palihapitiya raises $135m series a for his ai coding startup, takes ceo role",
-    "content_hash": "8aa5dc0812b569d844e6669008dc8064"
-  },
-  {
-    "title": "Gemini\u2019s personalized AI image generation is now free for US users",
-    "normalized": "gemini's personalized ai image generation is now free for us users",
-    "content_hash": "3918cc8715e0f9af3bfc18ecbcf2c29c"
-  },
-  {
-    "title": "South Korean tech giants commit over $550B to ease \u2018RAMageddon\u2019",
-    "normalized": "south korean tech giants commit over $550b to ease 'ramageddon'",
-    "content_hash": "9198ce37e41077869ebb19bf7e5fb3c5"
-  },
-  {
-    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-    "normalized": "arena, the ai leaderboard everyone uses, is now a $100m business",
-    "content_hash": "167b81e7d80ec8797e2e1cab206d671f"
-  },
-  {
-    "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-    "normalized": "malicious perplexity chrome extension intercepted searches and address bar input",
-    "content_hash": "1c3a148c549afca00a9d693ec4268e38"
-  },
-  {
-    "title": "OpenAI is teasing new hardware\u2026 for Codex",
-    "normalized": "openai is teasing new hardware... for codex",
-    "content_hash": "f12f9f3d2b6908d2c8748d07b5d860fa"
-  },
-  {
-    "title": "Lawmakers want to ban AI companies from selling your health data",
-    "normalized": "lawmakers want to ban ai companies from selling your health data",
-    "content_hash": "2b610647c07e5c5918dd17e3cb99e296"
-  },
-  {
-    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-    "normalized": "micro-agent: beat frontier models with collaboration inside model api",
-    "content_hash": "0cfe87381faeaf6fea56697b071c8c7c"
-  },
-  {
-    "title": "Show HN: TinyAgents \u2013 a Rust based recursive LLM harness",
-    "normalized": "show hn: tinyagents - a rust based recursive llm harness",
-    "content_hash": "915b4aeeefb739d105dc7e68a103df91"
-  },
-  {
-    "title": "Show HN: AMA2, messenger built for AI agent",
-    "normalized": "show hn: ama2, messenger built for ai agent",
-    "content_hash": "8f0c890996cc1f72ca5fa667c4d2b54c"
-  },
-  {
-    "title": "Waymo and Uber quietly part ways in Phoenix",
-    "normalized": "waymo and uber quietly part ways in phoenix",
-    "content_hash": "23e19042322fb2d57249153f7d81f796"
-  },
-  {
-    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-    "normalized": "cursor now has a mobile app for guiding your coding agent on the go",
-    "content_hash": "a1e24d0dd10485b0b919d4468a72f731"
-  },
-  {
-    "title": "TIDAL cracks down on AI music by cutting off monetization",
-    "normalized": "tidal cracks down on ai music by cutting off monetization",
-    "content_hash": "36c7f5b4480929278f67f36ae12bc0d0"
-  },
-  {
-    "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-    "normalized": "mustang panda uses zoho workdrive as command channel in indian government attacks",
-    "content_hash": "ec9f28d4a3bfb8f7babe2ec24058115e"
-  },
-  {
-    "title": "Tidal won\u2019t pay royalties on AI-generated music but isn\u2019t banning it outright",
-    "normalized": "tidal won't pay royalties on ai-generated music but isn't banning it outright",
-    "content_hash": "81c342caeac1046a31b3ec76079aafc4"
-  },
-  {
-    "title": "At $499, Apple&#8217;s M3-powered iPad Air is a good deal",
-    "normalized": "at $499, apple's m3-powered ipad air is a good deal",
-    "content_hash": "b1ed6ca8f157ad3df4e6b9ba823c4d08"
-  },
-  {
-    "title": "WhatsApp is launching usernames: here\u2019s how to reserve yours",
-    "normalized": "whatsapp is launching usernames: here's how to reserve yours",
-    "content_hash": "882ff83d110bb48dd0f68f69e83c0a94"
-  },
-  {
-    "title": "Reports of Anthropic Cutting Usage Limits Again",
-    "normalized": "reports of anthropic cutting usage limits again",
-    "content_hash": "c45fc44d7ca84f5f50d48ceb3ccda4bc"
-  },
-  {
-    "title": "Open-source AI agent workflow for auditing Solidity smart contracts",
-    "normalized": "open-source ai agent workflow for auditing solidity smart contracts",
-    "content_hash": "08bc1d930d7d2f0e3e6d193f59abc06e"
-  },
-  {
-    "title": "Zeus \u2013 a local AI agent orchestrator with web and phone UI (open source)",
-    "normalized": "zeus - a local ai agent orchestrator with web and phone ui (open source)",
-    "content_hash": "93dc6b97963ee43832618944459e6482"
-  },
-  {
-    "title": "A user-space firewall that gates an AI agent's actions",
-    "normalized": "a user-space firewall that gates an ai agent's actions",
-    "content_hash": "41bc8356268841b1cceb98c936c2bd39"
-  },
-  {
-    "title": "KitForge\u2013generate an AI agent manifest; scaffold with enforced approval gates",
-    "normalized": "kitforge-generate an ai agent manifest; scaffold with enforced approval gates",
-    "content_hash": "702e50be8aac3387be114822ab47b55c"
-  },
-  {
     "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
     "normalized": "new bioshocking attack tricks ai browsers into leaking user credentials",
     "content_hash": "c1e263df211d4185b10b8f32d4b37cec"
@@ -2498,5 +2373,130 @@
     "title": "Email as an agent tool: MCP, the SDK, or your own webhook \u2013 MailKite",
     "normalized": "email as an agent tool: mcp, the sdk, or your own webhook - mailkite",
     "content_hash": "229f7978e5b77e4772e332d6cd02dc2c"
+  },
+  {
+    "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
+    "normalized": "openai says gpt 5.6 is the 'preferred model' for microsoft copilot 365 amid breakup chatter",
+    "content_hash": "0d9e4d6c3263a0e593b9e88370b526a8"
+  },
+  {
+    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+    "normalized": "paris-based ai voice startup gradium raises $100m seed, backed by nvidia",
+    "content_hash": "58a3887f998db2ecb4feba643d1f0ffd"
+  },
+  {
+    "title": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
+    "normalized": "fidji simo steps down from openai's no. 2 role",
+    "content_hash": "2d3038e5080a6615503814a8b3e7fa92"
+  },
+  {
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "normalized": "openai launches its new family of models with gpt-5.6",
+    "content_hash": "10e886a428d24a49c7f27738b4c585b9"
+  },
+  {
+    "title": "An AI agent startup just let its agent run its $100M fundraise",
+    "normalized": "an ai agent startup just let its agent run its $100m fundraise",
+    "content_hash": "51538aa27f6f08f8f53e5c2f4ad0e7c8"
+  },
+  {
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "normalized": "openai is shutting down atlas, but its ai browser ambitions are still growing",
+    "content_hash": "3e7c73b12db1b4f4e776edaf75cd9518"
+  },
+  {
+    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "normalized": "new york times says openai hid evidence in chatgpt copyright trial",
+    "content_hash": "0d6f64cfd8cb368d05b658e022815336"
+  },
+  {
+    "title": "How did the government decide OpenAI\u2019s frontier model was safe to release?",
+    "normalized": "how did the government decide openai's frontier model was safe to release?",
+    "content_hash": "a7dded6e6b79c6261ac89fd48ca8f44f"
+  },
+  {
+    "title": "The ChatGPT browser is already dead",
+    "normalized": "the chatgpt browser is already dead",
+    "content_hash": "464301b86a4872af25b46e3377ee6ccc"
+  },
+  {
+    "title": "OpenAI rolls out GPT-5.6 after government greenlight \u2014\u00a0and announces \u2018ChatGPT Work\u2019",
+    "normalized": "openai rolls out gpt-5.6 after government greenlight -- and announces 'chatgpt work'",
+    "content_hash": "2cc0b9c2c73b57c0b8663c8934c07efe"
+  },
+  {
+    "title": "Elon Musk praises Mythos/Fable, promises not to \u2018cut off\u2019 Anthropic",
+    "normalized": "elon musk praises mythos/fable, promises not to 'cut off' anthropic",
+    "content_hash": "e21486b7aa1a6772b63b3c600414455e"
+  },
+  {
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "normalized": "meta enters the crowded ai coding battle with muse spark 1.1",
+    "content_hash": "b3c32bfdd8f0217f988fe4569d2f049d"
+  },
+  {
+    "title": "Google will now disclose which ads are made with AI",
+    "normalized": "google will now disclose which ads are made with ai",
+    "content_hash": "301e5486779d8f17c4ad7817097664d3"
+  },
+  {
+    "title": "Meta\u2019s new AI chips will begin production in September",
+    "normalized": "meta's new ai chips will begin production in september",
+    "content_hash": "905d602ecba3481e310188267b9c03dc"
+  },
+  {
+    "title": "Nvidia is a victim of the compute marketplace it created",
+    "normalized": "nvidia is a victim of the compute marketplace it created",
+    "content_hash": "f74500758edc09ed92d328fbbeb58dfa"
+  },
+  {
+    "title": "Microsoft\u2019s carbon emissions went up 25 percent last year",
+    "normalized": "microsoft's carbon emissions went up 25 percent last year",
+    "content_hash": "ab1f8b69bd12cfcf93eb1d70d2de796b"
+  },
+  {
+    "title": "Fidji Simo steps down from leading OpenAI\u2019s AGI work due to illness",
+    "normalized": "fidji simo steps down from leading openai's agi work due to illness",
+    "content_hash": "49d125392f89c554335a7360895d7bb5"
+  },
+  {
+    "title": "Google will now tell you if an ad was made with AI",
+    "normalized": "google will now tell you if an ad was made with ai",
+    "content_hash": "6389b7162c21680caf647aca01ae8f8f"
+  },
+  {
+    "title": "Microsoft\u2019s patch Tuesdays are about to get bigger",
+    "normalized": "microsoft's patch tuesdays are about to get bigger",
+    "content_hash": "3f1f36ee11bb7b34ec24ad39f260ad2a"
+  },
+  {
+    "title": "OpenAI discontinues standalone browser ChatGPT Atlas in favor of new ChatGPT app",
+    "normalized": "openai discontinues standalone browser chatgpt atlas in favor of new chatgpt app",
+    "content_hash": "a6c4ccc4666b3e69efff484305abd62f"
+  },
+  {
+    "title": "Today's the Day OpenAI Fucked Up the ChatGPT Mac App",
+    "normalized": "today's the day openai fucked up the chatgpt mac app",
+    "content_hash": "7bf1b04913809d5baf5fe3b4258ccaa1"
+  },
+  {
+    "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser",
+    "normalized": "openai is discontinuing chatgpt atlas, its standalone desktop browser",
+    "content_hash": "ed98c3685081ddbc471ad0cfe9047ce7"
+  },
+  {
+    "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
+    "normalized": "openai releases gpt-5.6 (sol, terra, luna): a three-tier model family with programmatic tool calling in the responses api",
+    "content_hash": "0bc475e0bc1a291bcd7a7ad48c88685e"
+  },
+  {
+    "title": "Can AI answer the $3 trillion question?",
+    "normalized": "can ai answer the $3 trillion question?",
+    "content_hash": "4871b2e1c065bc077f081138ed316bfb"
+  },
+  {
+    "title": "Charles Hudson shares the common mistakes he\u2019s seen after investing in 500+ startups",
+    "normalized": "charles hudson shares the common mistakes he's seen after investing in 500+ startups",
+    "content_hash": "b753e7f0b9d7eed2d8eaaf5347f11427"
   }
 ]
