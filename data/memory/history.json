@@ -1,130 +1,5 @@
 [
   {
-    "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-    "normalized": "new bioshocking attack tricks ai browsers into leaking user credentials",
-    "content_hash": "c1e263df211d4185b10b8f32d4b37cec"
-  },
-  {
-    "title": "NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery",
-    "normalized": "nvidia bionemo agent toolkit turns biomolecular models into callable skills for ai agents in drug discovery",
-    "content_hash": "34b2a81425afe78ffa1d7f5f1b66ad0f"
-  },
-  {
-    "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-    "normalized": "crypto exchange okx wants ai agents to hire and pay each other",
-    "content_hash": "c31418f272ccc51b0b1f5b33f038581d"
-  },
-  {
-    "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-    "normalized": "apple patches 30+ ios, macos, safari flaws, including ai-discovered webkit bugs",
-    "content_hash": "8e033369acf69ca15e21e70a177e9bb8"
-  },
-  {
-    "title": "Meet the lawyer who beat Elon Musk \u2014\u00a0twice",
-    "normalized": "meet the lawyer who beat elon musk -- twice",
-    "content_hash": "2dbc826fbf5d8ff09cf906cf883b41a4"
-  },
-  {
-    "title": "Show HN: TraceAIO \u2013 open-source LLM visibility tracker",
-    "normalized": "show hn: traceaio - open-source llm visibility tracker",
-    "content_hash": "ab7ffd1cb350ad677e654e6819e0c53e"
-  },
-  {
-    "title": "Show HN: AgentShare Agent Readiness \u2013 Scan and optimize your site for AI bots",
-    "normalized": "show hn: agentshare agent readiness - scan and optimize your site for ai bots",
-    "content_hash": "c0b6e5f79d7fce123d93be0be7568e13"
-  },
-  {
-    "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
-    "normalized": "agentic abstention: do agents know when to stop instead of act?",
-    "content_hash": "c9f03a8731d2f16fb8f7653726a476a9"
-  },
-  {
-    "title": "Expert Evaluation of Clinical AI Tools on Real Point-of-Care Clinical Queries",
-    "normalized": "expert evaluation of clinical ai tools on real point-of-care clinical queries",
-    "content_hash": "08fd43b8c3b226b484c7b45952075e6c"
-  },
-  {
-    "title": "Customized Generative AI Agent for Transportation Engineering Practice: A Development and Continued Pre-training Guideline",
-    "normalized": "customized generative ai agent for transportation engineering practice: a development and continued pre-training guideline",
-    "content_hash": "2067a89be7d4f2019848c7da6cd89e6c"
-  },
-  {
-    "title": "Top 6 No-Code Tools for AI Engineers/Developers",
-    "normalized": "top 6 no-code tools for ai engineers/developers",
-    "content_hash": "410bff10171757c5cbbe4d60804d2ecb"
-  },
-  {
-    "title": "The AI jobs debate just got messier",
-    "normalized": "the ai jobs debate just got messier",
-    "content_hash": "20eb78177dec0f43e947d07856d12539"
-  },
-  {
-    "title": "This motor could be the future of e-bikes",
-    "normalized": "this motor could be the future of e-bikes",
-    "content_hash": "1d0a643569ed1d1935ab6e63c3fbcb16"
-  },
-  {
-    "title": "Tidal won\u2019t pay royalties on AI-generated music, but isn\u2019t banning it outright",
-    "normalized": "tidal won't pay royalties on ai-generated music, but isn't banning it outright",
-    "content_hash": "ecfb045f143e55a15c33904f9a60efdd"
-  },
-  {
-    "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-    "normalized": "zluda 6 release (run unmodified cuda applications on non-nvidia gpus)",
-    "content_hash": "9c389cb160be2627d3f33342f08f0df3"
-  },
-  {
-    "title": "Show HN: NodePad \u2013 AI agent on a canvas instead of a linear chat",
-    "normalized": "show hn: nodepad - ai agent on a canvas instead of a linear chat",
-    "content_hash": "af61cbb353d8efed138ebe7a64435766"
-  },
-  {
-    "title": "Compiling Agentic Workflows into LLM Weights",
-    "normalized": "compiling agentic workflows into llm weights",
-    "content_hash": "28555873eb686c4d9d253faabd287017"
-  },
-  {
-    "title": "Show HN: Privacy policy generator for AI apps (LLM disclosure, EU AI Act)",
-    "normalized": "show hn: privacy policy generator for ai apps (llm disclosure, eu ai act)",
-    "content_hash": "0f6187528afa294b539ae05e32ef774a"
-  },
-  {
-    "title": "OpenAI sets up 'warroom' for Codex Token issue",
-    "normalized": "openai sets up 'warroom' for codex token issue",
-    "content_hash": "4a7a5e307d0a6d8b45fa38f0d4d85119"
-  },
-  {
-    "title": "Show HN: Crosswalk mapping AI-agent design controls to NIST, ISO 42001, OWASP",
-    "normalized": "show hn: crosswalk mapping ai-agent design controls to nist, iso 42001, owasp",
-    "content_hash": "5b79885c3f5f34b8f51b5fc93595cb28"
-  },
-  {
-    "title": "Good article about local LLM on MacBook Air",
-    "normalized": "good article about local llm on macbook air",
-    "content_hash": "bf0edb05f877a8edce04a200be67c3bc"
-  },
-  {
-    "title": "Recursive Self-Evolving Agents via Held-Out Selection",
-    "normalized": "recursive self-evolving agents via held-out selection",
-    "content_hash": "a9ba855eb89bda7ac0adf8cfa8ab7550"
-  },
-  {
-    "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
-    "normalized": "data and evaluation closed-loop for model capability enhancement",
-    "content_hash": "d8c08259e9384a785d4364ae0f50aa79"
-  },
-  {
-    "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
-    "normalized": "gptnt: benchmarking real-time collaboration between multimodal agents on keep talking and nobody explodes",
-    "content_hash": "83fe9e13ace2ab4ceb3a0db66854a263"
-  },
-  {
-    "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
-    "normalized": "imcbench: a benchmark for multimodal llms in image-grounded medical conversations",
-    "content_hash": "f2b0c31a9deb7583c9cfd912f2a7e3fa"
-  },
-  {
     "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
     "normalized": "amazon launches new $1 billion fde org, following openai and anthropic",
     "content_hash": "e539d8fbb460c52e409f7a35ed22088a"
@@ -2498,5 +2373,130 @@
     "title": "Charles Hudson shares the common mistakes he\u2019s seen after investing in 500+ startups",
     "normalized": "charles hudson shares the common mistakes he's seen after investing in 500+ startups",
     "content_hash": "b753e7f0b9d7eed2d8eaaf5347f11427"
+  },
+  {
+    "title": "Context Graphs for Proactive Enterprise Agents",
+    "normalized": "context graphs for proactive enterprise agents",
+    "content_hash": "6d5fa37c827f4071d14bf6185a8d2639"
+  },
+  {
+    "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+    "normalized": "hackers use fake microsoft entra passkey enrollment to gain microsoft 365 access",
+    "content_hash": "4661e52cefbb495a3b70757b8016b6ff"
+  },
+  {
+    "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+    "normalized": "vectorizationllm: smart vectorization based ai assistant",
+    "content_hash": "24aafe51e69348bfc0b0505a97a26d95"
+  },
+  {
+    "title": "Agentic Neural Architecture Search",
+    "normalized": "agentic neural architecture search",
+    "content_hash": "e70cd2b946d2cee0606788f8d7e63a4a"
+  },
+  {
+    "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+    "normalized": "from prompts to contracts: harness engineering for auditable enterprise llm agents",
+    "content_hash": "acce52b95eb9d57861c74f929c0df8d3"
+  },
+  {
+    "title": "A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis",
+    "normalized": "a safety-oriented hypothetico-deductive framework for ai-assisted differential diagnosis",
+    "content_hash": "e0acd82e54d50472c82491906f685a62"
+  },
+  {
+    "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
+    "normalized": "persuasion attacks can decrease effectiveness of cot monitoring",
+    "content_hash": "cc59630fe7f29e873b3f8f43ed857804"
+  },
+  {
+    "title": "Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data",
+    "normalized": "google research introduces sensorfm: a wearable health foundation model pretrained on one trillion minutes of sensor data",
+    "content_hash": "2c572f79c61d32b460b3d8e933c4f0cf"
+  },
+  {
+    "title": "After Apple, India\u2019s smartphone manufacturing boom enters new phase with Vivo JV",
+    "normalized": "after apple, india's smartphone manufacturing boom enters new phase with vivo jv",
+    "content_hash": "4c4b354962c6cd9baa1c6b96ed1413e8"
+  },
+  {
+    "title": "Instagram users: Here\u2019s how to stop Meta\u2019s AI from using your photos",
+    "normalized": "instagram users: here's how to stop meta's ai from using your photos",
+    "content_hash": "b5ad4eefc8e0eece871a64f6d3624e49"
+  },
+  {
+    "title": "OpenAI\u2019s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+    "normalized": "openai's ceo of agi deployment, fidji simo, is stepping down",
+    "content_hash": "7cb6d050d0151894fec4c55e21689bed"
+  },
+  {
+    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+    "normalized": "anthropic wants you to pay up for claude fable 5",
+    "content_hash": "1b55890449742b7814a4a8daf7dd65ed"
+  },
+  {
+    "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+    "normalized": "study of 281 free android vpn apps finds traffic leaks, unencrypted data, and tracking",
+    "content_hash": "bb8912c7687a7d97af3bc216ec43e91e"
+  },
+  {
+    "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+    "normalized": "dormant github accounts help attackers blend in while mapping corporate orgs",
+    "content_hash": "45709c46366b993830abfa0021ce3e78"
+  },
+  {
+    "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+    "normalized": "npm 12 disables install scripts by default to reduce supply chain risk",
+    "content_hash": "afee4783e9c192bff1cc83a539598c03"
+  },
+  {
+    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+    "normalized": "openai may have made a fatal misstep in copyright fight with news orgs",
+    "content_hash": "f8f1f37251838059aaf8f528b5959eca"
+  },
+  {
+    "title": "GPT-5.6",
+    "normalized": "gpt-5.6",
+    "content_hash": "71a136dc2abe5675d63cab30d2c15d9a"
+  },
+  {
+    "title": "Instagram\u2019s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+    "normalized": "instagram's adam mosseri: if you don't like ai, 'then you shouldn't have it in your feed'",
+    "content_hash": "e32512be53da98b923739eab76516bf6"
+  },
+  {
+    "title": "Would you host part of an AI data center in your home?",
+    "normalized": "would you host part of an ai data center in your home?",
+    "content_hash": "6391647940513b32a8aa818d3c52d50c"
+  },
+  {
+    "title": "Instagram and Facebook will likely require a redesign after EU rules they&#8217;re &#8216;addictive&#8217;",
+    "normalized": "instagram and facebook will likely require a redesign after eu rules they're 'addictive'",
+    "content_hash": "d1b115aae180a3bb026ab0f4834d6ffd"
+  },
+  {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "normalized": "gpt-5.6 is now the preferred model in microsoft 365 copilot",
+    "content_hash": "b59c51a420bc07bac1ae7e254f53d6d0"
+  },
+  {
+    "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+    "normalized": "agentic ai and retrieval-augmented models in straight-through underwriting",
+    "content_hash": "87ec90d7c6571482ee0b2d4e92e40a9b"
+  },
+  {
+    "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
+    "normalized": "causalds: benchmarking causal reasoning in data-science agents",
+    "content_hash": "5cccafbfab80e23c52d551d4e4baa69d"
+  },
+  {
+    "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+    "normalized": "jet-long: efficient long-context extension with dynamic bifocal rope",
+    "content_hash": "22c0dfd7cd5feb86a189f2e4299c2f64"
+  },
+  {
+    "title": "When Does Continual Learning Require Learning",
+    "normalized": "when does continual learning require learning",
+    "content_hash": "abbf49654eb1a897afa4e21d81276604"
   }
 ]
