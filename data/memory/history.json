@@ -1,130 +1,5 @@
 [
   {
-    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-    "normalized": "meta, like spacex, looks to turn excess ai compute into cash",
-    "content_hash": "46d8262a3c53d04404fce93a7684c092"
-  },
-  {
-    "title": "Google built a great smart speaker, but Gemini isn\u2019t ready for it",
-    "normalized": "google built a great smart speaker, but gemini isn't ready for it",
-    "content_hash": "af8fabaa5ccc52605175bd4dc73da597"
-  },
-  {
-    "title": "Contrastive Reflection for Iterative Prompt Optimization",
-    "normalized": "contrastive reflection for iterative prompt optimization",
-    "content_hash": "420ec8fb711e8a2d15cdb4615ada6b41"
-  },
-  {
-    "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
-    "normalized": "why solve it twice? hierarchical accumulation of skills for transfer-efficient ml engineering",
-    "content_hash": "c63335c0be4f082bb2c20f60dfda4f7d"
-  },
-  {
-    "title": "Global AMR Fund picks 12 Indian innovations to tackle antibiotic resistance in environment",
-    "normalized": "global amr fund picks 12 indian innovations to tackle antibiotic resistance in environment",
-    "content_hash": "188007b73c128c1b00e9039c492923f5"
-  },
-  {
-    "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-    "normalized": "builders stage agenda revealed: practical strategies for scaling startups at techcrunch disrupt 2026",
-    "content_hash": "7a716f83535b08692c6e3423d346c88c"
-  },
-  {
-    "title": "The \u2018Father of the Internet\u2019 is finally retiring",
-    "normalized": "the 'father of the internet' is finally retiring",
-    "content_hash": "ec00d83a9c7bc5922e81e88fce549d1e"
-  },
-  {
-    "title": "Daisy\u2019s First Headphones Are Premium, High-Quality\u2014and Just a Little Bit Cheaper",
-    "normalized": "daisy's first headphones are premium, high-quality--and just a little bit cheaper",
-    "content_hash": "343d7f6cdfc1dcd3ada4c8679786f861"
-  },
-  {
-    "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
-    "normalized": "microsoft accelerates post-quantum cryptography shift to 2029",
-    "content_hash": "390f7e4f82ea17bae52cb6eccd1f07e7"
-  },
-  {
-    "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
-    "normalized": "anthropic restores claude fable 5 after u.s. lifts jailbreak-linked export controls",
-    "content_hash": "f4b256643e40d8dac104a26935748267"
-  },
-  {
-    "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-    "normalized": "azure cli password spray hits at least 78 microsoft accounts in 81m+ attempts",
-    "content_hash": "2eae9a127ad12ed7a5329f7a079e3d62"
-  },
-  {
-    "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-    "normalized": "silent swap crypto clipper uses fake google notes extension to replace wallet addresses",
-    "content_hash": "382946a725463030d777d833ce7c8fe7"
-  },
-  {
-    "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-    "normalized": "guardfall exposes open-source ai coding agents to decades-old shell injection risks",
-    "content_hash": "80c79ae6aa0846904fdf5167dfafcdd3"
-  },
-  {
-    "title": "Gemini Spark comes to Google's Gemini app for macOS",
-    "normalized": "gemini spark comes to google's gemini app for macos",
-    "content_hash": "09772bd33f91bc9d593ede741ea09f55"
-  },
-  {
-    "title": "Anthropic's new Sonnet 5 model is better at the tasks that are running up enterprise bills",
-    "normalized": "anthropic's new sonnet 5 model is better at the tasks that are running up enterprise bills",
-    "content_hash": "435bbe0b9bcab3a90413da137b4e2dea"
-  },
-  {
-    "title": "Sony is killing all physical PlayStation game discs",
-    "normalized": "sony is killing all physical playstation game discs",
-    "content_hash": "2a497b9165b05501610bdbd07018d4b8"
-  },
-  {
-    "title": "Cleared by the US, derailed by the UK: Getty\u2019s Shutterstock merger falls apart",
-    "normalized": "cleared by the us, derailed by the uk: getty's shutterstock merger falls apart",
-    "content_hash": "858644e628a3802b5dc33c69497e6507"
-  },
-  {
-    "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
-    "normalized": "meta is adding ridiculous 'rate limits' and a soft paywall to its smart glasses",
-    "content_hash": "028c1cf5361deba84104fbe7e913023a"
-  },
-  {
-    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-    "normalized": "department of commerce has lifted export controls on claude fable 5 and mythos 5",
-    "content_hash": "3a6c545f1f8a0d791da6eb34fce7de73"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "normalized": "how chatgpt adoption has expanded",
-    "content_hash": "6ce9c12c19f542a5d55d7a6f96b320d5"
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "normalized": "core dump epidemiology: fixing an 18-year-old bug",
-    "content_hash": "cf9e9960ca4629cebb12d763c60247d3"
-  },
-  {
-    "title": "Introducing Claude Sonnet 5 on AWS: Anthropic\u2019s most capable Sonnet model",
-    "normalized": "introducing claude sonnet 5 on aws: anthropic's most capable sonnet model",
-    "content_hash": "5c0df599d1d60e4baad24fb92f3beefb"
-  },
-  {
-    "title": "Investigating Multi-Agent Deliberation in Law",
-    "normalized": "investigating multi-agent deliberation in law",
-    "content_hash": "7a9ed20efaa7698ebfd36ad0800c9449"
-  },
-  {
-    "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
-    "normalized": "agrefactor: self-evolving agentic workflow for hls compatibility and performance",
-    "content_hash": "089becd56149cf5d8f20d2a07b794861"
-  },
-  {
-    "title": "OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents",
-    "normalized": "openlife: toward open-world artificial life with autonomous llm agents",
-    "content_hash": "c7032753d76513e55c70896cde113a51"
-  },
-  {
     "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
     "normalized": "gemini spark, google's agentic assistant, is now available on mac",
     "content_hash": "080428ac156bcaf7269ca0d7f044d7dc"
@@ -2498,5 +2373,130 @@
     "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
     "normalized": "choosing the right ai agent memory strategy: a decision-tree approach",
     "content_hash": "f1707c88750029e443b9393ef6ddc724"
+  },
+  {
+    "title": "Soofi: European sovereign LLM trained in 2 months",
+    "normalized": "soofi: european sovereign llm trained in 2 months",
+    "content_hash": "dd9676faf02fae6fe4b1fe9367a2b3b2"
+  },
+  {
+    "title": "Inside HackerRank's LLM-based Hiring Agent",
+    "normalized": "inside hackerrank's llm-based hiring agent",
+    "content_hash": "a69b058879341408091e6612fe93eb03"
+  },
+  {
+    "title": "Show HN: Inferock-bench \u2013 per-call billing receipts for OpenAI and Anthropic",
+    "normalized": "show hn: inferock-bench - per-call billing receipts for openai and anthropic",
+    "content_hash": "c16b6fb0ce40280bd8ea766086220ff4"
+  },
+  {
+    "title": "OpenAI and Google sell AI models to blacklisted China groups",
+    "normalized": "openai and google sell ai models to blacklisted china groups",
+    "content_hash": "06b3efd001623cc15c2276e697198f5b"
+  },
+  {
+    "title": "The perfect kit for all your tiny repairs",
+    "normalized": "the perfect kit for all your tiny repairs",
+    "content_hash": "71119528e11515985b64f9ec337fd9f9"
+  },
+  {
+    "title": "Karpathy LLM Wiki (Obsidian Plugin)",
+    "normalized": "karpathy llm wiki (obsidian plugin)",
+    "content_hash": "0b55617a0433c7f97fd87b48419375e6"
+  },
+  {
+    "title": "Octochains \u2013 a Python framework for parallel, isolated multi-agent reasoning",
+    "normalized": "octochains - a python framework for parallel, isolated multi-agent reasoning",
+    "content_hash": "089c87f96d5a7300c21123735aba6d62"
+  },
+  {
+    "title": "Show HN: My AI agent has 9 hours left to win a public bet \u2013 live dashboard",
+    "normalized": "show hn: my ai agent has 9 hours left to win a public bet - live dashboard",
+    "content_hash": "bc654f328c7b9116ee2ff174d7bbb2d8"
+  },
+  {
+    "title": "Show HN: AI Agent Audit for Free",
+    "normalized": "show hn: ai agent audit for free",
+    "content_hash": "dbf764125caa9d25035e1ea1b44844dd"
+  },
+  {
+    "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+    "normalized": "apple sues openai, its employees claiming theft of trade secrets",
+    "content_hash": "13801dd19b09625e9a1924dffb9e472d"
+  },
+  {
+    "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
+    "normalized": "openai safety head heidecke to leave firm after reshuffle: wired",
+    "content_hash": "4131faa07bd9c23488b1c5ffd0e398ab"
+  },
+  {
+    "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
+    "normalized": "apple sues openai, alleging the ai company stole trade secrets",
+    "content_hash": "ebfdee0719f29d28960fa3e5a621e604"
+  },
+  {
+    "title": "Apple sues OpenAI for stealing trade secrets, blockbuster Silicon Valley lawsuit",
+    "normalized": "apple sues openai for stealing trade secrets, blockbuster silicon valley lawsuit",
+    "content_hash": "dbab91349e29a3d8b642a099522fb44f"
+  },
+  {
+    "title": "AI2Web: Open protocol to make any website work with every AI agent",
+    "normalized": "ai2web: open protocol to make any website work with every ai agent",
+    "content_hash": "e40f20a5d8fa82d8b5e9cb2a0984e3eb"
+  },
+  {
+    "title": "One Wikipedia page costs your AI agent 68,000 tokens",
+    "normalized": "one wikipedia page costs your ai agent 68,000 tokens",
+    "content_hash": "fd0c5f35632ef26c8359f4a83059aff8"
+  },
+  {
+    "title": "Show HN: Atuin AI Proxy bridges Hub AI to an OpenAI-compatible endpoint",
+    "normalized": "show hn: atuin ai proxy bridges hub ai to an openai-compatible endpoint",
+    "content_hash": "34022b586ceb9be6eaad7befa5cab7c7"
+  },
+  {
+    "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
+    "normalized": "fine-tune nvidia nemotron 3 models with amazon sagemaker ai serverless model customization",
+    "content_hash": "04a2663d03c1609179036c5f1bab5e36"
+  },
+  {
+    "title": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API",
+    "normalized": "meta superintelligence labs releases muse spark 1.1: a multimodal reasoning model for agentic tasks on meta model api",
+    "content_hash": "c106880de6bcfa41915db46725bbee84"
+  },
+  {
+    "title": "Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput",
+    "normalized": "meet nemotron labs 3 puzzle 75b a9b: a compressed hybrid moe llm delivering 2.03x server throughput",
+    "content_hash": "bd81f187cdeec18f5f79b8b7e791c709"
+  },
+  {
+    "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+    "normalized": "us cybersecurity agency cisa had to build its incident playbook during the incident, agency reveals",
+    "content_hash": "a604d7b5b931f7b4604df3a4be4b4fc2"
+  },
+  {
+    "title": "Bluesky\u2019s interim CEO, Toni Schneider, drops the \u2018interim\u2019",
+    "normalized": "bluesky's interim ceo, toni schneider, drops the 'interim'",
+    "content_hash": "d1ba3bbfef90a64df9810a06ee5cd207"
+  },
+  {
+    "title": "China is catching up to Elon Musk\u2019s reusable rockets",
+    "normalized": "china is catching up to elon musk's reusable rockets",
+    "content_hash": "cdffe488f41582702a9ad7bb79f1fdf8"
+  },
+  {
+    "title": "Disney+ is considering a free streaming tier, report says",
+    "normalized": "disney+ is considering a free streaming tier, report says",
+    "content_hash": "af1ba992b81813891463ee659c8bb679"
+  },
+  {
+    "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+    "normalized": "dumb co dared me to trade my iphone for a hacked flip phone",
+    "content_hash": "9e9de29801da9135b05c6bafa2ad3196"
+  },
+  {
+    "title": "Netflix could be planning \u2018always-on\u2019 live TV channels",
+    "normalized": "netflix could be planning 'always-on' live tv channels",
+    "content_hash": "cbebaa774fcaac588eca2d883d4383fc"
   }
 ]
