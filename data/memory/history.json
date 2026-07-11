@@ -1,130 +1,5 @@
 [
   {
-    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-    "normalized": "amazon launches new $1 billion fde org, following openai and anthropic",
-    "content_hash": "e539d8fbb460c52e409f7a35ed22088a"
-  },
-  {
-    "title": "Show HN: Morph Reflexes \u2013 Multi-head classifiers for agent traces",
-    "normalized": "show hn: morph reflexes - multi-head classifiers for agent traces",
-    "content_hash": "5d8c2b6441801733b415dde8641bd6b2"
-  },
-  {
-    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-    "normalized": "nvidia competitor etched hits $5b valuation, $1b in sales for ai chip",
-    "content_hash": "d00561ae69d1adc9bdf54379aacc5f36"
-  },
-  {
-    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-    "normalized": "anthropic launches claude sonnet 5 as a cheaper way to run agents",
-    "content_hash": "4ca8429364e9d729e3f72e068b4c0467"
-  },
-  {
-    "title": "Acti puts AI agents directly into your smartphone keyboard",
-    "normalized": "acti puts ai agents directly into your smartphone keyboard",
-    "content_hash": "829aeba0951092be3b78c2775688ef3d"
-  },
-  {
-    "title": "Show HN: Frontier AI Lab Jobs \u2013 Open Jobs by Function at OpenAI, Anthropic",
-    "normalized": "show hn: frontier ai lab jobs - open jobs by function at openai, anthropic",
-    "content_hash": "af8060ae84f1855abf5d45b2a68f47b8"
-  },
-  {
-    "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
-    "normalized": "trump drops restrictions on anthropic's mythos and fable models",
-    "content_hash": "b5e704493fd71ba1e94fdd6930a7ee08"
-  },
-  {
-    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-    "normalized": "wayve launches $85m employee tender offer at $8.5b valuation",
-    "content_hash": "36e7cca2851a5c70be02a694bd6b2b46"
-  },
-  {
-    "title": "OpenClaw is finally available on Android and iOS",
-    "normalized": "openclaw is finally available on android and ios",
-    "content_hash": "2503c25cc7a3dd31c3d2c4ff2ad8d8ec"
-  },
-  {
-    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-    "normalized": "google introduces a faster, cheaper image generator with nano banana 2 lite",
-    "content_hash": "715e2308639a24c6892a9240164b1d17"
-  },
-  {
-    "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-    "normalized": "microsoft warns poisoned mcp tool descriptions can make ai agents leak data",
-    "content_hash": "567d277b248f544e1f909b2942bd9db9"
-  },
-  {
-    "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-    "normalized": "anthropic's long-sidelined fable 5 is greenlit to return",
-    "content_hash": "acb1e546feb03a5c5ba2a8e34b7109a3"
-  },
-  {
-    "title": "Google\u2019s NotebookLM can sum up your research in a TikTok-style clip",
-    "normalized": "google's notebooklm can sum up your research in a tiktok-style clip",
-    "content_hash": "211f20df0b69d25e74497ae5d5128c7c"
-  },
-  {
-    "title": "007 First Light&#8217;s developer lays off staff but claims its next franchise will continue",
-    "normalized": "007 first light's developer lays off staff but claims its next franchise will continue",
-    "content_hash": "e6618b4d67b796428dd534ad9f4a90d2"
-  },
-  {
-    "title": "Anthropic launches AI drug discovery program",
-    "normalized": "anthropic launches ai drug discovery program",
-    "content_hash": "64dc6a639da2f21c0b448f359a2729ee"
-  },
-  {
-    "title": "Show HN: Kage, verification and freshness for Google's OKF agent memory",
-    "normalized": "show hn: kage, verification and freshness for google's okf agent memory",
-    "content_hash": "b7c083018460f36cdebf6e4d24cba0e0"
-  },
-  {
-    "title": "Show HN: Distributed LLM tracing and GH PR/issue linking [Apache 2.0]",
-    "normalized": "show hn: distributed llm tracing and gh pr/issue linking [apache 2.0]",
-    "content_hash": "13df1aa2c1802a28ae91558ceb1f74fb"
-  },
-  {
-    "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
-    "normalized": "startup battlefield australia application closes in days: apply before july 6",
-    "content_hash": "9da700669c4b5c5d209b0ad421be40df"
-  },
-  {
-    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-    "normalized": "the deepmind trio who built a poker ai are now making money for quant hedge funds",
-    "content_hash": "5d6c516a8c4d704ec021fdf53de85ed6"
-  },
-  {
-    "title": "Anthropic\u2019s Claude Science bets on workflow, not a new model, to win over scientists",
-    "normalized": "anthropic's claude science bets on workflow, not a new model, to win over scientists",
-    "content_hash": "90266b2c63ff884c09e26564a9fb1200"
-  },
-  {
-    "title": "Blue Origin still doesn\u2019t know why its New Glenn rocket blew up last month",
-    "normalized": "blue origin still doesn't know why its new glenn rocket blew up last month",
-    "content_hash": "c4c467de8e570e101fdce6b71beb8031"
-  },
-  {
-    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-    "normalized": "x now offers an mcp server to make its platform easier for ai tools to use",
-    "content_hash": "366d45ab7aa595067575883a21eeba2e"
-  },
-  {
-    "title": "Arcturus could halve the grid\u2019s electrical losses using its nano-infused metals",
-    "normalized": "arcturus could halve the grid's electrical losses using its nano-infused metals",
-    "content_hash": "388538ed89ebc78757b1a1fddc312c2b"
-  },
-  {
-    "title": "Podcasting platform Riverside enters the newsletter publishing game",
-    "normalized": "podcasting platform riverside enters the newsletter publishing game",
-    "content_hash": "e7de6a9813a29ad3836c3c0c26a9b329"
-  },
-  {
-    "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic\u2019s Mythos and Fable AI Models",
-    "normalized": "the trump administration is lifting its export controls on anthropic's mythos and fable ai models",
-    "content_hash": "8d29156646efd2b8b95889a48ecd00ef"
-  },
-  {
     "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
     "normalized": "meta, like spacex, looks to turn excess ai compute into cash",
     "content_hash": "46d8262a3c53d04404fce93a7684c092"
@@ -2498,5 +2373,130 @@
     "title": "When Does Continual Learning Require Learning",
     "normalized": "when does continual learning require learning",
     "content_hash": "abbf49654eb1a897afa4e21d81276604"
+  },
+  {
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "normalized": "apple sues openai for allegedly stealing hardware secrets",
+    "content_hash": "49326abce18fe17990c8c9422c4290e0"
+  },
+  {
+    "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+    "normalized": "nvidia's biggest ram supplier just had a trillion-dollar debut on wall street",
+    "content_hash": "65f945271b5a857480bfca906dcc6a2e"
+  },
+  {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "normalized": "apple sues openai over alleged trade secret theft",
+    "content_hash": "d07de4bf2a440e9c19ed8b3b2f78e7e0"
+  },
+  {
+    "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+    "normalized": "filing: college app fizz accuses vc of sharing confidential startup information with rival sidechat",
+    "content_hash": "0809009f18e7796e533207898c7c1130"
+  },
+  {
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "normalized": "sk hynix raises $26.5b in the biggest foreign ipo in us history, is urged to build new us fabs",
+    "content_hash": "cd9b511f0215512b75cd33ac527b6b1c"
+  },
+  {
+    "title": "ICE is threatening to deport witnesses of its latest shooting",
+    "normalized": "ice is threatening to deport witnesses of its latest shooting",
+    "content_hash": "3489cad5259c3fff6352228e1c8ae47a"
+  },
+  {
+    "title": "Apple sues OpenAI/io for stealing trade secrets",
+    "normalized": "apple sues openai/io for stealing trade secrets",
+    "content_hash": "9273ae24f2094492b1f715cdde167ac9"
+  },
+  {
+    "title": "Agentic test processes, LLM benchmarks, notes on agentic coding from Galapagos",
+    "normalized": "agentic test processes, llm benchmarks, notes on agentic coding from galapagos",
+    "content_hash": "45c90e3989b465ed08236e6fd05adc1d"
+  },
+  {
+    "title": "Migrating a production AI agent to GPT 5.6",
+    "normalized": "migrating a production ai agent to gpt 5.6",
+    "content_hash": "7dc9b53382f6003a1726b8be3b407b04"
+  },
+  {
+    "title": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
+    "normalized": "us cyber agency cisa had to build its incident playbook during the incident, agency reveals",
+    "content_hash": "33e4264d0ba691f2b8a00977582c8825"
+  },
+  {
+    "title": "Phia accused of \u2018cookie stuffing,\u2019 taking affiliate credit on purchases it didn\u2019t earn",
+    "normalized": "phia accused of 'cookie stuffing,' taking affiliate credit on purchases it didn't earn",
+    "content_hash": "c0a4a75129d0ca648384d05f140adbce"
+  },
+  {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "normalized": "meta removes controversial ai feature on instagram after backlash",
+    "content_hash": "8ce2a4af462042df4ecd1e382e904221"
+  },
+  {
+    "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+    "normalized": "a new app, hypertexting, turns the open web into a scrollable social media-like feed",
+    "content_hash": "c21e3c32daa829feed9f24ee5c1832ff"
+  },
+  {
+    "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+    "normalized": "oratomic raises $300m to build a viable quantum computer that needs only 20k qubits",
+    "content_hash": "ee696dc263f8bb794e0a4e294ffe7c52"
+  },
+  {
+    "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+    "normalized": "eu threatens meta with fines over addictive features on facebook and instagram",
+    "content_hash": "94d1a7c3cfe429a63b595db59d232375"
+  },
+  {
+    "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+    "normalized": "florida ransomware negotiator convicted for helping ransomware gang extort us companies",
+    "content_hash": "9a69081473eca625501342122c4d38ae"
+  },
+  {
+    "title": "Hugging Face\u2019s CEO on why companies are done renting their AI",
+    "normalized": "hugging face's ceo on why companies are done renting their ai",
+    "content_hash": "4f809e17969dc129d21de67538200e2d"
+  },
+  {
+    "title": "OpenAI\u2019s Head of Safety Is Leaving the Company",
+    "normalized": "openai's head of safety is leaving the company",
+    "content_hash": "6d6fcb85fef2b47b41dbb005aada11c6"
+  },
+  {
+    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "normalized": "apple is suing openai for allegedly stealing hardware secrets",
+    "content_hash": "023a17d6e07e0886fc5819ffbc84a814"
+  },
+  {
+    "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+    "normalized": "laser attack resets tangem wallet passwords on cards that can't be patched",
+    "content_hash": "69d90412eb69be2f99d7b0e6ae808291"
+  },
+  {
+    "title": "OpenAI's browser isn't dead, it just moved to the ChatGPT app",
+    "normalized": "openai's browser isn't dead, it just moved to the chatgpt app",
+    "content_hash": "7ae696dcb0377a0fb78ce59edc9b6338"
+  },
+  {
+    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "normalized": "meta turns off the instagram feature that let users make ai deepfakes of public accounts",
+    "content_hash": "0a54c31d30aba595a5fc1851e14ef0fe"
+  },
+  {
+    "title": "A decade later, Pok\u00e9mon Go finally made good on its original promise",
+    "normalized": "a decade later, pok\u00e9mon go finally made good on its original promise",
+    "content_hash": "33c058d91a06cf71dc5dfb1b70b2092b"
+  },
+  {
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "normalized": "apple sues openai, accuses ex-employees of stealing trade secrets",
+    "content_hash": "0a28fc4026fe6cc8e8418007cf2ce57e"
+  },
+  {
+    "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
+    "normalized": "choosing the right ai agent memory strategy: a decision-tree approach",
+    "content_hash": "f1707c88750029e443b9393ef6ddc724"
   }
 ]
