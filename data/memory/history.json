@@ -1,130 +1,5 @@
 [
   {
-    "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
-    "normalized": "gemini spark, google's agentic assistant, is now available on mac",
-    "content_hash": "080428ac156bcaf7269ca0d7f044d7dc"
-  },
-  {
-    "title": "Xbox\u2019s \u2018reset\u2019: all the news about Microsoft&#8217;s looming layoffs and studio closures",
-    "normalized": "xbox's 'reset': all the news about microsoft's looming layoffs and studio closures",
-    "content_hash": "85466c8f15e99307c60848536d19b9c8"
-  },
-  {
-    "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
-    "normalized": "run nvidia nemotron and openai gpt oss models on amazon bedrock in aws govcloud (us)",
-    "content_hash": "e6f420fba5c944b5f162f38a117048b3"
-  },
-  {
-    "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-    "normalized": "after $18b ipo, bending spoons founder says success comes from minimizing luck",
-    "content_hash": "92864ea0a4a2fa909efdf18c3a799e7e"
-  },
-  {
-    "title": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
-    "normalized": "cloudflare's new policy pushes ai companies to pay for publishers' content",
-    "content_hash": "9fdacb9266c7dd9bba623c26b9ee83ec"
-  },
-  {
-    "title": "Show HN:An AI agent that applies to jobs for me (Playwright,GPT5.4 form filling)",
-    "normalized": "show hn:an ai agent that applies to jobs for me (playwright,gpt5.4 form filling)",
-    "content_hash": "a0c331dd2267515bdbbd687f82e865fa"
-  },
-  {
-    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-    "normalized": "llms are stuck in a groupthink groove. this startup is trying to get them out.",
-    "content_hash": "b0a6ae9b33dc9c1b71788ecdb41da863"
-  },
-  {
-    "title": "Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier",
-    "normalized": "anthropic redeploys claude fable 5 on july 1 after us export controls lift, adds new cybersecurity classifier",
-    "content_hash": "f3c769f1d834f4f33a469321a87d05c6"
-  },
-  {
-    "title": "WhatsApp usernames are already raising impersonation red flags",
-    "normalized": "whatsapp usernames are already raising impersonation red flags",
-    "content_hash": "0e226138ae6bc0da352fdd045f5d7284"
-  },
-  {
-    "title": "Apple\u2019s Hide My Email feature has a bug that\u2019s been exposing real email addresses, researcher claims",
-    "normalized": "apple's hide my email feature has a bug that's been exposing real email addresses, researcher claims",
-    "content_hash": "d5c58572759b8937d7ca9b588fa35036"
-  },
-  {
-    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-    "normalized": "spacex has an ai device prototype, and it sure sounds phone-ish",
-    "content_hash": "ba5fa047f946af4f359a3f1659ec9224"
-  },
-  {
-    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-    "normalized": "ashton kutcher leaving sound ventures to launch new vc firm with morgan beller",
-    "content_hash": "9201be767304bc9f62c7b7c9cca7c4fe"
-  },
-  {
-    "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
-    "normalized": "neocloud together ai raises $800m, leaps to $8.3b valuation",
-    "content_hash": "0c7d84307d4b1d35523308358fae7288"
-  },
-  {
-    "title": "Lime begins life as a public company after years of uncertainty",
-    "normalized": "lime begins life as a public company after years of uncertainty",
-    "content_hash": "229c73a371d37ac443d9455118c73d7c"
-  },
-  {
-    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-    "normalized": "venice ai becomes a unicorn with $65m series a as its privacy-first ai platform takes off",
-    "content_hash": "bdaf2043ed7a22caae3c9b56f662f132"
-  },
-  {
-    "title": "Sony\u2019s PlayStation Puts a Nail in Physical Media\u2019s Coffin",
-    "normalized": "sony's playstation puts a nail in physical media's coffin",
-    "content_hash": "1f621e75ccb219d9a2ab0094e2438ffa"
-  },
-  {
-    "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration\u2019s Good Graces",
-    "normalized": "anthropic added a new security measure to get back into the trump administration's good graces",
-    "content_hash": "eea814de6705016b4a4413af8832c783"
-  },
-  {
-    "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-    "normalized": "veil#drop malware chain uses blogger platform to deliver purelogs stealer",
-    "content_hash": "731f10d856114c16cd84094093985794"
-  },
-  {
-    "title": "The funeral for PlayStation discs has begun",
-    "normalized": "the funeral for playstation discs has begun",
-    "content_hash": "26439e7cfa2155e1d83ac97beb53ba85"
-  },
-  {
-    "title": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
-    "normalized": "elon musk denies a report about spacex's ai phone prototype",
-    "content_hash": "5f18577e9cadfd3deba1c08663b5d93f"
-  },
-  {
-    "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
-    "normalized": "krafton settles with subnautica 2 developer after drawn-out dispute over $250 million",
-    "content_hash": "a80150a7e86ef4ad7df3ce60062a2582"
-  },
-  {
-    "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
-    "normalized": "xbox testing disc-to-digital feature that digitizes a physical game collection",
-    "content_hash": "131e09b5fbc3e7ed7f8811640d951c44"
-  },
-  {
-    "title": "My favorite Kindle alternative is $30 off after a recent price increase",
-    "normalized": "my favorite kindle alternative is $30 off after a recent price increase",
-    "content_hash": "2a241ae9d37dd93392176053dc6c155d"
-  },
-  {
-    "title": "Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
-    "normalized": "agents are aging too: agent lifespan engineering for deployed systems",
-    "content_hash": "7ff79dbfa9eaddc0feede98c468f42d2"
-  },
-  {
-    "title": "Show HN: Toolnexus for Python \u2013 MCP, agent skills,a2a for any LLM",
-    "normalized": "show hn: toolnexus for python - mcp, agent skills,a2a for any llm",
-    "content_hash": "34fd478c85135717300c300a198c7867"
-  },
-  {
     "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
     "normalized": "indian tech tycoon bets $30m of his own money to build ai alternative to microsoft office",
     "content_hash": "3e62a850896325ccc7565516dfd2912f"
@@ -2498,5 +2373,130 @@
     "title": "Netflix could be planning \u2018always-on\u2019 live TV channels",
     "normalized": "netflix could be planning 'always-on' live tv channels",
     "content_hash": "cbebaa774fcaac588eca2d883d4383fc"
+  },
+  {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "normalized": "openai bets on families as chatgpt goes deeper into households",
+    "content_hash": "9617e7b74a82c91c15a505d45ba8ca40"
+  },
+  {
+    "title": "ICE are heavily armed killers. They\u2019re also huge losers",
+    "normalized": "ice are heavily armed killers. they're also huge losers",
+    "content_hash": "0de6b9ba25fb8b426002690986051e03"
+  },
+  {
+    "title": "Bitemporal provenance in agent memory: What did we believe, when, and why",
+    "normalized": "bitemporal provenance in agent memory: what did we believe, when, and why",
+    "content_hash": "e65d370f45a3321dd3a3bff7592fce81"
+  },
+  {
+    "title": "I built a free tool to evaluate AI agent outputs (human labels and LLM judges)",
+    "normalized": "i built a free tool to evaluate ai agent outputs (human labels and llm judges)",
+    "content_hash": "1fa52239612bca05e9828fa11a66e21f"
+  },
+  {
+    "title": "HackerRank's LLM-Based Hiring Agent",
+    "normalized": "hackerrank's llm-based hiring agent",
+    "content_hash": "5f33d2551febb5536d2397a6d64be273"
+  },
+  {
+    "title": "Reed Jobs would rather talk about curing cancer than his last name",
+    "normalized": "reed jobs would rather talk about curing cancer than his last name",
+    "content_hash": "2a53e628e89366483a0c1f34ede15ed8"
+  },
+  {
+    "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+    "normalized": "hackers weaponize balochistan police portal in multi-group espionage campaigns",
+    "content_hash": "327c7b7fc6aa3ba8a8cd81355f3f49bc"
+  },
+  {
+    "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+    "normalized": "fl studio head constantin koehncke turns to reddit for feedback and fun",
+    "content_hash": "ae9fe561bdd0df7efc9d538ce777de0f"
+  },
+  {
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "normalized": "mesh llm: distributed ai computing on iroh",
+    "content_hash": "c41f8f07f93c85ef0226f05cf4465f81"
+  },
+  {
+    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+    "normalized": "nvidia, coreweave, and nebius: inside the circular financing of the gpu boom",
+    "content_hash": "9033eb0b6a24e4021a29cacbeec655c7"
+  },
+  {
+    "title": "Show HN: Token Time \u2013 Screen Time, but for your AI agent tokens",
+    "normalized": "show hn: token time - screen time, but for your ai agent tokens",
+    "content_hash": "11a6d002a87be579d416358c1d18e22b"
+  },
+  {
+    "title": "Secret Claude tracker surprises users after Anthropic's anti-surveillance stance",
+    "normalized": "secret claude tracker surprises users after anthropic's anti-surveillance stance",
+    "content_hash": "4b14ce70a2c5a607d58e373cb34a373b"
+  },
+  {
+    "title": "OpenAI Forked Git on GitHub",
+    "normalized": "openai forked git on github",
+    "content_hash": "70a29ce4768fdd89d477dd77e9e3e01e"
+  },
+  {
+    "title": "Show HN: Wizard \u2013 Self-extending Rust terminal AI agent (one-line install)",
+    "normalized": "show hn: wizard - self-extending rust terminal ai agent (one-line install)",
+    "content_hash": "66b683ee84a0f256c0318f606dec681b"
+  },
+  {
+    "title": "Local-first agent governance: keeping an AI agent contained",
+    "normalized": "local-first agent governance: keeping an ai agent contained",
+    "content_hash": "136e8fb51c0d5360c2277ea76c3efcf4"
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "normalized": "how chatgpt adoption has expanded",
+    "content_hash": "6ce9c12c19f542a5d55d7a6f96b320d5"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "normalized": "core dump epidemiology: fixing an 18-year-old bug",
+    "content_hash": "cf9e9960ca4629cebb12d763c60247d3"
+  },
+  {
+    "title": "A Coding Guide to NVIDIA\u2019s Tile-Based GPU Programming: From cuTile and Triton Kernels to Flash Attention",
+    "normalized": "a coding guide to nvidia's tile-based gpu programming: from cutile and triton kernels to flash attention",
+    "content_hash": "12588158cd41a53bc2033b41e026590f"
+  },
+  {
+    "title": "Phone flung during ED raid may crack global gold smuggling case",
+    "normalized": "phone flung during ed raid may crack global gold smuggling case",
+    "content_hash": "9e1008e61eaeafa24f6cad17f0deee4f"
+  },
+  {
+    "title": "This slushie machine was a lifesaver during NYC\u2019s heat wave",
+    "normalized": "this slushie machine was a lifesaver during nyc's heat wave",
+    "content_hash": "abdf7b1b4a83135142aae6ae57ab4ee4"
+  },
+  {
+    "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+    "normalized": "smart glasses without a camera? even realities bets productivity beats recording everyone",
+    "content_hash": "c2b9169c2baab07ef951e8db613158de"
+  },
+  {
+    "title": "Skylight\u2019s Touchscreen Calendar Got my Whole Family on the Same Page",
+    "normalized": "skylight's touchscreen calendar got my whole family on the same page",
+    "content_hash": "1c29e147b3a81980c84b451efc1f3272"
+  },
+  {
+    "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
+    "normalized": "ai found a root bug in linux that everyone missed for 15 years",
+    "content_hash": "6ff5dba5593421855cf41ea6d2f26ff0"
+  },
+  {
+    "title": "Best Hiking Boots (2026): Walking Shoes, Trails, Backpacking",
+    "normalized": "best hiking boots (2026): walking shoes, trails, backpacking",
+    "content_hash": "f86f6b04787eb8f6cd3156f1aa7be947"
+  },
+  {
+    "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
+    "normalized": "microsoft reports a massive 25 percent jump in emissions",
+    "content_hash": "00f6ccc908984f50268db22931ba7331"
   }
 ]
