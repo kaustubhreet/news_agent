@@ -1,130 +1,5 @@
 [
   {
-    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-    "normalized": "indian tech tycoon bets $30m of his own money to build ai alternative to microsoft office",
-    "content_hash": "3e62a850896325ccc7565516dfd2912f"
-  },
-  {
-    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-    "normalized": "openai floats giving trump administration 5 percent cut of ai boom",
-    "content_hash": "378593ff4de0ca62af7b87545877d8b3"
-  },
-  {
-    "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-    "normalized": "senior swe-bench: open-source benchmark that assesses agents as senior engineers",
-    "content_hash": "aa94db0cd18d79136809f0fea0fb152a"
-  },
-  {
-    "title": "EPC: A Standardized Protocol for Measuring Evaluator Preference Dynamics in LLM Agent Systems",
-    "normalized": "epc: a standardized protocol for measuring evaluator preference dynamics in llm agent systems",
-    "content_hash": "f695e7c714b6d9b15fbef5972dad5710"
-  },
-  {
-    "title": "Mapping the Evaluation Frontier: An Empirical Survey of the Bias-Reliability Tradeoff Across Eleven Evaluator-Agent Conditions",
-    "normalized": "mapping the evaluation frontier: an empirical survey of the bias-reliability tradeoff across eleven evaluator-agent conditions",
-    "content_hash": "4174c61ae0049f9dfe463e8cf1b63336"
-  },
-  {
-    "title": "Rivian raises EV sales forecast as Q2 production ramps up",
-    "normalized": "rivian raises ev sales forecast as q2 production ramps up",
-    "content_hash": "e12e3f0610a0d073f9d5a29771f0eb6f"
-  },
-  {
-    "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
-    "normalized": "identity lifecycle management wasn't built for ai agents",
-    "content_hash": "04d260e1833119b3c5de873221d9fe83"
-  },
-  {
-    "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-    "normalized": "ai agent exploits langflow rce to automate database ransomware attack",
-    "content_hash": "2d47be6e0b88d0cae5d8c2da262e05fd"
-  },
-  {
-    "title": "Mystery box shows are complicated for everyone \u2014 even the actors",
-    "normalized": "mystery box shows are complicated for everyone -- even the actors",
-    "content_hash": "bfc37549676d3590d6b5f68760fc5fb1"
-  },
-  {
-    "title": "BitTorrent&#8217;s disastrous, legendary, and controversial story",
-    "normalized": "bittorrent's disastrous, legendary, and controversial story",
-    "content_hash": "bae3dbf358162a5794bd7c4454d50b94"
-  },
-  {
-    "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
-    "normalized": "making failure safe: a constrained, verifiable agent framework for open-web data collection",
-    "content_hash": "da9bbb04de1956599620a72fdb8fbc65"
-  },
-  {
-    "title": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows",
-    "normalized": "mnemosyne: agentic transaction processing for validating and repairing ai-generated workflows",
-    "content_hash": "e751949337da27302eb134ebc8f12546"
-  },
-  {
-    "title": "Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems",
-    "normalized": "managed autonomy at runtime: gear-based safety and governance for single- and multi-agent cyber-physical systems",
-    "content_hash": "d0fc9ddbcb4476f7809e0c359bf9e7c0"
-  },
-  {
-    "title": "Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Context-Aware Agricultural Advisory Generation",
-    "normalized": "agri-sage: simulation-grounded multi-agent llm for context-aware agricultural advisory generation",
-    "content_hash": "82ea03745e508bfcf032d47217fe633d"
-  },
-  {
-    "title": "AGI Maze as a Benchmark Framework for World-Modeling Agents",
-    "normalized": "agi maze as a benchmark framework for world-modeling agents",
-    "content_hash": "96fec7e5fa3bf27e684e44f559acc835"
-  },
-  {
-    "title": "Self-GC: Self-Governing Context for Long-Horizon LLM Agents",
-    "normalized": "self-gc: self-governing context for long-horizon llm agents",
-    "content_hash": "b6439f36b1071196546cf0adf1237626"
-  },
-  {
-    "title": "Self-Evolving Agents with Anytime-Valid Certificates",
-    "normalized": "self-evolving agents with anytime-valid certificates",
-    "content_hash": "e23e199a3a2883b4434744eac9713df6"
-  },
-  {
-    "title": "Bayesian Uncertainty Propagation for Agentic RAG Pipelines: A Proof-of-Concept Study on Multi-Hop Question Answering",
-    "normalized": "bayesian uncertainty propagation for agentic rag pipelines: a proof-of-concept study on multi-hop question answering",
-    "content_hash": "21bcdfac7e695419c56aaeebf87f9fbd"
-  },
-  {
-    "title": "Testing Frontier Large Language Models' Physics Literacy in Parallel Physical Worlds",
-    "normalized": "testing frontier large language models' physics literacy in parallel physical worlds",
-    "content_hash": "8843b58ad9edfa0d23636b11fb6f97fd"
-  },
-  {
-    "title": "Tesla saw a massive sales jump in the second quarter",
-    "normalized": "tesla saw a massive sales jump in the second quarter",
-    "content_hash": "a489f455febd83a1983d7a06ce427ec7"
-  },
-  {
-    "title": "Yep, we\u2019re using OpenClaw to date now",
-    "normalized": "yep, we're using openclaw to date now",
-    "content_hash": "9b2a231b8b2eee52fe4e4732bb4f6b14"
-  },
-  {
-    "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-    "normalized": "apple is reportedly planning new ipad pro and macbook pro releases early next year",
-    "content_hash": "dbc5a76e34a013b478b80d04499e385c"
-  },
-  {
-    "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
-    "normalized": "bending spoons defies saas slump, surges 40% on first day of trading",
-    "content_hash": "c0a6728b9b427ae502418812bb40f994"
-  },
-  {
-    "title": "Even Honda is pivoting to data centers",
-    "normalized": "even honda is pivoting to data centers",
-    "content_hash": "292f2fa1ed3cee2a7729c5d721ebb43e"
-  },
-  {
-    "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
-    "normalized": "autonomous vehicle hype is back, and humble robotics is bringing it to freight",
-    "content_hash": "a9c1772d4e1e510704690b5507e54800"
-  },
-  {
     "title": "Anthropic is discussing a new custom chip with Samsung",
     "normalized": "anthropic is discussing a new custom chip with samsung",
     "content_hash": "f6afa8671aeb42bc9b70f1fb88a8199f"
@@ -2498,5 +2373,130 @@
     "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
     "normalized": "microsoft reports a massive 25 percent jump in emissions",
     "content_hash": "00f6ccc908984f50268db22931ba7331"
+  },
+  {
+    "title": "Reducing HBM Bottlenecks in JAX-Based LLM Training with Host Offloading",
+    "normalized": "reducing hbm bottlenecks in jax-based llm training with host offloading",
+    "content_hash": "3357441f36c02cbaec92ef4da74c822d"
+  },
+  {
+    "title": "OpenAI Engineer's 'LOL' Moment Set Stage for Legal Fight with Apple",
+    "normalized": "openai engineer's 'lol' moment set stage for legal fight with apple",
+    "content_hash": "7d8f522c5055d6c1e0574149675713ef"
+  },
+  {
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "normalized": "llms are stuck in a groupthink groove. this startup is trying to get them out.",
+    "content_hash": "b0a6ae9b33dc9c1b71788ecdb41da863"
+  },
+  {
+    "title": "Scientists\u2019 Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+    "normalized": "scientists' side hustle? using ai and quantum computing to generate new peptides",
+    "content_hash": "39adf41ca98a1e4259070826244a198d"
+  },
+  {
+    "title": "The fight against AI data centers is just beginning",
+    "normalized": "the fight against ai data centers is just beginning",
+    "content_hash": "5ea83484101f6d3eb4901f33c962c707"
+  },
+  {
+    "title": "Agent Data Injection: Arbitrary Click Attack Against Web Agents",
+    "normalized": "agent data injection: arbitrary click attack against web agents",
+    "content_hash": "6aa12f34025cd983c949561e7b4bb95e"
+  },
+  {
+    "title": "Databricks AI Agent Genie Code Is No Longer Free. Now You Have to Pay as You Go",
+    "normalized": "databricks ai agent genie code is no longer free. now you have to pay as you go",
+    "content_hash": "63db83a39abb608d0c7e4fc4789493ef"
+  },
+  {
+    "title": "An AI gateway that signs a receipt for every LLM response",
+    "normalized": "an ai gateway that signs a receipt for every llm response",
+    "content_hash": "08a2c56f8af91b5a8513a23dfd58edd4"
+  },
+  {
+    "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning?",
+    "normalized": "finetuning a reasoning llm with supervised or reinforcement learning?",
+    "content_hash": "28d973d664c14674835f647c326e7858"
+  },
+  {
+    "title": "Agent Service \u2013 promptable AI agents with guardrails and downloadable packages",
+    "normalized": "agent service - promptable ai agents with guardrails and downloadable packages",
+    "content_hash": "ac30a77c11333a625aef94f97ccc9281"
+  },
+  {
+    "title": "MSK \u2013 an AI agent that thinks like a CTO",
+    "normalized": "msk - an ai agent that thinks like a cto",
+    "content_hash": "4d9296b5179eb9735b5b914bad43ed5e"
+  },
+  {
+    "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+    "normalized": "the best robotic pool cleaners of 2026: beatbot, igarden, dreame",
+    "content_hash": "b4c4bdfb6605f3536b06f9df422e2a4a"
+  },
+  {
+    "title": "Meet the Battery Startup Taking on China\u2019s Giants",
+    "normalized": "meet the battery startup taking on china's giants",
+    "content_hash": "b1bd34fa301f5e7e6bd94f0abd5c9c42"
+  },
+  {
+    "title": "Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing",
+    "normalized": "hiboy p6 fat tire electric bike review: smooth sailing",
+    "content_hash": "5ad9aba08201674ccc3a64e19cfe734f"
+  },
+  {
+    "title": "How to Share Your Location on an iPhone or Android Phone (2026)",
+    "normalized": "how to share your location on an iphone or android phone (2026)",
+    "content_hash": "6cedde8a6bf82e17ba0a9bfe7b324570"
+  },
+  {
+    "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+    "normalized": "critical zimbra flaw could let crafted emails run malicious code in user sessions",
+    "content_hash": "ec72e1ddf4e2de1cfc4ec309e021845e"
+  },
+  {
+    "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+    "normalized": "six new u-boot flaws could let malicious images crash devices or run code at boot",
+    "content_hash": "0b601f2163fc30a439bc2960661217d5"
+  },
+  {
+    "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+    "normalized": "researcher details whatsapp-to-host attack chain using three openclaw flaws",
+    "content_hash": "3cd763a85ac640c769b56d1bcf459336"
+  },
+  {
+    "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+    "normalized": "new modbeacon rat uses grpc streaming for encrypted c2 traffic",
+    "content_hash": "b4145dcb75c6108abb1e85b7b7abb851"
+  },
+  {
+    "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
+    "normalized": "attackers exploit 'ill bloom' vulnerability to drain over $5 million from cryptocurrency wallets",
+    "content_hash": "548284f929c5747d1fe745694a28e06d"
+  },
+  {
+    "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+    "normalized": "ransomware negotiator gets 70 months in prison for aiding blackcat attacks",
+    "content_hash": "351709b6e230fd41fc2afbf520c37997"
+  },
+  {
+    "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+    "normalized": "new gigawiper windows backdoor bundles disk wiping, fake ransomware, and spyware",
+    "content_hash": "661c0bc36898f7c8d606531dba01864b"
+  },
+  {
+    "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+    "normalized": "threatsday: cloud bucket hijacking, windows lpe chain, global fraud bust + 17 more stories",
+    "content_hash": "b010bffc9569b84574c4257c81786f55"
+  },
+  {
+    "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
+    "normalized": "ai attacks move in minutes. join this webinar on building a defense that keeps up",
+    "content_hash": "76d2ebc32b73ec34d5cb5fa33c2bcaef"
+  },
+  {
+    "title": "Summer of Clearinghouses",
+    "normalized": "summer of clearinghouses",
+    "content_hash": "7fbdd8d39d7b75b78acac59ed4f9a4b6"
   }
 ]
