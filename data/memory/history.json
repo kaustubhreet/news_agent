@@ -1,130 +1,5 @@
 [
   {
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "normalized": "anthropic is discussing a new custom chip with samsung",
-    "content_hash": "f6afa8671aeb42bc9b70f1fb88a8199f"
-  },
-  {
-    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-    "normalized": "microsoft launches its own ai deployment company with $2.5 billion commitment",
-    "content_hash": "afd797135f522e139e8d86d657e7bbdc"
-  },
-  {
-    "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
-    "normalized": "mark zuckerberg tells staff that ai agents haven't progressed as quickly as he'd hoped",
-    "content_hash": "f431df8d26cefae6262d2c3cf2f7870b"
-  },
-  {
-    "title": "Thiel Capital\u2019s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-    "normalized": "thiel capital's jack selby nabs stakes in hot startups like etched through arizona connections",
-    "content_hash": "806cebcffab48c98a11e46c058ff4b56"
-  },
-  {
-    "title": "A warning sign about AI\u2019s real cost, courtesy of Google and Amazon",
-    "normalized": "a warning sign about ai's real cost, courtesy of google and amazon",
-    "content_hash": "3f5375a7a9ef6c6120765a18bae3d727"
-  },
-  {
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "normalized": "openai proposed donating 5% of its equity to a us sovereign wealth fund",
-    "content_hash": "6c7a3bad26b562e5b1228f9cf6012d11"
-  },
-  {
-    "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
-    "normalized": "can cursor remain a platform for openai and anthropic's models inside spacex?",
-    "content_hash": "05923280632357af1676c75cced1c072"
-  },
-  {
-    "title": "Last chance to apply \u2014 Startup Battlefield Australia applications close July 6",
-    "normalized": "last chance to apply -- startup battlefield australia applications close july 6",
-    "content_hash": "48371fe1b5524f7a2d7dbb04e89f0868"
-  },
-  {
-    "title": "IQM, Europe\u2019s first public quantum company, admits the future of the tech is uncertain",
-    "normalized": "iqm, europe's first public quantum company, admits the future of the tech is uncertain",
-    "content_hash": "d9b61cb88999053bc4161d9311138b87"
-  },
-  {
-    "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
-    "normalized": "jersey mike's ipo illustrates how bad the ai hype has become",
-    "content_hash": "f0c78a9af48d36dd033ac8c3f341c7e5"
-  },
-  {
-    "title": "Meta quietly launches vibe-coded gaming app Pocket",
-    "normalized": "meta quietly launches vibe-coded gaming app pocket",
-    "content_hash": "5d4386bd0852b3ed00a95a5182a68ce2"
-  },
-  {
-    "title": "Travel app Hopper to pay $35M in FTC settlement over \u2018unfairly\u2019 charging hidden fees",
-    "normalized": "travel app hopper to pay $35m in ftc settlement over 'unfairly' charging hidden fees",
-    "content_hash": "14a08cf2cafb2383471b1f46a7399ce5"
-  },
-  {
-    "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
-    "normalized": "boeing-owned wisk aero accused of firing manager who raised safety concerns",
-    "content_hash": "d1a51957ec5f92aa2484d93519907d1d"
-  },
-  {
-    "title": "Melinda Gates\u2019 venture firm backs Magnify Ventures\u2019 $46.6M Fund II",
-    "normalized": "melinda gates' venture firm backs magnify ventures' $46.6m fund ii",
-    "content_hash": "f8fb421a7e6e3ce1130f5effe6a44493"
-  },
-  {
-    "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-    "normalized": "popular tv-tracking app tv time is shutting down as company focuses on ai",
-    "content_hash": "0e3f69f5ea4929c75a6d9242b8271582"
-  },
-  {
-    "title": "US government says it got hacked \u2014 again",
-    "normalized": "us government says it got hacked -- again",
-    "content_hash": "37aed428987279cf483186aae7783ca8"
-  },
-  {
-    "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-    "normalized": "google disrupts netnut residential proxy network spanning 2 million home devices",
-    "content_hash": "861f0a3cb5b1d4d0f702dd5bb5766848"
-  },
-  {
-    "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
-    "normalized": "toddycat-linked umbrij malware abuses oauth to access gmail via google api",
-    "content_hash": "6625741ca8d8677c1d002184c90dbaa1"
-  },
-  {
-    "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
-    "normalized": "tesla driver faces manslaughter charges over texas crash that killed a woman inside her home",
-    "content_hash": "11d797706c7534b780fb6f189c99ad1e"
-  },
-  {
-    "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
-    "normalized": "meta has a new app called pocket that is absolutely nothing like the old pocket",
-    "content_hash": "e56c9621a7380bf3fec931afb9f9770a"
-  },
-  {
-    "title": "Tesla&#8217;s Q2 sales jump 25 percent",
-    "normalized": "tesla's q2 sales jump 25 percent",
-    "content_hash": "ddfbd5397f38bbfac53514465df97165"
-  },
-  {
-    "title": "AI won\u2019t save advertising, says Digitas\u2019 Amy Lanzi",
-    "normalized": "ai won't save advertising, says digitas' amy lanzi",
-    "content_hash": "531bbc9f8e8b1eef4d3b2fbb5e68fb67"
-  },
-  {
-    "title": "Show HN: ctx \u2013 Search the coding agent history already on your machine",
-    "normalized": "show hn: ctx - search the coding agent history already on your machine",
-    "content_hash": "9a15dee856a02701fe33bed339bdab03"
-  },
-  {
-    "title": "The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
-    "normalized": "the google health api got a cli: ghealth is an open-source tool for your fitbit air data",
-    "content_hash": "888a79d59c2009a5c88bf59e2b6a9a3e"
-  },
-  {
-    "title": "NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
-    "normalized": "nvidia releases nemotron-labs-twotower: an open-weight diffusion language model built on a frozen autoregressive nemotron-3-nano-30b-a3b backbone",
-    "content_hash": "2c983951f95992ad021daf2db5cf2b05"
-  },
-  {
     "title": "A behind-the-scenes look at Midjourney\u2019s medical scanner leaves many questions unanswered",
     "normalized": "a behind-the-scenes look at midjourney's medical scanner leaves many questions unanswered",
     "content_hash": "9d7cc4e2ee1d01c399ac8d392a7c269a"
@@ -2498,5 +2373,130 @@
     "title": "Summer of Clearinghouses",
     "normalized": "summer of clearinghouses",
     "content_hash": "7fbdd8d39d7b75b78acac59ed4f9a4b6"
+  },
+  {
+    "title": "Apple\u2019s failed self-driving car program left a legacy of powerful AI chips",
+    "normalized": "apple's failed self-driving car program left a legacy of powerful ai chips",
+    "content_hash": "f2dbda93b5a56c6db00a9eddf240294d"
+  },
+  {
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "normalized": "migrating a production ai agent to gpt-5.6: 2.2x faster, 27% cheaper",
+    "content_hash": "dac4620c55f1b963ea3539a52f0e5963"
+  },
+  {
+    "title": "TechCrunch Mobility: A robotaxi ultimatum",
+    "normalized": "techcrunch mobility: a robotaxi ultimatum",
+    "content_hash": "d16ae2a0b2a24ac2821a0b7508ac779d"
+  },
+  {
+    "title": "Lorde says Ray-Ban Meta AI glasses are \u2018not sexy\u2019",
+    "normalized": "lorde says ray-ban meta ai glasses are 'not sexy'",
+    "content_hash": "d7280809557d999c352c0da6d36dbc54"
+  },
+  {
+    "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
+    "normalized": "one of steelseries' best gaming headsets is over $100 off",
+    "content_hash": "4808f3f559702d9e68155d4465719730"
+  },
+  {
+    "title": "Blue Prince became a bonding \u2014 and learning \u2014 experience for my family",
+    "normalized": "blue prince became a bonding -- and learning -- experience for my family",
+    "content_hash": "1ea782fcb1c8543125ec5839da3fe618"
+  },
+  {
+    "title": "Guide to Loop Engineering: How \u2018autoresearch\u2019 and \u2018Bilevel Autoresearch\u2019 Turn AI Agents Into Autonomous Machine Learning ML Research Loops",
+    "normalized": "guide to loop engineering: how 'autoresearch' and 'bilevel autoresearch' turn ai agents into autonomous machine learning ml research loops",
+    "content_hash": "c2f5f05d9662cbf449f60de6ac97c53a"
+  },
+  {
+    "title": "Delivery agent barges into woman's Bengaluru flat, flashes her",
+    "normalized": "delivery agent barges into woman's bengaluru flat, flashes her",
+    "content_hash": "8c63b512cd90edfb3c86c886e6dec925"
+  },
+  {
+    "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+    "normalized": "meta's new ai image tool lets others use your public instagram photos in ai images",
+    "content_hash": "a9f1e041ae07423494ff2afde54ac167"
+  },
+  {
+    "title": "Xbox gamer wins lawsuit against Microsoft to restore account and digital library",
+    "normalized": "xbox gamer wins lawsuit against microsoft to restore account and digital library",
+    "content_hash": "8c7ca1731726931f5d6336aecf105d8e"
+  },
+  {
+    "title": "OpenAI's head of safety is reportedly leaving as part of company reorganization",
+    "normalized": "openai's head of safety is reportedly leaving as part of company reorganization",
+    "content_hash": "feec79083b4ea70f83e8d2072666b56d"
+  },
+  {
+    "title": "Miora",
+    "normalized": "miora",
+    "content_hash": "e251952a64f952d8920be4dd36f945b7"
+  },
+  {
+    "title": "San Fran Sim",
+    "normalized": "san fran sim",
+    "content_hash": "27f282a39b3645fbf88a836243588509"
+  },
+  {
+    "title": "ChatGPT Work",
+    "normalized": "chatgpt work",
+    "content_hash": "0be3e4e2b7ddbe4699f969112bf51cf8"
+  },
+  {
+    "title": "Sim",
+    "normalized": "sim",
+    "content_hash": "e9064b74d28acc053231170bb8c858b3"
+  },
+  {
+    "title": "ChatCut",
+    "normalized": "chatcut",
+    "content_hash": "5f6d3313098e22fdee83a321caa0fe78"
+  },
+  {
+    "title": "Mispher",
+    "normalized": "mispher",
+    "content_hash": "b99aeee8db6f9042ac8e3418e34ae8a7"
+  },
+  {
+    "title": "Ship OS by Notion",
+    "normalized": "ship os by notion",
+    "content_hash": "7df5177bf076fe439c6af9660eff5619"
+  },
+  {
+    "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+    "normalized": "shall we go on sinning so that grace may increase? is hypnotic, healing, and hopeful",
+    "content_hash": "aa3e77e27fd60f9bf5ed10b80674c76d"
+  },
+  {
+    "title": "How Philips Hue got the smart home right",
+    "normalized": "how philips hue got the smart home right",
+    "content_hash": "50e40d8fa28af3fe32f2ec84ac6a84fd"
+  },
+  {
+    "title": "Less is more with the Oura Ring 5",
+    "normalized": "less is more with the oura ring 5",
+    "content_hash": "0136c6d673bb9bf1fa3ad4d8880cd8cb"
+  },
+  {
+    "title": "After years of teasing, the viral Nopia synth is \u2018basically finished\u2019",
+    "normalized": "after years of teasing, the viral nopia synth is 'basically finished'",
+    "content_hash": "b9e3d7956b7f546c1691e08d79ac6512"
+  },
+  {
+    "title": "Oregon\u2019s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+    "normalized": "oregon's attorney general withdraws effort to delay paramount and warner bros. merger",
+    "content_hash": "23e2fcbd475b87bf01f025ceb77737d2"
+  },
+  {
+    "title": "Old and new apps, via modern coding agents",
+    "normalized": "old and new apps, via modern coding agents",
+    "content_hash": "6b61f9b1b35a7459f93d6418cd15a239"
+  },
+  {
+    "title": "I Learned to Read Again",
+    "normalized": "i learned to read again",
+    "content_hash": "28be12f4331986be3528ff4ec2041bfa"
   }
 ]
