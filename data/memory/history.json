@@ -1,130 +1,5 @@
 [
   {
-    "title": "A behind-the-scenes look at Midjourney\u2019s medical scanner leaves many questions unanswered",
-    "normalized": "a behind-the-scenes look at midjourney's medical scanner leaves many questions unanswered",
-    "content_hash": "9d7cc4e2ee1d01c399ac8d392a7c269a"
-  },
-  {
-    "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
-    "normalized": "opine-world: programmatic world modeling with ontology-error-prioritized interactive exploration",
-    "content_hash": "f14031dcb9901c8ba06b6cf654bb717e"
-  },
-  {
-    "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
-    "normalized": "eo-agents: a three-agent llm pipeline for earth observation hypothesis generation",
-    "content_hash": "5618e9aa122035a8856154717dd3b461"
-  },
-  {
-    "title": "All Your Favorite Gadgets Are Getting Way More Expensive \u2026 Again",
-    "normalized": "all your favorite gadgets are getting way more expensive ... again",
-    "content_hash": "88ec60b1a5a1f2cce6fb2f28ac24f990"
-  },
-  {
-    "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
-    "normalized": "jon prosser responds to apple lawsuit by blaming the other guy",
-    "content_hash": "f9d23498b0dd8995467e01c41ec8b8c2"
-  },
-  {
-    "title": "The Verge\u2019s annual summer \u2018in\u2019 and \u2018out\u2019 list",
-    "normalized": "the verge's annual summer 'in' and 'out' list",
-    "content_hash": "8977978fe5bcd66c9c49160dfe621510"
-  },
-  {
-    "title": "The Wiola Architecture for Efficient Small Language Models",
-    "normalized": "the wiola architecture for efficient small language models",
-    "content_hash": "9a371fa690a49e8ecd9fbd4e23c77465"
-  },
-  {
-    "title": "Diverse Evidence, Better Forecasts: Multi-Agent Deliberation Under Information Asymmetry",
-    "normalized": "diverse evidence, better forecasts: multi-agent deliberation under information asymmetry",
-    "content_hash": "5aeb8b5dfb51885aad49e533b56dd4be"
-  },
-  {
-    "title": "Multi-Head Recurrent Memory Agents",
-    "normalized": "multi-head recurrent memory agents",
-    "content_hash": "637df120c5a2d9784484eb4272c8d70e"
-  },
-  {
-    "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression",
-    "normalized": "google ai introduces tabfm: a hybrid-attention tabular foundation model for zero-shot classification and regression",
-    "content_hash": "ae24fdae48cdc6933667f24eb9eaf68f"
-  },
-  {
-    "title": "LLM Wikis Are Over-Engineered \u2014 I Replaced Mine With a Pure Python Compiler",
-    "normalized": "llm wikis are over-engineered -- i replaced mine with a pure python compiler",
-    "content_hash": "f91de0aabd0b92542819a9027ea8848b"
-  },
-  {
-    "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-    "normalized": "politician who investigated spyware abuses had his phone hacked with pegasus spyware",
-    "content_hash": "966152dbe1976a4db0e4cdc990d4dbec"
-  },
-  {
-    "title": "Private space pilots are flying orbital missions for the US Space Force",
-    "normalized": "private space pilots are flying orbital missions for the us space force",
-    "content_hash": "8b9db98118ef41e2a20c1e0bb60c953b"
-  },
-  {
-    "title": "Lucid Motors\u2019 CFO is out as its new CEO continues leadership shakeup",
-    "normalized": "lucid motors' cfo is out as its new ceo continues leadership shakeup",
-    "content_hash": "6c5588d97c1a4aaa557ae3389e208c90"
-  },
-  {
-    "title": "7 Best Phones You Can\u2019t Buy in the US (2026)",
-    "normalized": "7 best phones you can't buy in the us (2026)",
-    "content_hash": "50ea79d3d3fa380f3d6e6b1b1c6c77c1"
-  },
-  {
-    "title": "The FDA Ruled That ZYN Pouches Are Safer Than Cigarettes. That Doesn\u2019t Mean They\u2019re Safe",
-    "normalized": "the fda ruled that zyn pouches are safer than cigarettes. that doesn't mean they're safe",
-    "content_hash": "271d0d25a8fb43ac3d05507eb7f12ff3"
-  },
-  {
-    "title": "The Onion\u2019s \u2018Infowars\u2019 Parody Is Here. Alex Jones Is Going to Hate It",
-    "normalized": "the onion's 'infowars' parody is here. alex jones is going to hate it",
-    "content_hash": "4c2a1a50ac743d1138298068efc428b4"
-  },
-  {
-    "title": "The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH",
-    "normalized": "the dea plans to ban opioid-like kratom compound 7-oh",
-    "content_hash": "95c6af6cbff31932ba8fdd54b6b0f250"
-  },
-  {
-    "title": "7 Lesser-Known Google Account Settings You Should Change",
-    "normalized": "7 lesser-known google account settings you should change",
-    "content_hash": "538a7f2d472743c1f6e7391879eab92b"
-  },
-  {
-    "title": "Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse",
-    "normalized": "heat domes are dangerous. july fourth activities will make things worse",
-    "content_hash": "bc2a35c1bfd9cf4d9bf22efc40366bd2"
-  },
-  {
-    "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-    "normalized": "ransomware groups turn to citrix bleed 2, byovd, and supply chain credentials",
-    "content_hash": "803ca031782012445823c6e92d454e2e"
-  },
-  {
-    "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-    "normalized": "threatsday: ai compute hijacking, apple email flaw, bluehammer ransomware + 14 stories",
-    "content_hash": "a5dee4ed4032a46da17abfda81fc4c4b"
-  },
-  {
-    "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-    "normalized": "fortibleed credential theft linked to inc and lynx ransomware operations",
-    "content_hash": "b2e4e1b246c7b9e0baba3b4385f2abf0"
-  },
-  {
-    "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-    "normalized": "new chocopoc rat targets vulnerability researchers via fake poc exploit repos",
-    "content_hash": "c8230a0bd49f25397ee81565c2b72ade"
-  },
-  {
-    "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
-    "normalized": "sharepoint rce cve-2026-45659 added to cisa kev after active exploitation",
-    "content_hash": "682b414e784ca68cf45895fcd90087cb"
-  },
-  {
     "title": "Meta AI chief says their coming LLM has caught up with OpenAI's flagship model",
     "normalized": "meta ai chief says their coming llm has caught up with openai's flagship model",
     "content_hash": "c2c3c3d313046652a1fd72d4d94cb37b"
@@ -2498,5 +2373,130 @@
     "title": "I Learned to Read Again",
     "normalized": "i learned to read again",
     "content_hash": "28be12f4331986be3528ff4ec2041bfa"
+  },
+  {
+    "title": "Show HN: LLM-mock \u2013 Record and replay OpenAI/Anthropic calls in pytest (v1.0)",
+    "normalized": "show hn: llm-mock - record and replay openai/anthropic calls in pytest (v1.0)",
+    "content_hash": "694ad6db9882509ae356cfd8bf768740"
+  },
+  {
+    "title": "Waze is getting a bunch of new AI-powered features",
+    "normalized": "waze is getting a bunch of new ai-powered features",
+    "content_hash": "852a92bf1c9c0f976dbe90dc8bce1aab"
+  },
+  {
+    "title": "SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction",
+    "normalized": "sageagent: a self-evolving agent for cost-aware modality acquisition in multimodal survival prediction",
+    "content_hash": "0e5552335593700b8d706aa53464855b"
+  },
+  {
+    "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+    "normalized": "forg365 phaas targets microsoft 365 with device code and aitm session theft",
+    "content_hash": "11bb3c89b7d5c1250ce23a3cc0ff782b"
+  },
+  {
+    "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+    "normalized": "thinking fast and slow in the soc: the case for combining autonomous ai with analyst copilots",
+    "content_hash": "8414dca6689673db76c0c3b55a7e3c6a"
+  },
+  {
+    "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+    "normalized": "this free mac app reveals the truth about your mystery usb-c cables",
+    "content_hash": "ac4dffb41a1ea83230c81e7ac351ba6b"
+  },
+  {
+    "title": "Social media limits are coming for teens across Europe",
+    "normalized": "social media limits are coming for teens across europe",
+    "content_hash": "ef07f7ad2c21495fb121f587691e76f2"
+  },
+  {
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "normalized": "claude code sends 33k tokens before reading the prompt; opencode sends 7k",
+    "content_hash": "4248d807fd5467fb667c29d89e05b925"
+  },
+  {
+    "title": "The State of AGENTS.md: scoring the 16 biggest AI agent repos' own instructions",
+    "normalized": "the state of agents.md: scoring the 16 biggest ai agent repos' own instructions",
+    "content_hash": "224c31542a35d33aeb7236a6b6393dc2"
+  },
+  {
+    "title": "Cairn, an AI agent with a $50 budget, an email address, and a constitution",
+    "normalized": "cairn, an ai agent with a $50 budget, an email address, and a constitution",
+    "content_hash": "e404b786b22efb3af3ded42ed395e549"
+  },
+  {
+    "title": "Show HN: Latent-free ternary LLM training",
+    "normalized": "show hn: latent-free ternary llm training",
+    "content_hash": "4adaf1ca4c35ff57b79c6df8ccc22c50"
+  },
+  {
+    "title": "Apple accuses OpenAI of stealing its core tech secrets",
+    "normalized": "apple accuses openai of stealing its core tech secrets",
+    "content_hash": "c908ea5acb1d3f00963f6e97e57cebd8"
+  },
+  {
+    "title": "AI Agent Coding Comparison: The Rust Leap Year Challenge",
+    "normalized": "ai agent coding comparison: the rust leap year challenge",
+    "content_hash": "8f50d385afb940debb930c02214a71d8"
+  },
+  {
+    "title": "Apple's 'Thermonuclear' Response to the OpenAI Threat",
+    "normalized": "apple's 'thermonuclear' response to the openai threat",
+    "content_hash": "352101d1e89171b3901a4a57d67ec382"
+  },
+  {
+    "title": "Visualization of the OpenAI Proof of the Cycle Double Cover Conjecture",
+    "normalized": "visualization of the openai proof of the cycle double cover conjecture",
+    "content_hash": "ecade6f960c3757b4892c9270f44d2c2"
+  },
+  {
+    "title": "Show HN: UATC-Closed-loop VRAM control and dynamic data pruning for LLM training",
+    "normalized": "show hn: uatc-closed-loop vram control and dynamic data pruning for llm training",
+    "content_hash": "0ead8647981215c1dd1fd3c0995135e5"
+  },
+  {
+    "title": "Anthropic Moved the Fable Deadline Again",
+    "normalized": "anthropic moved the fable deadline again",
+    "content_hash": "525de8d5004d87760769d1030e660647"
+  },
+  {
+    "title": "Device Context Protocol \u2013 Bridge LLM Agents to Physical Devices",
+    "normalized": "device context protocol - bridge llm agents to physical devices",
+    "content_hash": "2de879388a04dd7f7315477518b34950"
+  },
+  {
+    "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+    "normalized": "gats: graph-augmented tree search with layered world models for efficient agent planning",
+    "content_hash": "1cf3bbf3a111af5fb664bf68355be1b1"
+  },
+  {
+    "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+    "normalized": "long-horizon-terminal-bench: testing the limits of agents on long-horizon terminal tasks with dense reward-based grading",
+    "content_hash": "b9e4cc3134fa894fac92602ae60ea6a9"
+  },
+  {
+    "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+    "normalized": "neuro-agentic control: a deep learning-based llm-powered agentic ai framework for controlling security controls",
+    "content_hash": "bb0c5a27ffbf397bb4ac76b5d030d0ed"
+  },
+  {
+    "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+    "normalized": "medrealmm: a real-world multimodal benchmark for chinese online medical consultation",
+    "content_hash": "a484bba44f6669f986160fb346668f6a"
+  },
+  {
+    "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+    "normalized": "kv-prm: efficient process reward modeling via kv-cache transfer for multi-agent test-time scaling",
+    "content_hash": "528dfa126a6220c2db74bac4b3ab55a0"
+  },
+  {
+    "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
+    "normalized": "scoped verification for reliable long-horizon agentic context evolution under distribution shift",
+    "content_hash": "22df82118dd3fbfb81620ce1c7a53f30"
+  },
+  {
+    "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+    "normalized": "toward auditable ai scientists: a hypothesis evolution protocol for llm agents",
+    "content_hash": "0aa8c2633ae60829eff936bc7957d6ef"
   }
 ]
