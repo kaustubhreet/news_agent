@@ -1,130 +1,5 @@
 [
   {
-    "title": "Meta AI chief says their coming LLM has caught up with OpenAI's flagship model",
-    "normalized": "meta ai chief says their coming llm has caught up with openai's flagship model",
-    "content_hash": "c2c3c3d313046652a1fd72d4d94cb37b"
-  },
-  {
-    "title": "Show HN: Sharing LLM Artifacts with your team",
-    "normalized": "show hn: sharing llm artifacts with your team",
-    "content_hash": "af409f9cda5216e320be28c69e5cb5c3"
-  },
-  {
-    "title": "Anthropic wants to develop its own drugs",
-    "normalized": "anthropic wants to develop its own drugs",
-    "content_hash": "3a26379b3f523ccb911e4be014177a8a"
-  },
-  {
-    "title": "The only AI glossary you\u2019ll need this year",
-    "normalized": "the only ai glossary you'll need this year",
-    "content_hash": "2a2ff7a66f2468527977ae0cd5af9808"
-  },
-  {
-    "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
-    "normalized": "the browser wars aren't about search anymore -- here are the best alternatives to chrome and safari",
-    "content_hash": "09767ab9ccbeb6c4745a652ca105e2e8"
-  },
-  {
-    "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-    "normalized": "new \"bad epoll\" linux kernel flaw lets unprivileged users gain root, hits android",
-    "content_hash": "625dd15f3aea5d3f9cdaed2769de7d6c"
-  },
-  {
-    "title": "This slim camera has a transparent LCD screen for a viewfinder",
-    "normalized": "this slim camera has a transparent lcd screen for a viewfinder",
-    "content_hash": "ee95c7104047aa3ab5ff18193115671a"
-  },
-  {
-    "title": "Making a Simulation Game \u2013 Part 1: The Agent Simulation Engine",
-    "normalized": "making a simulation game - part 1: the agent simulation engine",
-    "content_hash": "0946f4d43e0d26caa5045f94c8f9db24"
-  },
-  {
-    "title": "Give your AI agent its own email inbox \u2013 MailKite",
-    "normalized": "give your ai agent its own email inbox - mailkite",
-    "content_hash": "fccdea9c72fbc32885bb16c6051e9dbc"
-  },
-  {
-    "title": "OpenCode, Pi, and Goose: Three Layers of the AI Agent Stack",
-    "normalized": "opencode, pi, and goose: three layers of the ai agent stack",
-    "content_hash": "7c673752a80d3328f893cc040ea772fe"
-  },
-  {
-    "title": "Does a URL just sitting in a prompt steer an LLM's output toward its content?",
-    "normalized": "does a url just sitting in a prompt steer an llm's output toward its content?",
-    "content_hash": "331e610dce31d01d364d9d0210223119"
-  },
-  {
-    "title": "Independent Studio Buys Movie About OpenAI That Amazon Dropped",
-    "normalized": "independent studio buys movie about openai that amazon dropped",
-    "content_hash": "510a4d241dc083bb6d4c440e4d8bc74c"
-  },
-  {
-    "title": "Collabora Office Update with Choose Your Own LLM Adventure",
-    "normalized": "collabora office update with choose your own llm adventure",
-    "content_hash": "e933855a7751006c19c5e1e6bce78e49"
-  },
-  {
-    "title": "Show HN: Vublox Agent Tools, MCP server for live football scores and players",
-    "normalized": "show hn: vublox agent tools, mcp server for live football scores and players",
-    "content_hash": "7c2c150d9c52c7dafe72e0e85d923509"
-  },
-  {
-    "title": "Show HN: Hamzaish, agent OS and co-builder for non-techies",
-    "normalized": "show hn: hamzaish, agent os and co-builder for non-techies",
-    "content_hash": "5e6566a5a592c2b8aa32b7b67cac0ec9"
-  },
-  {
-    "title": "Real-Time Phone Call Transcription Pipeline with Telnyx and OpenAI Whisper",
-    "normalized": "real-time phone call transcription pipeline with telnyx and openai whisper",
-    "content_hash": "a45b71d8735daaa9b9d8b21b691b0873"
-  },
-  {
-    "title": "Show HN: Plasma Wiki \u2013 a CLI for maintaining agent-edited Markdown wikis",
-    "normalized": "show hn: plasma wiki - a cli for maintaining agent-edited markdown wikis",
-    "content_hash": "15d2e4d26336ed578003f33f51fe7131"
-  },
-  {
-    "title": "AI Agent ransomware attack through Langflow instance by exploiting CVE-2025-3248",
-    "normalized": "ai agent ransomware attack through langflow instance by exploiting cve-2025-3248",
-    "content_hash": "25b5a42a83083c772f7960a7caea3fc7"
-  },
-  {
-    "title": "The Dune keypad device can be your meeting controller and more",
-    "normalized": "the dune keypad device can be your meeting controller and more",
-    "content_hash": "7266683d13036b0fdd045744a92885dc"
-  },
-  {
-    "title": "Chevy built an all-American EV truck \u2014 why is nobody buying it?",
-    "normalized": "chevy built an all-american ev truck -- why is nobody buying it?",
-    "content_hash": "eaa6bd7c05caf5f18bf5472ed41f8213"
-  },
-  {
-    "title": "3 Nuclear Startups Hit a Big Milestone. Why It Matters\u2014and Why It Doesn\u2019t",
-    "normalized": "3 nuclear startups hit a big milestone. why it matters--and why it doesn't",
-    "content_hash": "11f44733c0e5f03380fc2e4732d423ef"
-  },
-  {
-    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-    "normalized": "google deepmind unionization talks are off to a rocky start",
-    "content_hash": "3b9a3d5a510e82e412985b07a3bfa598"
-  },
-  {
-    "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-    "normalized": "new avalon malware framework packs crownx ransomware capabilities",
-    "content_hash": "97fbf8c6ebbfe502f1cdad979911c7ca"
-  },
-  {
-    "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-    "normalized": "armored likho targets government agencies, power sector with busysnake stealer",
-    "content_hash": "247121b53b7c33c0484b44d15dde0e10"
-  },
-  {
-    "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-    "normalized": "unpatched argo cd repo-server flaw could let attackers take over kubernetes clusters",
-    "content_hash": "bcd96f8d9442751e3109913369401103"
-  },
-  {
     "title": "The fanfiction community is at war with AI \u2014 and itself",
     "normalized": "the fanfiction community is at war with ai -- and itself",
     "content_hash": "25de687fa5a1c48d792e5a9ac2fc064b"
@@ -2498,5 +2373,130 @@
     "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
     "normalized": "toward auditable ai scientists: a hypothesis evolution protocol for llm agents",
     "content_hash": "0aa8c2633ae60829eff936bc7957d6ef"
+  },
+  {
+    "title": "Show HN: Made a Free LLM Router",
+    "normalized": "show hn: made a free llm router",
+    "content_hash": "63c3ebf6fd470312c200cd8c74708f8c"
+  },
+  {
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "normalized": "hermes agent maker nous research in talks for new funding at $1.5b valuation",
+    "content_hash": "c73b6557ad77f052aba05fc86f272213"
+  },
+  {
+    "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
+    "normalized": "ai model co-design: hardware-friendly llm design",
+    "content_hash": "fec6e7bfe17c408589981b7795210830"
+  },
+  {
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "normalized": "video-generation startup pixverse raises $439m, valuation soars past $2b",
+    "content_hash": "d599ab4ff042dd742a8cabc5313876d0"
+  },
+  {
+    "title": "Apple says former employee exploited \u2018rare\u2019 bug to download confidential files after leaving for OpenAI",
+    "normalized": "apple says former employee exploited 'rare' bug to download confidential files after leaving for openai",
+    "content_hash": "78b1d4bd100a89c3b2bb1210b11f7bf9"
+  },
+  {
+    "title": "The wildest allegations in Apple\u2019s trade secrets lawsuit against OpenAI",
+    "normalized": "the wildest allegations in apple's trade secrets lawsuit against openai",
+    "content_hash": "b3655019e8adad8b3bbe4b88e16ea229"
+  },
+  {
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "normalized": "anthropic starts localizing claude pricing for india, its biggest market after the us",
+    "content_hash": "2b6a908a298e86ffb9e41551b5aed0aa"
+  },
+  {
+    "title": "Waze adds new AI-powered features and customization updates",
+    "normalized": "waze adds new ai-powered features and customization updates",
+    "content_hash": "7127647eee07a6a439f433234d135831"
+  },
+  {
+    "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+    "normalized": "google and microsoft pull modheader with 1.6 million installs after dormant collector found",
+    "content_hash": "888672b7991487111fcc0579f8d8f8fb"
+  },
+  {
+    "title": "Microsoft tests Windows Search without all the ads and fluff",
+    "normalized": "microsoft tests windows search without all the ads and fluff",
+    "content_hash": "9b12b1e4fcc7710896ca596fab7554d6"
+  },
+  {
+    "title": "Show HN: Sx 2.0 \u2013 Share AI skills with your team through a Dropbox folder",
+    "normalized": "show hn: sx 2.0 - share ai skills with your team through a dropbox folder",
+    "content_hash": "66a5e07d7cad76fca86dbcc69dd8234e"
+  },
+  {
+    "title": "OpenAI's new Agent Sandbox Cloud [video]",
+    "normalized": "openai's new agent sandbox cloud [video]",
+    "content_hash": "addd327b27f75a93d9e15410b07ddec3"
+  },
+  {
+    "title": "Uber\u2019s product chief on hotels, robotaxis, and why the company doesn\u2019t want to be \u201ceverything for everyone\u201d",
+    "normalized": "uber's product chief on hotels, robotaxis, and why the company doesn't want to be \"everything for everyone\"",
+    "content_hash": "779ecbd0dad687de0b039b2c67a1b7e6"
+  },
+  {
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "normalized": "satya nadella has issued a shocking warning to companies using ai",
+    "content_hash": "9434d12173b8b0ae09831162c7da494f"
+  },
+  {
+    "title": "Sam Altman\u2019s space data center trash talk is what most experts already believe",
+    "normalized": "sam altman's space data center trash talk is what most experts already believe",
+    "content_hash": "c28bc837f82e29ec5ce65270b760692f"
+  },
+  {
+    "title": "Should AI help you get away with killing your spouse?",
+    "normalized": "should ai help you get away with killing your spouse?",
+    "content_hash": "2e41914062575bbc1614cfc2b5122338"
+  },
+  {
+    "title": "SpaceX cleared to fly Starship again after booster failure in May",
+    "normalized": "spacex cleared to fly starship again after booster failure in may",
+    "content_hash": "11bfdb8287df26bbb2d5cfff15e53f5f"
+  },
+  {
+    "title": "Wi-Fi 8 Explained: Features, Release Date, and More",
+    "normalized": "wi-fi 8 explained: features, release date, and more",
+    "content_hash": "39fd67e270930ac963caf7ba2a711a7b"
+  },
+  {
+    "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+    "normalized": "new memghost attack plants persistent false memories in ai agents through one email",
+    "content_hash": "3e44b51adc8656988e3b79c2bee80cea"
+  },
+  {
+    "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+    "normalized": "apple sues openai after ex-engineer allegedly used bug to steal trade secrets",
+    "content_hash": "a81d263f384cfab5ede8e3af1060d228"
+  },
+  {
+    "title": "OnePlus is reportedly bailing on the US",
+    "normalized": "oneplus is reportedly bailing on the us",
+    "content_hash": "604d1ccaa03c9a15dd2ca2b3c8504f30"
+  },
+  {
+    "title": "The Pixel colors might rule this year",
+    "normalized": "the pixel colors might rule this year",
+    "content_hash": "932786ef3e2a084078589cc123e7c1c7"
+  },
+  {
+    "title": "Apple\u2019s public betas for iOS 27 and more are out now",
+    "normalized": "apple's public betas for ios 27 and more are out now",
+    "content_hash": "d80d9d983d8dec127bcadb0b9f3b485f"
+  },
+  {
+    "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+    "normalized": "siri ai makes the apple watch finally feel like a wrist computer",
+    "content_hash": "738c8fd6ad289c64b3384c7729233f6b"
+  },
+  {
+    "title": "Siri AI is already changing how I use my iPhone",
+    "normalized": "siri ai is already changing how i use my iphone",
+    "content_hash": "0540ce64ae02786e91899c581ed6d6f2"
   }
 ]
