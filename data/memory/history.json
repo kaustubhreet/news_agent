@@ -1,130 +1,5 @@
 [
   {
-    "title": "Almost 90 new unicorns have been minted so far this year \u2014 here they are",
-    "normalized": "almost 90 new unicorns have been minted so far this year -- here they are",
-    "content_hash": "da667f80e6b1d4f1f619efc41681af55"
-  },
-  {
-    "title": "Agentsnap \u2013 find which config change broke your AI agent",
-    "normalized": "agentsnap - find which config change broke your ai agent",
-    "content_hash": "027e6d0569b06af798ce8d9b278fe5f2"
-  },
-  {
-    "title": "Xbox is a disaster",
-    "normalized": "xbox is a disaster",
-    "content_hash": "b6f326579ccb95aa8f4ea1747c9d5c21"
-  },
-  {
-    "title": "JadePuffer ransomware used AI agent to automate entire attack",
-    "normalized": "jadepuffer ransomware used ai agent to automate entire attack",
-    "content_hash": "647aefe224df12a5d8bb41143fcef5ec"
-  },
-  {
-    "title": "OpenAI's apparent failure to visit key site raises questions over UK investment",
-    "normalized": "openai's apparent failure to visit key site raises questions over uk investment",
-    "content_hash": "7be70c4770621432fde7a92e6620588f"
-  },
-  {
-    "title": "Learning Multi-Agent Coordination via Sheaf-ADMM",
-    "normalized": "learning multi-agent coordination via sheaf-admm",
-    "content_hash": "8f1790303ee5434ab88960bfc7743e0c"
-  },
-  {
-    "title": "code-on-incus: Give each AI agent its own isolated machine with root",
-    "normalized": "code-on-incus: give each ai agent its own isolated machine with root",
-    "content_hash": "5aac66077ef707234ebc774824e978e6"
-  },
-  {
-    "title": "Show HN: WakaWiki, a CLI that maintains agent documentation for your codebase",
-    "normalized": "show hn: wakawiki, a cli that maintains agent documentation for your codebase",
-    "content_hash": "6eb1b8ca3f6cc1c722ee3e13fe4938ce"
-  },
-  {
-    "title": "Fidx \u2013 local semantic search in one SQLite file, no LLM at query",
-    "normalized": "fidx - local semantic search in one sqlite file, no llm at query",
-    "content_hash": "60954bedf253000058c4b6c22668ea32"
-  },
-  {
-    "title": "Ask HN: How Do You Connect OpenAI Secure MCP Tunnel with Claude Desktop",
-    "normalized": "ask hn: how do you connect openai secure mcp tunnel with claude desktop",
-    "content_hash": "8dad30fdd9f7c118cf9d9c4f6fda3c73"
-  },
-  {
-    "title": "Anthropic performing prompt injection on its users",
-    "normalized": "anthropic performing prompt injection on its users",
-    "content_hash": "d0ace6e65146f57e5c1d776a0dfcb4ce"
-  },
-  {
-    "title": "Damo Academy unveils an AI agent able to discover superconductors",
-    "normalized": "damo academy unveils an ai agent able to discover superconductors",
-    "content_hash": "df029b1b23cfc63ee0e5e62c19fc02ed"
-  },
-  {
-    "title": "\u2018Vote chori, seat chori, chanda chori\u2019: Congress attacks BJP over Ayodhya donation row",
-    "normalized": "'vote chori, seat chori, chanda chori': congress attacks bjp over ayodhya donation row",
-    "content_hash": "66ed6347f8edb7cb779aee21add95cc0"
-  },
-  {
-    "title": "CircleChat",
-    "normalized": "circlechat",
-    "content_hash": "af84219c00dfc68804d1197108b2ccc4"
-  },
-  {
-    "title": "MentionDrop MCP",
-    "normalized": "mentiondrop mcp",
-    "content_hash": "8baad7a54774910fce46474e43d15a2f"
-  },
-  {
-    "title": "TryCase",
-    "normalized": "trycase",
-    "content_hash": "3770e5c8b4c49adcdc3376eff2090e92"
-  },
-  {
-    "title": "Vizio accidentally made the best dumb TV on the market",
-    "normalized": "vizio accidentally made the best dumb tv on the market",
-    "content_hash": "fdaa533e26b4db08e29563b45fd8b597"
-  },
-  {
-    "title": "The Log is the Agent",
-    "normalized": "the log is the agent",
-    "content_hash": "beda67aa8a06fd987ad99bd8b99d809a"
-  },
-  {
-    "title": "Show HN: Gubbi \u2013 Minimalist LLM Chatbot",
-    "normalized": "show hn: gubbi - minimalist llm chatbot",
-    "content_hash": "72769117f4b1b9aec7302826891799fa"
-  },
-  {
-    "title": "Show HN: Agent Torrent, a BitTorrent inspired mesh for idle coding agents",
-    "normalized": "show hn: agent torrent, a bittorrent inspired mesh for idle coding agents",
-    "content_hash": "81ab2f3d7ab47632d068180117628d69"
-  },
-  {
-    "title": "T3MP3ST autonomous red team platform multi-agent offensive-security meta-harness",
-    "normalized": "t3mp3st autonomous red team platform multi-agent offensive-security meta-harness",
-    "content_hash": "0f4c8e8afc307cee71d5b3cd08013547"
-  },
-  {
-    "title": "Latent Collaboration in Multi-Agent Systems",
-    "normalized": "latent collaboration in multi-agent systems",
-    "content_hash": "547e70626418a0d4463f092b435727a9"
-  },
-  {
-    "title": "A Postmortem of an LLM Social Network",
-    "normalized": "a postmortem of an llm social network",
-    "content_hash": "036777c0516929bd43903a05cc6b3b3e"
-  },
-  {
-    "title": "Authors Sue Anthropic for $75M",
-    "normalized": "authors sue anthropic for $75m",
-    "content_hash": "5c925a10d5aa1ecb169cb8398bd2027f"
-  },
-  {
-    "title": "LLM's as a Different Kind of Intelligence",
-    "normalized": "llm's as a different kind of intelligence",
-    "content_hash": "8478be538bbe58cad3bafee41a00f996"
-  },
-  {
     "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
     "normalized": "infuriating google commercial imagines the founding fathers embracing ai",
     "content_hash": "2b6c1d0a1b4bc40867f07328e252b870"
@@ -2498,5 +2373,130 @@
     "title": "Reflection inks $1B compute deal with Nebius",
     "normalized": "reflection inks $1b compute deal with nebius",
     "content_hash": "beef8068a1af848f8c3b4b7f3b8efd98"
+  },
+  {
+    "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+    "normalized": "backed by $60m in funding, oak steps out of stealth to fix the identity mess that ai agents are making worse",
+    "content_hash": "d4defc505cf05e504d58fcc2b721bf41"
+  },
+  {
+    "title": "I reverse-engineered the three biggest agent-memory tools",
+    "normalized": "i reverse-engineered the three biggest agent-memory tools",
+    "content_hash": "38c9a5dbf5588d0b270d8f5064013e04"
+  },
+  {
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+    "normalized": "anthropic, blackstone bet the next trillion-dollar ai business is implementation, not models",
+    "content_hash": "a18e104ebb2c82a9a65b656b3901c0c6"
+  },
+  {
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "normalized": "indian ai coding startup emergent becomes a unicorn with $130m series c",
+    "content_hash": "51c01a0fe4b62d5d98394e450c6df778"
+  },
+  {
+    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "normalized": "vint cerf is working on a plan to unleash ai agents on the open internet",
+    "content_hash": "dcf7db9cf2e0550555a0c796602ec8ac"
+  },
+  {
+    "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+    "normalized": "openai staffers are funding a rival super pac to take on their boss",
+    "content_hash": "71d097db1a0120919f5b6c55a9fadcfb"
+  },
+  {
+    "title": "Spotify\u2019s Daniel Ek is bringing his body-scanning clinics to the US",
+    "normalized": "spotify's daniel ek is bringing his body-scanning clinics to the us",
+    "content_hash": "aacc2ed2b9e2553b9e67d16d09bead1e"
+  },
+  {
+    "title": "Optimization Is Not All You Need",
+    "normalized": "optimization is not all you need",
+    "content_hash": "c605922112513debe4671ce305cced34"
+  },
+  {
+    "title": "Rethinking the Evaluation of Harness Evolution for Agents",
+    "normalized": "rethinking the evaluation of harness evolution for agents",
+    "content_hash": "e416555d76a6be3b3adbc60da32ef355"
+  },
+  {
+    "title": "PM-Bench: Evaluating Prospective Memory in LLM Agents",
+    "normalized": "pm-bench: evaluating prospective memory in llm agents",
+    "content_hash": "6d619a0caf773c83dd7f230e8ba50e9e"
+  },
+  {
+    "title": "Reelful\u2019s AI turns your camera roll into short-form videos for social media",
+    "normalized": "reelful's ai turns your camera roll into short-form videos for social media",
+    "content_hash": "33d534d27f6f1377b2e2a115a4b8f1ad"
+  },
+  {
+    "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
+    "normalized": "a spacex vet raised $65m to pull wire harnesses out of the cold war era",
+    "content_hash": "4d073bf4e9bcff80a6e0d725aa1561cf"
+  },
+  {
+    "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+    "normalized": "an inventor of apple's faceid wants to analyze your brain's health with ai",
+    "content_hash": "17760b7b4efabc5f5c6bc1e173ca2039"
+  },
+  {
+    "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+    "normalized": "sase has an ai blind spot. inspecting packets is no longer enough.",
+    "content_hash": "4d8637b15918480df5eafadb14087985"
+  },
+  {
+    "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+    "normalized": "how pentera turns ai security workflows into validation engines",
+    "content_hash": "c767b8dd73aa393f3fd33ed86f17a03a"
+  },
+  {
+    "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+    "normalized": "oauth client id spoofing lets attackers validate stolen microsoft entra credentials",
+    "content_hash": "ca162d5ff626cce5bdb5dd828f814efc"
+  },
+  {
+    "title": "OpenAI's first device will reportedly be a 'humanlike' rechargeable speaker",
+    "normalized": "openai's first device will reportedly be a 'humanlike' rechargeable speaker",
+    "content_hash": "48f7d8e57f50ddcfdfd4326f2aa4bbb3"
+  },
+  {
+    "title": "The tiniest MMO",
+    "normalized": "the tiniest mmo",
+    "content_hash": "ae60ea25d6784c976e65c3c94d1f89ba"
+  },
+  {
+    "title": "The Motorola Edge 70 Max is all about power",
+    "normalized": "the motorola edge 70 max is all about power",
+    "content_hash": "4782921d0c273c8c8ee098f4d543e535"
+  },
+  {
+    "title": "Home Depot\u2019s viral 12-foot skeleton now talks",
+    "normalized": "home depot's viral 12-foot skeleton now talks",
+    "content_hash": "c5c098085237e470855bb1ec3ba4359c"
+  },
+  {
+    "title": "The PS6 sure sounds like a handheld",
+    "normalized": "the ps6 sure sounds like a handheld",
+    "content_hash": "f4f00f5e2cf68363dac394c5fb65283f"
+  },
+  {
+    "title": "Starlink\u2019s V5 dish is now available \u2014 here\u2019s how it compares",
+    "normalized": "starlink's v5 dish is now available -- here's how it compares",
+    "content_hash": "cb199323f2fd349703675368e0192ef2"
+  },
+  {
+    "title": "Google and Epic give up fighting \u2014 third-party Android app stores are coming next week",
+    "normalized": "google and epic give up fighting -- third-party android app stores are coming next week",
+    "content_hash": "29424b4199db6986dc1248250305a40d"
+  },
+  {
+    "title": "Microsoft\u2019s biggest ever patch Tuesday lets you hold off updating for longer",
+    "normalized": "microsoft's biggest ever patch tuesday lets you hold off updating for longer",
+    "content_hash": "14a81901470bad6c9e145d76f096bd18"
+  },
+  {
+    "title": "Build an AI Price Quote Phone Agent Real-Time Custom Quotes with Telnyx Voice AI",
+    "normalized": "build an ai price quote phone agent real-time custom quotes with telnyx voice ai",
+    "content_hash": "3f9a08b497c53d9f9a51f85f84b43307"
   }
 ]
