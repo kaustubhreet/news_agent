@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-    "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
-    "content_hash": "da0fb803a3702f3abd12611d409173e2"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "normalized": "claude code costs up to $200 a month. goose does the same thing for free.",
-    "content_hash": "65248b0266dc1f08a04a2e243e5e13e8"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "normalized": "salesforce rolls out new slackbot ai agent as it battles microsoft and google in workplace ai",
-    "content_hash": "37f7465d43119228a5340488494c5cd0"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
-    "normalized": "anthropic launches cowork, a claude desktop agent that works in your files -- no coding required",
-    "content_hash": "9b4ec2bb172ef63f1cfc32c6f3255ae3"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
-    "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "normalized": "listen labs raises $69m after viral billboard hiring stunt to scale ai customer interviews",
-    "content_hash": "b38a14630ce16f4da4c5b72d4109ed41"
-  },
-  {
-    "title": "Inside the big business of the creator economy, with the agents making it happen",
-    "normalized": "inside the big business of the creator economy, with the agents making it happen",
-    "content_hash": "71e03c62bfe4d5b27e10606288102a37"
-  },
-  {
-    "title": "Bounding the Blast Radius: A Survey of Prompt-Injection Defenses for LLM Agents",
-    "normalized": "bounding the blast radius: a survey of prompt-injection defenses for llm agents",
-    "content_hash": "45c8fd5b41ef83bb6916a8e0094e7386"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-    "normalized": "\u26a1 weekly recap: proxy botnets, browser ransomware, ai agent tricks, fake poc malware and more",
-    "content_hash": "5ed62e315714b107e3beaa46fa67a431"
-  },
-  {
-    "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-    "normalized": "skillcloak lets malicious ai agent skills evade static scanners with self-extracting packing",
-    "content_hash": "c8150474584f8c011ab0e90932d73c54"
-  },
-  {
-    "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
-    "normalized": "station f ramps up as a launchpad for europe's hottest ai startups",
-    "content_hash": "8ed747957c5d4a0cab10e0eb5453da9f"
-  },
-  {
-    "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
-    "normalized": "smart glasses maker even realities hits $1b valuation with $150m funding led by meituan, tencent",
-    "content_hash": "556fe0b6f99e806f48e57c6f008b0bc5"
-  },
-  {
-    "title": "Show HN: Scan your AI agents for dangerous capabilities",
-    "normalized": "show hn: scan your ai agents for dangerous capabilities",
-    "content_hash": "ce60dfe2b161d24a70ab0165120db927"
-  },
-  {
-    "title": "Show HN: Xalgorix \u2013 Autonomous AI Pentesting Agent",
-    "normalized": "show hn: xalgorix - autonomous ai pentesting agent",
-    "content_hash": "b53ce0d9beca7e250e7ad70c5c0f8e1b"
-  },
-  {
-    "title": "Agent Infra: curated resources for production AI agent infrastructure",
-    "normalized": "agent infra: curated resources for production ai agent infrastructure",
-    "content_hash": "a0cafe2d0c8b7d279351427ec8d35b4e"
-  },
-  {
-    "title": "AgentPost \u2013 async agent-to-agent messaging without hosting a receive endpoint",
-    "normalized": "agentpost - async agent-to-agent messaging without hosting a receive endpoint",
-    "content_hash": "080a4574ce0b35dd639257f66075fb32"
-  },
-  {
-    "title": "Show HN: Loopers \u2013 Open-source fail-closed firewall for AI agent runtimes",
-    "normalized": "show hn: loopers - open-source fail-closed firewall for ai agent runtimes",
-    "content_hash": "b1882c0da98f14f4adf01814589a6a98"
-  },
-  {
-    "title": "Domain-specific agents: composition against the bloated agent",
-    "normalized": "domain-specific agents: composition against the bloated agent",
-    "content_hash": "22b73b85b0b12325dbaa212c6a0f385e"
-  },
-  {
-    "title": "Show HN: Explain this \u2013 agent skills to create HTML explainer for topics or code",
-    "normalized": "show hn: explain this - agent skills to create html explainer for topics or code",
-    "content_hash": "17035e896821de127728cba928348a3f"
-  },
-  {
-    "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
-    "normalized": "microsoft is selling off four xbox studios as part of significant gaming cuts",
-    "content_hash": "7a52be3075f08103ae213c5c2cddfbf4"
-  },
-  {
-    "title": "Microsoft is laying off 4,800 employees",
-    "normalized": "microsoft is laying off 4,800 employees",
-    "content_hash": "7e70b6ff2c2481fe9f43d322b35a35b5"
-  },
-  {
-    "title": "This humanoid robotics company is going public, but its CEO isn\u2019t promising a robot in your home anytime soon",
-    "normalized": "this humanoid robotics company is going public, but its ceo isn't promising a robot in your home anytime soon",
-    "content_hash": "d8f6075f2a89d0301e2dd5c15e46134f"
-  },
-  {
-    "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-    "normalized": "how to evaluate an ai soc platform in 2026: 6 capabilities that separate leaders from bolt-on ai solutions",
-    "content_hash": "1636404a54fbe688a5535bf6093b5945"
-  },
-  {
-    "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-    "normalized": "suspected china-nexus hackers use fake indian tax filing utility to deploy dcrat",
-    "content_hash": "9bc8347cf332ccab02aa472ac5411205"
-  },
-  {
-    "title": "Hy3 (295B A21B), a reasoning and agent model with great cost efficiency",
-    "normalized": "hy3 (295b a21b), a reasoning and agent model with great cost efficiency",
-    "content_hash": "e7fdd40cef5f45cd3217a70668d712a7"
-  },
-  {
     "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
     "normalized": "microsoft lays off nearly 5,000 employees across xbox, commercial sales",
     "content_hash": "1c3d981b36532eb0d507613b4bad1f1c"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI's first branded hardware is... a light-up keyboard?",
     "normalized": "openai's first branded hardware is... a light-up keyboard?",
     "content_hash": "a39916d20bb961ca9aec78ba939b8791"
+  },
+  {
+    "title": "Ultrahuman\u2019s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+    "normalized": "ultrahuman's former hardware vp raises $5.5m for devices that control ai agents, not just record you",
+    "content_hash": "ce7c0030feff83a401f556e8a0d1c19d"
+  },
+  {
+    "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+    "normalized": "lululemon backs nylon-recycling startup syntetica in $30m series a",
+    "content_hash": "a525ca0a0158e21f3d121a31fc877b69"
+  },
+  {
+    "title": "OpenAI\u2019s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
+    "normalized": "openai's gpt-red automates prompt injection testing to harden gpt-5.6 sol",
+    "content_hash": "ace317a4f57813b1920bbda139b8e718"
+  },
+  {
+    "title": "Google ordered to open Android and Search to rivals in Europe",
+    "normalized": "google ordered to open android and search to rivals in europe",
+    "content_hash": "be96eade9a056df6d6bfcbb5560e8866"
+  },
+  {
+    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+    "normalized": "where are yc founders now? openai and anthropic, mostly",
+    "content_hash": "edcca1ad6be915feb63e5b465c4402e0"
+  },
+  {
+    "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
+    "normalized": "how far can root cause analysis go on real-world telemetry data?",
+    "content_hash": "7a9502b043aa6d17e3ef77579b9ee976"
+  },
+  {
+    "title": "STOCKTAKE: Measuring the Gap Between Perception and Action in LLM Agents with a Fair Oracle",
+    "normalized": "stocktake: measuring the gap between perception and action in llm agents with a fair oracle",
+    "content_hash": "4478a28dfdc791955b259ead48b1c2e3"
+  },
+  {
+    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
+    "normalized": "google just redesigned the search box for the first time in 25 years -- here's why it matters more than you think.",
+    "content_hash": "6d664fc288d99f6d67b77e4b21334d39"
+  },
+  {
+    "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+    "normalized": "apple intelligence approved for launch in china with alibaba and baidu",
+    "content_hash": "2609ffcddb750445e60ade19dfd328c0"
+  },
+  {
+    "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+    "normalized": "meta now alerts parents if their teen discussed suicide or self-harm with its ai chatbot",
+    "content_hash": "1f27215f7cec3cba9b16665f48787b07"
+  },
+  {
+    "title": "Phone maker OnePlus says it won\u2019t release new phones in the US and Europe",
+    "normalized": "phone maker oneplus says it won't release new phones in the us and europe",
+    "content_hash": "f347c3f39c58e0e0c1d1ccaa80953097"
+  },
+  {
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "normalized": "applied computing wants to give oil and gas operators an ai model for the entire plant",
+    "content_hash": "b87907bb5d5c28acc498b2a584a02726"
+  },
+  {
+    "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+    "normalized": "new agent data injection attack can make ai agents misclick or run attacker commands",
+    "content_hash": "0e1cda74524b4a9c0b23ce26d23ea9ab"
+  },
+  {
+    "title": "OpenAI launches a physical keypad for controlling agents",
+    "normalized": "openai launches a physical keypad for controlling agents",
+    "content_hash": "a73b8b7fe7575926eac3fae89616fdc0"
+  },
+  {
+    "title": "Codex Micro",
+    "normalized": "codex micro",
+    "content_hash": "125e4bcc1593a9c067c8c68f93ffa215"
+  },
+  {
+    "title": "COMPUTER COPS: Inside the big business of selling AI to the police",
+    "normalized": "computer cops: inside the big business of selling ai to the police",
+    "content_hash": "835cf99402f8fda8c74b719ead9a91b1"
+  },
+  {
+    "title": "Apple\u2019s reportedly raising the price for AppleCare Plus on Macs and iPads",
+    "normalized": "apple's reportedly raising the price for applecare plus on macs and ipads",
+    "content_hash": "16827cd125d9a0d998a2886553398153"
+  },
+  {
+    "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
+    "normalized": "valve says ifixit will keep selling steam deck batteries after all",
+    "content_hash": "93e7cad61f32bd278a57f1a740a15247"
+  },
+  {
+    "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+    "normalized": "xai sues a man for using grok to generate csam 'deepfakes'",
+    "content_hash": "0da3bae52e149490fe10474cc01f2020"
+  },
+  {
+    "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
+    "normalized": "brendan carr plans to let broadcast giants dominate the airwaves",
+    "content_hash": "9da3cff5499df07d4236e2ce9e172a48"
+  },
+  {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "normalized": "gpt-red: unlocking self-improvement for robustness",
+    "content_hash": "9ab2720f89a90ae585e2e1a91e777a2d"
+  },
+  {
+    "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+    "normalized": "interventional grounding audits: black-box premise-dependency tests for llm chain-of-thought via predicate substitution",
+    "content_hash": "18e90fe8c694f2119a62b640f025f7ee"
+  },
+  {
+    "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
+    "normalized": "harness handbook: making evolving agent harnesses readable,navigable, and editable",
+    "content_hash": "3023091a2d48fd7095ca71d4b5cb08a1"
+  },
+  {
+    "title": "Set-shifting Behavioral Test for Harnessed Agents",
+    "normalized": "set-shifting behavioral test for harnessed agents",
+    "content_hash": "3746fcf927e50ebf5f2c37a3431f67f1"
+  },
+  {
+    "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
+    "normalized": "lapo: leave-one-turn attribution for self-generated process rewards in multi-turn search reasoning",
+    "content_hash": "c5fd0f242849dd9c0320a39cd8bc1f01"
   }
 ]
