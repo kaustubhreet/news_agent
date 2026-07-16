@@ -1,130 +1,5 @@
 [
   {
-    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-    "normalized": "infuriating google commercial imagines the founding fathers embracing ai",
-    "content_hash": "2b6c1d0a1b4bc40867f07328e252b870"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-    "normalized": "google just redesigned the search box for the first time in 25 years -- here's why it matters more than you think.",
-    "content_hash": "6d664fc288d99f6d67b77e4b21334d39"
-  },
-  {
-    "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that\u2019s now public",
-    "normalized": "what is bending spoons? the little-known aol and vimeo owner that's now public",
-    "content_hash": "82d6b3d85789641c3a20cda8dd299c6b"
-  },
-  {
-    "title": "Some of the nation\u2019s rich are letting AI teach their kids",
-    "normalized": "some of the nation's rich are letting ai teach their kids",
-    "content_hash": "d36d6fc03b4c7bdbb0c0cbf1a98935f9"
-  },
-  {
-    "title": "Where to preorder Grand Theft Auto VI",
-    "normalized": "where to preorder grand theft auto vi",
-    "content_hash": "8adfc6ad9a1379c763adf4f531761d96"
-  },
-  {
-    "title": "How Keurig saved\u00a0\u2014\u00a0and ruined \u2014\u00a0your coffee",
-    "normalized": "how keurig saved -- and ruined -- your coffee",
-    "content_hash": "13608ae8fa172025cf6e94d8920e7561"
-  },
-  {
-    "title": "Zuckerberg says AI agent development going slower than expected",
-    "normalized": "zuckerberg says ai agent development going slower than expected",
-    "content_hash": "b411fffac613f753a40eb1dc46552f50"
-  },
-  {
-    "title": "Just 28% NGOs, associations ever registered under FCRA currently active",
-    "normalized": "just 28% ngos, associations ever registered under fcra currently active",
-    "content_hash": "ff44870b4e15c7226b61b4351b76c694"
-  },
-  {
-    "title": "Uber\u2019s European expansion plans may have hit a speed bump",
-    "normalized": "uber's european expansion plans may have hit a speed bump",
-    "content_hash": "f53ba0daf7347fa8d6c59ee2f22f4f1a"
-  },
-  {
-    "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
-    "normalized": "trump memecoin investors lost $3.8 billion, analysis finds",
-    "content_hash": "d51881d75722907f99d475ff30372869"
-  },
-  {
-    "title": "Amazon will stop accepting new customers for Mechanical Turk",
-    "normalized": "amazon will stop accepting new customers for mechanical turk",
-    "content_hash": "edad213259870978c94586a131416c49"
-  },
-  {
-    "title": "5 desk gadgets that can make your workday better",
-    "normalized": "5 desk gadgets that can make your workday better",
-    "content_hash": "c789bbba2faf26d116b9fddde36e0700"
-  },
-  {
-    "title": "scritty",
-    "normalized": "scritty",
-    "content_hash": "dc0699879da521c7d9f93dee620acc1e"
-  },
-  {
-    "title": "Mr. Lif\u2019s Emergency Rations EP is post-9/11 hip hop at its most daring",
-    "normalized": "mr. lif's emergency rations ep is post-9/11 hip hop at its most daring",
-    "content_hash": "cf8c8651ea0f928f4365805098827db2"
-  },
-  {
-    "title": "The Sourdough Sidekick automates the boring bit of baking",
-    "normalized": "the sourdough sidekick automates the boring bit of baking",
-    "content_hash": "843b77b565de648e6598a60f1d39ce6b"
-  },
-  {
-    "title": "GPT-5.6 Sol Ultra will be in Codex",
-    "normalized": "gpt-5.6 sol ultra will be in codex",
-    "content_hash": "cb3afed27f560fecd99d77bf79909ba1"
-  },
-  {
-    "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-    "normalized": "al vigier: canada's ai strategy shouldn't include secret palantir bills",
-    "content_hash": "0d6063b4e279990c0779b638f0ac42d6"
-  },
-  {
-    "title": "Does Code Cleanliness Affect Coding Agents?",
-    "normalized": "does code cleanliness affect coding agents?",
-    "content_hash": "5905a5226c90c539c41cbc21ed985250"
-  },
-  {
-    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-    "normalized": "new ai tutor achieves 0.71-1.30 sd effect size in dartmouth course [pdf]",
-    "content_hash": "2fcd6f2833baa1f8e8895f1eec96f02e"
-  },
-  {
-    "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-    "normalized": "mr. baby paint and accidentally discovering a new cellular automata",
-    "content_hash": "6b3dcab91c7340c39dfafc7f1497d30d"
-  },
-  {
-    "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
-    "normalized": "delta flight hit by firework while landing at midway airport on fourth of july",
-    "content_hash": "838dba04adc109415cdbce77ff043530"
-  },
-  {
-    "title": "The AI Compass Quiz",
-    "normalized": "the ai compass quiz",
-    "content_hash": "758105c6d5bc1b8f2a9975b51db32b60"
-  },
-  {
-    "title": "Show HN: Osint tool that finds exposed files on domains",
-    "normalized": "show hn: osint tool that finds exposed files on domains",
-    "content_hash": "0f510aa9fbcff04558f4d92bcad4e8b5"
-  },
-  {
-    "title": "Introducing the OpenAI Partner Network",
-    "normalized": "introducing the openai partner network",
-    "content_hash": "570d3476dfb26edf9c6539126d825ba2"
-  },
-  {
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "normalized": "how preply combines ai and human tutors to personalize learning",
-    "content_hash": "1fc2b830b7d7863aa9f585bf10273a0a"
-  },
-  {
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
     "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
     "content_hash": "da0fb803a3702f3abd12611d409173e2"
@@ -2498,5 +2373,130 @@
     "title": "Build an AI Price Quote Phone Agent Real-Time Custom Quotes with Telnyx Voice AI",
     "normalized": "build an ai price quote phone agent real-time custom quotes with telnyx voice ai",
     "content_hash": "3f9a08b497c53d9f9a51f85f84b43307"
+  },
+  {
+    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+    "normalized": "inside ode with anthropic, the startup betting ai services are the future of enterprise",
+    "content_hash": "40a9467aafa11e0af63be222387594dc"
+  },
+  {
+    "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
+    "normalized": "agentic orchestration: enterprise ai organizations have a deployment problem, not a platform problem -- and most are calling chatbots agents",
+    "content_hash": "dea66a4f84020745bf168193ba5978c1"
+  },
+  {
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "normalized": "microsoft is reportedly training salespeople to talk down openai and anthropic",
+    "content_hash": "25b9d86eccdb888adeaabe02ab748d80"
+  },
+  {
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "normalized": "amid hardware legal battle, openai releases a $230 keyboard for codex",
+    "content_hash": "1338e43ecb59e2610c9e3bd642b7844e"
+  },
+  {
+    "title": "Daniel Ek\u2019s body-scanning startup Neko Health raises another $700M",
+    "normalized": "daniel ek's body-scanning startup neko health raises another $700m",
+    "content_hash": "c73bc410c5dd5e84921749b75f2b835d"
+  },
+  {
+    "title": "Google\u2019s biggest clean power project is 40 miles north of xAI\u2019s unpermitted gas power plant",
+    "normalized": "google's biggest clean power project is 40 miles north of xai's unpermitted gas power plant",
+    "content_hash": "8cae700e084b9989e9c9e293d384f6fd"
+  },
+  {
+    "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+    "normalized": "whatnot acquires shaped to power real-time live shopping recommendations",
+    "content_hash": "d2ec3905900d80fd9c8a09e89b58fe9c"
+  },
+  {
+    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+    "normalized": "microsoft patches record number of security vulnerabilities, citing its use of ai",
+    "content_hash": "660a9c5bca223c469ad8251c53556dbe"
+  },
+  {
+    "title": "India bets billions on breaking China\u2019s grip on smartphone manufacturing",
+    "normalized": "india bets billions on breaking china's grip on smartphone manufacturing",
+    "content_hash": "8d5d2e43261df66070383164dc3c5290"
+  },
+  {
+    "title": "Thinking Machines Lab Drops Its First Model",
+    "normalized": "thinking machines lab drops its first model",
+    "content_hash": "e3e336115adf157a487938b017eeb075"
+  },
+  {
+    "title": "A job-search agent for mid-to-senior engineers",
+    "normalized": "a job-search agent for mid-to-senior engineers",
+    "content_hash": "7e79287e3a9cbc39ba7bb10ac0e08372"
+  },
+  {
+    "title": "Anthropic, Blackstone, and Hellman and Friedman Introduce Ode with Anthropic",
+    "normalized": "anthropic, blackstone, and hellman and friedman introduce ode with anthropic",
+    "content_hash": "76554906b59c378b838a57487197de18"
+  },
+  {
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "normalized": "meet gpt-red: an llm super-hacker openai built to make its models safer",
+    "content_hash": "f9797bd1ce93c92552322f0977cd779b"
+  },
+  {
+    "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+    "normalized": "why greylock capped its new fund at $1.5b when it says it could have raised more",
+    "content_hash": "701da1bca0c79ef76378f8c818702904"
+  },
+  {
+    "title": "Microsoft patches bug in video game Age of Empires II",
+    "normalized": "microsoft patches bug in video game age of empires ii",
+    "content_hash": "1b2740bf866442c1d0161953b3d167e7"
+  },
+  {
+    "title": "Apple bans home services from its upcoming Maps ads",
+    "normalized": "apple bans home services from its upcoming maps ads",
+    "content_hash": "0455a9625be94699e7eb049381d741e8"
+  },
+  {
+    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+    "normalized": "thinking machines amps up its bet against one-size-fits-all ai with its first open model, inkling",
+    "content_hash": "9daff81c723c42adc80bfdd0408c5827"
+  },
+  {
+    "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations",
+    "normalized": "phone maker oneplus reportedly plans to wind down us and europe operations",
+    "content_hash": "dab5b3df2e9db8d9546dba13f7d8e0a9"
+  },
+  {
+    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+    "normalized": "hack suggests ai music generator suno scraped youtube for training data",
+    "content_hash": "e5eeee79f2d966c3698f1e329ab01f3c"
+  },
+  {
+    "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
+    "normalized": "stripe and advent reportedly offered to buy paypal for around $53.4b",
+    "content_hash": "74cf013d789879c533f0a8eeedd147cc"
+  },
+  {
+    "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
+    "normalized": "apple intelligence approved for launch in china with alibaba's qwen ai",
+    "content_hash": "f15b48831db17dee6457c70bf20dbdf2"
+  },
+  {
+    "title": "Spotify expands parent-managed accounts to users on its free tier",
+    "normalized": "spotify expands parent-managed accounts to users on its free tier",
+    "content_hash": "e48ebc7bbec9005071cc17067972dedb"
+  },
+  {
+    "title": "US charges Russian \u2018bulletproof\u2019 web hosts over cyberattacks that netted $62M from cybercrime victims",
+    "normalized": "us charges russian 'bulletproof' web hosts over cyberattacks that netted $62m from cybercrime victims",
+    "content_hash": "419ba00d2efaa4a4736693ebcb13ad38"
+  },
+  {
+    "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+    "normalized": "tuxbot v3 evolution shows signs of llm-assisted iot botnet development",
+    "content_hash": "8b9f0df443058983833075c272eda78c"
+  },
+  {
+    "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+    "normalized": "openai's first branded hardware is... a light-up keyboard?",
+    "content_hash": "a39916d20bb961ca9aec78ba939b8791"
   }
 ]
