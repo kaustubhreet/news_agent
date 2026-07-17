@@ -1,130 +1,5 @@
 [
   {
-    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-    "normalized": "microsoft lays off nearly 5,000 employees across xbox, commercial sales",
-    "content_hash": "1c3d981b36532eb0d507613b4bad1f1c"
-  },
-  {
-    "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
-    "normalized": "the 'first' ai-run ransomware attack still needed a human",
-    "content_hash": "939ebc55d1b68b18947e8748ec6133fc"
-  },
-  {
-    "title": "Every major tech layoff in 2026 that has name-checked AI",
-    "normalized": "every major tech layoff in 2026 that has name-checked ai",
-    "content_hash": "b2de0e677e78dd617dc8a638dc1351f2"
-  },
-  {
-    "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out.",
-    "normalized": "if you use google, you're training its ai. here's how to opt out.",
-    "content_hash": "f4a4a0c986e4c39c7775ebc5d5e5c542"
-  },
-  {
-    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-    "normalized": "reddit is using llms to solve a problem llms largely created",
-    "content_hash": "b38d0efe8a5310a51ad3b6dc0fa6a2c4"
-  },
-  {
-    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-    "normalized": "officecli: office suite for ai agents to read and edit microsoft office files",
-    "content_hash": "ae57229100d9b3953ba89815c073cec4"
-  },
-  {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "normalized": "openai and broadcom unveil llm-optimized inference chip",
-    "content_hash": "c567ad0346f6bb68ed12f1aea8929a83"
-  },
-  {
-    "title": "Investing in multi-agent AI safety research",
-    "normalized": "investing in multi-agent ai safety research",
-    "content_hash": "f15755133eca743d3794b7838c5bb1fa"
-  },
-  {
-    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-    "normalized": "us investors will soon get access to sk hynix, another memory maker riding the ai boom",
-    "content_hash": "fad76603199b0becd2c025d8650ce4e6"
-  },
-  {
-    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-    "normalized": "vercel ceo guillermo rauch on the fight to split off models from agents",
-    "content_hash": "26e5c60db0ad2fa5b360998dd4e00f31"
-  },
-  {
-    "title": "You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
-    "normalized": "you can now customize siri's pace and expressivity in the latest ios 27 beta",
-    "content_hash": "ad0f804b280643d3a4c2a27e99df162a"
-  },
-  {
-    "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
-    "normalized": "amazon competitor bookshop.org says kobo ereader support will happen this year after all",
-    "content_hash": "d6b8d0cf4804eab77d77f8cec82155b9"
-  },
-  {
-    "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
-    "normalized": "apple brings back card payments for apple account purchases in india after a four-year hiatus",
-    "content_hash": "4c957e2d214dc2d222df3f126f127d82"
-  },
-  {
-    "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
-    "normalized": "hoto's pixeldrive screwdriver is down to $60, matching its best price",
-    "content_hash": "0ea1b9b4565058e0242a4713442aada2"
-  },
-  {
-    "title": "America\u2019s greatest idea is still under threat",
-    "normalized": "america's greatest idea is still under threat",
-    "content_hash": "1c7452386952412eba8380877a1927b9"
-  },
-  {
-    "title": "Five questions for Dr. Rubin, who\u2019s armed with a mic and a bowtie",
-    "normalized": "five questions for dr. rubin, who's armed with a mic and a bowtie",
-    "content_hash": "f8603d46ed98ecb1a6e54848b85a5632"
-  },
-  {
-    "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
-    "normalized": "former xbox studios double fine and compulsion will keep games after going indie",
-    "content_hash": "5f7df9ed69eb1ba89448269ae655d60e"
-  },
-  {
-    "title": "The DJI Osmo Pocket 3 lookalike is down to $329",
-    "normalized": "the dji osmo pocket 3 lookalike is down to $329",
-    "content_hash": "7b9996ebaf7c19f8bcf3dfe228c45b2b"
-  },
-  {
-    "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
-    "normalized": "stealth robotics startup (yc s26) is hiring principal engineers (palo alto)",
-    "content_hash": "96960bd38edb83e1b0f944a03e6279b8"
-  },
-  {
-    "title": "LLMs Are Not a Default Execution Engine",
-    "normalized": "llms are not a default execution engine",
-    "content_hash": "f1a7b4cf22dfdbd880ae2ff6bfc9b228"
-  },
-  {
-    "title": "Run MiniMax models on Amazon Bedrock",
-    "normalized": "run minimax models on amazon bedrock",
-    "content_hash": "9d2807e7955e1aa4784f3c3cbd292618"
-  },
-  {
-    "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-    "normalized": "netflix invented binge-watching. now it may have outgrown it.",
-    "content_hash": "a58acaa7abe015add611e9401f2a3e8a"
-  },
-  {
-    "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
-    "normalized": "canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
-    "content_hash": "42816d191b315e57c2a971d436a54adb"
-  },
-  {
-    "title": "How to reserve and change your WhatsApp username",
-    "normalized": "how to reserve and change your whatsapp username",
-    "content_hash": "2df0112014f111546d4147fee2dbc366"
-  },
-  {
-    "title": "Bentley Torcal EV: Price, Specs, Availability",
-    "normalized": "bentley torcal ev: price, specs, availability",
-    "content_hash": "ecbca2264a6866c48c12a59797df7224"
-  },
-  {
     "title": "Xbox\u2019s bold plan for the future sounds nearly impossible",
     "normalized": "xbox's bold plan for the future sounds nearly impossible",
     "content_hash": "1ced2df9106b79d3207c0f7b579c9eb4"
@@ -2498,5 +2373,130 @@
     "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
     "normalized": "lapo: leave-one-turn attribution for self-generated process rewards in multi-turn search reasoning",
     "content_hash": "c5fd0f242849dd9c0320a39cd8bc1f01"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
+    "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
+  },
+  {
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "normalized": "the ai compute gap: enterprises are buying infrastructure faster than they can measure what it costs",
+    "content_hash": "eb6065a8f5a2e78f62b744dddd0365e6"
+  },
+  {
+    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+    "normalized": "the agent security gap: 54% of enterprises have already had an ai agent incident, and most still let agents share credentials",
+    "content_hash": "a173a6dbeb1ca97a2653e8c6a452b4e1"
+  },
+  {
+    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem \u2014 and most are shipping to production anyway",
+    "normalized": "the agent evaluation gap: enterprise ai organizations have a reality-alignment problem, not a coverage problem -- and most are shipping to production anyway",
+    "content_hash": "792d439b93ff25b933628b282dfe7541"
+  },
+  {
+    "title": "Why is OpenAI selling a ChatGPT basketball?",
+    "normalized": "why is openai selling a chatgpt basketball?",
+    "content_hash": "9ab32dda9b8d2c579552256a668b8cf1"
+  },
+  {
+    "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her \u2018Mafia\u2019 skills)",
+    "normalized": "founders fund hires former openai exec ryan beiermeister (and not because of her 'mafia' skills)",
+    "content_hash": "2a824c65201c152f63e3fe0b1bad16e9"
+  },
+  {
+    "title": "Google Vids now lets you star in your own AI videos",
+    "normalized": "google vids now lets you star in your own ai videos",
+    "content_hash": "dce453351a98d393db72d566c5ed95cd"
+  },
+  {
+    "title": "Google\u2019s AI Mode now lets you link and interact with select apps",
+    "normalized": "google's ai mode now lets you link and interact with select apps",
+    "content_hash": "b0becfa9974f1498a37bc78917fd61ad"
+  },
+  {
+    "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
+    "normalized": "google continues its renaming streak by turning notebooklm to gemini notebook",
+    "content_hash": "280034ad3f1d163eda6430669ef1e0c9"
+  },
+  {
+    "title": "Yes, you can now order DoorDash from the command line",
+    "normalized": "yes, you can now order doordash from the command line",
+    "content_hash": "8ec850c7380703e6ffee7d8b02f0f1dd"
+  },
+  {
+    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+    "normalized": "how a former deepmind researcher raised at a $300m pre-seed valuation before launching a product",
+    "content_hash": "1fb90fd673cbcc45d0b1f17f6cf3e641"
+  },
+  {
+    "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+    "normalized": "sheryl sandberg leads $10 million investment in ai-powered vehicle inspection service",
+    "content_hash": "c5cd0c5917ee6126bf22a88a6e330d7c"
+  },
+  {
+    "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
+    "normalized": "why ami labs' alexandre lebrun won't call his ai 'agi' or 'superintelligence'",
+    "content_hash": "423f582a68cbb317a8065516a5e7a17e"
+  },
+  {
+    "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+    "normalized": "why apple sued openai, new york takes on data centers, and what to know about cyclosporiasis",
+    "content_hash": "484c30f41f12f03c99b92282cf4325da"
+  },
+  {
+    "title": "Fortnite is getting a bunch of AI-powered \u2018personas\u2019",
+    "normalized": "fortnite is getting a bunch of ai-powered 'personas'",
+    "content_hash": "fd710a14912766a595ea02f5803ecc8b"
+  },
+  {
+    "title": "Google is better than Apple at playing the AI regulations game",
+    "normalized": "google is better than apple at playing the ai regulations game",
+    "content_hash": "e07d431d6f38b16a498c604690c5aac4"
+  },
+  {
+    "title": "Roblox will let people use AI to make games on their phone",
+    "normalized": "roblox will let people use ai to make games on their phone",
+    "content_hash": "f16a5d9236f4a43c6e3ac4c54b27ef8d"
+  },
+  {
+    "title": "Google is renaming NotebookLM to Gemini Notebook",
+    "normalized": "google is renaming notebooklm to gemini notebook",
+    "content_hash": "616e72b57477086a32f2df9292e5ef38"
+  },
+  {
+    "title": "1-Bit LLM in the Browser",
+    "normalized": "1-bit llm in the browser",
+    "content_hash": "0d19c165ba584897cc0c8a539b4a0408"
+  },
+  {
+    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem \u2014 and most are still building the fix",
+    "normalized": "the ai context gap: enterprise ai organizations have a trust problem, not a retrieval problem -- and most are still building the fix",
+    "content_hash": "9ce6820900249432d6d130818c3abd79"
+  },
+  {
+    "title": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection",
+    "normalized": "openai details gpt-red: an internal automated red-teaming model that beat human red-teamers 84% to 13% on prompt injection",
+    "content_hash": "b74582d9903f86ad10acf908d1bfd540"
+  },
+  {
+    "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+    "normalized": "coca-cola suspended production at its fairlife dairy after a ransomware attack",
+    "content_hash": "6a36543bab0d23c395539edda09a2f15"
+  },
+  {
+    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "normalized": "roblox launches an ai-powered game-creation feature in its mobile app",
+    "content_hash": "e0038d9408817a3fddf1fdc28d42f204"
+  },
+  {
+    "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+    "normalized": "newsletter platform beehiiv now lets subscribers chat with each other, adds ai",
+    "content_hash": "17302ca716fa93baf7a21e4fe178e489"
+  },
+  {
+    "title": "X cracks down on creators who steal content",
+    "normalized": "x cracks down on creators who steal content",
+    "content_hash": "6dfaecf4907d7bf82924a6cc3ca600e6"
   }
 ]
