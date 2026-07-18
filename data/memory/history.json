@@ -1,130 +1,5 @@
 [
   {
-    "title": "Microsoft Replaces OpenAI, Anthropic with Own AI in Some Apps",
-    "normalized": "microsoft replaces openai, anthropic with own ai in some apps",
-    "content_hash": "a87aaafef3038d9e4636b68283657603"
-  },
-  {
-    "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
-    "normalized": "why the rise of open source ai isn't hurting anthropic ... yet",
-    "content_hash": "7e3874deda73e703c50b54d5b3a2d5c2"
-  },
-  {
-    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-    "normalized": "microsoft joins ai cost-cutting trend by relying more on its own models",
-    "content_hash": "89a6787759edbf83fc20ac261bdad15d"
-  },
-  {
-    "title": "AI law startup Norm raises $120M, hits unicorn valuation",
-    "normalized": "ai law startup norm raises $120m, hits unicorn valuation",
-    "content_hash": "faeb6282f4b6651ee4e4cf8e1dc5dd1c"
-  },
-  {
-    "title": "The \u2018G-Wagen of golf carts\u2019 could be the ideal second car",
-    "normalized": "the 'g-wagen of golf carts' could be the ideal second car",
-    "content_hash": "f7027250a920655bcc39574dac26367d"
-  },
-  {
-    "title": "Anthropic is launching Claude Cowork on mobile and web",
-    "normalized": "anthropic is launching claude cowork on mobile and web",
-    "content_hash": "7c41c89793514a1c87c3145e2643eab6"
-  },
-  {
-    "title": "Google announces Pixel 11 launch event in August",
-    "normalized": "google announces pixel 11 launch event in august",
-    "content_hash": "e8880cfee563bb289b4830cafaa93d8d"
-  },
-  {
-    "title": "Doom developer id reportedly cut in half as part of Xbox layoffs",
-    "normalized": "doom developer id reportedly cut in half as part of xbox layoffs",
-    "content_hash": "00f6ec6bd129926c993225daf81bb764"
-  },
-  {
-    "title": "Show HN: CLRK, an open-source agent runtime with gVisor and MitM guardrails",
-    "normalized": "show hn: clrk, an open-source agent runtime with gvisor and mitm guardrails",
-    "content_hash": "49de8d5ecda4be4e8a20875c499dc47f"
-  },
-  {
-    "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
-    "normalized": "openai releases gpt-realtime-2.1 and gpt-realtime-2.1-mini for low-latency voice agents in the api",
-    "content_hash": "8c6ea3d8c06a6bfc88b399171f7c2553"
-  },
-  {
-    "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-    "normalized": "final extension: startup battlefield australia applications now close july 20",
-    "content_hash": "66a879d4b7cf76c2de577e994b00b8ec"
-  },
-  {
-    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-    "normalized": "meta just launched a new ai generator, muse image, and users are already pushing back over use of their photos",
-    "content_hash": "cf41a579961c23463d9d7bc518195a65"
-  },
-  {
-    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-    "normalized": "discord admits ai moderation bug wrongfully banned users over harmless images",
-    "content_hash": "cdba2a09e0dbcb6b5f4b4c0de3e54e1f"
-  },
-  {
-    "title": "Google\u2019s Pixel event is set for August 12",
-    "normalized": "google's pixel event is set for august 12",
-    "content_hash": "e05fb1092b97fafbc6009ced02ab15fb"
-  },
-  {
-    "title": "Figma acquires team behind a vibe-coding app",
-    "normalized": "figma acquires team behind a vibe-coding app",
-    "content_hash": "da20f5ffe96ebb7790ea06977742fc1d"
-  },
-  {
-    "title": "VC firm Chemistry is raising $500M for its second fund",
-    "normalized": "vc firm chemistry is raising $500m for its second fund",
-    "content_hash": "5eda5c80a75b3c034f6044ba596aa0a0"
-  },
-  {
-    "title": "OpenAI\u2019s Chief Futurist Is Leaving the Company",
-    "normalized": "openai's chief futurist is leaving the company",
-    "content_hash": "98b6309a91d37a2fbde434c5e6e38c0d"
-  },
-  {
-    "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-    "normalized": "shut those laptops! anthropic puts its claude cowork agent on your phone",
-    "content_hash": "980cd7a1fb335fab1f727e4e3b606414"
-  },
-  {
-    "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-    "normalized": "rogue agent flaw could have let attackers hijack google dialogflow cx chatbots",
-    "content_hash": "604f426b25bc270a6b79a3139afda613"
-  },
-  {
-    "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-    "normalized": "debull tooling abuses microsoft device-code flow to target m365 accounts",
-    "content_hash": "52361a640d213e36c9f935c299dafbc0"
-  },
-  {
-    "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
-    "normalized": "facing us export controls, china's deepseek plans to make its own chips",
-    "content_hash": "65366d4083df7cb738915afbda39efdb"
-  },
-  {
-    "title": "Of course viewers are giving up on Netflix shows",
-    "normalized": "of course viewers are giving up on netflix shows",
-    "content_hash": "2545053edc406e40a9f7090b375685fe"
-  },
-  {
-    "title": "Meta\u2019s new Muse Image model can pull other Instagram users into AI photos",
-    "normalized": "meta's new muse image model can pull other instagram users into ai photos",
-    "content_hash": "cba3290b2e0ffe8406eb7ae6a04271be"
-  },
-  {
-    "title": "X says top accounts steal videos from other users as it announces new video tools",
-    "normalized": "x says top accounts steal videos from other users as it announces new video tools",
-    "content_hash": "63a2ca1cc7f90251717447a92acda8b2"
-  },
-  {
-    "title": "ABC tells the government to get out of its newsrooms",
-    "normalized": "abc tells the government to get out of its newsrooms",
-    "content_hash": "3eef03151e239487fdce37534adc4cee"
-  },
-  {
     "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
     "normalized": "hot french startup zml releases free product to speed inference across lots of ai chips",
     "content_hash": "2f8bb888071325790692c0d1d97f7b54"
@@ -2498,5 +2373,130 @@
     "title": "Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
     "normalized": "nadella criticizes anthropic's fable for being 'editorially controlled'",
     "content_hash": "f704d76c59adf9a83964be1cc03f9f60"
+  },
+  {
+    "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+    "normalized": "nuclear startup valar atomics in talks to raise new funding at $6b valuation",
+    "content_hash": "89794ac141f7b0e95361cb1239af3300"
+  },
+  {
+    "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+    "normalized": "no product? no problem. this disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+    "content_hash": "5f18d99b6d09ed517d8dd3a84a999f52"
+  },
+  {
+    "title": "Show HN: Favur Evals \u2013 evals of our agent harness, explore and control replays",
+    "normalized": "show hn: favur evals - evals of our agent harness, explore and control replays",
+    "content_hash": "d0ce36e48c00a6e41282d2b2556c86b6"
+  },
+  {
+    "title": "Vertu wants executives to pay $6,880 for an AI agent \u2014 here\u2019s how it actually performs",
+    "normalized": "vertu wants executives to pay $6,880 for an ai agent -- here's how it actually performs",
+    "content_hash": "d7731db6a14d550c5bab581097aa3479"
+  },
+  {
+    "title": "AI-driven memory crunch jolts India\u2019s smartphone market",
+    "normalized": "ai-driven memory crunch jolts india's smartphone market",
+    "content_hash": "f6c07435b74a46be1f58c873c3517e72"
+  },
+  {
+    "title": "Apple and Google ordered to purge \u2018nudify\u2019 apps from App Stores",
+    "normalized": "apple and google ordered to purge 'nudify' apps from app stores",
+    "content_hash": "c80c47dd164075b73445ab7402a3c6ee"
+  },
+  {
+    "title": "How Apple\u2019s big lawsuit could disrupt OpenAI\u2019s IPO plans",
+    "normalized": "how apple's big lawsuit could disrupt openai's ipo plans",
+    "content_hash": "a3c4fc5aef1d2fd0130c45bf4a02a105"
+  },
+  {
+    "title": "Apple\u2019s plot to crush OpenAI",
+    "normalized": "apple's plot to crush openai",
+    "content_hash": "6daf281b5e14cd6f5ed988a877a3246f"
+  },
+  {
+    "title": "MG Siegler: 'OpenAI Makes ChatGPT ChatGPT Again'",
+    "normalized": "mg siegler: 'openai makes chatgpt chatgpt again'",
+    "content_hash": "9c1d739544dd9d831e6164a9b975c53f"
+  },
+  {
+    "title": "Show HN: Feral \u2013 an AI agent that creates content to promote your stuff",
+    "normalized": "show hn: feral - an ai agent that creates content to promote your stuff",
+    "content_hash": "14863b5675a5d3aad3062c02da6286b0"
+  },
+  {
+    "title": "OpenAI admits GPT-5.6 occasionally deletes files \u2013 but it's an 'honest mistake'",
+    "normalized": "openai admits gpt-5.6 occasionally deletes files - but it's an 'honest mistake'",
+    "content_hash": "f57ee3a57cd29463d0fd5d50f655035c"
+  },
+  {
+    "title": "Applications close in 48 hours \u2014 here\u2019s everything Australian founders need to know about Stripe x Startup Battlefield",
+    "normalized": "applications close in 48 hours -- here's everything australian founders need to know about stripe x startup battlefield",
+    "content_hash": "f1169de67f797153a83e7f35c276c199"
+  },
+  {
+    "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act",
+    "normalized": "databricks hits $188b valuation, extending its run as ai's favorite second act",
+    "content_hash": "740e4cf7cc938cec07dbdbdd72c29778"
+  },
+  {
+    "title": "Agility Robotics plants its flag in Tesla\u2019s backyard",
+    "normalized": "agility robotics plants its flag in tesla's backyard",
+    "content_hash": "5059e7fe9f83647afb4ce40b931279bc"
+  },
+  {
+    "title": "FBI arrests man accused of using Steam games to drain victims\u2019 crypto wallets",
+    "normalized": "fbi arrests man accused of using steam games to drain victims' crypto wallets",
+    "content_hash": "7625a9edea035048434f87875d3434d7"
+  },
+  {
+    "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
+    "normalized": "amazon fixing bug that billed some aws customers billions of dollars",
+    "content_hash": "de9caf8c4f6c72b29c21d5d3e32be4ea"
+  },
+  {
+    "title": "Patreon stops asking AI bots not to scrape \u2014 and starts blocking them",
+    "normalized": "patreon stops asking ai bots not to scrape -- and starts blocking them",
+    "content_hash": "542dfa904f9b37c1193e866b2810257a"
+  },
+  {
+    "title": "Polymarket\u2019s Corporate Structure Is a Mystery\u2014Even to Some of Its Former Employees",
+    "normalized": "polymarket's corporate structure is a mystery--even to some of its former employees",
+    "content_hash": "97aded888d0b168bf29b63ad3e2b9bef"
+  },
+  {
+    "title": "TikTok is testing an AI likeness detection tool",
+    "normalized": "tiktok is testing an ai likeness detection tool",
+    "content_hash": "398d6d0f3bf5bfb8fddbc7affdb40522"
+  },
+  {
+    "title": "Is America ready for this quirky Jeep-looking EV that can park itself?",
+    "normalized": "is america ready for this quirky jeep-looking ev that can park itself?",
+    "content_hash": "8487a32fafb5b031dc8c10215c5e3076"
+  },
+  {
+    "title": "Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware",
+    "normalized": "florida man arrested for allegedly stealing over $200,000 in crypto using steam game malware",
+    "content_hash": "693d31a15ca9255efc6a7576c477dd61"
+  },
+  {
+    "title": "Anthropic in early talks with Meta to acquire compute power",
+    "normalized": "anthropic in early talks with meta to acquire compute power",
+    "content_hash": "01dd63350f3ed3c55447f08490e8dc79"
+  },
+  {
+    "title": "Ask HN: Do you use LLM-Wikis?",
+    "normalized": "ask hn: do you use llm-wikis?",
+    "content_hash": "215f90878e6d040e033903dde93dfd34"
+  },
+  {
+    "title": "Show HN: LIA \u2013 a self-hosted multi-agent AI assistant (FastAPI and LangGraph)",
+    "normalized": "show hn: lia - a self-hosted multi-agent ai assistant (fastapi and langgraph)",
+    "content_hash": "83fad1408e31e6ce8fc4b38f517b881c"
+  },
+  {
+    "title": "Show HN: Run Hermes Agent with Kimi 3 in a sandbox",
+    "normalized": "show hn: run hermes agent with kimi 3 in a sandbox",
+    "content_hash": "c3d66e2841bf655e32636422e29cc3c5"
   }
 ]
