@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-    "normalized": "nandan nilekani leaves gp role at fundamentum as it launches $200m third fund",
-    "content_hash": "c1a10af7dea7611ed64b480b541a7144"
-  },
-  {
-    "title": "Top\u00a0AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-    "normalized": "top ai agents built to catch malicious code can be tricked into running it",
-    "content_hash": "f5b5b519d08d6bb530dede02fc49c71c"
-  },
-  {
-    "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-    "normalized": "ghostapproval symlink flaws could let malicious repos run code in ai coding agents",
-    "content_hash": "13b80349ad78c84ec3d81d29b5d2db71"
-  },
-  {
-    "title": "Say hello to Claude Wrapped",
-    "normalized": "say hello to claude wrapped",
-    "content_hash": "37b9719127fb9b3b23dc86931026f0ac"
-  },
-  {
-    "title": "Character.AI wants a piece of the microdrama pie",
-    "normalized": "character.ai wants a piece of the microdrama pie",
-    "content_hash": "f77a8dfc388c806ab3f63b8adb3360f0"
-  },
-  {
-    "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-    "normalized": "fl studio 2026 turns its ai chatbot into your assistant engineer",
-    "content_hash": "b72c396727aa7a99ed96c813b82a5e38"
-  },
-  {
-    "title": "Show HN: Slopera, a browser that hallucinates every page with an LLM",
-    "normalized": "show hn: slopera, a browser that hallucinates every page with an llm",
-    "content_hash": "eefc7e59767d5009833f87b61106c2c4"
-  },
-  {
-    "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-    "normalized": "evaluating sagemath-augmented llm agents for computational and experimental mathematics",
-    "content_hash": "99cf176c551f4892a61f6b1861d69b92"
-  },
-  {
-    "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
-    "normalized": "operational reframing and approval-framed delegation in multi-agent llm safety",
-    "content_hash": "fba65919de1d88bef53dc78345062312"
-  },
-  {
-    "title": "Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents",
-    "normalized": "reason less, verify more: deterministic gates recover a silent policy-violation failure mode in tool-using llm agents",
-    "content_hash": "d2ad94ca3c1daa4b1d70608c63c1f3a4"
-  },
-  {
-    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-    "normalized": "popular open source ai developer tool ollama raises $65m, grows to nearly 9m users",
-    "content_hash": "a57f7133d9bf11dec5defed86dfab020"
-  },
-  {
-    "title": "Character.AI enters the microdrama arena with its own productions, but there\u2019s a twist",
-    "normalized": "character.ai enters the microdrama arena with its own productions, but there's a twist",
-    "content_hash": "33845aa4f1db7b66952d5b11bc0ab698"
-  },
-  {
-    "title": "Truecaller clashes with India\u2019s telecom regulator over anti-spam rules",
-    "normalized": "truecaller clashes with india's telecom regulator over anti-spam rules",
-    "content_hash": "90acfee83082f511b35a72ed3eade797"
-  },
-  {
-    "title": "Best Microsoft Surface Laptop (2026): Which Model to Buy or Avoid",
-    "normalized": "best microsoft surface laptop (2026): which model to buy or avoid",
-    "content_hash": "1bb1d9c7f1f46e407ba76a975b674577"
-  },
-  {
-    "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-    "normalized": "microsoft patches rogueplanet defender flaw that can grant system privileges",
-    "content_hash": "9a72bac1da057369b05edb7cb04d7984"
-  },
-  {
-    "title": "GPT-Live",
-    "normalized": "gpt-live",
-    "content_hash": "f8919836b591804112494f3a68e50f30"
-  },
-  {
-    "title": "Sonos Ace wireless headphones are steeply discounted",
-    "normalized": "sonos ace wireless headphones are steeply discounted",
-    "content_hash": "1096ef8e1f66dff3103292adc3a61c72"
-  },
-  {
-    "title": "The PocketMage resurrects the PDA with an e-paper screen",
-    "normalized": "the pocketmage resurrects the pda with an e-paper screen",
-    "content_hash": "c7da01c1c80e3befb040e07999c71022"
-  },
-  {
-    "title": "Sony brings back the superzoom RX10 with a stacked sensor and a high price",
-    "normalized": "sony brings back the superzoom rx10 with a stacked sensor and a high price",
-    "content_hash": "6dc78c8df2fd7899bb23aa3eb3df403c"
-  },
-  {
-    "title": "Comcast is breaking up with NBCU. Why did it ever buy it in the first place?",
-    "normalized": "comcast is breaking up with nbcu. why did it ever buy it in the first place?",
-    "content_hash": "ba40441e4a9d0ab20fc5bfc926d03af6"
-  },
-  {
-    "title": "Meta says its new AI model is ready to compete on coding",
-    "normalized": "meta says its new ai model is ready to compete on coding",
-    "content_hash": "8b8bd6da26e6227cf428980f026e08eb"
-  },
-  {
-    "title": "ICE agents are making house calls for online critics",
-    "normalized": "ice agents are making house calls for online critics",
-    "content_hash": "3a57504719ac06d9a6369790b1cd1830"
-  },
-  {
-    "title": "Show HN: FableCut \u2013 A browser video editor AI agents can drive (zero deps)",
-    "normalized": "show hn: fablecut - a browser video editor ai agents can drive (zero deps)",
-    "content_hash": "27d2782741f34f62d87e8d4a5bfca6bf"
-  },
-  {
-    "title": "Separating signal from noise in coding evaluations",
-    "normalized": "separating signal from noise in coding evaluations",
-    "content_hash": "45bf0da3fd8e38ec4b7fec96d454d31c"
-  },
-  {
-    "title": "Email as an agent tool: MCP, the SDK, or your own webhook \u2013 MailKite",
-    "normalized": "email as an agent tool: mcp, the sdk, or your own webhook - mailkite",
-    "content_hash": "229f7978e5b77e4772e332d6cd02dc2c"
-  },
-  {
     "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
     "normalized": "openai says gpt 5.6 is the 'preferred model' for microsoft copilot 365 amid breakup chatter",
     "content_hash": "0d9e4d6c3263a0e593b9e88370b526a8"
@@ -2498,5 +2373,130 @@
     "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
     "normalized": "what cities from chicago to washington, dc, look like under a blanket of wildfire smoke",
     "content_hash": "fe2117340f6750533960c030ba6e1066"
+  },
+  {
+    "title": "Fine-Tuning Qwen3 with LoRA Using NVIDIA NeMo AutoModel: A Complete Single-GPU Google Colab Workflow Tutorial",
+    "normalized": "fine-tuning qwen3 with lora using nvidia nemo automodel: a complete single-gpu google colab workflow tutorial",
+    "content_hash": "d2f0c6d5f73ff4c26877ae07bd798d9b"
+  },
+  {
+    "title": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking",
+    "normalized": "nvidia released deepstream 9.1: bringing agentic ai to vision ai with 13 skills and multi-view 3d tracking",
+    "content_hash": "1a7d5c51bfcd0ef8d69fb2990acd72a7"
+  },
+  {
+    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "normalized": "openai reduces codex model context size from 372k to 272k",
+    "content_hash": "dbe612d87bd2b4b3a58fd0c05a9ff144"
+  },
+  {
+    "title": "Show HN: LoopGain \u2013 Stop agent loops with control theory, not max_iterations",
+    "normalized": "show hn: loopgain - stop agent loops with control theory, not max_iterations",
+    "content_hash": "04850e4663a4643a78b11385bc104c14"
+  },
+  {
+    "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents",
+    "normalized": "10 open-source no-code ai platforms for building llm apps, rag systems, and ai agents",
+    "content_hash": "5fbd60818ac47a56a4c0c1a6d157ef51"
+  },
+  {
+    "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+    "normalized": "how to watch the 2026 fifa world cup finals: spain vs. argentina",
+    "content_hash": "ac2ff63f7ff958d574483aac69b9fdd5"
+  },
+  {
+    "title": "\u2018The Odyssey\u2019 Backlash Failed Tremendously",
+    "normalized": "'the odyssey' backlash failed tremendously",
+    "content_hash": "88f29535489693f0b311b7606c630395"
+  },
+  {
+    "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+    "normalized": "5 best smart speakers (2026): alexa, google, apple",
+    "content_hash": "e8902357b030ca57cf9facf12a811df6"
+  },
+  {
+    "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+    "normalized": "seven malicious vite npm packages use blockchain c2 to deliver a rat",
+    "content_hash": "86576cefa3c817d9d7fad3dbcc9a4d7f"
+  },
+  {
+    "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+    "normalized": "new nadmesh botnet hunts exposed ai services for cloud keys and kubernetes tokens",
+    "content_hash": "86584b69682e5ace1dce73fc6d86240a"
+  },
+  {
+    "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+    "normalized": "goldeneyedog subgroup linked to digicert breach and code-signing certificate theft",
+    "content_hash": "ed153b23514c74778cb5757d6f1c1830"
+  },
+  {
+    "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+    "normalized": "fake coding tests deliver ottercookie-aligned malware hidden in svg flag images",
+    "content_hash": "2e9750e13adff49f03a390037908ff0c"
+  },
+  {
+    "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+    "normalized": "the race to field military autonomy is on, can trusted information infrastructure keep pace?",
+    "content_hash": "5885cd59c20093889793ebbcd5778550"
+  },
+  {
+    "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+    "normalized": "armenia detains russian tourist on u.s. warrant for revil hacker, lawyers say wrong man",
+    "content_hash": "6859342a6ed646906f88aae3a422a2ae"
+  },
+  {
+    "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+    "normalized": "new goserpent malware targets southeast asian governments and diplomats for espionage",
+    "content_hash": "72a588fea88b7f211fc5c8cd46be746f"
+  },
+  {
+    "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+    "normalized": "cisa adds exploited sharepoint rce zero-day cve-2026-58644 to kev",
+    "content_hash": "285b946439e45cff46ff0d00204d501f"
+  },
+  {
+    "title": "Two Scattered Spider Hackers Get 5.5 Years Each for \u00a329 Million TfL Hack",
+    "normalized": "two scattered spider hackers get 5.5 years each for \u00a329 million tfl hack",
+    "content_hash": "644f55c6e4e5370b8995d22f96647298"
+  },
+  {
+    "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+    "normalized": "threatsday: game cheat spyware, 24-hour ransomware, chrome sync stalking + 12 more stories",
+    "content_hash": "4bbf99ef10ecc52a92a30ec666e2c716"
+  },
+  {
+    "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+    "normalized": "n8n token exchange flaw could let attackers log in as users from another issuer",
+    "content_hash": "3300b89fe048e8d77b302867ef00345f"
+  },
+  {
+    "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+    "normalized": "new telepuz malware spreads via clickfix to steal data and run commands",
+    "content_hash": "416395cede4ebf168a100b2ebc21b706"
+  },
+  {
+    "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+    "normalized": "new clicklock macos stealer kills apps every 210ms until victims type their password",
+    "content_hash": "6abce97af02f45945c82cd5e6fc054ff"
+  },
+  {
+    "title": "20+ Hijacked Government Websites Became\u2028an Attack Channel",
+    "normalized": "20+ hijacked government websites became an attack channel",
+    "content_hash": "77490b24698f553c1622079e64f34759"
+  },
+  {
+    "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
+    "normalized": "daxin resurfaces in taiwan alongside stupig pre-login system backdoor",
+    "content_hash": "055e4dd5f74cb43c80a53aeac4ad0413"
+  },
+  {
+    "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
+    "normalized": "ai can find bugs, but human knowledge still proves them",
+    "content_hash": "ab21e617f27a52bbca7bd13d7711d2fe"
+  },
+  {
+    "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
+    "normalized": "unpatched shark vacuum flaw could let attackers control other vacuums region-wide",
+    "content_hash": "223ccf719c40a82db52958631d0fa088"
   }
 ]
