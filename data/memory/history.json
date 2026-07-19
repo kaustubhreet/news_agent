@@ -1,130 +1,5 @@
 [
   {
-    "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-    "normalized": "with eu backing, quantumdiamonds aims to speed up chip manufacturing",
-    "content_hash": "79b9f5109f674fcb88ea4d853ee51480"
-  },
-  {
-    "title": "This startup thinks robotics is about to have its ChatGPT moment",
-    "normalized": "this startup thinks robotics is about to have its chatgpt moment",
-    "content_hash": "e92dcc62a673358e3251b920a4d6f0ef"
-  },
-  {
-    "title": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
-    "normalized": "microsoft's xbox reset is pivoting obsidian to make fallout instead of avowed",
-    "content_hash": "22886f2e6fcba1d675ce5437a9aab148"
-  },
-  {
-    "title": "ChatGPT\u2019s upgraded voice mode is better at shutting up",
-    "normalized": "chatgpt's upgraded voice mode is better at shutting up",
-    "content_hash": "631e30142658ff4d32a6c5051c696d49"
-  },
-  {
-    "title": "Google\u2019s deepfake detector system used to debunk McConnell hoax pic",
-    "normalized": "google's deepfake detector system used to debunk mcconnell hoax pic",
-    "content_hash": "fb6cfddd57f0f565fdad0d2478b718ae"
-  },
-  {
-    "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool",
-    "normalized": "google photos adds a new ai 'video remix' tool",
-    "content_hash": "9ab8f637bcdea7170eaddab9644d8529"
-  },
-  {
-    "title": "Why this CEO thinks video games make better training data than the internet",
-    "normalized": "why this ceo thinks video games make better training data than the internet",
-    "content_hash": "36a82ffaa1adc76e389e82e12a6369a8"
-  },
-  {
-    "title": "OpenAI releases new voice models for more natural live conversations",
-    "normalized": "openai releases new voice models for more natural live conversations",
-    "content_hash": "a1a57c0c1ecd48835e91874112020025"
-  },
-  {
-    "title": "Crypto VC firm Paradigm raises $1.2B to invest in \u2018technical frontier\u2019 startups",
-    "normalized": "crypto vc firm paradigm raises $1.2b to invest in 'technical frontier' startups",
-    "content_hash": "8c26613dcbcea098d31f0074cac971b1"
-  },
-  {
-    "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-    "normalized": "prime intellect raises $130m series a to help enterprises build their own ai agents",
-    "content_hash": "1433ea0a71b68475cd4f7f3dcdd0c976"
-  },
-  {
-    "title": "These AI startups are growing  revenue at faster and faster rates",
-    "normalized": "these ai startups are growing revenue at faster and faster rates",
-    "content_hash": "96210d86d3992843d525039f5ad4ffa3"
-  },
-  {
-    "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-    "normalized": "solo gp ashley smith announces second $25m fund to back startups in ai, security and more",
-    "content_hash": "c95de454947b3861b997e6eb83ae8e3e"
-  },
-  {
-    "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-    "normalized": "ai coding agents found triggering endpoint security rules built to catch attackers",
-    "content_hash": "41654bc43342871e52c935367860a732"
-  },
-  {
-    "title": "The whole Pixel line could get more expensive this year",
-    "normalized": "the whole pixel line could get more expensive this year",
-    "content_hash": "df17664f8432c11911b81179393903f9"
-  },
-  {
-    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-    "normalized": "show hn: microsoft releases flint, a visualization language for ai agents",
-    "content_hash": "6efdac3fd73ef3e571f83652caf5b712"
-  },
-  {
-    "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
-    "normalized": "feds demand autonomous vehicle companies stop interfering with first responders",
-    "content_hash": "bf04d125528a905c563bfb6a97b93994"
-  },
-  {
-    "title": "Autonomous drone delivery startup Manna plots major US expansion",
-    "normalized": "autonomous drone delivery startup manna plots major us expansion",
-    "content_hash": "5ff847879b1b280676dddae99cfb8233"
-  },
-  {
-    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
-    "normalized": "spacexai releases grok 4.5, which elon describes as an 'opus-class model'",
-    "content_hash": "1f47d72d33eaee7ac4be7eb91e317975"
-  },
-  {
-    "title": "Elon Musk says X will send DMs when posts you\u2019ve engaged with are corrected",
-    "normalized": "elon musk says x will send dms when posts you've engaged with are corrected",
-    "content_hash": "14caa038d8bf746eb8cfb7d6cb4c908a"
-  },
-  {
-    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-    "normalized": "meta wants its ai glasses to seem less creepy. its ai strategy says otherwise.",
-    "content_hash": "d476d07aea8859339256d4a2f98cb596"
-  },
-  {
-    "title": "Apple to produce Made in America wireless chips with Broadcom",
-    "normalized": "apple to produce made in america wireless chips with broadcom",
-    "content_hash": "f549138285cf58367aed0d4f595ce325"
-  },
-  {
-    "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
-    "normalized": "messi and ronaldo are building tech portfolios. mo salah is playing a different game",
-    "content_hash": "888b01fcb63dd7701e49beeff5b975ee"
-  },
-  {
-    "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
-    "normalized": "new ghost phishing wave is breaking traditional email security",
-    "content_hash": "1f4ab1576b721a8d49054446c8e4fa47"
-  },
-  {
-    "title": "ChatGPT's new voice mode will slow down if you tell it to",
-    "normalized": "chatgpt's new voice mode will slow down if you tell it to",
-    "content_hash": "3f060e39ef8988ce39490f33cecc0664"
-  },
-  {
-    "title": "Meta is reportedly working on smart glasses that would be recording all the time",
-    "normalized": "meta is reportedly working on smart glasses that would be recording all the time",
-    "content_hash": "2bf985ee497f19f6e2361a17d2b065ac"
-  },
-  {
     "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
     "normalized": "nandan nilekani leaves gp role at fundamentum as it launches $200m third fund",
     "content_hash": "c1a10af7dea7611ed64b480b541a7144"
@@ -2498,5 +2373,130 @@
     "title": "Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks",
     "normalized": "patter sdk guide to building a restaurant booking phone agent with dynamic variables, guardrails, latency dashboards, and eval checks",
     "content_hash": "9eb80a0eb5e5588cc53adee6616cf745"
+  },
+  {
+    "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
+    "normalized": "dave eggers told openai staff that chatgpt was 'silencing an entire generation'",
+    "content_hash": "c6d1a18e6f8fae82b3cb163e915e54ce"
+  },
+  {
+    "title": "Google is open-sourcing its 3D emoji",
+    "normalized": "google is open-sourcing its 3d emoji",
+    "content_hash": "35b97fc3f1bdb2683764ff38e8b07d3a"
+  },
+  {
+    "title": "Multi-Agent LLMs Fail to Explore Each Other",
+    "normalized": "multi-agent llms fail to explore each other",
+    "content_hash": "7dda583f49c4e118b07cf98168ab2f15"
+  },
+  {
+    "title": "OpenAI Makes ChatGPT ChatGPT Again",
+    "normalized": "openai makes chatgpt chatgpt again",
+    "content_hash": "6931497c00a964178f3185625cc2ab1a"
+  },
+  {
+    "title": "Kimi: Threat or menace?",
+    "normalized": "kimi: threat or menace?",
+    "content_hash": "f3ecd43ecb708f0480b99bc7e56c4c78"
+  },
+  {
+    "title": "Federal employees can download TikTok on their work phones again",
+    "normalized": "federal employees can download tiktok on their work phones again",
+    "content_hash": "7af8a562d35df7351b67b0f543bbb79b"
+  },
+  {
+    "title": "Google might not kneecap the Pixel 11a with an old processor",
+    "normalized": "google might not kneecap the pixel 11a with an old processor",
+    "content_hash": "567cc8d31f371b62c1394a540a814297"
+  },
+  {
+    "title": "Al-Munaa for OpenAI Build Week",
+    "normalized": "al-munaa for openai build week",
+    "content_hash": "6e1296e7b032f70b5eb57a03f6c92890"
+  },
+  {
+    "title": "Designing a programmable runtime for agent orchestration",
+    "normalized": "designing a programmable runtime for agent orchestration",
+    "content_hash": "140724a1326591b9e2ce31fcf1b7c401"
+  },
+  {
+    "title": "OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape",
+    "normalized": "openai strategic lead defines open-source ai as dystopian hellscape",
+    "content_hash": "5c1e602bf4d35443fb89c2e5e9501ef3"
+  },
+  {
+    "title": "Stately Agent: Build agents as state machines",
+    "normalized": "stately agent: build agents as state machines",
+    "content_hash": "9d0e450fab234ef299162fabad21c536"
+  },
+  {
+    "title": "OpenAI's Sol Learned Design Taste",
+    "normalized": "openai's sol learned design taste",
+    "content_hash": "7b3fd316a44b857f60ece4a41aea2d6d"
+  },
+  {
+    "title": "Show HN: Teya \u2013 Open\u2011source AI family agent on a wall\u2011mounted Android phone",
+    "normalized": "show hn: teya - open\u2011source ai family agent on a wall\u2011mounted android phone",
+    "content_hash": "f306478a48f9ad8c9aecace5fc270346"
+  },
+  {
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "normalized": "mufg aims to become ai-native with openai",
+    "content_hash": "3d9013425fe219381617641d5c3a6898"
+  },
+  {
+    "title": "How to Work Effectively with GPT-5.6",
+    "normalized": "how to work effectively with gpt-5.6",
+    "content_hash": "79743562d849756c80708c8b7e70ae42"
+  },
+  {
+    "title": "Context Engineering Isn\u2019t Enough \u2014 A Loop Engineering Experiment With No LLM Inside the Loop",
+    "normalized": "context engineering isn't enough -- a loop engineering experiment with no llm inside the loop",
+    "content_hash": "8a4f0b57678acc810580756de09d84ce"
+  },
+  {
+    "title": "Waymo says San Francisco service has resumed after one-hour pause",
+    "normalized": "waymo says san francisco service has resumed after one-hour pause",
+    "content_hash": "9f26d8c1611f00fde028cf63e57731d7"
+  },
+  {
+    "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+    "normalized": "all the evs that were discontinued or killed off in the u.s. this year",
+    "content_hash": "e3dcea12532ae0417331928bb3be1edd"
+  },
+  {
+    "title": "A 600-mile road trip (and data) proves EV charging doesn\u2019t suck anymore",
+    "normalized": "a 600-mile road trip (and data) proves ev charging doesn't suck anymore",
+    "content_hash": "2abd88e96ea04d663171caa81e84ca32"
+  },
+  {
+    "title": "The Zoom hack that says, \u2018Don\u2019t record me\u2019",
+    "normalized": "the zoom hack that says, 'don't record me'",
+    "content_hash": "27ce2fccd9e5ee36451244d52b8ef851"
+  },
+  {
+    "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
+    "normalized": "i replaced my space heater and ceiling fan with one dyson appliance",
+    "content_hash": "eaf6fe7e84130713efb62adac0d2e749"
+  },
+  {
+    "title": "Parents want safer phones for kids. These companies are answering the call.",
+    "normalized": "parents want safer phones for kids. these companies are answering the call.",
+    "content_hash": "0b2a35954038d748b4b4823b3417cd1a"
+  },
+  {
+    "title": "Your Period Tracker Is (Probably) Spying on You",
+    "normalized": "your period tracker is (probably) spying on you",
+    "content_hash": "764d31dcff8f457e7384c54c5d3eb64e"
+  },
+  {
+    "title": "Balmuda NatureWind Studio Review: A Better Breeze",
+    "normalized": "balmuda naturewind studio review: a better breeze",
+    "content_hash": "cd4f5d363f21bb33b51de0cb299e0dd2"
+  },
+  {
+    "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
+    "normalized": "what cities from chicago to washington, dc, look like under a blanket of wildfire smoke",
+    "content_hash": "fe2117340f6750533960c030ba6e1066"
   }
 ]
