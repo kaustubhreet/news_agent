@@ -1,130 +1,5 @@
 [
   {
-    "title": "Context Graphs for Proactive Enterprise Agents",
-    "normalized": "context graphs for proactive enterprise agents",
-    "content_hash": "6d5fa37c827f4071d14bf6185a8d2639"
-  },
-  {
-    "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-    "normalized": "hackers use fake microsoft entra passkey enrollment to gain microsoft 365 access",
-    "content_hash": "4661e52cefbb495a3b70757b8016b6ff"
-  },
-  {
-    "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
-    "normalized": "vectorizationllm: smart vectorization based ai assistant",
-    "content_hash": "24aafe51e69348bfc0b0505a97a26d95"
-  },
-  {
-    "title": "Agentic Neural Architecture Search",
-    "normalized": "agentic neural architecture search",
-    "content_hash": "e70cd2b946d2cee0606788f8d7e63a4a"
-  },
-  {
-    "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
-    "normalized": "from prompts to contracts: harness engineering for auditable enterprise llm agents",
-    "content_hash": "acce52b95eb9d57861c74f929c0df8d3"
-  },
-  {
-    "title": "A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis",
-    "normalized": "a safety-oriented hypothetico-deductive framework for ai-assisted differential diagnosis",
-    "content_hash": "e0acd82e54d50472c82491906f685a62"
-  },
-  {
-    "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
-    "normalized": "persuasion attacks can decrease effectiveness of cot monitoring",
-    "content_hash": "cc59630fe7f29e873b3f8f43ed857804"
-  },
-  {
-    "title": "Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data",
-    "normalized": "google research introduces sensorfm: a wearable health foundation model pretrained on one trillion minutes of sensor data",
-    "content_hash": "2c572f79c61d32b460b3d8e933c4f0cf"
-  },
-  {
-    "title": "After Apple, India\u2019s smartphone manufacturing boom enters new phase with Vivo JV",
-    "normalized": "after apple, india's smartphone manufacturing boom enters new phase with vivo jv",
-    "content_hash": "4c4b354962c6cd9baa1c6b96ed1413e8"
-  },
-  {
-    "title": "Instagram users: Here\u2019s how to stop Meta\u2019s AI from using your photos",
-    "normalized": "instagram users: here's how to stop meta's ai from using your photos",
-    "content_hash": "b5ad4eefc8e0eece871a64f6d3624e49"
-  },
-  {
-    "title": "OpenAI\u2019s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-    "normalized": "openai's ceo of agi deployment, fidji simo, is stepping down",
-    "content_hash": "7cb6d050d0151894fec4c55e21689bed"
-  },
-  {
-    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-    "normalized": "anthropic wants you to pay up for claude fable 5",
-    "content_hash": "1b55890449742b7814a4a8daf7dd65ed"
-  },
-  {
-    "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-    "normalized": "study of 281 free android vpn apps finds traffic leaks, unencrypted data, and tracking",
-    "content_hash": "bb8912c7687a7d97af3bc216ec43e91e"
-  },
-  {
-    "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-    "normalized": "dormant github accounts help attackers blend in while mapping corporate orgs",
-    "content_hash": "45709c46366b993830abfa0021ce3e78"
-  },
-  {
-    "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
-    "normalized": "npm 12 disables install scripts by default to reduce supply chain risk",
-    "content_hash": "afee4783e9c192bff1cc83a539598c03"
-  },
-  {
-    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-    "normalized": "openai may have made a fatal misstep in copyright fight with news orgs",
-    "content_hash": "f8f1f37251838059aaf8f528b5959eca"
-  },
-  {
-    "title": "GPT-5.6",
-    "normalized": "gpt-5.6",
-    "content_hash": "71a136dc2abe5675d63cab30d2c15d9a"
-  },
-  {
-    "title": "Instagram\u2019s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-    "normalized": "instagram's adam mosseri: if you don't like ai, 'then you shouldn't have it in your feed'",
-    "content_hash": "e32512be53da98b923739eab76516bf6"
-  },
-  {
-    "title": "Would you host part of an AI data center in your home?",
-    "normalized": "would you host part of an ai data center in your home?",
-    "content_hash": "6391647940513b32a8aa818d3c52d50c"
-  },
-  {
-    "title": "Instagram and Facebook will likely require a redesign after EU rules they&#8217;re &#8216;addictive&#8217;",
-    "normalized": "instagram and facebook will likely require a redesign after eu rules they're 'addictive'",
-    "content_hash": "d1b115aae180a3bb026ab0f4834d6ffd"
-  },
-  {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "normalized": "gpt-5.6 is now the preferred model in microsoft 365 copilot",
-    "content_hash": "b59c51a420bc07bac1ae7e254f53d6d0"
-  },
-  {
-    "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
-    "normalized": "agentic ai and retrieval-augmented models in straight-through underwriting",
-    "content_hash": "87ec90d7c6571482ee0b2d4e92e40a9b"
-  },
-  {
-    "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
-    "normalized": "causalds: benchmarking causal reasoning in data-science agents",
-    "content_hash": "5cccafbfab80e23c52d551d4e4baa69d"
-  },
-  {
-    "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
-    "normalized": "jet-long: efficient long-context extension with dynamic bifocal rope",
-    "content_hash": "22c0dfd7cd5feb86a189f2e4299c2f64"
-  },
-  {
-    "title": "When Does Continual Learning Require Learning",
-    "normalized": "when does continual learning require learning",
-    "content_hash": "abbf49654eb1a897afa4e21d81276604"
-  },
-  {
     "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
     "normalized": "apple sues openai for allegedly stealing hardware secrets",
     "content_hash": "49326abce18fe17990c8c9422c4290e0"
@@ -2498,5 +2373,130 @@
     "title": "Talk: The Art of Braiding Algorithms",
     "normalized": "talk: the art of braiding algorithms",
     "content_hash": "4b09da7651c627fa7fd83fdc8fb8a3fc"
+  },
+  {
+    "title": "China delivers a one-two punch to America\u2019s AI dominance",
+    "normalized": "china delivers a one-two punch to america's ai dominance",
+    "content_hash": "0b793d04e797d37de1a02261d3a779f6"
+  },
+  {
+    "title": "StrictlyVC returns to New York\u00a0City\u00a0September 10\u00a0to celebrate a huge year for the city\u2019s startup community",
+    "normalized": "strictlyvc returns to new york city september 10 to celebrate a huge year for the city's startup community",
+    "content_hash": "32281551c09db9cadbd0eb4340174782"
+  },
+  {
+    "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+    "normalized": "mythos didn't break your security program. your exposure window could.",
+    "content_hash": "7ac9dac5ae7cb28b24c14f2625c01229"
+  },
+  {
+    "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+    "normalized": "russian-speaking hacker uses google gemini cli to control botnet of eight dental clinic pcs",
+    "content_hash": "cfbf932ecf50a49a6ffbaa94eb4639ee"
+  },
+  {
+    "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+    "normalized": "world's largest ai model repository hugging face breached by autonomous ai agent",
+    "content_hash": "799f3a16bf6a2db34473130960f8c980"
+  },
+  {
+    "title": "Avengers: Doomsday\u2019s first trailer puts everyone on high alert",
+    "normalized": "avengers: doomsday's first trailer puts everyone on high alert",
+    "content_hash": "1fb0492d726ad47ff9a70744a8baff42"
+  },
+  {
+    "title": "AliExpress fined almost $630 million over illegal product sales",
+    "normalized": "aliexpress fined almost $630 million over illegal product sales",
+    "content_hash": "32b60d3bd9bef1ba1ff5e352fd74505c"
+  },
+  {
+    "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "normalized": "graphdx: a cost-aware knowledge-enhanced multi-agent framework for sequential diagnosis",
+    "content_hash": "c7392c0bf811e21834b0361181f2e2b7"
+  },
+  {
+    "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+    "normalized": "cura 1t: specialized model for agentic healthcare",
+    "content_hash": "d9d7fbbdbbbed34540fbb59ae52857d2"
+  },
+  {
+    "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+    "normalized": "anovax: a local, multi-agent voice assistant with llm planning, typed executors, and adaptive recovery",
+    "content_hash": "6b0236d872d3b678a2bb2d162acdb2f0"
+  },
+  {
+    "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+    "normalized": "precise but uncoupled: reviewer precision does not guarantee critique uptake in multi-agent math reasoning",
+    "content_hash": "af59b93ce2371c416b7737c6c99cc9fc"
+  },
+  {
+    "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+    "normalized": "drawingvqa: a real-world benchmark for multi-depth visual-textual reasoning on construction drawings",
+    "content_hash": "5ccd2500a1d24962f0daedf28664b0d5"
+  },
+  {
+    "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
+    "normalized": "do coding agents need executable world models, simplification, and verification to solve arc-agi-3?",
+    "content_hash": "162b7a8f542fc0f760817ac0154abceb"
+  },
+  {
+    "title": "ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning",
+    "normalized": "toolverse: unlocking massive environments and long-horizon tasks for agentic reinforcement learning",
+    "content_hash": "aba5ef693bf0bdbe7f3abb892470056d"
+  },
+  {
+    "title": "S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation",
+    "normalized": "s1-omni: a unified multimodal reasoning model for scientific understanding, prediction, and generation",
+    "content_hash": "798d2144e295ca76935912ad0e8211d3"
+  },
+  {
+    "title": "Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents",
+    "normalized": "behavioral controllability of agentic models for information extraction: from fixed workflows to reflective agents",
+    "content_hash": "0b626642854f17585c7413a5c4dde030"
+  },
+  {
+    "title": "AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets",
+    "normalized": "agentfair: a multi-agent collaborative framework for fairness evaluation of geospatial datasets",
+    "content_hash": "04e4008c739cdd5e0ee1bf5a97e1719b"
+  },
+  {
+    "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
+    "normalized": "dsworld: a data science world model for efficient autonomous agents",
+    "content_hash": "b22c8f11716f12107acdebbc86b085e1"
+  },
+  {
+    "title": "AI Trading: Evaluating Large Language Models for Technical Market Analysis",
+    "normalized": "ai trading: evaluating large language models for technical market analysis",
+    "content_hash": "773527d1278fbc6313dc6047f9268285"
+  },
+  {
+    "title": "Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching",
+    "normalized": "cache-aware prompt compression:a two-tier cost model for llm api caching",
+    "content_hash": "4f09bb45ee53a0476db59220b3c919a2"
+  },
+  {
+    "title": "From Feasibility to Desirability: Plan, Learn, Adapt (PLA) Framework for Personalized On-Device Itinerary Generation",
+    "normalized": "from feasibility to desirability: plan, learn, adapt (pla) framework for personalized on-device itinerary generation",
+    "content_hash": "7185789672d503fcf675539a7520c147"
+  },
+  {
+    "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+    "normalized": "hugging face confirms breach affected internal datasets and credentials, urges users to take action",
+    "content_hash": "eaf69db651dae37f322e13dd5ccf0a2b"
+  },
+  {
+    "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
+    "normalized": "an ebike company was sued for misleading info on safety. it points to a big problem",
+    "content_hash": "b86303b0145051cc2918d5955890671c"
+  },
+  {
+    "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
+    "normalized": "the aclu is arming lawyers to expose state surveillance secrets",
+    "content_hash": "39f2a8767709c01ab46c23ebc3e79af3"
+  },
+  {
+    "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+    "normalized": "russian intelligence hacks ip cameras to spy on military logistics across nato states and ukraine",
+    "content_hash": "255db7a4324409a092cce7696baa5034"
   }
 ]
