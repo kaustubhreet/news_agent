@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
-    "normalized": "openai says gpt 5.6 is the 'preferred model' for microsoft copilot 365 amid breakup chatter",
-    "content_hash": "0d9e4d6c3263a0e593b9e88370b526a8"
-  },
-  {
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "normalized": "paris-based ai voice startup gradium raises $100m seed, backed by nvidia",
-    "content_hash": "58a3887f998db2ecb4feba643d1f0ffd"
-  },
-  {
-    "title": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
-    "normalized": "fidji simo steps down from openai's no. 2 role",
-    "content_hash": "2d3038e5080a6615503814a8b3e7fa92"
-  },
-  {
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "normalized": "openai launches its new family of models with gpt-5.6",
-    "content_hash": "10e886a428d24a49c7f27738b4c585b9"
-  },
-  {
-    "title": "An AI agent startup just let its agent run its $100M fundraise",
-    "normalized": "an ai agent startup just let its agent run its $100m fundraise",
-    "content_hash": "51538aa27f6f08f8f53e5c2f4ad0e7c8"
-  },
-  {
-    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-    "normalized": "openai is shutting down atlas, but its ai browser ambitions are still growing",
-    "content_hash": "3e7c73b12db1b4f4e776edaf75cd9518"
-  },
-  {
-    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-    "normalized": "new york times says openai hid evidence in chatgpt copyright trial",
-    "content_hash": "0d6f64cfd8cb368d05b658e022815336"
-  },
-  {
-    "title": "How did the government decide OpenAI\u2019s frontier model was safe to release?",
-    "normalized": "how did the government decide openai's frontier model was safe to release?",
-    "content_hash": "a7dded6e6b79c6261ac89fd48ca8f44f"
-  },
-  {
-    "title": "The ChatGPT browser is already dead",
-    "normalized": "the chatgpt browser is already dead",
-    "content_hash": "464301b86a4872af25b46e3377ee6ccc"
-  },
-  {
-    "title": "OpenAI rolls out GPT-5.6 after government greenlight \u2014\u00a0and announces \u2018ChatGPT Work\u2019",
-    "normalized": "openai rolls out gpt-5.6 after government greenlight -- and announces 'chatgpt work'",
-    "content_hash": "2cc0b9c2c73b57c0b8663c8934c07efe"
-  },
-  {
-    "title": "Elon Musk praises Mythos/Fable, promises not to \u2018cut off\u2019 Anthropic",
-    "normalized": "elon musk praises mythos/fable, promises not to 'cut off' anthropic",
-    "content_hash": "e21486b7aa1a6772b63b3c600414455e"
-  },
-  {
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "normalized": "meta enters the crowded ai coding battle with muse spark 1.1",
-    "content_hash": "b3c32bfdd8f0217f988fe4569d2f049d"
-  },
-  {
-    "title": "Google will now disclose which ads are made with AI",
-    "normalized": "google will now disclose which ads are made with ai",
-    "content_hash": "301e5486779d8f17c4ad7817097664d3"
-  },
-  {
-    "title": "Meta\u2019s new AI chips will begin production in September",
-    "normalized": "meta's new ai chips will begin production in september",
-    "content_hash": "905d602ecba3481e310188267b9c03dc"
-  },
-  {
-    "title": "Nvidia is a victim of the compute marketplace it created",
-    "normalized": "nvidia is a victim of the compute marketplace it created",
-    "content_hash": "f74500758edc09ed92d328fbbeb58dfa"
-  },
-  {
-    "title": "Microsoft\u2019s carbon emissions went up 25 percent last year",
-    "normalized": "microsoft's carbon emissions went up 25 percent last year",
-    "content_hash": "ab1f8b69bd12cfcf93eb1d70d2de796b"
-  },
-  {
-    "title": "Fidji Simo steps down from leading OpenAI\u2019s AGI work due to illness",
-    "normalized": "fidji simo steps down from leading openai's agi work due to illness",
-    "content_hash": "49d125392f89c554335a7360895d7bb5"
-  },
-  {
-    "title": "Google will now tell you if an ad was made with AI",
-    "normalized": "google will now tell you if an ad was made with ai",
-    "content_hash": "6389b7162c21680caf647aca01ae8f8f"
-  },
-  {
-    "title": "Microsoft\u2019s patch Tuesdays are about to get bigger",
-    "normalized": "microsoft's patch tuesdays are about to get bigger",
-    "content_hash": "3f1f36ee11bb7b34ec24ad39f260ad2a"
-  },
-  {
-    "title": "OpenAI discontinues standalone browser ChatGPT Atlas in favor of new ChatGPT app",
-    "normalized": "openai discontinues standalone browser chatgpt atlas in favor of new chatgpt app",
-    "content_hash": "a6c4ccc4666b3e69efff484305abd62f"
-  },
-  {
-    "title": "Today's the Day OpenAI Fucked Up the ChatGPT Mac App",
-    "normalized": "today's the day openai fucked up the chatgpt mac app",
-    "content_hash": "7bf1b04913809d5baf5fe3b4258ccaa1"
-  },
-  {
-    "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser",
-    "normalized": "openai is discontinuing chatgpt atlas, its standalone desktop browser",
-    "content_hash": "ed98c3685081ddbc471ad0cfe9047ce7"
-  },
-  {
-    "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
-    "normalized": "openai releases gpt-5.6 (sol, terra, luna): a three-tier model family with programmatic tool calling in the responses api",
-    "content_hash": "0bc475e0bc1a291bcd7a7ad48c88685e"
-  },
-  {
-    "title": "Can AI answer the $3 trillion question?",
-    "normalized": "can ai answer the $3 trillion question?",
-    "content_hash": "4871b2e1c065bc077f081138ed316bfb"
-  },
-  {
-    "title": "Charles Hudson shares the common mistakes he\u2019s seen after investing in 500+ startups",
-    "normalized": "charles hudson shares the common mistakes he's seen after investing in 500+ startups",
-    "content_hash": "b753e7f0b9d7eed2d8eaaf5347f11427"
-  },
-  {
     "title": "Context Graphs for Proactive Enterprise Agents",
     "normalized": "context graphs for proactive enterprise agents",
     "content_hash": "6d5fa37c827f4071d14bf6185a8d2639"
@@ -2498,5 +2373,130 @@
     "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
     "normalized": "unpatched shark vacuum flaw could let attackers control other vacuums region-wide",
     "content_hash": "223ccf719c40a82db52958631d0fa088"
+  },
+  {
+    "title": "Netflix paid $587M for Ben Affleck\u2019s AI filmmaking startup",
+    "normalized": "netflix paid $587m for ben affleck's ai filmmaking startup",
+    "content_hash": "a5b1b617c3dd9f6d6df01447f5ba4d24"
+  },
+  {
+    "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
+    "normalized": "can an apple lawsuit derail openai's hardware plans?",
+    "content_hash": "48fdd79d9395bf2106ea7e4f54d8752d"
+  },
+  {
+    "title": "TechCrunch Mobility: The battle over robotaxi rules",
+    "normalized": "techcrunch mobility: the battle over robotaxi rules",
+    "content_hash": "80a37e42c4c764b3bfae3f5736018061"
+  },
+  {
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "normalized": "nonprofit current ai is racing to build the world wide web of ai, free for all",
+    "content_hash": "bbf9625c9b17c129b153a7aa6fcf6d2c"
+  },
+  {
+    "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+    "normalized": "this unpronounceable series of glyphs is an incredible side project from kieran hebden (aka four tet)",
+    "content_hash": "7d26197bce258b6322a84cd5fac93941"
+  },
+  {
+    "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+    "normalized": "kodak ec35 is a dirt-cheap point-and-shoot film camera",
+    "content_hash": "b382d30dfdd379074feb88fc7ca1e2cb"
+  },
+  {
+    "title": "I hate that I don\u2019t hate this song made with Suno",
+    "normalized": "i hate that i don't hate this song made with suno",
+    "content_hash": "dfcc8dfb7ccbfa889b811ab1385ef295"
+  },
+  {
+    "title": "The FBI reportedly won\u2019t investigate ICE anymore",
+    "normalized": "the fbi reportedly won't investigate ice anymore",
+    "content_hash": "a37f33925ce246a8a4776e250b4f5226"
+  },
+  {
+    "title": "Orchid is a delightfully retro and approachable hipster synth",
+    "normalized": "orchid is a delightfully retro and approachable hipster synth",
+    "content_hash": "aaad0fe9c9ef3f6d7b830ae98ef875f4"
+  },
+  {
+    "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
+    "normalized": "birdfy's solar-powered smart feeder is down to one of its best prices",
+    "content_hash": "a0db14de6deb21f51f141e3769ea8ce0"
+  },
+  {
+    "title": "The Clapper was a bad smart home gadget \u2014\u00a0and a viral sensation",
+    "normalized": "the clapper was a bad smart home gadget -- and a viral sensation",
+    "content_hash": "c8dafec110c9f302b5c54d72001ea1d4"
+  },
+  {
+    "title": "What to watch for after Jensen Huang\u2019s Japan visit",
+    "normalized": "what to watch for after jensen huang's japan visit",
+    "content_hash": "1858426899d638db4fcca166ee639e48"
+  },
+  {
+    "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019",
+    "normalized": "'odyssey' director christopher nolan calls ai an obvious 'trojan horse'",
+    "content_hash": "961cf244079be3932dfdc2755a82a45b"
+  },
+  {
+    "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+    "normalized": "critical nginx vulnerability can crash workers and may allow remote code execution",
+    "content_hash": "29c1ad12373d216a4eedd3695919cc28"
+  },
+  {
+    "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+    "normalized": "uac-0145 uses clickfix captchas to infect ukrainian devices wih malware",
+    "content_hash": "e7bccb41ecaf86701994fa4f2771777a"
+  },
+  {
+    "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+    "normalized": "sonicwall sma zero-days exploited before disclosure to gain root access",
+    "content_hash": "76feb32766a54c7c236d465bd9e7e8b6"
+  },
+  {
+    "title": "ZooData",
+    "normalized": "zoodata",
+    "content_hash": "d4a07e4e81ff598797fd6cb8743b77b5"
+  },
+  {
+    "title": "OpenMarkdown",
+    "normalized": "openmarkdown",
+    "content_hash": "4cade7eec613a3b65a0f07a63ba50361"
+  },
+  {
+    "title": "Clark",
+    "normalized": "clark",
+    "content_hash": "4019a6a75a58f96cfb6a73a883c2f5ba"
+  },
+  {
+    "title": "Yapper Leaderboard",
+    "normalized": "yapper leaderboard",
+    "content_hash": "6b7324ec9e45f026287574fabd571a1d"
+  },
+  {
+    "title": "Unabyss for Claude",
+    "normalized": "unabyss for claude",
+    "content_hash": "f82cd23141d1dd500efbbcfbdf30212c"
+  },
+  {
+    "title": "US Marshals arrest the Tate brothers in Miami",
+    "normalized": "us marshals arrest the tate brothers in miami",
+    "content_hash": "f8e99076880c5f2838876aecb2b9708d"
+  },
+  {
+    "title": "The future of physical games is not looking great",
+    "normalized": "the future of physical games is not looking great",
+    "content_hash": "c4ad4365463c6a59f1c1540a2ad9fbf8"
+  },
+  {
+    "title": "The grueling, 630-mile road race where the only fuel is sunlight",
+    "normalized": "the grueling, 630-mile road race where the only fuel is sunlight",
+    "content_hash": "5c0acd1b6a790a13f1f23a051b50642a"
+  },
+  {
+    "title": "Talk: The Art of Braiding Algorithms",
+    "normalized": "talk: the art of braiding algorithms",
+    "content_hash": "4b09da7651c627fa7fd83fdc8fb8a3fc"
   }
 ]
