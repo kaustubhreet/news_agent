@@ -1,130 +1,5 @@
 [
   {
-    "title": "Soofi: European sovereign LLM trained in 2 months",
-    "normalized": "soofi: european sovereign llm trained in 2 months",
-    "content_hash": "dd9676faf02fae6fe4b1fe9367a2b3b2"
-  },
-  {
-    "title": "Inside HackerRank's LLM-based Hiring Agent",
-    "normalized": "inside hackerrank's llm-based hiring agent",
-    "content_hash": "a69b058879341408091e6612fe93eb03"
-  },
-  {
-    "title": "Show HN: Inferock-bench \u2013 per-call billing receipts for OpenAI and Anthropic",
-    "normalized": "show hn: inferock-bench - per-call billing receipts for openai and anthropic",
-    "content_hash": "c16b6fb0ce40280bd8ea766086220ff4"
-  },
-  {
-    "title": "OpenAI and Google sell AI models to blacklisted China groups",
-    "normalized": "openai and google sell ai models to blacklisted china groups",
-    "content_hash": "06b3efd001623cc15c2276e697198f5b"
-  },
-  {
-    "title": "The perfect kit for all your tiny repairs",
-    "normalized": "the perfect kit for all your tiny repairs",
-    "content_hash": "71119528e11515985b64f9ec337fd9f9"
-  },
-  {
-    "title": "Karpathy LLM Wiki (Obsidian Plugin)",
-    "normalized": "karpathy llm wiki (obsidian plugin)",
-    "content_hash": "0b55617a0433c7f97fd87b48419375e6"
-  },
-  {
-    "title": "Octochains \u2013 a Python framework for parallel, isolated multi-agent reasoning",
-    "normalized": "octochains - a python framework for parallel, isolated multi-agent reasoning",
-    "content_hash": "089c87f96d5a7300c21123735aba6d62"
-  },
-  {
-    "title": "Show HN: My AI agent has 9 hours left to win a public bet \u2013 live dashboard",
-    "normalized": "show hn: my ai agent has 9 hours left to win a public bet - live dashboard",
-    "content_hash": "bc654f328c7b9116ee2ff174d7bbb2d8"
-  },
-  {
-    "title": "Show HN: AI Agent Audit for Free",
-    "normalized": "show hn: ai agent audit for free",
-    "content_hash": "dbf764125caa9d25035e1ea1b44844dd"
-  },
-  {
-    "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-    "normalized": "apple sues openai, its employees claiming theft of trade secrets",
-    "content_hash": "13801dd19b09625e9a1924dffb9e472d"
-  },
-  {
-    "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
-    "normalized": "openai safety head heidecke to leave firm after reshuffle: wired",
-    "content_hash": "4131faa07bd9c23488b1c5ffd0e398ab"
-  },
-  {
-    "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
-    "normalized": "apple sues openai, alleging the ai company stole trade secrets",
-    "content_hash": "ebfdee0719f29d28960fa3e5a621e604"
-  },
-  {
-    "title": "Apple sues OpenAI for stealing trade secrets, blockbuster Silicon Valley lawsuit",
-    "normalized": "apple sues openai for stealing trade secrets, blockbuster silicon valley lawsuit",
-    "content_hash": "dbab91349e29a3d8b642a099522fb44f"
-  },
-  {
-    "title": "AI2Web: Open protocol to make any website work with every AI agent",
-    "normalized": "ai2web: open protocol to make any website work with every ai agent",
-    "content_hash": "e40f20a5d8fa82d8b5e9cb2a0984e3eb"
-  },
-  {
-    "title": "One Wikipedia page costs your AI agent 68,000 tokens",
-    "normalized": "one wikipedia page costs your ai agent 68,000 tokens",
-    "content_hash": "fd0c5f35632ef26c8359f4a83059aff8"
-  },
-  {
-    "title": "Show HN: Atuin AI Proxy bridges Hub AI to an OpenAI-compatible endpoint",
-    "normalized": "show hn: atuin ai proxy bridges hub ai to an openai-compatible endpoint",
-    "content_hash": "34022b586ceb9be6eaad7befa5cab7c7"
-  },
-  {
-    "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
-    "normalized": "fine-tune nvidia nemotron 3 models with amazon sagemaker ai serverless model customization",
-    "content_hash": "04a2663d03c1609179036c5f1bab5e36"
-  },
-  {
-    "title": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API",
-    "normalized": "meta superintelligence labs releases muse spark 1.1: a multimodal reasoning model for agentic tasks on meta model api",
-    "content_hash": "c106880de6bcfa41915db46725bbee84"
-  },
-  {
-    "title": "Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput",
-    "normalized": "meet nemotron labs 3 puzzle 75b a9b: a compressed hybrid moe llm delivering 2.03x server throughput",
-    "content_hash": "bd81f187cdeec18f5f79b8b7e791c709"
-  },
-  {
-    "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-    "normalized": "us cybersecurity agency cisa had to build its incident playbook during the incident, agency reveals",
-    "content_hash": "a604d7b5b931f7b4604df3a4be4b4fc2"
-  },
-  {
-    "title": "Bluesky\u2019s interim CEO, Toni Schneider, drops the \u2018interim\u2019",
-    "normalized": "bluesky's interim ceo, toni schneider, drops the 'interim'",
-    "content_hash": "d1ba3bbfef90a64df9810a06ee5cd207"
-  },
-  {
-    "title": "China is catching up to Elon Musk\u2019s reusable rockets",
-    "normalized": "china is catching up to elon musk's reusable rockets",
-    "content_hash": "cdffe488f41582702a9ad7bb79f1fdf8"
-  },
-  {
-    "title": "Disney+ is considering a free streaming tier, report says",
-    "normalized": "disney+ is considering a free streaming tier, report says",
-    "content_hash": "af1ba992b81813891463ee659c8bb679"
-  },
-  {
-    "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
-    "normalized": "dumb co dared me to trade my iphone for a hacked flip phone",
-    "content_hash": "9e9de29801da9135b05c6bafa2ad3196"
-  },
-  {
-    "title": "Netflix could be planning \u2018always-on\u2019 live TV channels",
-    "normalized": "netflix could be planning 'always-on' live tv channels",
-    "content_hash": "cbebaa774fcaac588eca2d883d4383fc"
-  },
-  {
     "title": "OpenAI bets on families as ChatGPT goes deeper into households",
     "normalized": "openai bets on families as chatgpt goes deeper into households",
     "content_hash": "9617e7b74a82c91c15a505d45ba8ca40"
@@ -2498,5 +2373,130 @@
     "title": "Show HN: Vidmoat \u2013 a video editing pipeline any AI agent can operate",
     "normalized": "show hn: vidmoat - a video editing pipeline any ai agent can operate",
     "content_hash": "9295d505cdedfaa24c62152bfbf22de6"
+  },
+  {
+    "title": "America needs to stop getting shocked by Chinese AI",
+    "normalized": "america needs to stop getting shocked by chinese ai",
+    "content_hash": "403b624af9b1ba773536f8f1b702f3b9"
+  },
+  {
+    "title": "Show HN: ChatPanel, A Privacy-first AI Agent browser side panel",
+    "normalized": "show hn: chatpanel, a privacy-first ai agent browser side panel",
+    "content_hash": "cf86df2c5c9fe1c091d4ad576fe8487d"
+  },
+  {
+    "title": "Ask HN: Will Anthropic or OpenAI start offering Chinese open source models?",
+    "normalized": "ask hn: will anthropic or openai start offering chinese open source models?",
+    "content_hash": "598370d47efe053984af4150a5cf0bc0"
+  },
+  {
+    "title": "Head to head: GLM 5.2 vs. OpenAI: GPT-5.6 Sol",
+    "normalized": "head to head: glm 5.2 vs. openai: gpt-5.6 sol",
+    "content_hash": "ae0cb32be4d6590c2d3cf161eda08c69"
+  },
+  {
+    "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+    "normalized": "planflip: attacking multi-agent llm systems via planning-phase prompt injection",
+    "content_hash": "98ada60cb5e6d5e23c6d0afeec09cbb4"
+  },
+  {
+    "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
+    "normalized": "democratizing ai with small language models: structured benchmarking and parameter-efficient fine-tuning for local deployment",
+    "content_hash": "70bb4079d25138fc271b24a6e8abe36a"
+  },
+  {
+    "title": "\u2018It\u2019s a Modern-Day Draft\u2019: Why Stanford Students Walked Out on Sundar Pichai\u2019s Commencement Speech",
+    "normalized": "'it's a modern-day draft': why stanford students walked out on sundar pichai's commencement speech",
+    "content_hash": "e0e70c786f4512ea5ba66fac44205ec6"
+  },
+  {
+    "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+    "normalized": "open-source android ai agents could let invisible screen text run code on host pcs",
+    "content_hash": "dd44aeb3ae0671e76dfbb83d3cb5337f"
+  },
+  {
+    "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+    "normalized": "new encforge ransomware targets ai model files in langflow rce attack",
+    "content_hash": "c556237e9a15491f4f4df026f88b348b"
+  },
+  {
+    "title": "Who\u2019s afraid of the big, bad GPU?",
+    "normalized": "who's afraid of the big, bad gpu?",
+    "content_hash": "e45dad53160c081280505f3251217f88"
+  },
+  {
+    "title": "I asked an AI agent to delete a folder my tool was guarding",
+    "normalized": "i asked an ai agent to delete a folder my tool was guarding",
+    "content_hash": "b34b1d9204d1e249eb3200f79fb48c0f"
+  },
+  {
+    "title": "Hugging Face turns to GLM 5.2 to fend off AI agent attack",
+    "normalized": "hugging face turns to glm 5.2 to fend off ai agent attack",
+    "content_hash": "31ed81539b8faf853a15866db163eb1e"
+  },
+  {
+    "title": "LLM spambots liked my Show HN post more than real people did",
+    "normalized": "llm spambots liked my show hn post more than real people did",
+    "content_hash": "c62f2692c3d766e24dd594f435e708ee"
+  },
+  {
+    "title": "I moved Agentique's LLM layer to BAML",
+    "normalized": "i moved agentique's llm layer to baml",
+    "content_hash": "dc180064af29a5dec59fd782666e1a84"
+  },
+  {
+    "title": "Show HN: Trigger-tree; see which project docs your AI coding agent reads",
+    "normalized": "show hn: trigger-tree; see which project docs your ai coding agent reads",
+    "content_hash": "d2595ac855812ce114d2a0a478885523"
+  },
+  {
+    "title": "Agent solves problem in JavaScript but fails in TypeScript",
+    "normalized": "agent solves problem in javascript but fails in typescript",
+    "content_hash": "8668ba769dc6e7f458ff55c32037d64b"
+  },
+  {
+    "title": "Hugging Face warns an autonomous AI agent hacked its network",
+    "normalized": "hugging face warns an autonomous ai agent hacked its network",
+    "content_hash": "aad4872358efc384537c3e0231bcac0c"
+  },
+  {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "normalized": "gpt-5.6 is now the preferred model in microsoft 365 copilot",
+    "content_hash": "b59c51a420bc07bac1ae7e254f53d6d0"
+  },
+  {
+    "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+    "normalized": "some large language models exhibit consistent risk attitudes",
+    "content_hash": "de38e58eb31d7e658e8b45c206469c2d"
+  },
+  {
+    "title": "Deterministic Replay for AI Agent Systems",
+    "normalized": "deterministic replay for ai agent systems",
+    "content_hash": "73884e53eda9b627dd88fcaff1a20670"
+  },
+  {
+    "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+    "normalized": "masked diffusion language models are strong and steerable text-based world models for agentic rl",
+    "content_hash": "bcf6deaf7c29845e8fadf76e8a3184b2"
+  },
+  {
+    "title": "Accurate and Efficient Long-Term Memory for LLM Agents",
+    "normalized": "accurate and efficient long-term memory for llm agents",
+    "content_hash": "96e4621c4664db486c1434b3816ba51a"
+  },
+  {
+    "title": "RAIL Guard: Closing the Evaluation-to-Remediation Gap in Responsible AI for LLM Agents",
+    "normalized": "rail guard: closing the evaluation-to-remediation gap in responsible ai for llm agents",
+    "content_hash": "a6a6db651cd3c75e84cfb43aa20246fd"
+  },
+  {
+    "title": "KernelBench-Verified: Do LLM-Generated Kernels Actually Beat PyTorch?",
+    "normalized": "kernelbench-verified: do llm-generated kernels actually beat pytorch?",
+    "content_hash": "d093948e775cc5b218cb8fe689459c03"
+  },
+  {
+    "title": "CIGPO: Contextual Information-Gain Policy Optimization for Multi-Turn Evidence-Reading LLM Agents",
+    "normalized": "cigpo: contextual information-gain policy optimization for multi-turn evidence-reading llm agents",
+    "content_hash": "8b4b069e94bd8a7e4844f10bf3e2ed64"
   }
 ]
