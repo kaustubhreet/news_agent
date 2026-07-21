@@ -1,130 +1,5 @@
 [
   {
-    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-    "normalized": "apple sues openai for allegedly stealing hardware secrets",
-    "content_hash": "49326abce18fe17990c8c9422c4290e0"
-  },
-  {
-    "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-    "normalized": "nvidia's biggest ram supplier just had a trillion-dollar debut on wall street",
-    "content_hash": "65f945271b5a857480bfca906dcc6a2e"
-  },
-  {
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "normalized": "apple sues openai over alleged trade secret theft",
-    "content_hash": "d07de4bf2a440e9c19ed8b3b2f78e7e0"
-  },
-  {
-    "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-    "normalized": "filing: college app fizz accuses vc of sharing confidential startup information with rival sidechat",
-    "content_hash": "0809009f18e7796e533207898c7c1130"
-  },
-  {
-    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "normalized": "sk hynix raises $26.5b in the biggest foreign ipo in us history, is urged to build new us fabs",
-    "content_hash": "cd9b511f0215512b75cd33ac527b6b1c"
-  },
-  {
-    "title": "ICE is threatening to deport witnesses of its latest shooting",
-    "normalized": "ice is threatening to deport witnesses of its latest shooting",
-    "content_hash": "3489cad5259c3fff6352228e1c8ae47a"
-  },
-  {
-    "title": "Apple sues OpenAI/io for stealing trade secrets",
-    "normalized": "apple sues openai/io for stealing trade secrets",
-    "content_hash": "9273ae24f2094492b1f715cdde167ac9"
-  },
-  {
-    "title": "Agentic test processes, LLM benchmarks, notes on agentic coding from Galapagos",
-    "normalized": "agentic test processes, llm benchmarks, notes on agentic coding from galapagos",
-    "content_hash": "45c90e3989b465ed08236e6fd05adc1d"
-  },
-  {
-    "title": "Migrating a production AI agent to GPT 5.6",
-    "normalized": "migrating a production ai agent to gpt 5.6",
-    "content_hash": "7dc9b53382f6003a1726b8be3b407b04"
-  },
-  {
-    "title": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
-    "normalized": "us cyber agency cisa had to build its incident playbook during the incident, agency reveals",
-    "content_hash": "33e4264d0ba691f2b8a00977582c8825"
-  },
-  {
-    "title": "Phia accused of \u2018cookie stuffing,\u2019 taking affiliate credit on purchases it didn\u2019t earn",
-    "normalized": "phia accused of 'cookie stuffing,' taking affiliate credit on purchases it didn't earn",
-    "content_hash": "c0a4a75129d0ca648384d05f140adbce"
-  },
-  {
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "normalized": "meta removes controversial ai feature on instagram after backlash",
-    "content_hash": "8ce2a4af462042df4ecd1e382e904221"
-  },
-  {
-    "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-    "normalized": "a new app, hypertexting, turns the open web into a scrollable social media-like feed",
-    "content_hash": "c21e3c32daa829feed9f24ee5c1832ff"
-  },
-  {
-    "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-    "normalized": "oratomic raises $300m to build a viable quantum computer that needs only 20k qubits",
-    "content_hash": "ee696dc263f8bb794e0a4e294ffe7c52"
-  },
-  {
-    "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
-    "normalized": "eu threatens meta with fines over addictive features on facebook and instagram",
-    "content_hash": "94d1a7c3cfe429a63b595db59d232375"
-  },
-  {
-    "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
-    "normalized": "florida ransomware negotiator convicted for helping ransomware gang extort us companies",
-    "content_hash": "9a69081473eca625501342122c4d38ae"
-  },
-  {
-    "title": "Hugging Face\u2019s CEO on why companies are done renting their AI",
-    "normalized": "hugging face's ceo on why companies are done renting their ai",
-    "content_hash": "4f809e17969dc129d21de67538200e2d"
-  },
-  {
-    "title": "OpenAI\u2019s Head of Safety Is Leaving the Company",
-    "normalized": "openai's head of safety is leaving the company",
-    "content_hash": "6d6fcb85fef2b47b41dbb005aada11c6"
-  },
-  {
-    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-    "normalized": "apple is suing openai for allegedly stealing hardware secrets",
-    "content_hash": "023a17d6e07e0886fc5819ffbc84a814"
-  },
-  {
-    "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-    "normalized": "laser attack resets tangem wallet passwords on cards that can't be patched",
-    "content_hash": "69d90412eb69be2f99d7b0e6ae808291"
-  },
-  {
-    "title": "OpenAI's browser isn't dead, it just moved to the ChatGPT app",
-    "normalized": "openai's browser isn't dead, it just moved to the chatgpt app",
-    "content_hash": "7ae696dcb0377a0fb78ce59edc9b6338"
-  },
-  {
-    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-    "normalized": "meta turns off the instagram feature that let users make ai deepfakes of public accounts",
-    "content_hash": "0a54c31d30aba595a5fc1851e14ef0fe"
-  },
-  {
-    "title": "A decade later, Pok\u00e9mon Go finally made good on its original promise",
-    "normalized": "a decade later, pok\u00e9mon go finally made good on its original promise",
-    "content_hash": "33c058d91a06cf71dc5dfb1b70b2092b"
-  },
-  {
-    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-    "normalized": "apple sues openai, accuses ex-employees of stealing trade secrets",
-    "content_hash": "0a28fc4026fe6cc8e8418007cf2ce57e"
-  },
-  {
-    "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
-    "normalized": "choosing the right ai agent memory strategy: a decision-tree approach",
-    "content_hash": "f1707c88750029e443b9393ef6ddc724"
-  },
-  {
     "title": "Soofi: European sovereign LLM trained in 2 months",
     "normalized": "soofi: european sovereign llm trained in 2 months",
     "content_hash": "dd9676faf02fae6fe4b1fe9367a2b3b2"
@@ -2498,5 +2373,130 @@
     "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
     "normalized": "russian intelligence hacks ip cameras to spy on military logistics across nato states and ukraine",
     "content_hash": "255db7a4324409a092cce7696baa5034"
+  },
+  {
+    "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+    "normalized": "inference startup infinity raises $15m from touring capital, openai and anthropic researchers",
+    "content_hash": "0c1ada56f12985531a85bf76763944e2"
+  },
+  {
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "normalized": "google is working on a new ai chip designed to make gemini more efficient",
+    "content_hash": "a2469c45de76a544cc695641832965a8"
+  },
+  {
+    "title": "OpenAI is scared of open-weight models. Should the US be?",
+    "normalized": "openai is scared of open-weight models. should the us be?",
+    "content_hash": "6b6581db24bf7f6ac476891149661f13"
+  },
+  {
+    "title": "Natural raises $30M to reinvent payments for AI agents \u2014 and take on Stripe",
+    "normalized": "natural raises $30m to reinvent payments for ai agents -- and take on stripe",
+    "content_hash": "92cdc75c143b73977f03d2e0f0148635"
+  },
+  {
+    "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
+    "normalized": "anthropic's landmark $1.5b copyright settlement is approved",
+    "content_hash": "b463edd3610c3df383cdcb324af5bfea"
+  },
+  {
+    "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B\u2013$30B valuation",
+    "normalized": "colossal biosciences reportedly in talks to raise new capital at $20b-$30b valuation",
+    "content_hash": "8fc02078adc7dca68bf698caecdcdb28"
+  },
+  {
+    "title": "Show HN: Provena: Open-Source Library for AI Agent Context Governance",
+    "normalized": "show hn: provena: open-source library for ai agent context governance",
+    "content_hash": "a036f025fdb833c6884935a4ab7c427f"
+  },
+  {
+    "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
+    "normalized": "build specialized agent workflows for your business with amazon quick and nvidia nemo agent toolkit",
+    "content_hash": "40f27671ade300f23b1cd323e44aa3e5"
+  },
+  {
+    "title": "Trump\u2019s latest AI czar has already resigned",
+    "normalized": "trump's latest ai czar has already resigned",
+    "content_hash": "e573f558c60f180802597ef7a3c60487"
+  },
+  {
+    "title": "AI\u2019s most important protocol is getting a little bit easier to use",
+    "normalized": "ai's most important protocol is getting a little bit easier to use",
+    "content_hash": "6b0d86523cb8d722a474cac96a80cb3c"
+  },
+  {
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "normalized": "x relaunches a rebuilt android app after year-long effort",
+    "content_hash": "8a340902e4135b19296b64f55f76cebf"
+  },
+  {
+    "title": "Adobe camera app\u2019s new feature will critique your photos using AI",
+    "normalized": "adobe camera app's new feature will critique your photos using ai",
+    "content_hash": "577ef47dd117951bc9f72ec748d3fa44"
+  },
+  {
+    "title": "YouTube clarifies policies around AI slop and upsetting videos",
+    "normalized": "youtube clarifies policies around ai slop and upsetting videos",
+    "content_hash": "41a94c0b9c371d46f6d57ca83ba038ce"
+  },
+  {
+    "title": "Hackers stole \u2018significant\u2019 amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+    "normalized": "hackers stole 'significant' amount of data from tech firm relied on by thousands of us hospitals and pharmacies",
+    "content_hash": "b679772492679051e06e8a7087ea45e8"
+  },
+  {
+    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+    "normalized": "here are the 30,000 songs sony is suing udio's ai music generator over",
+    "content_hash": "5e2eb7c7bdb8017651f758d7f616617e"
+  },
+  {
+    "title": "SpaceX in your index fund, explained",
+    "normalized": "spacex in your index fund, explained",
+    "content_hash": "b30ae21f522ca42e6ca23bd23c28c69d"
+  },
+  {
+    "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
+    "normalized": "get borderlands 3, risk of rain 2 and 13 other great pc games for $15",
+    "content_hash": "a5ef63d8a8b5a436af75c2d1ab9aae5d"
+  },
+  {
+    "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+    "normalized": "the playstation replica ornament is an homage to a great, yet fragile console",
+    "content_hash": "6939dacd841d5059da7680fe213c67c2"
+  },
+  {
+    "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
+    "normalized": "ford's $30,000 electric truck: all the news about the company's big ev re-do",
+    "content_hash": "62d57fdc2d99b13e7725e6f70a2b15f8"
+  },
+  {
+    "title": "Judge pauses Paramount\u2019s attempt to buy Warner Bros. Discovery",
+    "normalized": "judge pauses paramount's attempt to buy warner bros. discovery",
+    "content_hash": "fd84364e6a559cdd66895aef068af0cf"
+  },
+  {
+    "title": "LG&#8217;s glossy OLED gaming monitor is rare to find under $400",
+    "normalized": "lg's glossy oled gaming monitor is rare to find under $400",
+    "content_hash": "74ca373ceaccc1a074f33f603a748654"
+  },
+  {
+    "title": "LG\u2019s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
+    "normalized": "lg's monitors come with an unwanted addition for windows: mcafee pop-up ads",
+    "content_hash": "a93e20f8c162ac65eaf448e54eddac6b"
+  },
+  {
+    "title": "Show HN: Agent Search Engine \u2013 an independent index of 247 AI agents",
+    "normalized": "show hn: agent search engine - an independent index of 247 ai agents",
+    "content_hash": "ed54fb6eb94fc56f89ccf9d7b3eb1949"
+  },
+  {
+    "title": "OpenAI Says Model Broke Out of Sandbox",
+    "normalized": "openai says model broke out of sandbox",
+    "content_hash": "080b07a61992396df07a5e15b05d041b"
+  },
+  {
+    "title": "Show HN: Vidmoat \u2013 a video editing pipeline any AI agent can operate",
+    "normalized": "show hn: vidmoat - a video editing pipeline any ai agent can operate",
+    "content_hash": "9295d505cdedfaa24c62152bfbf22de6"
   }
 ]
