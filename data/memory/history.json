@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "normalized": "openai bets on families as chatgpt goes deeper into households",
-    "content_hash": "9617e7b74a82c91c15a505d45ba8ca40"
-  },
-  {
-    "title": "ICE are heavily armed killers. They\u2019re also huge losers",
-    "normalized": "ice are heavily armed killers. they're also huge losers",
-    "content_hash": "0de6b9ba25fb8b426002690986051e03"
-  },
-  {
-    "title": "Bitemporal provenance in agent memory: What did we believe, when, and why",
-    "normalized": "bitemporal provenance in agent memory: what did we believe, when, and why",
-    "content_hash": "e65d370f45a3321dd3a3bff7592fce81"
-  },
-  {
-    "title": "I built a free tool to evaluate AI agent outputs (human labels and LLM judges)",
-    "normalized": "i built a free tool to evaluate ai agent outputs (human labels and llm judges)",
-    "content_hash": "1fa52239612bca05e9828fa11a66e21f"
-  },
-  {
-    "title": "HackerRank's LLM-Based Hiring Agent",
-    "normalized": "hackerrank's llm-based hiring agent",
-    "content_hash": "5f33d2551febb5536d2397a6d64be273"
-  },
-  {
-    "title": "Reed Jobs would rather talk about curing cancer than his last name",
-    "normalized": "reed jobs would rather talk about curing cancer than his last name",
-    "content_hash": "2a53e628e89366483a0c1f34ede15ed8"
-  },
-  {
-    "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-    "normalized": "hackers weaponize balochistan police portal in multi-group espionage campaigns",
-    "content_hash": "327c7b7fc6aa3ba8a8cd81355f3f49bc"
-  },
-  {
-    "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
-    "normalized": "fl studio head constantin koehncke turns to reddit for feedback and fun",
-    "content_hash": "ae9fe561bdd0df7efc9d538ce777de0f"
-  },
-  {
-    "title": "Mesh LLM: distributed AI computing on iroh",
-    "normalized": "mesh llm: distributed ai computing on iroh",
-    "content_hash": "c41f8f07f93c85ef0226f05cf4465f81"
-  },
-  {
-    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-    "normalized": "nvidia, coreweave, and nebius: inside the circular financing of the gpu boom",
-    "content_hash": "9033eb0b6a24e4021a29cacbeec655c7"
-  },
-  {
-    "title": "Show HN: Token Time \u2013 Screen Time, but for your AI agent tokens",
-    "normalized": "show hn: token time - screen time, but for your ai agent tokens",
-    "content_hash": "11a6d002a87be579d416358c1d18e22b"
-  },
-  {
-    "title": "Secret Claude tracker surprises users after Anthropic's anti-surveillance stance",
-    "normalized": "secret claude tracker surprises users after anthropic's anti-surveillance stance",
-    "content_hash": "4b14ce70a2c5a607d58e373cb34a373b"
-  },
-  {
-    "title": "OpenAI Forked Git on GitHub",
-    "normalized": "openai forked git on github",
-    "content_hash": "70a29ce4768fdd89d477dd77e9e3e01e"
-  },
-  {
-    "title": "Show HN: Wizard \u2013 Self-extending Rust terminal AI agent (one-line install)",
-    "normalized": "show hn: wizard - self-extending rust terminal ai agent (one-line install)",
-    "content_hash": "66b683ee84a0f256c0318f606dec681b"
-  },
-  {
-    "title": "Local-first agent governance: keeping an AI agent contained",
-    "normalized": "local-first agent governance: keeping an ai agent contained",
-    "content_hash": "136e8fb51c0d5360c2277ea76c3efcf4"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "normalized": "how chatgpt adoption has expanded",
-    "content_hash": "6ce9c12c19f542a5d55d7a6f96b320d5"
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "normalized": "core dump epidemiology: fixing an 18-year-old bug",
-    "content_hash": "cf9e9960ca4629cebb12d763c60247d3"
-  },
-  {
-    "title": "A Coding Guide to NVIDIA\u2019s Tile-Based GPU Programming: From cuTile and Triton Kernels to Flash Attention",
-    "normalized": "a coding guide to nvidia's tile-based gpu programming: from cutile and triton kernels to flash attention",
-    "content_hash": "12588158cd41a53bc2033b41e026590f"
-  },
-  {
-    "title": "Phone flung during ED raid may crack global gold smuggling case",
-    "normalized": "phone flung during ed raid may crack global gold smuggling case",
-    "content_hash": "9e1008e61eaeafa24f6cad17f0deee4f"
-  },
-  {
-    "title": "This slushie machine was a lifesaver during NYC\u2019s heat wave",
-    "normalized": "this slushie machine was a lifesaver during nyc's heat wave",
-    "content_hash": "abdf7b1b4a83135142aae6ae57ab4ee4"
-  },
-  {
-    "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-    "normalized": "smart glasses without a camera? even realities bets productivity beats recording everyone",
-    "content_hash": "c2b9169c2baab07ef951e8db613158de"
-  },
-  {
-    "title": "Skylight\u2019s Touchscreen Calendar Got my Whole Family on the Same Page",
-    "normalized": "skylight's touchscreen calendar got my whole family on the same page",
-    "content_hash": "1c29e147b3a81980c84b451efc1f3272"
-  },
-  {
-    "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
-    "normalized": "ai found a root bug in linux that everyone missed for 15 years",
-    "content_hash": "6ff5dba5593421855cf41ea6d2f26ff0"
-  },
-  {
-    "title": "Best Hiking Boots (2026): Walking Shoes, Trails, Backpacking",
-    "normalized": "best hiking boots (2026): walking shoes, trails, backpacking",
-    "content_hash": "f86f6b04787eb8f6cd3156f1aa7be947"
-  },
-  {
-    "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
-    "normalized": "microsoft reports a massive 25 percent jump in emissions",
-    "content_hash": "00f6ccc908984f50268db22931ba7331"
-  },
-  {
     "title": "Reducing HBM Bottlenecks in JAX-Based LLM Training with Host Offloading",
     "normalized": "reducing hbm bottlenecks in jax-based llm training with host offloading",
     "content_hash": "3357441f36c02cbaec92ef4da74c822d"
@@ -2498,5 +2373,130 @@
     "title": "CIGPO: Contextual Information-Gain Policy Optimization for Multi-Turn Evidence-Reading LLM Agents",
     "normalized": "cigpo: contextual information-gain policy optimization for multi-turn evidence-reading llm agents",
     "content_hash": "8b4b069e94bd8a7e4844f10bf3e2ed64"
+  },
+  {
+    "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+    "normalized": "nvidia wants to own every chip inside ai data centers",
+    "content_hash": "eca79d84de7083c023fb940b01695cf7"
+  },
+  {
+    "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+    "normalized": "openai says it accidentally hacked hugging face with a new ai system",
+    "content_hash": "0dde9e481fddfd9c6c9972357bf7232b"
+  },
+  {
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "normalized": "openai says hugging face was breached by its pre-release models",
+    "content_hash": "3bee15dc27e0769abc77a55c376cfd99"
+  },
+  {
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "normalized": "jack dorsey is taking on slack with buzz, a group chat platform for teams and their ai agents",
+    "content_hash": "c26a8b49e20a4f443a40527b1957be06"
+  },
+  {
+    "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro",
+    "normalized": "google releases three new gemini models -- but no 3.5 pro",
+    "content_hash": "56a14aa0abae1fe04a265ac69ba3b3ed"
+  },
+  {
+    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+    "normalized": "openai models escaped containment and hacked hugging face",
+    "content_hash": "1c0e3f10261f9d88e9372825bb54e2c9"
+  },
+  {
+    "title": "Neill Blomkamp\u2019s new zombie AI \u2018film\u2019 is just slop warmed over",
+    "normalized": "neill blomkamp's new zombie ai 'film' is just slop warmed over",
+    "content_hash": "60441340193893f0e9bc90f210aa2ebc"
+  },
+  {
+    "title": "Anthropic\u2019s $1.5 billion book piracy settlement approved by judge",
+    "normalized": "anthropic's $1.5 billion book piracy settlement approved by judge",
+    "content_hash": "da4a78cc3a2245e601f40012bda97944"
+  },
+  {
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "normalized": "meta is testing an ai bedtime story app for people with no imagination",
+    "content_hash": "d3b8063f4f4a7af5c1316734b4e2f24f"
+  },
+  {
+    "title": "These are the countries moving to ban social media for children",
+    "normalized": "these are the countries moving to ban social media for children",
+    "content_hash": "d6478037ebe9192da7c25b32c3811e5b"
+  },
+  {
+    "title": "AI and the rise of the universal entertainment app",
+    "normalized": "ai and the rise of the universal entertainment app",
+    "content_hash": "3b0bd1c230c5f340893c70ed43831fa2"
+  },
+  {
+    "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+    "normalized": "bucking ev slowdown, sila raises $300m to expand battery materials factory",
+    "content_hash": "26d897b70ab380708f7fdcdedd3b6ff5"
+  },
+  {
+    "title": "Einride bets $38M on EV charging as it scales electric trucking",
+    "normalized": "einride bets $38m on ev charging as it scales electric trucking",
+    "content_hash": "e9d55d74a3ee9d20379b50cc7e617f44"
+  },
+  {
+    "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+    "normalized": "apple teams up with klarna to launch a lease-to-own program for iphones, ipads, and macs",
+    "content_hash": "d6db3e9893f9d9654635b8cf980ca895"
+  },
+  {
+    "title": "Data centers expected to use 4x more electricity by 2035",
+    "normalized": "data centers expected to use 4x more electricity by 2035",
+    "content_hash": "ac0554cd635905c995565e25749c8b6a"
+  },
+  {
+    "title": "Threads rolls out parental supervision tools",
+    "normalized": "threads rolls out parental supervision tools",
+    "content_hash": "18835a25ae8c6c4291b792f648afa4a2"
+  },
+  {
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "normalized": "us threatens sanctions against chinese ai models over ip theft",
+    "content_hash": "f3483e414130b2750714f95eeeb4ec9a"
+  },
+  {
+    "title": "Light made a flip phone \u2014 it\u2019s colorful and it\u2019s cheap",
+    "normalized": "light made a flip phone -- it's colorful and it's cheap",
+    "content_hash": "0d8aa28806c33c0e9879ffb00aee1685"
+  },
+  {
+    "title": "After TikTok, Snap settles social media addiction case",
+    "normalized": "after tiktok, snap settles social media addiction case",
+    "content_hash": "f1a1ea91b526f93e44ceff87ba8ef90a"
+  },
+  {
+    "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
+    "normalized": "ai music generator suno breach affects 55m users, per have i been pwned",
+    "content_hash": "86a025acae3dd7156b324144a92acae1"
+  },
+  {
+    "title": "What to know about the landmark Warner Bros.\u00a0Discovery sale",
+    "normalized": "what to know about the landmark warner bros. discovery sale",
+    "content_hash": "607840cc8476ec393900bfcd043cf3da"
+  },
+  {
+    "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+    "normalized": "google launches gemini 3.5 flash cyber ai to find and fix software vulnerabilities",
+    "content_hash": "5aa1f4d1f449ba988f4e64b5f7017e89"
+  },
+  {
+    "title": "Substack adds an AI detector to help spot blogs written by no one",
+    "normalized": "substack adds an ai detector to help spot blogs written by no one",
+    "content_hash": "c3d43b1e24145dc52da2c03d3bc48164"
+  },
+  {
+    "title": "Peak Design\u2019s modular Field Bracket has a finder tag built-in",
+    "normalized": "peak design's modular field bracket has a finder tag built-in",
+    "content_hash": "294c626c43e0bd61160cc09cd9be752b"
+  },
+  {
+    "title": "Twitch will let parents stop their teens going live",
+    "normalized": "twitch will let parents stop their teens going live",
+    "content_hash": "89454c81828041d7e9aa19ee6671b2d7"
   }
 ]
