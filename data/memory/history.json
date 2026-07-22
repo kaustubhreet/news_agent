@@ -1,130 +1,5 @@
 [
   {
-    "title": "Reducing HBM Bottlenecks in JAX-Based LLM Training with Host Offloading",
-    "normalized": "reducing hbm bottlenecks in jax-based llm training with host offloading",
-    "content_hash": "3357441f36c02cbaec92ef4da74c822d"
-  },
-  {
-    "title": "OpenAI Engineer's 'LOL' Moment Set Stage for Legal Fight with Apple",
-    "normalized": "openai engineer's 'lol' moment set stage for legal fight with apple",
-    "content_hash": "7d8f522c5055d6c1e0574149675713ef"
-  },
-  {
-    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-    "normalized": "llms are stuck in a groupthink groove. this startup is trying to get them out.",
-    "content_hash": "b0a6ae9b33dc9c1b71788ecdb41da863"
-  },
-  {
-    "title": "Scientists\u2019 Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-    "normalized": "scientists' side hustle? using ai and quantum computing to generate new peptides",
-    "content_hash": "39adf41ca98a1e4259070826244a198d"
-  },
-  {
-    "title": "The fight against AI data centers is just beginning",
-    "normalized": "the fight against ai data centers is just beginning",
-    "content_hash": "5ea83484101f6d3eb4901f33c962c707"
-  },
-  {
-    "title": "Agent Data Injection: Arbitrary Click Attack Against Web Agents",
-    "normalized": "agent data injection: arbitrary click attack against web agents",
-    "content_hash": "6aa12f34025cd983c949561e7b4bb95e"
-  },
-  {
-    "title": "Databricks AI Agent Genie Code Is No Longer Free. Now You Have to Pay as You Go",
-    "normalized": "databricks ai agent genie code is no longer free. now you have to pay as you go",
-    "content_hash": "63db83a39abb608d0c7e4fc4789493ef"
-  },
-  {
-    "title": "An AI gateway that signs a receipt for every LLM response",
-    "normalized": "an ai gateway that signs a receipt for every llm response",
-    "content_hash": "08a2c56f8af91b5a8513a23dfd58edd4"
-  },
-  {
-    "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning?",
-    "normalized": "finetuning a reasoning llm with supervised or reinforcement learning?",
-    "content_hash": "28d973d664c14674835f647c326e7858"
-  },
-  {
-    "title": "Agent Service \u2013 promptable AI agents with guardrails and downloadable packages",
-    "normalized": "agent service - promptable ai agents with guardrails and downloadable packages",
-    "content_hash": "ac30a77c11333a625aef94f97ccc9281"
-  },
-  {
-    "title": "MSK \u2013 an AI agent that thinks like a CTO",
-    "normalized": "msk - an ai agent that thinks like a cto",
-    "content_hash": "4d9296b5179eb9735b5b914bad43ed5e"
-  },
-  {
-    "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
-    "normalized": "the best robotic pool cleaners of 2026: beatbot, igarden, dreame",
-    "content_hash": "b4c4bdfb6605f3536b06f9df422e2a4a"
-  },
-  {
-    "title": "Meet the Battery Startup Taking on China\u2019s Giants",
-    "normalized": "meet the battery startup taking on china's giants",
-    "content_hash": "b1bd34fa301f5e7e6bd94f0abd5c9c42"
-  },
-  {
-    "title": "Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing",
-    "normalized": "hiboy p6 fat tire electric bike review: smooth sailing",
-    "content_hash": "5ad9aba08201674ccc3a64e19cfe734f"
-  },
-  {
-    "title": "How to Share Your Location on an iPhone or Android Phone (2026)",
-    "normalized": "how to share your location on an iphone or android phone (2026)",
-    "content_hash": "6cedde8a6bf82e17ba0a9bfe7b324570"
-  },
-  {
-    "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-    "normalized": "critical zimbra flaw could let crafted emails run malicious code in user sessions",
-    "content_hash": "ec72e1ddf4e2de1cfc4ec309e021845e"
-  },
-  {
-    "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-    "normalized": "six new u-boot flaws could let malicious images crash devices or run code at boot",
-    "content_hash": "0b601f2163fc30a439bc2960661217d5"
-  },
-  {
-    "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-    "normalized": "researcher details whatsapp-to-host attack chain using three openclaw flaws",
-    "content_hash": "3cd763a85ac640c769b56d1bcf459336"
-  },
-  {
-    "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-    "normalized": "new modbeacon rat uses grpc streaming for encrypted c2 traffic",
-    "content_hash": "b4145dcb75c6108abb1e85b7b7abb851"
-  },
-  {
-    "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
-    "normalized": "attackers exploit 'ill bloom' vulnerability to drain over $5 million from cryptocurrency wallets",
-    "content_hash": "548284f929c5747d1fe745694a28e06d"
-  },
-  {
-    "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-    "normalized": "ransomware negotiator gets 70 months in prison for aiding blackcat attacks",
-    "content_hash": "351709b6e230fd41fc2afbf520c37997"
-  },
-  {
-    "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-    "normalized": "new gigawiper windows backdoor bundles disk wiping, fake ransomware, and spyware",
-    "content_hash": "661c0bc36898f7c8d606531dba01864b"
-  },
-  {
-    "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-    "normalized": "threatsday: cloud bucket hijacking, windows lpe chain, global fraud bust + 17 more stories",
-    "content_hash": "b010bffc9569b84574c4257c81786f55"
-  },
-  {
-    "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-    "normalized": "ai attacks move in minutes. join this webinar on building a defense that keeps up",
-    "content_hash": "76d2ebc32b73ec34d5cb5fa33c2bcaef"
-  },
-  {
-    "title": "Summer of Clearinghouses",
-    "normalized": "summer of clearinghouses",
-    "content_hash": "7fbdd8d39d7b75b78acac59ed4f9a4b6"
-  },
-  {
     "title": "Apple\u2019s failed self-driving car program left a legacy of powerful AI chips",
     "normalized": "apple's failed self-driving car program left a legacy of powerful ai chips",
     "content_hash": "f2dbda93b5a56c6db00a9eddf240294d"
@@ -2498,5 +2373,130 @@
     "title": "Twitch will let parents stop their teens going live",
     "normalized": "twitch will let parents stop their teens going live",
     "content_hash": "89454c81828041d7e9aa19ee6671b2d7"
+  },
+  {
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "normalized": "the anthropic-physical intelligence rumor roiling ai twitter",
+    "content_hash": "b51006e56f1f54950cdb029e23d940df"
+  },
+  {
+    "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+    "normalized": "batchdag: llm-planned execution graphs for scalable ad-hoc analysis over enterprise data",
+    "content_hash": "83bb0ae172de76e14adeaa5434cedd16"
+  },
+  {
+    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+    "normalized": "passionfroot raises $15m to expand its b2b creator marketplace to the us",
+    "content_hash": "beb9a770e6cba52c7c0f8dfda23d0629"
+  },
+  {
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "normalized": "glow emerges from stealth at $1.2b valuation to challenge endpoint security in the ai era",
+    "content_hash": "a68708743bb642a7a1656abf4af4079a"
+  },
+  {
+    "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+    "normalized": "microsoft azure devops mcp flaw lets hidden pr comments hijack ai review agents",
+    "content_hash": "0145c876925b331586e6c287c44bd9c2"
+  },
+  {
+    "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+    "normalized": "openai says its ai models escaped sandbox, targeted hugging face to cheat benchmark",
+    "content_hash": "e3e330e1a55c56c9eda94c08f249f37c"
+  },
+  {
+    "title": "Meta made its own AI detection system. It should have just used Google\u2019s",
+    "normalized": "meta made its own ai detection system. it should have just used google's",
+    "content_hash": "67269daded24eb865b21ab38d6c95294"
+  },
+  {
+    "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack",
+    "normalized": "openai says its ai technology acted on its own in an 'unprecedented' hack",
+    "content_hash": "096f685ef2e1a0dd2fecd32f3cf72876"
+  },
+  {
+    "title": "OpenAI's latest AI agent escaped security controls and hacked a tech company",
+    "normalized": "openai's latest ai agent escaped security controls and hacked a tech company",
+    "content_hash": "e7a5e9742734b2cd982c445f89ddf6f9"
+  },
+  {
+    "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
+    "normalized": "phionyx: a deterministic ai runtime architecture with structured state management and pre-response governance",
+    "content_hash": "6cc6df3ca0d186e2474660ed81dd233e"
+  },
+  {
+    "title": "When JSON Is Not Enough: Semantic Reliability of Schema-Constrained LLM Ordering Agents",
+    "normalized": "when json is not enough: semantic reliability of schema-constrained llm ordering agents",
+    "content_hash": "c46aea195c91395b178780cbd20b13c9"
+  },
+  {
+    "title": "Uncertainty Quantification for AI-Driven Crash Simulation Surrogates: A Comparative Study of Monte Carlo Dropout and Deep Ensemble on Open-Source Bumper Beam Benchmark",
+    "normalized": "uncertainty quantification for ai-driven crash simulation surrogates: a comparative study of monte carlo dropout and deep ensemble on open-source bumper beam benchmark",
+    "content_hash": "77a05c273ba27592c0ab604388574d72"
+  },
+  {
+    "title": "Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis",
+    "normalized": "validating distributed llm serving benchmarks with nvidia srt-slurm, slurm recipes, parameter sweeps, and pareto analysis",
+    "content_hash": "fe03b845184f7d488b5dea9d2c64c334"
+  },
+  {
+    "title": "NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device",
+    "normalized": "nvidia releases cosmos 3 edge: a 4b-parameter open world model that reasons and generates robot actions on-device",
+    "content_hash": "cd6b628a454bbedbf1d00a07abfd7c28"
+  },
+  {
+    "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
+    "normalized": "the browser wars aren't about search anymore -- here are the best alternatives to chrome and safari",
+    "content_hash": "09767ab9ccbeb6c4745a652ca105e2e8"
+  },
+  {
+    "title": "Synthesia\u2019s AI training platform is moving beyond videos into live coaching",
+    "normalized": "synthesia's ai training platform is moving beyond videos into live coaching",
+    "content_hash": "699770aed43b07a616753c584e24327d"
+  },
+  {
+    "title": "MonoCloud for Startups",
+    "normalized": "monocloud for startups",
+    "content_hash": "b22abb9f7465260485d7a92487df1100"
+  },
+  {
+    "title": "Samsung\u2019s newest foldable finally feels Ultra",
+    "normalized": "samsung's newest foldable finally feels ultra",
+    "content_hash": "1e0f4aa7bf8977e57c6c7346729e5568"
+  },
+  {
+    "title": "Samsung\u2019s wider Z Fold 8 feels just right",
+    "normalized": "samsung's wider z fold 8 feels just right",
+    "content_hash": "ff13706e43f7c6521bb7112ee0e054ba"
+  },
+  {
+    "title": "The 2026 Honda Prelude is a marvel of hybrid technology",
+    "normalized": "the 2026 honda prelude is a marvel of hybrid technology",
+    "content_hash": "c95198ea505081e76488becb45dc0426"
+  },
+  {
+    "title": "Utility companies promise to spare us from AI\u2019s energy bill",
+    "normalized": "utility companies promise to spare us from ai's energy bill",
+    "content_hash": "622e8d49df6e303afc6342bfd2a2fd6a"
+  },
+  {
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "normalized": "openai and hugging face address security incident during model evaluation",
+    "content_hash": "07567944c99d9d56f52c92ebff488b26"
+  },
+  {
+    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "normalized": "judge approves $1.5b anthropic settlement for pirated books used to train claude",
+    "content_hash": "51747b7ca3afdafbd54f919c0a84f66d"
+  },
+  {
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "normalized": "jack dorsey launches buzz to combine team chat, ai agents and git hosting",
+    "content_hash": "ad788d0ba51ecb9cbd3bd5ebbacec5b9"
+  },
+  {
+    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "normalized": "gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "content_hash": "544b11a3fe05b2ddf0a616fe8ec80a84"
   }
 ]
