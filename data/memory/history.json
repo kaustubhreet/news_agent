@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: LLM-mock \u2013 Record and replay OpenAI/Anthropic calls in pytest (v1.0)",
-    "normalized": "show hn: llm-mock - record and replay openai/anthropic calls in pytest (v1.0)",
-    "content_hash": "694ad6db9882509ae356cfd8bf768740"
-  },
-  {
-    "title": "Waze is getting a bunch of new AI-powered features",
-    "normalized": "waze is getting a bunch of new ai-powered features",
-    "content_hash": "852a92bf1c9c0f976dbe90dc8bce1aab"
-  },
-  {
-    "title": "SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction",
-    "normalized": "sageagent: a self-evolving agent for cost-aware modality acquisition in multimodal survival prediction",
-    "content_hash": "0e5552335593700b8d706aa53464855b"
-  },
-  {
-    "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-    "normalized": "forg365 phaas targets microsoft 365 with device code and aitm session theft",
-    "content_hash": "11bb3c89b7d5c1250ce23a3cc0ff782b"
-  },
-  {
-    "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-    "normalized": "thinking fast and slow in the soc: the case for combining autonomous ai with analyst copilots",
-    "content_hash": "8414dca6689673db76c0c3b55a7e3c6a"
-  },
-  {
-    "title": "This free Mac app reveals the truth about your mystery USB-C cables",
-    "normalized": "this free mac app reveals the truth about your mystery usb-c cables",
-    "content_hash": "ac4dffb41a1ea83230c81e7ac351ba6b"
-  },
-  {
-    "title": "Social media limits are coming for teens across Europe",
-    "normalized": "social media limits are coming for teens across europe",
-    "content_hash": "ef07f7ad2c21495fb121f587691e76f2"
-  },
-  {
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-    "normalized": "claude code sends 33k tokens before reading the prompt; opencode sends 7k",
-    "content_hash": "4248d807fd5467fb667c29d89e05b925"
-  },
-  {
-    "title": "The State of AGENTS.md: scoring the 16 biggest AI agent repos' own instructions",
-    "normalized": "the state of agents.md: scoring the 16 biggest ai agent repos' own instructions",
-    "content_hash": "224c31542a35d33aeb7236a6b6393dc2"
-  },
-  {
-    "title": "Cairn, an AI agent with a $50 budget, an email address, and a constitution",
-    "normalized": "cairn, an ai agent with a $50 budget, an email address, and a constitution",
-    "content_hash": "e404b786b22efb3af3ded42ed395e549"
-  },
-  {
-    "title": "Show HN: Latent-free ternary LLM training",
-    "normalized": "show hn: latent-free ternary llm training",
-    "content_hash": "4adaf1ca4c35ff57b79c6df8ccc22c50"
-  },
-  {
-    "title": "Apple accuses OpenAI of stealing its core tech secrets",
-    "normalized": "apple accuses openai of stealing its core tech secrets",
-    "content_hash": "c908ea5acb1d3f00963f6e97e57cebd8"
-  },
-  {
-    "title": "AI Agent Coding Comparison: The Rust Leap Year Challenge",
-    "normalized": "ai agent coding comparison: the rust leap year challenge",
-    "content_hash": "8f50d385afb940debb930c02214a71d8"
-  },
-  {
-    "title": "Apple's 'Thermonuclear' Response to the OpenAI Threat",
-    "normalized": "apple's 'thermonuclear' response to the openai threat",
-    "content_hash": "352101d1e89171b3901a4a57d67ec382"
-  },
-  {
-    "title": "Visualization of the OpenAI Proof of the Cycle Double Cover Conjecture",
-    "normalized": "visualization of the openai proof of the cycle double cover conjecture",
-    "content_hash": "ecade6f960c3757b4892c9270f44d2c2"
-  },
-  {
-    "title": "Show HN: UATC-Closed-loop VRAM control and dynamic data pruning for LLM training",
-    "normalized": "show hn: uatc-closed-loop vram control and dynamic data pruning for llm training",
-    "content_hash": "0ead8647981215c1dd1fd3c0995135e5"
-  },
-  {
-    "title": "Anthropic Moved the Fable Deadline Again",
-    "normalized": "anthropic moved the fable deadline again",
-    "content_hash": "525de8d5004d87760769d1030e660647"
-  },
-  {
-    "title": "Device Context Protocol \u2013 Bridge LLM Agents to Physical Devices",
-    "normalized": "device context protocol - bridge llm agents to physical devices",
-    "content_hash": "2de879388a04dd7f7315477518b34950"
-  },
-  {
-    "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
-    "normalized": "gats: graph-augmented tree search with layered world models for efficient agent planning",
-    "content_hash": "1cf3bbf3a111af5fb664bf68355be1b1"
-  },
-  {
-    "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-    "normalized": "long-horizon-terminal-bench: testing the limits of agents on long-horizon terminal tasks with dense reward-based grading",
-    "content_hash": "b9e4cc3134fa894fac92602ae60ea6a9"
-  },
-  {
-    "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
-    "normalized": "neuro-agentic control: a deep learning-based llm-powered agentic ai framework for controlling security controls",
-    "content_hash": "bb0c5a27ffbf397bb4ac76b5d030d0ed"
-  },
-  {
-    "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
-    "normalized": "medrealmm: a real-world multimodal benchmark for chinese online medical consultation",
-    "content_hash": "a484bba44f6669f986160fb346668f6a"
-  },
-  {
-    "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
-    "normalized": "kv-prm: efficient process reward modeling via kv-cache transfer for multi-agent test-time scaling",
-    "content_hash": "528dfa126a6220c2db74bac4b3ab55a0"
-  },
-  {
-    "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
-    "normalized": "scoped verification for reliable long-horizon agentic context evolution under distribution shift",
-    "content_hash": "22df82118dd3fbfb81620ce1c7a53f30"
-  },
-  {
-    "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
-    "normalized": "toward auditable ai scientists: a hypothesis evolution protocol for llm agents",
-    "content_hash": "0aa8c2633ae60829eff936bc7957d6ef"
-  },
-  {
     "title": "Show HN: Made a Free LLM Router",
     "normalized": "show hn: made a free llm router",
     "content_hash": "63c3ebf6fd470312c200cd8c74708f8c"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
     "normalized": "openai says its ai agent broke out of testing sandbox to hack hugging face",
     "content_hash": "f07d14e6765d0783129d4e65aa5e08b9"
+  },
+  {
+    "title": "The first known runaway AI agent \u2013 or a bad marketing stunt?",
+    "normalized": "the first known runaway ai agent - or a bad marketing stunt?",
+    "content_hash": "1aacd51171d0fd5b8b913f9d635c0f18"
+  },
+  {
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "normalized": "servicenow bets $40 million on indian banking software specialist to expand its financial services push",
+    "content_hash": "94e500a01bd10d8b13fe84b69a7f4699"
+  },
+  {
+    "title": "Google now lets you sign in to your account using a selfie video",
+    "normalized": "google now lets you sign in to your account using a selfie video",
+    "content_hash": "9c5f38b3da4665ba9846000784a4e08b"
+  },
+  {
+    "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+    "normalized": "openai and anthropic unite against open-weight ai risks to their bottom line",
+    "content_hash": "10459cb57a36000cf335ab2260e2327d"
+  },
+  {
+    "title": "Ask HN: If OpenAI hacked HuggingFace, why aren't OpenAI prosecuted?",
+    "normalized": "ask hn: if openai hacked huggingface, why aren't openai prosecuted?",
+    "content_hash": "d10472128ab85a6fe4206ad98ae460ce"
+  },
+  {
+    "title": "Senior Python Engineer \u2013 AI Agent Evaluation",
+    "normalized": "senior python engineer - ai agent evaluation",
+    "content_hash": "cdcc79c069deabe4417b1bbb6fb4c158"
+  },
+  {
+    "title": "Show HN: NvChat \u2013 A single-exe Windows client for Nvidia's free LLM API",
+    "normalized": "show hn: nvchat - a single-exe windows client for nvidia's free llm api",
+    "content_hash": "b204d3004387e1934df9af39525655d4"
+  },
+  {
+    "title": "I solved 6 open Erd\u0151s problems in 5 days, using OpenAI GPT-5.6 Sol",
+    "normalized": "i solved 6 open erd\u0151s problems in 5 days, using openai gpt-5.6 sol",
+    "content_hash": "cea5b1ac2814ff00ed0ffca5ae238439"
+  },
+  {
+    "title": "Experts say exploiting Anthropic\u2019s Fable isn\u2019t how Kimi K3 got so good",
+    "normalized": "experts say exploiting anthropic's fable isn't how kimi k3 got so good",
+    "content_hash": "86f648d39fe554004abed8610477ead7"
+  },
+  {
+    "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
+    "normalized": "google adds selfie video recovery for users locked out of their accounts",
+    "content_hash": "7142ae5f11343781a5f9838096fc31c0"
+  },
+  {
+    "title": "OpenAI sued over ChatGPT health advice that almost killed a pastor",
+    "normalized": "openai sued over chatgpt health advice that almost killed a pastor",
+    "content_hash": "8c45b968de49daa01290606ed0a7b6c0"
+  },
+  {
+    "title": "The sci-fi movie that imagines AI isn\u2019t so dystopian after all",
+    "normalized": "the sci-fi movie that imagines ai isn't so dystopian after all",
+    "content_hash": "decbcc5a96cdf49479c76b5519a16db0"
+  },
+  {
+    "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
+    "normalized": "google hit with $1 billion fine for breaking eu antitrust rules",
+    "content_hash": "4753156047c8936bea06038c398f0739"
+  },
+  {
+    "title": "Framework\u2019s premium laptop is shipping with less RAM",
+    "normalized": "framework's premium laptop is shipping with less ram",
+    "content_hash": "ff7a6c21d1348a88ace4f403205a905a"
+  },
+  {
+    "title": "Meta won\u2019t have to face the next planned social media addiction trial",
+    "normalized": "meta won't have to face the next planned social media addiction trial",
+    "content_hash": "e72f7924672c58a6b66cb5d7b40add48"
+  },
+  {
+    "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+    "normalized": "ios code could reportedly let apple cut off apps when users miss iphone payments",
+    "content_hash": "864336d00e85d21baba4b3f3a709a440"
+  },
+  {
+    "title": "Understanding the AI Economy",
+    "normalized": "understanding the ai economy",
+    "content_hash": "1a45818327508c5011218b55b7acf0d1"
+  },
+  {
+    "title": "Anthropic is subsidizing our AI coding at 13x. How long will it last?",
+    "normalized": "anthropic is subsidizing our ai coding at 13x. how long will it last?",
+    "content_hash": "779cf96a80f8add6a5ec225c3862e8bf"
+  },
+  {
+    "title": "Show HN: Governed Agent \u2013 the LLM reads the request, rules and code decide",
+    "normalized": "show hn: governed agent - the llm reads the request, rules and code decide",
+    "content_hash": "4b6165086157b8a483e1b339156e24d6"
+  },
+  {
+    "title": "An OpenAI Model Spent an Hour Finding a Sandbox Flaw to Open a Public PR",
+    "normalized": "an openai model spent an hour finding a sandbox flaw to open a public pr",
+    "content_hash": "9ca591e28eb3d296cd077f2b6bdce691"
+  },
+  {
+    "title": "Soon everybody will be worried about Chinese LLM's as agent Trojan horses",
+    "normalized": "soon everybody will be worried about chinese llm's as agent trojan horses",
+    "content_hash": "4c09ecdb8a12036ca8ad1fb30f65d6ba"
+  },
+  {
+    "title": "OpenAI's models broke free and launched a cyberattack",
+    "normalized": "openai's models broke free and launched a cyberattack",
+    "content_hash": "02407cbeaf5442c74b5487fab834e639"
+  },
+  {
+    "title": "OpenAI's Australian data centre drops water recycling plan",
+    "normalized": "openai's australian data centre drops water recycling plan",
+    "content_hash": "f99d0e71f6d6b2a0369ca5df035b39a9"
+  },
+  {
+    "title": "Lira Engine \u2013 prove your data isn't in an LLM (AUC-ROC 1.000)",
+    "normalized": "lira engine - prove your data isn't in an llm (auc-roc 1.000)",
+    "content_hash": "8a9fad1eaf8d2257d109c5278ca0c7fe"
+  },
+  {
+    "title": "AI Firewall \u2013 Security Gateway and Reverse Proxy for LLM Traffic",
+    "normalized": "ai firewall - security gateway and reverse proxy for llm traffic",
+    "content_hash": "5595e5afe943a3ae1f81695bb328d0e6"
   }
 ]
