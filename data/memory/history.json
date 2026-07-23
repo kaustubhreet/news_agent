@@ -1,130 +1,5 @@
 [
   {
-    "title": "Apple\u2019s failed self-driving car program left a legacy of powerful AI chips",
-    "normalized": "apple's failed self-driving car program left a legacy of powerful ai chips",
-    "content_hash": "f2dbda93b5a56c6db00a9eddf240294d"
-  },
-  {
-    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-    "normalized": "migrating a production ai agent to gpt-5.6: 2.2x faster, 27% cheaper",
-    "content_hash": "dac4620c55f1b963ea3539a52f0e5963"
-  },
-  {
-    "title": "TechCrunch Mobility: A robotaxi ultimatum",
-    "normalized": "techcrunch mobility: a robotaxi ultimatum",
-    "content_hash": "d16ae2a0b2a24ac2821a0b7508ac779d"
-  },
-  {
-    "title": "Lorde says Ray-Ban Meta AI glasses are \u2018not sexy\u2019",
-    "normalized": "lorde says ray-ban meta ai glasses are 'not sexy'",
-    "content_hash": "d7280809557d999c352c0da6d36dbc54"
-  },
-  {
-    "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
-    "normalized": "one of steelseries' best gaming headsets is over $100 off",
-    "content_hash": "4808f3f559702d9e68155d4465719730"
-  },
-  {
-    "title": "Blue Prince became a bonding \u2014 and learning \u2014 experience for my family",
-    "normalized": "blue prince became a bonding -- and learning -- experience for my family",
-    "content_hash": "1ea782fcb1c8543125ec5839da3fe618"
-  },
-  {
-    "title": "Guide to Loop Engineering: How \u2018autoresearch\u2019 and \u2018Bilevel Autoresearch\u2019 Turn AI Agents Into Autonomous Machine Learning ML Research Loops",
-    "normalized": "guide to loop engineering: how 'autoresearch' and 'bilevel autoresearch' turn ai agents into autonomous machine learning ml research loops",
-    "content_hash": "c2f5f05d9662cbf449f60de6ac97c53a"
-  },
-  {
-    "title": "Delivery agent barges into woman's Bengaluru flat, flashes her",
-    "normalized": "delivery agent barges into woman's bengaluru flat, flashes her",
-    "content_hash": "8c63b512cd90edfb3c86c886e6dec925"
-  },
-  {
-    "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
-    "normalized": "meta's new ai image tool lets others use your public instagram photos in ai images",
-    "content_hash": "a9f1e041ae07423494ff2afde54ac167"
-  },
-  {
-    "title": "Xbox gamer wins lawsuit against Microsoft to restore account and digital library",
-    "normalized": "xbox gamer wins lawsuit against microsoft to restore account and digital library",
-    "content_hash": "8c7ca1731726931f5d6336aecf105d8e"
-  },
-  {
-    "title": "OpenAI's head of safety is reportedly leaving as part of company reorganization",
-    "normalized": "openai's head of safety is reportedly leaving as part of company reorganization",
-    "content_hash": "feec79083b4ea70f83e8d2072666b56d"
-  },
-  {
-    "title": "Miora",
-    "normalized": "miora",
-    "content_hash": "e251952a64f952d8920be4dd36f945b7"
-  },
-  {
-    "title": "San Fran Sim",
-    "normalized": "san fran sim",
-    "content_hash": "27f282a39b3645fbf88a836243588509"
-  },
-  {
-    "title": "ChatGPT Work",
-    "normalized": "chatgpt work",
-    "content_hash": "0be3e4e2b7ddbe4699f969112bf51cf8"
-  },
-  {
-    "title": "Sim",
-    "normalized": "sim",
-    "content_hash": "e9064b74d28acc053231170bb8c858b3"
-  },
-  {
-    "title": "ChatCut",
-    "normalized": "chatcut",
-    "content_hash": "5f6d3313098e22fdee83a321caa0fe78"
-  },
-  {
-    "title": "Mispher",
-    "normalized": "mispher",
-    "content_hash": "b99aeee8db6f9042ac8e3418e34ae8a7"
-  },
-  {
-    "title": "Ship OS by Notion",
-    "normalized": "ship os by notion",
-    "content_hash": "7df5177bf076fe439c6af9660eff5619"
-  },
-  {
-    "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
-    "normalized": "shall we go on sinning so that grace may increase? is hypnotic, healing, and hopeful",
-    "content_hash": "aa3e77e27fd60f9bf5ed10b80674c76d"
-  },
-  {
-    "title": "How Philips Hue got the smart home right",
-    "normalized": "how philips hue got the smart home right",
-    "content_hash": "50e40d8fa28af3fe32f2ec84ac6a84fd"
-  },
-  {
-    "title": "Less is more with the Oura Ring 5",
-    "normalized": "less is more with the oura ring 5",
-    "content_hash": "0136c6d673bb9bf1fa3ad4d8880cd8cb"
-  },
-  {
-    "title": "After years of teasing, the viral Nopia synth is \u2018basically finished\u2019",
-    "normalized": "after years of teasing, the viral nopia synth is 'basically finished'",
-    "content_hash": "b9e3d7956b7f546c1691e08d79ac6512"
-  },
-  {
-    "title": "Oregon\u2019s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
-    "normalized": "oregon's attorney general withdraws effort to delay paramount and warner bros. merger",
-    "content_hash": "23e2fcbd475b87bf01f025ceb77737d2"
-  },
-  {
-    "title": "Old and new apps, via modern coding agents",
-    "normalized": "old and new apps, via modern coding agents",
-    "content_hash": "6b61f9b1b35a7459f93d6418cd15a239"
-  },
-  {
-    "title": "I Learned to Read Again",
-    "normalized": "i learned to read again",
-    "content_hash": "28be12f4331986be3528ff4ec2041bfa"
-  },
-  {
     "title": "Show HN: LLM-mock \u2013 Record and replay OpenAI/Anthropic calls in pytest (v1.0)",
     "normalized": "show hn: llm-mock - record and replay openai/anthropic calls in pytest (v1.0)",
     "content_hash": "694ad6db9882509ae356cfd8bf768740"
@@ -2498,5 +2373,130 @@
     "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
     "normalized": "gemini last models: temperature, top_p, and top_k are deprecated and ignored",
     "content_hash": "544b11a3fe05b2ddf0a616fe8ec80a84"
+  },
+  {
+    "title": "Show HN: Millwright \u2013 Rust-based, self-hosted LLM router",
+    "normalized": "show hn: millwright - rust-based, self-hosted llm router",
+    "content_hash": "8e2f27bd23cc3d05301dffba0b630b22"
+  },
+  {
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "normalized": "yope raises $12.3m to build a private social network without algorithms or ads",
+    "content_hash": "a79ec5330427c6326370a70663abeaa3"
+  },
+  {
+    "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
+    "normalized": "ai agent went rogue and hacked startup by itself, openai reveals",
+    "content_hash": "e73e863835411ebf004ca808cb72c44b"
+  },
+  {
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "normalized": "google justifies its massive ai spending with a booming cloud business",
+    "content_hash": "7d2c4ae135ddc6fdf1d22f75e52eba06"
+  },
+  {
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
+    "normalized": "treasury threatens sanctions after white house claims moonshot distilled anthropic's fable",
+    "content_hash": "68480ed5318aa0d9d9488f1b31617a4a"
+  },
+  {
+    "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
+    "normalized": "how openai's human mistake led to the ai-powered hack on hugging face",
+    "content_hash": "80f0f2da1129e9cbd9d077ba0ebd44a6"
+  },
+  {
+    "title": "Science Corporation\u2019s vision-restoring chip wins EU approval",
+    "normalized": "science corporation's vision-restoring chip wins eu approval",
+    "content_hash": "2bb311b75ae309ae83bc27da8069a997"
+  },
+  {
+    "title": "Menlo Ventures\u2019 Matt Murphy explains why Anthropic is winning (and it\u2019s not the model)",
+    "normalized": "menlo ventures' matt murphy explains why anthropic is winning (and it's not the model)",
+    "content_hash": "27792b89767be83702168c89135ac448"
+  },
+  {
+    "title": "OpenAI\u2019s AI spending spree has ballooned to $750B",
+    "normalized": "openai's ai spending spree has ballooned to $750b",
+    "content_hash": "ef57421c8bce921eae559c8badd28924"
+  },
+  {
+    "title": "China\u2019s Open AI Models Are Challenging Silicon Valley\u2019s Playbook",
+    "normalized": "china's open ai models are challenging silicon valley's playbook",
+    "content_hash": "daa153451dd80b4a55dba702186fa4b7"
+  },
+  {
+    "title": "OpenAI Model Hacks into HuggingFace During Cybersecurity Evaluation",
+    "normalized": "openai model hacks into huggingface during cybersecurity evaluation",
+    "content_hash": "6dd3bf6a82a1ab335554b1496d0e06b0"
+  },
+  {
+    "title": "Proxy for OpenAI Codex and Claude Code, use any LLM with those apps",
+    "normalized": "proxy for openai codex and claude code, use any llm with those apps",
+    "content_hash": "9251ad4044d56e3679e69db0093f221e"
+  },
+  {
+    "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Relay",
+    "normalized": "build specialized agent workflows for your business with amazon quick and nvidia nemo relay",
+    "content_hash": "476e1c0c440899e4b3c5fd013d02a90b"
+  },
+  {
+    "title": "Build an LLM Agent That Can Write and Run Code",
+    "normalized": "build an llm agent that can write and run code",
+    "content_hash": "3ec37b89bd9377c3b9760b0ee26e0733"
+  },
+  {
+    "title": "After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe",
+    "normalized": "after shocking quarter, ibm insists that ai isn't killing the mainframe",
+    "content_hash": "5eed5d2dd81b5f30db2d5712294b2969"
+  },
+  {
+    "title": "Social media addiction lawsuit against Meta is dropped",
+    "normalized": "social media addiction lawsuit against meta is dropped",
+    "content_hash": "0bcd856562ad2f7a8dbfbdf9fc79f04e"
+  },
+  {
+    "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+    "normalized": "soundcloud acquires decentralized music platform nina protocol months after its shutdown",
+    "content_hash": "211eaeeebf36c9c7546e258b18b46f65"
+  },
+  {
+    "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
+    "normalized": "travis kalanick's robotics company raises $1.7b, led by a16z",
+    "content_hash": "0b930d8767055f7855f284565d9fe37a"
+  },
+  {
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "normalized": "monday.com lays off hundreds to focus on ai",
+    "content_hash": "6ba5d4dc4746903baefa9fc82d374822"
+  },
+  {
+    "title": "Google is making it easier to switch from iPhone to Android",
+    "normalized": "google is making it easier to switch from iphone to android",
+    "content_hash": "979beaee80e0849f3f454f098a61963a"
+  },
+  {
+    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "normalized": "arcee, a us open source ai lab, says chinese models are not inherently dangerous",
+    "content_hash": "59b80e287b9a7a74f638f795e0c4c495"
+  },
+  {
+    "title": "Substack\u2019s new tool tells you who\u2019s been writing their newsletters with AI",
+    "normalized": "substack's new tool tells you who's been writing their newsletters with ai",
+    "content_hash": "f2a4e67d88b7f905f29ae6031f2fe9fb"
+  },
+  {
+    "title": "If you pay a hacker\u2019s ransom, chances are that they\u2019ll come back for more",
+    "normalized": "if you pay a hacker's ransom, chances are that they'll come back for more",
+    "content_hash": "a292817748f46bf01a700a1a3b513296"
+  },
+  {
+    "title": "Cascade raises $3.5M to help construction firms find and win projects",
+    "normalized": "cascade raises $3.5m to help construction firms find and win projects",
+    "content_hash": "756c6706215f4458adbd3df8d2f86ee7"
+  },
+  {
+    "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+    "normalized": "openai says its ai agent broke out of testing sandbox to hack hugging face",
+    "content_hash": "f07d14e6765d0783129d4e65aa5e08b9"
   }
 ]
