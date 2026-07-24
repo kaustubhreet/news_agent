@@ -1,130 +1,5 @@
 [
   {
-    "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-    "normalized": "grok build uploaded entire git repositories to xai storage, not just files it read",
-    "content_hash": "6a8586387736f0ff3c7e264e2d9068c6"
-  },
-  {
-    "title": "Google\u2019s Demis Hassabis says it\u2019s time for a global AI watchdog \u2014 led by the US",
-    "normalized": "google's demis hassabis says it's time for a global ai watchdog -- led by the us",
-    "content_hash": "a34dbb9626cbf0e4ab1ba20ad3b5dc6f"
-  },
-  {
-    "title": "The first sunlight reflecting space mirror has been cleared for launch",
-    "normalized": "the first sunlight reflecting space mirror has been cleared for launch",
-    "content_hash": "f2ee6d531edb54d1fada242b8ac66cfb"
-  },
-  {
-    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-    "normalized": "already rich, already successful, why the last wave of tech winners is grinding again",
-    "content_hash": "bb47af3937024dd554cfddbd83a0cf54"
-  },
-  {
-    "title": "Uber\u2019s product chief on hotels, robotaxis, and why the company doesn\u2019t want to be \u2018everything for everyone\u2019",
-    "normalized": "uber's product chief on hotels, robotaxis, and why the company doesn't want to be 'everything for everyone'",
-    "content_hash": "b12a1393014eefbd6517e1a5e968d2c6"
-  },
-  {
-    "title": "New York becomes the first state to enact a data center moratorium",
-    "normalized": "new york becomes the first state to enact a data center moratorium",
-    "content_hash": "09134fcd44dd008f2006ee459199cd69"
-  },
-  {
-    "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-    "normalized": "alternative(s) to run cuda on non-nvidia hardware",
-    "content_hash": "c6d4f7865b7bf948ce4d600e2b0b4247"
-  },
-  {
-    "title": "Show HN: I RL-trained an agent that trains models with RL (for \u2013$1.3k)",
-    "normalized": "show hn: i rl-trained an agent that trains models with rl (for -$1.3k)",
-    "content_hash": "7dc75228ae1533f2a03d9bbaa6c5c7e7"
-  },
-  {
-    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-    "normalized": "indian scientists produce most detailed 3d atlas of the human brainstem",
-    "content_hash": "f0c1bb23ef0b9c7cc61abbd29d1d1b9b"
-  },
-  {
-    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-    "normalized": "empowering india's next generation of innovators with atl saathi",
-    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
-  },
-  {
-    "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
-    "normalized": "openai gpt-5.6 sol, terra, and luna are now generally available on amazon bedrock",
-    "content_hash": "020854aa4a5f2f60b74570e5f87c9043"
-  },
-  {
-    "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-    "normalized": "faithful, not corrective: message-format effects in multi-hop agent relays are tier-dependent",
-    "content_hash": "4eb156e94c1111edab3b8239238347f2"
-  },
-  {
-    "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
-    "normalized": "yukti: from natural-language situations to robust, verifiable decisions an uncertainty-typed proposition ir, assumption-robust pareto frontiers, and a regret certificate",
-    "content_hash": "c4aecc067fa26627a7229ea895f7fe94"
-  },
-  {
-    "title": "BatteryLake: Agentic, Physics-Grounded Curation of Heterogeneous Battery Aging Data and Benchmarking",
-    "normalized": "batterylake: agentic, physics-grounded curation of heterogeneous battery aging data and benchmarking",
-    "content_hash": "57298cdbfc885e618474eab9bacd4ac2"
-  },
-  {
-    "title": "Reference-Based Distillation Detection in LLMs",
-    "normalized": "reference-based distillation detection in llms",
-    "content_hash": "7e71a8ac69f4ac5b1e939a894ab6f1eb"
-  },
-  {
-    "title": "EvoClawBench: Can Agents Learn Reusable Skills from Their Own Runs?",
-    "normalized": "evoclawbench: can agents learn reusable skills from their own runs?",
-    "content_hash": "e3182c50158bbc79c2e5b185f809d84b"
-  },
-  {
-    "title": "Gauge dependence and structured-output corruption in sign-branched repetition penalties: measurements across models, inference stacks, and alternative repetition controls",
-    "normalized": "gauge dependence and structured-output corruption in sign-branched repetition penalties: measurements across models, inference stacks, and alternative repetition controls",
-    "content_hash": "96de8b128a45309ac7ea36da9eb6cae2"
-  },
-  {
-    "title": "Metadata-Free Meta-Reweighted Direct Preference Optimization under Noisy Preference Labels",
-    "normalized": "metadata-free meta-reweighted direct preference optimization under noisy preference labels",
-    "content_hash": "e62dc1d5286021abb122f879764b3385"
-  },
-  {
-    "title": "Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources",
-    "normalized": "quota marketplace: dynamic pricing for efficient allocation of ml training resources",
-    "content_hash": "c058cdc7a311c07b1406b8b7a6dd3806"
-  },
-  {
-    "title": "Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment",
-    "normalized": "stanford researchers introduce trace: a capability-targeted agentic training system that turns recurrent agent failures into synthetic rl environment",
-    "content_hash": "f531ac768ed5bf5812cfbe82a416ada0"
-  },
-  {
-    "title": "Pydantic + OpenAI: The Cleanest Way to Get Structured Outputs from LLMs",
-    "normalized": "pydantic + openai: the cleanest way to get structured outputs from llms",
-    "content_hash": "f2c04f90f9484bb55077163bf3bf869c"
-  },
-  {
-    "title": "Agentic RAG: Let the Agent Search",
-    "normalized": "agentic rag: let the agent search",
-    "content_hash": "b6cfaec48beba107ad1f834e58aca8f4"
-  },
-  {
-    "title": "Pinwheel launches a retro-inspired landline phone for kids",
-    "normalized": "pinwheel launches a retro-inspired landline phone for kids",
-    "content_hash": "6f331893d3b7d67be40b432a6270d20e"
-  },
-  {
-    "title": "X just tweaked its algorithm to make it more friendly, less battleground",
-    "normalized": "x just tweaked its algorithm to make it more friendly, less battleground",
-    "content_hash": "09fc9120366e26e94d85c47bb6445b80"
-  },
-  {
-    "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
-    "normalized": "investors send general fusion soaring in debut as first publicly traded fusion company",
-    "content_hash": "33a82d0ca6fe7c9d02eb4e91b8a9e08d"
-  },
-  {
     "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
     "normalized": "openai researcher miles wang in talks to launch ai drug discovery startup valued at $2b",
     "content_hash": "99899ec5a6ab970a200e03e055313beb"
@@ -2498,5 +2373,130 @@
     "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
     "normalized": "edtech platform raises $4.5m to help teach students how to vibe code",
     "content_hash": "7ba626c7735983bd6f4ff0ac1986b3fa"
+  },
+  {
+    "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
+    "normalized": "chatgpt agentforger flaw could deploy rogue workspace agents via a phishing link",
+    "content_hash": "93e36727c48b5e94e532408f84d0b302"
+  },
+  {
+    "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+    "normalized": "inferencebench: a benchmark for open-ended llm inference optimization by ai agents",
+    "content_hash": "834ad9b177b169335ea6d87d1e92d930"
+  },
+  {
+    "title": "Microsoft pressures LG into killing unwanted McAfee ads",
+    "normalized": "microsoft pressures lg into killing unwanted mcafee ads",
+    "content_hash": "31dcfdf8742f3fb6baa83a46c4fd9d42"
+  },
+  {
+    "title": "I let an AI agent run my job search: the real numbers, including the LLM bill",
+    "normalized": "i let an ai agent run my job search: the real numbers, including the llm bill",
+    "content_hash": "7372da7f052e41ff368f194e489956c3"
+  },
+  {
+    "title": "SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales",
+    "normalized": "soap, muon, and beyond: pushing llm pretraining scales",
+    "content_hash": "910f4beb95c6b3717e851ec9795dfcb5"
+  },
+  {
+    "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
+    "normalized": "the eu fines google $1 billion for prioritizing its own services in search",
+    "content_hash": "d48da29dd9c30aee1a854ca63167a222"
+  },
+  {
+    "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+    "normalized": "seeing ai agents is not enough. security teams must enforce what they can do",
+    "content_hash": "4f2313ec520f366da5b9e9ac22d72d1d"
+  },
+  {
+    "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+    "normalized": "hacker runs hermes ai agent unattended for post-exploitation at thai finance ministry",
+    "content_hash": "a81e0edea72605f977263fe9194681e3"
+  },
+  {
+    "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+    "normalized": "nodebb patches eight ai-found flaws exposing admin access and private chats",
+    "content_hash": "2da165004df72f5b27cb9dc0f6abb50b"
+  },
+  {
+    "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+    "normalized": "kimi k3 agents found redis zero-days and built rce exploit, researchers say",
+    "content_hash": "b361c041389542a34b2875dc77f0320d"
+  },
+  {
+    "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+    "normalized": "threatsday: android spyware, plc attacks, ai image prompt injection + 12 more stories",
+    "content_hash": "319b8d82118d30160fca2b1072c56584"
+  },
+  {
+    "title": "OpenAI once again makes the case for giving ChatGPT your health records",
+    "normalized": "openai once again makes the case for giving chatgpt your health records",
+    "content_hash": "a3134374e6bb2a003737d4bfeeb55eea"
+  },
+  {
+    "title": "Whack-a-drone",
+    "normalized": "whack-a-drone",
+    "content_hash": "81c70f123c38b1596d4dbacaf69805b0"
+  },
+  {
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "normalized": "alexa plus is getting an ai update to handle more complicated instructions",
+    "content_hash": "0d193cd48714d0f7c75c9da7f264d059"
+  },
+  {
+    "title": "FCC Chairman Brendan Carr\u2019s war on the First Amendment",
+    "normalized": "fcc chairman brendan carr's war on the first amendment",
+    "content_hash": "8975a8eccc0326577df9275fabfd7d81"
+  },
+  {
+    "title": "Patreon is laying off 20 percent of workers",
+    "normalized": "patreon is laying off 20 percent of workers",
+    "content_hash": "0dde2f1a41f34ea36c339f110f2d058b"
+  },
+  {
+    "title": "Corsair\u2019s PC case with a panoramic glass design is $70 off",
+    "normalized": "corsair's pc case with a panoramic glass design is $70 off",
+    "content_hash": "68bb17515f98053f9a1fff3ba35a3694"
+  },
+  {
+    "title": "Hive_review: Multi-agent AI code-review loop",
+    "normalized": "hive_review: multi-agent ai code-review loop",
+    "content_hash": "4c2658f1b90ad783f3b1458776bf8802"
+  },
+  {
+    "title": "Beyond Static Summarization: Proactive Memory Extraction for LLM Agents",
+    "normalized": "beyond static summarization: proactive memory extraction for llm agents",
+    "content_hash": "a5bcd73e8e4affd8397f46a6eaa968a1"
+  },
+  {
+    "title": "BTL-3: A 27B open-weight agent model for agentic coding and structural tool use",
+    "normalized": "btl-3: a 27b open-weight agent model for agentic coding and structural tool use",
+    "content_hash": "701d857a5b3b2e13137c5e69b0caa058"
+  },
+  {
+    "title": "Treasury threatens sanctions, claims Moonshot distilled Anthropic's Fable",
+    "normalized": "treasury threatens sanctions, claims moonshot distilled anthropic's fable",
+    "content_hash": "af8ef6ef7ccab4816ac145a6bf94f49f"
+  },
+  {
+    "title": "OpenAI's Hugging Face Hack Triggers 'AI Kill Switch' Bill in Congress",
+    "normalized": "openai's hugging face hack triggers 'ai kill switch' bill in congress",
+    "content_hash": "e027f6333c14efb385f1d12caab44710"
+  },
+  {
+    "title": "The model didn't escape. OpenAI ran the attack",
+    "normalized": "the model didn't escape. openai ran the attack",
+    "content_hash": "f58a478310f8aec6e80d09e82094c67d"
+  },
+  {
+    "title": "Introducing OpenAI Presence",
+    "normalized": "introducing openai presence",
+    "content_hash": "b75487528372c63b53f40d17a4b0df92"
+  },
+  {
+    "title": "Introducing the ChatGPT for small business program",
+    "normalized": "introducing the chatgpt for small business program",
+    "content_hash": "746d8717c4c89802852da56e13a08adc"
   }
 ]
