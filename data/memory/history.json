@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: Made a Free LLM Router",
-    "normalized": "show hn: made a free llm router",
-    "content_hash": "63c3ebf6fd470312c200cd8c74708f8c"
-  },
-  {
-    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-    "normalized": "hermes agent maker nous research in talks for new funding at $1.5b valuation",
-    "content_hash": "c73b6557ad77f052aba05fc86f272213"
-  },
-  {
-    "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
-    "normalized": "ai model co-design: hardware-friendly llm design",
-    "content_hash": "fec6e7bfe17c408589981b7795210830"
-  },
-  {
-    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "normalized": "video-generation startup pixverse raises $439m, valuation soars past $2b",
-    "content_hash": "d599ab4ff042dd742a8cabc5313876d0"
-  },
-  {
-    "title": "Apple says former employee exploited \u2018rare\u2019 bug to download confidential files after leaving for OpenAI",
-    "normalized": "apple says former employee exploited 'rare' bug to download confidential files after leaving for openai",
-    "content_hash": "78b1d4bd100a89c3b2bb1210b11f7bf9"
-  },
-  {
-    "title": "The wildest allegations in Apple\u2019s trade secrets lawsuit against OpenAI",
-    "normalized": "the wildest allegations in apple's trade secrets lawsuit against openai",
-    "content_hash": "b3655019e8adad8b3bbe4b88e16ea229"
-  },
-  {
-    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-    "normalized": "anthropic starts localizing claude pricing for india, its biggest market after the us",
-    "content_hash": "2b6a908a298e86ffb9e41551b5aed0aa"
-  },
-  {
-    "title": "Waze adds new AI-powered features and customization updates",
-    "normalized": "waze adds new ai-powered features and customization updates",
-    "content_hash": "7127647eee07a6a439f433234d135831"
-  },
-  {
-    "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
-    "normalized": "google and microsoft pull modheader with 1.6 million installs after dormant collector found",
-    "content_hash": "888672b7991487111fcc0579f8d8f8fb"
-  },
-  {
-    "title": "Microsoft tests Windows Search without all the ads and fluff",
-    "normalized": "microsoft tests windows search without all the ads and fluff",
-    "content_hash": "9b12b1e4fcc7710896ca596fab7554d6"
-  },
-  {
-    "title": "Show HN: Sx 2.0 \u2013 Share AI skills with your team through a Dropbox folder",
-    "normalized": "show hn: sx 2.0 - share ai skills with your team through a dropbox folder",
-    "content_hash": "66a5e07d7cad76fca86dbcc69dd8234e"
-  },
-  {
-    "title": "OpenAI's new Agent Sandbox Cloud [video]",
-    "normalized": "openai's new agent sandbox cloud [video]",
-    "content_hash": "addd327b27f75a93d9e15410b07ddec3"
-  },
-  {
-    "title": "Uber\u2019s product chief on hotels, robotaxis, and why the company doesn\u2019t want to be \u201ceverything for everyone\u201d",
-    "normalized": "uber's product chief on hotels, robotaxis, and why the company doesn't want to be \"everything for everyone\"",
-    "content_hash": "779ecbd0dad687de0b039b2c67a1b7e6"
-  },
-  {
-    "title": "Satya Nadella has issued a shocking warning to companies using AI",
-    "normalized": "satya nadella has issued a shocking warning to companies using ai",
-    "content_hash": "9434d12173b8b0ae09831162c7da494f"
-  },
-  {
-    "title": "Sam Altman\u2019s space data center trash talk is what most experts already believe",
-    "normalized": "sam altman's space data center trash talk is what most experts already believe",
-    "content_hash": "c28bc837f82e29ec5ce65270b760692f"
-  },
-  {
-    "title": "Should AI help you get away with killing your spouse?",
-    "normalized": "should ai help you get away with killing your spouse?",
-    "content_hash": "2e41914062575bbc1614cfc2b5122338"
-  },
-  {
-    "title": "SpaceX cleared to fly Starship again after booster failure in May",
-    "normalized": "spacex cleared to fly starship again after booster failure in may",
-    "content_hash": "11bfdb8287df26bbb2d5cfff15e53f5f"
-  },
-  {
-    "title": "Wi-Fi 8 Explained: Features, Release Date, and More",
-    "normalized": "wi-fi 8 explained: features, release date, and more",
-    "content_hash": "39fd67e270930ac963caf7ba2a711a7b"
-  },
-  {
-    "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-    "normalized": "new memghost attack plants persistent false memories in ai agents through one email",
-    "content_hash": "3e44b51adc8656988e3b79c2bee80cea"
-  },
-  {
-    "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-    "normalized": "apple sues openai after ex-engineer allegedly used bug to steal trade secrets",
-    "content_hash": "a81d263f384cfab5ede8e3af1060d228"
-  },
-  {
-    "title": "OnePlus is reportedly bailing on the US",
-    "normalized": "oneplus is reportedly bailing on the us",
-    "content_hash": "604d1ccaa03c9a15dd2ca2b3c8504f30"
-  },
-  {
-    "title": "The Pixel colors might rule this year",
-    "normalized": "the pixel colors might rule this year",
-    "content_hash": "932786ef3e2a084078589cc123e7c1c7"
-  },
-  {
-    "title": "Apple\u2019s public betas for iOS 27 and more are out now",
-    "normalized": "apple's public betas for ios 27 and more are out now",
-    "content_hash": "d80d9d983d8dec127bcadb0b9f3b485f"
-  },
-  {
-    "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-    "normalized": "siri ai makes the apple watch finally feel like a wrist computer",
-    "content_hash": "738c8fd6ad289c64b3384c7729233f6b"
-  },
-  {
-    "title": "Siri AI is already changing how I use my iPhone",
-    "normalized": "siri ai is already changing how i use my iphone",
-    "content_hash": "0540ce64ae02786e91899c581ed6d6f2"
-  },
-  {
     "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
     "normalized": "grok build uploaded entire git repositories to xai storage, not just files it read",
     "content_hash": "6a8586387736f0ff3c7e264e2d9068c6"
@@ -2498,5 +2373,130 @@
     "title": "AI Firewall \u2013 Security Gateway and Reverse Proxy for LLM Traffic",
     "normalized": "ai firewall - security gateway and reverse proxy for llm traffic",
     "content_hash": "5595e5afe943a3ae1f81695bb328d0e6"
+  },
+  {
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
+    "content_hash": "da0fb803a3702f3abd12611d409173e2"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "normalized": "claude code costs up to $200 a month. goose does the same thing for free.",
+    "content_hash": "65248b0266dc1f08a04a2e243e5e13e8"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "normalized": "salesforce rolls out new slackbot ai agent as it battles microsoft and google in workplace ai",
+    "content_hash": "37f7465d43119228a5340488494c5cd0"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
+    "normalized": "anthropic launches cowork, a claude desktop agent that works in your files -- no coding required",
+    "content_hash": "9b4ec2bb172ef63f1cfc32c6f3255ae3"
+  },
+  {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "normalized": "amd takes on nvidia with its helios ai rack-scale system",
+    "content_hash": "b3e44eab9e8eb89541fb537db021748f"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "normalized": "listen labs raises $69m after viral billboard hiring stunt to scale ai customer interviews",
+    "content_hash": "b38a14630ce16f4da4c5b72d4109ed41"
+  },
+  {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "normalized": "how ai guardrails are impeding the work of offensive cybersecurity researchers",
+    "content_hash": "ef6d7cd577e75c093e584487d0e510ee"
+  },
+  {
+    "title": "Insurance startup Corgi reportedly raised more money at $4B \u2014 its third round in 8 weeks",
+    "normalized": "insurance startup corgi reportedly raised more money at $4b -- its third round in 8 weeks",
+    "content_hash": "7385f95ba794b7fe4f94d63b1ce0ab5c"
+  },
+  {
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "normalized": "aegisai, founded by former google security execs, lands $36m to stop ai-driven spear phishing",
+    "content_hash": "35d06882ca022bd5bfaaaab71a733650"
+  },
+  {
+    "title": "OpenAI makes ChatGPT Health available to all US users",
+    "normalized": "openai makes chatgpt health available to all us users",
+    "content_hash": "a340f0a45fb0296f731cb50a4c281a40"
+  },
+  {
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "normalized": "ai chip startup etched defies skeptics, hits $10.3b valuation from big-name investors",
+    "content_hash": "8795e458a62335e4caaa9e1d743025a8"
+  },
+  {
+    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "normalized": "openai is making big claims as it rolls out chatgpt health to everyone",
+    "content_hash": "f0f15dd09cdc6889271a71e0ac2f64bc"
+  },
+  {
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "normalized": "anthropic updates claude voice mode with more capable models",
+    "content_hash": "3835b9551336910303527a7d74b87de5"
+  },
+  {
+    "title": "Nvidia is sending GPUs to the moon",
+    "normalized": "nvidia is sending gpus to the moon",
+    "content_hash": "8526a1fccc9ed31b22f4bb51f3ed1f52"
+  },
+  {
+    "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+    "normalized": "claude cowork flaw could let ai agent escape its vm and access mac files",
+    "content_hash": "1c4d2fe241ee4b4b9b900e1ad81884c0"
+  },
+  {
+    "title": "Claude\u2019s voice mode is now available for Opus and Sonnet",
+    "normalized": "claude's voice mode is now available for opus and sonnet",
+    "content_hash": "c6d23c62c04544d95182f44e2774a56d"
+  },
+  {
+    "title": "Doesn't OpenAI have every incentive to destroy HuggingFace?",
+    "normalized": "doesn't openai have every incentive to destroy huggingface?",
+    "content_hash": "cfcedc895813a6ef2ae36f212e262eb8"
+  },
+  {
+    "title": "Meet the judges who will crown Australia\u2019s next breakout startup",
+    "normalized": "meet the judges who will crown australia's next breakout startup",
+    "content_hash": "ee02957b460b195e05fe7577cd212dfb"
+  },
+  {
+    "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+    "normalized": "mobileye ceo amnon shashua to step aside as company pushes into robotaxis, robotics",
+    "content_hash": "39c15dfd47795838058ab818944831e2"
+  },
+  {
+    "title": "Patreon lays off 20% of its workforce",
+    "normalized": "patreon lays off 20% of its workforce",
+    "content_hash": "8d990b7c6f4d1f1c2345b11b15aa2947"
+  },
+  {
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "normalized": "runway launches ai model router as generative media gets crowded",
+    "content_hash": "733a3bc8d2e120ee5a42d3934589ad3a"
+  },
+  {
+    "title": "Tesla\u2019s robotaxis are moving in reverse",
+    "normalized": "tesla's robotaxis are moving in reverse",
+    "content_hash": "c8b8905080cdbbd519cd8b1dd9b6ad29"
+  },
+  {
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "normalized": "meta launched a new ai optimism ad set to a song about human extinction",
+    "content_hash": "98e60cfb0f14cd6a4f82e372aec65bdf"
+  },
+  {
+    "title": "Google will now let you sign in to your account with a selfie video",
+    "normalized": "google will now let you sign in to your account with a selfie video",
+    "content_hash": "f5b600a6084b884679725098f22e0d04"
+  },
+  {
+    "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+    "normalized": "edtech platform raises $4.5m to help teach students how to vibe code",
+    "content_hash": "7ba626c7735983bd6f4ff0ac1986b3fa"
   }
 ]
