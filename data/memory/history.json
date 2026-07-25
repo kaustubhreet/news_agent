@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "normalized": "openai researcher miles wang in talks to launch ai drug discovery startup valued at $2b",
-    "content_hash": "99899ec5a6ab970a200e03e055313beb"
-  },
-  {
-    "title": "OpenAI\u2019s first hardware device is reportedly a screenless speaker that can move",
-    "normalized": "openai's first hardware device is reportedly a screenless speaker that can move",
-    "content_hash": "1cb10654560d819a63400dd10edbd3a5"
-  },
-  {
-    "title": "OpenAI\u2019s new flagship model deletes files on its own, people keep warning",
-    "normalized": "openai's new flagship model deletes files on its own, people keep warning",
-    "content_hash": "4ab579b8bda64c0a7a8fca6e914558d8"
-  },
-  {
-    "title": "OpenAI may announce a ChatGPT smart speaker this year",
-    "normalized": "openai may announce a chatgpt smart speaker this year",
-    "content_hash": "2eb190273155a6016252243748b6e231"
-  },
-  {
-    "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
-    "normalized": "launch hn: agnost ai (yc s26) - extract user feedback from agent conversations",
-    "content_hash": "3bbd1cf54863d483fd91d13150e9d1cf"
-  },
-  {
-    "title": "Show HN: Approv \u2013 human approval and a signed audit trail for AI agent actions",
-    "normalized": "show hn: approv - human approval and a signed audit trail for ai agent actions",
-    "content_hash": "3798efb191cdf58553981277d063bbd7"
-  },
-  {
-    "title": "OpenAI pushes back on Apple trade secret lawsuit",
-    "normalized": "openai pushes back on apple trade secret lawsuit",
-    "content_hash": "e8f1c7b393fd9dc3d4a900e17e257691"
-  },
-  {
-    "title": "Anthropic\u2019s newest ad is creeping people out",
-    "normalized": "anthropic's newest ad is creeping people out",
-    "content_hash": "34c6fa582e3fd1e8c4fc7cd15e924650"
-  },
-  {
-    "title": "Google faces another AI training lawsuit from major publishers",
-    "normalized": "google faces another ai training lawsuit from major publishers",
-    "content_hash": "025f7329f898a2e8c641b6e837b73e62"
-  },
-  {
-    "title": "Meta\u2019s Adam Mosseri says AI token budgets could soon be capped per engineer",
-    "normalized": "meta's adam mosseri says ai token budgets could soon be capped per engineer",
-    "content_hash": "e2eacdb35c63062529adeed66c708d03"
-  },
-  {
-    "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-    "normalized": "google images gets a pinterest-like redesign focused on discovery",
-    "content_hash": "29bca3f57401140a0a93058dd908461a"
-  },
-  {
-    "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-    "normalized": "researchers say claude for chrome flaw lets rogue extensions trigger gmail reads",
-    "content_hash": "27c3fc0269e23dfd7206be2c6b7e2f9b"
-  },
-  {
-    "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-    "normalized": "labubarat masquerades as nvidia software to control windows hosts",
-    "content_hash": "b8dd1081062a36bb5c9b315b8569a146"
-  },
-  {
-    "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-    "normalized": "spacexai's grok programming tool was uploading its users' entire codebase to cloud storage",
-    "content_hash": "598c4c2448f08a4241160a1474ba0846"
-  },
-  {
-    "title": "Meta accused of using biased AI targeting for mass layoffs",
-    "normalized": "meta accused of using biased ai targeting for mass layoffs",
-    "content_hash": "f3649809ca7454ced6996bc795b0330a"
-  },
-  {
-    "title": "OpenAI and Anthropic warning about a future they're building at breakneck speed",
-    "normalized": "openai and anthropic warning about a future they're building at breakneck speed",
-    "content_hash": "643de9353d2c623677d6f0c4db3cd89f"
-  },
-  {
-    "title": "Show HN: Skills as a Service via MCP \u2013> Coding Agent Skill Library",
-    "normalized": "show hn: skills as a service via mcp -> coding agent skill library",
-    "content_hash": "54fe6fdcdc94650c2e008f911fe8a3c5"
-  },
-  {
-    "title": "Lorde says AI glasses are \u2018not sexy\u2019",
-    "normalized": "lorde says ai glasses are 'not sexy'",
-    "content_hash": "c0b9c4c7bba59e8726f7094a208f2b51"
-  },
-  {
-    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-    "normalized": "apple opens its new siri ai to everyone with the ios 27 public beta",
-    "content_hash": "92b28989e502169afcf979ce3da1bb17"
-  },
-  {
-    "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-    "normalized": "the founder of hinge raised $18m to build a new ai dating service, overtone",
-    "content_hash": "2a3b36bd903c6c4e3d243d97c18c7f69"
-  },
-  {
-    "title": "Lucid Motors denies report it\u2019s considering bankruptcy",
-    "normalized": "lucid motors denies report it's considering bankruptcy",
-    "content_hash": "da488386f5e3fb8135ffdb139e2876a4"
-  },
-  {
-    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-    "normalized": "deepmind ceo calls for an independent standards body to regulate frontier ai",
-    "content_hash": "74861a4437f5dd8cdc432b0ccc88f240"
-  },
-  {
-    "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-    "normalized": "deepseek reportedly in talks to raise $1.5b, then ipo",
-    "content_hash": "e2a1d80c7df077ecbfbd60918247cc46"
-  },
-  {
-    "title": "New York State halts construction of all new data centers",
-    "normalized": "new york state halts construction of all new data centers",
-    "content_hash": "f693cff25998f1b167335e8f0ffb05ee"
-  },
-  {
-    "title": "Reflection inks $1B compute deal with Nebius",
-    "normalized": "reflection inks $1b compute deal with nebius",
-    "content_hash": "beef8068a1af848f8c3b4b7f3b8efd98"
-  },
-  {
     "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
     "normalized": "backed by $60m in funding, oak steps out of stealth to fix the identity mess that ai agents are making worse",
     "content_hash": "d4defc505cf05e504d58fcc2b721bf41"
@@ -2498,5 +2373,130 @@
     "title": "Introducing the ChatGPT for small business program",
     "normalized": "introducing the chatgpt for small business program",
     "content_hash": "746d8717c4c89802852da56e13a08adc"
+  },
+  {
+    "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
+    "normalized": "openai's new voice mode makes it to the chatgpt desktop app",
+    "content_hash": "c47065da93a9fc518ec5c506c6072c3a"
+  },
+  {
+    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+    "normalized": "why cognition bought poke: ai personality is becoming a competitive advantage",
+    "content_hash": "8ee8b3c1ecf0e58ce92960e6b50789d1"
+  },
+  {
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "normalized": "as us weighs response to chinese ai, industry urges against broad open-weight restrictions",
+    "content_hash": "536d4186ee394a6e256e46d2be96db42"
+  },
+  {
+    "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
+    "normalized": "anthropic releases opus 5 with 'close' to fable 5's capabilities",
+    "content_hash": "de2f68f51f0ce5dbc7c53b4ef9fe58d7"
+  },
+  {
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "normalized": "nvidia, microsoft, meta warn against overregulating open-weight models",
+    "content_hash": "b4065bd2e0e1e2d6b9f55308406f2209"
+  },
+  {
+    "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
+    "normalized": "i tried out openai's new ai keypad -- which will be fun for some coders and slightly mystifying to everyone else",
+    "content_hash": "e6f0c1073bbac2d7302a1eda2d72eaac"
+  },
+  {
+    "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year\u2019s mark",
+    "normalized": "anduril reportedly in talks to raise funding at $100b valuation, more than 3x last year's mark",
+    "content_hash": "eae587725869b91965acb3ac334819b1"
+  },
+  {
+    "title": "India\u2019s move against Jack Dorsey\u2019s Bitchat sparks legal debate",
+    "normalized": "india's move against jack dorsey's bitchat sparks legal debate",
+    "content_hash": "716730f2f3c62987f2e259b90503feb6"
+  },
+  {
+    "title": "OpenAI\u2019s own model went rogue before Kimi had Wall Street sweating",
+    "normalized": "openai's own model went rogue before kimi had wall street sweating",
+    "content_hash": "1754063f44f46ce01afd6e4b1e12aa2e"
+  },
+  {
+    "title": "Sam Altman\u2019s biometric startup World raises $52.5M via crypto sale",
+    "normalized": "sam altman's biometric startup world raises $52.5m via crypto sale",
+    "content_hash": "cb81af26290fb61ed8a0554324946069"
+  },
+  {
+    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+    "normalized": "china-us ai race escalates, openai models break free, and why you should check your car alarm",
+    "content_hash": "3ff160c3bf282e061b609908f222c18a"
+  },
+  {
+    "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+    "normalized": "bluenoroff zoom phishing kit profiles crypto wallets before malware delivery",
+    "content_hash": "9c6b5915fc54b298df02891176621823"
+  },
+  {
+    "title": "Midjourney bought the astrology app Co-Star",
+    "normalized": "midjourney bought the astrology app co-star",
+    "content_hash": "cc84c91f91e490a649e934964ed4e204"
+  },
+  {
+    "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
+    "normalized": "nothing confirms layoffs, but calls market exit rumors 'fake news'",
+    "content_hash": "2705677991452e87bf5ef68901d1946c"
+  },
+  {
+    "title": "You can\u2019t ignore Google Zero anymore",
+    "normalized": "you can't ignore google zero anymore",
+    "content_hash": "9baa2f30ae1e2cf4ae2ef5e5b36f685c"
+  },
+  {
+    "title": "Be skeptical of OpenAI's rogue hacker agent story",
+    "normalized": "be skeptical of openai's rogue hacker agent story",
+    "content_hash": "ea0d5275530a256eca35fad05892a528"
+  },
+  {
+    "title": "Introducing Claude Opus 5 on AWS: Anthropic\u2019s most capable Opus model",
+    "normalized": "introducing claude opus 5 on aws: anthropic's most capable opus model",
+    "content_hash": "53b64de1142d099e4d0805251be9d496"
+  },
+  {
+    "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+    "normalized": "get started with openai gpt-5.6 sol, terra, and luna on amazon bedrock",
+    "content_hash": "ebb7208549d49c82b85bc0d29e4f652c"
+  },
+  {
+    "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+    "normalized": "spacex launches new v3 starlink satellites but suffers another booster failure",
+    "content_hash": "2f363461c23757564b04b8159b1ba3a0"
+  },
+  {
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "normalized": "prentis, new ai lab co-founded by reid hoffman, mark pincus in talks to raise $100m",
+    "content_hash": "f9d1f23aaaa37f667b5bb8259ab3d480"
+  },
+  {
+    "title": "TechCrunch\u00a0Disrupt 2026\u2019s new Smart Money Stage explores fintech, payments, AI, and everything between",
+    "normalized": "techcrunch disrupt 2026's new smart money stage explores fintech, payments, ai, and everything between",
+    "content_hash": "59bf72527568b7da7f6e32434e452234"
+  },
+  {
+    "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+    "normalized": "vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+    "content_hash": "3f461535cbe0cc76b403e9706fb4e8ba"
+  },
+  {
+    "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+    "normalized": "volkswagen engineers charged with insider trading tied to rivian joint venture",
+    "content_hash": "c38440535b6010837ea1bee341ad27ae"
+  },
+  {
+    "title": "US accuses American of allegedly wiping his phone using a \u2018duress\u2019 password during border search",
+    "normalized": "us accuses american of allegedly wiping his phone using a 'duress' password during border search",
+    "content_hash": "d6892d7560819bc029daeabbe32787d6"
+  },
+  {
+    "title": "Build in public, fail in public: what\u00a0it\u2019s\u00a0like to be a founder under 20\u00a0right now",
+    "normalized": "build in public, fail in public: what it's like to be a founder under 20 right now",
+    "content_hash": "6206ed320be67d50c5613ef10cf5afd9"
   }
 ]
