@@ -1,130 +1,5 @@
 [
   {
-    "title": "Ultrahuman\u2019s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
-    "normalized": "ultrahuman's former hardware vp raises $5.5m for devices that control ai agents, not just record you",
-    "content_hash": "ce7c0030feff83a401f556e8a0d1c19d"
-  },
-  {
-    "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
-    "normalized": "lululemon backs nylon-recycling startup syntetica in $30m series a",
-    "content_hash": "a525ca0a0158e21f3d121a31fc877b69"
-  },
-  {
-    "title": "OpenAI\u2019s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-    "normalized": "openai's gpt-red automates prompt injection testing to harden gpt-5.6 sol",
-    "content_hash": "ace317a4f57813b1920bbda139b8e718"
-  },
-  {
-    "title": "Google ordered to open Android and Search to rivals in Europe",
-    "normalized": "google ordered to open android and search to rivals in europe",
-    "content_hash": "be96eade9a056df6d6bfcbb5560e8866"
-  },
-  {
-    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-    "normalized": "where are yc founders now? openai and anthropic, mostly",
-    "content_hash": "edcca1ad6be915feb63e5b465c4402e0"
-  },
-  {
-    "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
-    "normalized": "how far can root cause analysis go on real-world telemetry data?",
-    "content_hash": "7a9502b043aa6d17e3ef77579b9ee976"
-  },
-  {
-    "title": "STOCKTAKE: Measuring the Gap Between Perception and Action in LLM Agents with a Fair Oracle",
-    "normalized": "stocktake: measuring the gap between perception and action in llm agents with a fair oracle",
-    "content_hash": "4478a28dfdc791955b259ead48b1c2e3"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-    "normalized": "google just redesigned the search box for the first time in 25 years -- here's why it matters more than you think.",
-    "content_hash": "6d664fc288d99f6d67b77e4b21334d39"
-  },
-  {
-    "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-    "normalized": "apple intelligence approved for launch in china with alibaba and baidu",
-    "content_hash": "2609ffcddb750445e60ade19dfd328c0"
-  },
-  {
-    "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
-    "normalized": "meta now alerts parents if their teen discussed suicide or self-harm with its ai chatbot",
-    "content_hash": "1f27215f7cec3cba9b16665f48787b07"
-  },
-  {
-    "title": "Phone maker OnePlus says it won\u2019t release new phones in the US and Europe",
-    "normalized": "phone maker oneplus says it won't release new phones in the us and europe",
-    "content_hash": "f347c3f39c58e0e0c1d1ccaa80953097"
-  },
-  {
-    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-    "normalized": "applied computing wants to give oil and gas operators an ai model for the entire plant",
-    "content_hash": "b87907bb5d5c28acc498b2a584a02726"
-  },
-  {
-    "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-    "normalized": "new agent data injection attack can make ai agents misclick or run attacker commands",
-    "content_hash": "0e1cda74524b4a9c0b23ce26d23ea9ab"
-  },
-  {
-    "title": "OpenAI launches a physical keypad for controlling agents",
-    "normalized": "openai launches a physical keypad for controlling agents",
-    "content_hash": "a73b8b7fe7575926eac3fae89616fdc0"
-  },
-  {
-    "title": "Codex Micro",
-    "normalized": "codex micro",
-    "content_hash": "125e4bcc1593a9c067c8c68f93ffa215"
-  },
-  {
-    "title": "COMPUTER COPS: Inside the big business of selling AI to the police",
-    "normalized": "computer cops: inside the big business of selling ai to the police",
-    "content_hash": "835cf99402f8fda8c74b719ead9a91b1"
-  },
-  {
-    "title": "Apple\u2019s reportedly raising the price for AppleCare Plus on Macs and iPads",
-    "normalized": "apple's reportedly raising the price for applecare plus on macs and ipads",
-    "content_hash": "16827cd125d9a0d998a2886553398153"
-  },
-  {
-    "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
-    "normalized": "valve says ifixit will keep selling steam deck batteries after all",
-    "content_hash": "93e7cad61f32bd278a57f1a740a15247"
-  },
-  {
-    "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
-    "normalized": "xai sues a man for using grok to generate csam 'deepfakes'",
-    "content_hash": "0da3bae52e149490fe10474cc01f2020"
-  },
-  {
-    "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
-    "normalized": "brendan carr plans to let broadcast giants dominate the airwaves",
-    "content_hash": "9da3cff5499df07d4236e2ce9e172a48"
-  },
-  {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "normalized": "gpt-red: unlocking self-improvement for robustness",
-    "content_hash": "9ab2720f89a90ae585e2e1a91e777a2d"
-  },
-  {
-    "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-    "normalized": "interventional grounding audits: black-box premise-dependency tests for llm chain-of-thought via predicate substitution",
-    "content_hash": "18e90fe8c694f2119a62b640f025f7ee"
-  },
-  {
-    "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
-    "normalized": "harness handbook: making evolving agent harnesses readable,navigable, and editable",
-    "content_hash": "3023091a2d48fd7095ca71d4b5cb08a1"
-  },
-  {
-    "title": "Set-shifting Behavioral Test for Harnessed Agents",
-    "normalized": "set-shifting behavioral test for harnessed agents",
-    "content_hash": "3746fcf927e50ebf5f2c37a3431f67f1"
-  },
-  {
-    "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
-    "normalized": "lapo: leave-one-turn attribution for self-generated process rewards in multi-turn search reasoning",
-    "content_hash": "c5fd0f242849dd9c0320a39cd8bc1f01"
-  },
-  {
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
     "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
@@ -2498,5 +2373,130 @@
     "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
     "normalized": "fastjson 1.x rce vulnerability targeted in attacks with no patched available",
     "content_hash": "7e0a33879b08f59ba57de1ea50d51ac9"
+  },
+  {
+    "title": "Show HN: Integrate any CLI agent into any terminal",
+    "normalized": "show hn: integrate any cli agent into any terminal",
+    "content_hash": "9264ffd0093931462e75742749d180d4"
+  },
+  {
+    "title": "Microsoft launches new in-house AI models. Cuts costs up to 89% versus OpenAI",
+    "normalized": "microsoft launches new in-house ai models. cuts costs up to 89% versus openai",
+    "content_hash": "e383928a5a581800356af413a1e1b152"
+  },
+  {
+    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+    "normalized": "agentic test processes, llm benchmarks, and other notes on agentic coding",
+    "content_hash": "f4120a4167c5142527cd02375d6be904"
+  },
+  {
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "normalized": "meet gpt-red: an llm super-hacker openai built to make its models safer",
+    "content_hash": "2087abc317307a1f9d7b7f676be839f3"
+  },
+  {
+    "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+    "normalized": "the best backpacking sleeping pads, tested on the trail (2026)",
+    "content_hash": "b864cd2192e1a6e31e951e789488d9e8"
+  },
+  {
+    "title": "An OpenAI model left notes about how to evade containment; we need more details",
+    "normalized": "an openai model left notes about how to evade containment; we need more details",
+    "content_hash": "4662e13d4aec6af4989582f7c4bfe423"
+  },
+  {
+    "title": "House AI 'kill switch' bill unveiled as OpenAI hack raises alarms",
+    "normalized": "house ai 'kill switch' bill unveiled as openai hack raises alarms",
+    "content_hash": "fe0e76accfb4d534220b8060597cf994"
+  },
+  {
+    "title": "Anthropic secures its AI-native software development lifecycle",
+    "normalized": "anthropic secures its ai-native software development lifecycle",
+    "content_hash": "92f4e45578b9dfea244a93bb063bc93f"
+  },
+  {
+    "title": "A protocol for AI agent workspace state and effect management",
+    "normalized": "a protocol for ai agent workspace state and effect management",
+    "content_hash": "761c618e11cb19d574f8b3aa856df686"
+  },
+  {
+    "title": "An agent with write access to my files, and no way to send them anywhere",
+    "normalized": "an agent with write access to my files, and no way to send them anywhere",
+    "content_hash": "46e32aa9367a7833e5eb3406f6078ac6"
+  },
+  {
+    "title": "I scanned my AI agent framework for destructive/consequential actions, and wow",
+    "normalized": "i scanned my ai agent framework for destructive/consequential actions, and wow",
+    "content_hash": "64c7170e4e6b10d3036cfd4d6fe07666"
+  },
+  {
+    "title": "How OpenAI Lost Control of an AI Model\u2013and What Needs to Change",
+    "normalized": "how openai lost control of an ai model-and what needs to change",
+    "content_hash": "4579c16633d8083fb22de2de56296a62"
+  },
+  {
+    "title": "'Misrepresents statement': MEA fact-checks viral claim on spokesperson Randhir Jaiswal's remarks on CJP protests",
+    "normalized": "'misrepresents statement': mea fact-checks viral claim on spokesperson randhir jaiswal's remarks on cjp protests",
+    "content_hash": "2ba0ad2e97fb967340cf3b35ecf674ad"
+  },
+  {
+    "title": "All the Ways You Can Make Reading on Your Phone Easier",
+    "normalized": "all the ways you can make reading on your phone easier",
+    "content_hash": "a2f76d6f4f15b99c53540c2842cc38b7"
+  },
+  {
+    "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+    "normalized": "ctm360 research reveals how insurance phishing has evolved into real-time account hijacking",
+    "content_hash": "72bb7ff04d6450664e56b79a377cca71"
+  },
+  {
+    "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+    "normalized": "cl0p affiliates target internet-exposed ptc windchill and flexplm with unauthenticated rce",
+    "content_hash": "3489f9caf6e6fc1ba9698765085744e8"
+  },
+  {
+    "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+    "normalized": "devman raas portal centralizes payload builds, victim management, and affiliate payouts",
+    "content_hash": "444f66a4e7eb160b22a2ca576d03c2ae"
+  },
+  {
+    "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+    "normalized": "certighost exploit lets low-privileged active directory users impersonate a domain controller",
+    "content_hash": "836304457ed4ec9bea3a4f54de8e30ac"
+  },
+  {
+    "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
+    "normalized": "bing images flaws let crafted svgs run commands as system on microsoft's servers",
+    "content_hash": "0961536818a6b1f7702499bf46c99639"
+  },
+  {
+    "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+    "normalized": "fake notepad++ plugin delivers matchboil.v2 in uac-0099 attacks",
+    "content_hash": "c4e50a1d8a63ba406a84c7b69544535c"
+  },
+  {
+    "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+    "normalized": "russian espionage group exploited zimbra zero-day to steal mail and 2fa codes",
+    "content_hash": "e30314952fa0fc1355b512cfd31ef1f2"
+  },
+  {
+    "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+    "normalized": "chaos ransomware uses msarat to route c2 traffic through headless chrome and edge",
+    "content_hash": "443aaefa381c6848f3e63ad956c255af"
+  },
+  {
+    "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+    "normalized": "attackers weaponize github actions runners to target cpanel and whm servers",
+    "content_hash": "f27a63fdea61653153eb360924d236a9"
+  },
+  {
+    "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+    "normalized": "nine-year-old refluxfs linux flaw gives local users root on default rhel installs",
+    "content_hash": "e51cfeb506dbd3f635f9f1cd1ac654d8"
+  },
+  {
+    "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+    "normalized": "team uses alphafold ai to redesign gene-editing proteins to make them safer",
+    "content_hash": "d4213c5af257f8a1d88eaaf71bac2e07"
   }
 ]
