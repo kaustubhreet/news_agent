@@ -1,130 +1,5 @@
 [
   {
-    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-    "normalized": "why the first gpu financiers are turning to inference chips in a $400 million deal",
-    "content_hash": "3ae023588fc4648a49e9e86e99deca3d"
-  },
-  {
-    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-    "normalized": "the download: openai unveils gpt-red and heat pumps rise in the us",
-    "content_hash": "648127f5d1f1392e3ab40a66a14b67a8"
-  },
-  {
-    "title": "OpenAI faces sanctions bid as newspapers say ChatGPT was trained on stolen news",
-    "normalized": "openai faces sanctions bid as newspapers say chatgpt was trained on stolen news",
-    "content_hash": "3f3452df16c56d3fd82fdd00de028465"
-  },
-  {
-    "title": "OpenAI encrypts Codex agent instructions, blocking local audit trail",
-    "normalized": "openai encrypts codex agent instructions, blocking local audit trail",
-    "content_hash": "3e0ad2b21f9d4f083fa0ee8e1ac90432"
-  },
-  {
-    "title": "Investing in multi-agent AI safety research",
-    "normalized": "investing in multi-agent ai safety research",
-    "content_hash": "f15755133eca743d3794b7838c5bb1fa"
-  },
-  {
-    "title": "AI Agents Do Not Fail Alone:The Context Fails First",
-    "normalized": "ai agents do not fail alone:the context fails first",
-    "content_hash": "d0b1fc0fcc8a36d28b7533562df9846b"
-  },
-  {
-    "title": "Value Leakage: An LLM's Answers Are Silently Shaped by Its Own Values",
-    "normalized": "value leakage: an llm's answers are silently shaped by its own values",
-    "content_hash": "0523690103267bb9a62374c0d199e32c"
-  },
-  {
-    "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-    "normalized": "ai-powered travel agency fora hits unicorn status, raises $60m",
-    "content_hash": "5ffaff293f0bca39ae209f1f67429667"
-  },
-  {
-    "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
-    "normalized": "uk cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
-    "content_hash": "653a7bcb1e2f26098b022f72673ff30c"
-  },
-  {
-    "title": "Valve Steam Machine Review: A Compromised Console",
-    "normalized": "valve steam machine review: a compromised console",
-    "content_hash": "2bba39ba93911e388c3fae6b1ed21cdd"
-  },
-  {
-    "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
-    "normalized": "san francisco demands apple and google delete ai 'nudify' apps from app stores",
-    "content_hash": "cf5e4cfdf524901258527e74ca6e5b10"
-  },
-  {
-    "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-    "normalized": "e.u. orders google to open android mic, camera and screen to rival ai assistants",
-    "content_hash": "10d02ab701a17678b5d4d724008d0fb3"
-  },
-  {
-    "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
-    "normalized": "acr stealer uses clickfix lures to steal browser tokens and microsoft 365 files",
-    "content_hash": "a0d09e679454edc02313643a8102d42e"
-  },
-  {
-    "title": "The war on \u2018woke science\u2019 comes for space research",
-    "normalized": "the war on 'woke science' comes for space research",
-    "content_hash": "517be4263da323869bb464ce07090d3f"
-  },
-  {
-    "title": "Netflix says around 300 titles used generative AI",
-    "normalized": "netflix says around 300 titles used generative ai",
-    "content_hash": "02a25657b402c70d80f02231d018e10d"
-  },
-  {
-    "title": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
-    "normalized": "kalshi says it caught trump's teleprompter operator insider trading",
-    "content_hash": "a31afebdec550332cfe252a38d6224c3"
-  },
-  {
-    "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-    "normalized": "new york governor says she's using ai to analyze 'every single rule' in the state",
-    "content_hash": "cf6683f5d489c8d85590336d0b87fe0f"
-  },
-  {
-    "title": "Apple targets dozens of OpenAI employees with legal letters",
-    "normalized": "apple targets dozens of openai employees with legal letters",
-    "content_hash": "103c7ed581bc5dfde8af5fed3cb471fa"
-  },
-  {
-    "title": "LM Studio Bionic: the AI agent for open models",
-    "normalized": "lm studio bionic: the ai agent for open models",
-    "content_hash": "d63399d2d785b840dad49698184e6d1b"
-  },
-  {
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-    "normalized": "$100 ai music video: claude fable 5 vs. gpt-5.6 sol",
-    "content_hash": "7d11bbd72a7b6c0ac5800c0000ae7e59"
-  },
-  {
-    "title": "Body Bags Found Outside OpenAI HQ as Execs Increasingly Fear for Their Lives",
-    "normalized": "body bags found outside openai hq as execs increasingly fear for their lives",
-    "content_hash": "e3db8227ae94fb99a5a4744c88772199"
-  },
-  {
-    "title": "How vibe coding a game made me design an AI agent protocol",
-    "normalized": "how vibe coding a game made me design an ai agent protocol",
-    "content_hash": "e4158526457f52b064037c5c3c6a4cc6"
-  },
-  {
-    "title": "How OpenAI's Sol Learned Design Taste",
-    "normalized": "how openai's sol learned design taste",
-    "content_hash": "0b5235a3f374c17949820e87b8b956ec"
-  },
-  {
-    "title": "Show HN: OSS Pi Agent for Slack and Linear",
-    "normalized": "show hn: oss pi agent for slack and linear",
-    "content_hash": "7170ba22b393b6a66fcaf4100d5a07ea"
-  },
-  {
-    "title": "Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
-    "normalized": "nadella criticizes anthropic's fable for being 'editorially controlled'",
-    "content_hash": "f704d76c59adf9a83964be1cc03f9f60"
-  },
-  {
     "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
     "normalized": "nuclear startup valar atomics in talks to raise new funding at $6b valuation",
     "content_hash": "89794ac141f7b0e95361cb1239af3300"
@@ -2498,5 +2373,130 @@
     "title": "Openbase",
     "normalized": "openbase",
     "content_hash": "5856eaf3ff7a53f549c0e951def2aadd"
+  },
+  {
+    "title": "Nvidia, Microsoft launch open AI security alliance \u2014 without OpenAI, Google, or Anthropic",
+    "normalized": "nvidia, microsoft launch open ai security alliance -- without openai, google, or anthropic",
+    "content_hash": "9e8d71c94b0352e88a319c5486b23755"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
+    "content_hash": "833af2262c44e7ddcd585a57dc78d24a"
+  },
+  {
+    "title": "Europe got its own TBPN-style live show, and everyone\u2019s angling for a guest spot",
+    "normalized": "europe got its own tbpn-style live show, and everyone's angling for a guest spot",
+    "content_hash": "4f2f002b56041c70f085f5d889dbfd66"
+  },
+  {
+    "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+    "normalized": "molt: a scalable pytorch-native training framework for agentic reinforcement learning",
+    "content_hash": "6d2b36e606f57e0138ba7089f445b775"
+  },
+  {
+    "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+    "normalized": "enigma raises $70m to make controlling a robot as easy as adjusting the volume",
+    "content_hash": "2d1d54ca9e2456c0faf44b1ae7135d10"
+  },
+  {
+    "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+    "normalized": "operation bluedash deploys level rmm and screenconnect via fake teams update",
+    "content_hash": "50cfda5716553b717011cf9a213f1879"
+  },
+  {
+    "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+    "normalized": "github adds 3-day dependabot cooldown to limit poisoned package adoption",
+    "content_hash": "d94ca397d54e425f3a698d5ee86e492f"
+  },
+  {
+    "title": "NVIDIA launches 'Open Secure AI Alliance' initiative to improve cyber defense",
+    "normalized": "nvidia launches 'open secure ai alliance' initiative to improve cyber defense",
+    "content_hash": "c5d6b9c3508cd78a4adeaae9ab7ed1a4"
+  },
+  {
+    "title": "AI YC interview with Gstack agents",
+    "normalized": "ai yc interview with gstack agents",
+    "content_hash": "4fb2f1315fca8124487950f6361978c6"
+  },
+  {
+    "title": "How AI is expanding what people do at work",
+    "normalized": "how ai is expanding what people do at work",
+    "content_hash": "213f7f18ebcd48dce5077b86a2c26ae3"
+  },
+  {
+    "title": "Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
+    "normalized": "toward user-conditioned evaluation of personal llm agents under temporal interventions",
+    "content_hash": "fa58d9d09834bed845bddefad281ad03"
+  },
+  {
+    "title": "Snapchat now lets you share what you\u2019re listening to in real time",
+    "normalized": "snapchat now lets you share what you're listening to in real time",
+    "content_hash": "1d4bc88ab909df5467e2dffaedca9b90"
+  },
+  {
+    "title": "Wellness Influencers Are Pushing \u2018Natural\u2019 and Unproven Alternatives to Adderall",
+    "normalized": "wellness influencers are pushing 'natural' and unproven alternatives to adderall",
+    "content_hash": "69a86711cfdee9c930c326974645f968"
+  },
+  {
+    "title": "This Is Donald Trump\u2019s AI Brain Trust",
+    "normalized": "this is donald trump's ai brain trust",
+    "content_hash": "cdea02bbb62573dfa4fdeeae4490809b"
+  },
+  {
+    "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+    "normalized": "cruciferra crypter uses byovd and process ghosting to hide windows malware",
+    "content_hash": "0f0930e0e832e887ced5b96b3b69f9a9"
+  },
+  {
+    "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+    "normalized": "teleshim abuses telegram for c2 in attacks against middle east governments",
+    "content_hash": "9c64468c0d990274d28f099b7768d459"
+  },
+  {
+    "title": "iMessage Hermes on a Raspberry Pi",
+    "normalized": "imessage hermes on a raspberry pi",
+    "content_hash": "bb3f768483a1ebf3dc944ffdf6c6a064"
+  },
+  {
+    "title": "Notate",
+    "normalized": "notate",
+    "content_hash": "2c4de481360371498af57acb7cc17ffb"
+  },
+  {
+    "title": "Rivault",
+    "normalized": "rivault",
+    "content_hash": "3d86667d5eb7d55c389432b21edbd3de"
+  },
+  {
+    "title": "Webhound",
+    "normalized": "webhound",
+    "content_hash": "39c5c11a498e0ad1e6c63ab25e8d5b85"
+  },
+  {
+    "title": "Comms",
+    "normalized": "comms",
+    "content_hash": "674eda84fdd6255f8737f71de133bbfa"
+  },
+  {
+    "title": "Cynative Security Research Agent",
+    "normalized": "cynative security research agent",
+    "content_hash": "59d0ca92f262f15109a8795e737a20c4"
+  },
+  {
+    "title": "Grok 4.5",
+    "normalized": "grok 4.5",
+    "content_hash": "2be135c99dc71478623202e363710878"
+  },
+  {
+    "title": "Repaint Socials",
+    "normalized": "repaint socials",
+    "content_hash": "951f135562fef4301479a1b1dcbb7958"
+  },
+  {
+    "title": "HeyZoku",
+    "normalized": "heyzoku",
+    "content_hash": "b11befb32f51a3d9704fb76a0afe26d1"
   }
 ]
