@@ -1,130 +1,5 @@
 [
   {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
-    "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
-  },
-  {
-    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-    "normalized": "the ai compute gap: enterprises are buying infrastructure faster than they can measure what it costs",
-    "content_hash": "eb6065a8f5a2e78f62b744dddd0365e6"
-  },
-  {
-    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-    "normalized": "the agent security gap: 54% of enterprises have already had an ai agent incident, and most still let agents share credentials",
-    "content_hash": "a173a6dbeb1ca97a2653e8c6a452b4e1"
-  },
-  {
-    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem \u2014 and most are shipping to production anyway",
-    "normalized": "the agent evaluation gap: enterprise ai organizations have a reality-alignment problem, not a coverage problem -- and most are shipping to production anyway",
-    "content_hash": "792d439b93ff25b933628b282dfe7541"
-  },
-  {
-    "title": "Why is OpenAI selling a ChatGPT basketball?",
-    "normalized": "why is openai selling a chatgpt basketball?",
-    "content_hash": "9ab32dda9b8d2c579552256a668b8cf1"
-  },
-  {
-    "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her \u2018Mafia\u2019 skills)",
-    "normalized": "founders fund hires former openai exec ryan beiermeister (and not because of her 'mafia' skills)",
-    "content_hash": "2a824c65201c152f63e3fe0b1bad16e9"
-  },
-  {
-    "title": "Google Vids now lets you star in your own AI videos",
-    "normalized": "google vids now lets you star in your own ai videos",
-    "content_hash": "dce453351a98d393db72d566c5ed95cd"
-  },
-  {
-    "title": "Google\u2019s AI Mode now lets you link and interact with select apps",
-    "normalized": "google's ai mode now lets you link and interact with select apps",
-    "content_hash": "b0becfa9974f1498a37bc78917fd61ad"
-  },
-  {
-    "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
-    "normalized": "google continues its renaming streak by turning notebooklm to gemini notebook",
-    "content_hash": "280034ad3f1d163eda6430669ef1e0c9"
-  },
-  {
-    "title": "Yes, you can now order DoorDash from the command line",
-    "normalized": "yes, you can now order doordash from the command line",
-    "content_hash": "8ec850c7380703e6ffee7d8b02f0f1dd"
-  },
-  {
-    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-    "normalized": "how a former deepmind researcher raised at a $300m pre-seed valuation before launching a product",
-    "content_hash": "1fb90fd673cbcc45d0b1f17f6cf3e641"
-  },
-  {
-    "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
-    "normalized": "sheryl sandberg leads $10 million investment in ai-powered vehicle inspection service",
-    "content_hash": "c5cd0c5917ee6126bf22a88a6e330d7c"
-  },
-  {
-    "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
-    "normalized": "why ami labs' alexandre lebrun won't call his ai 'agi' or 'superintelligence'",
-    "content_hash": "423f582a68cbb317a8065516a5e7a17e"
-  },
-  {
-    "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-    "normalized": "why apple sued openai, new york takes on data centers, and what to know about cyclosporiasis",
-    "content_hash": "484c30f41f12f03c99b92282cf4325da"
-  },
-  {
-    "title": "Fortnite is getting a bunch of AI-powered \u2018personas\u2019",
-    "normalized": "fortnite is getting a bunch of ai-powered 'personas'",
-    "content_hash": "fd710a14912766a595ea02f5803ecc8b"
-  },
-  {
-    "title": "Google is better than Apple at playing the AI regulations game",
-    "normalized": "google is better than apple at playing the ai regulations game",
-    "content_hash": "e07d431d6f38b16a498c604690c5aac4"
-  },
-  {
-    "title": "Roblox will let people use AI to make games on their phone",
-    "normalized": "roblox will let people use ai to make games on their phone",
-    "content_hash": "f16a5d9236f4a43c6e3ac4c54b27ef8d"
-  },
-  {
-    "title": "Google is renaming NotebookLM to Gemini Notebook",
-    "normalized": "google is renaming notebooklm to gemini notebook",
-    "content_hash": "616e72b57477086a32f2df9292e5ef38"
-  },
-  {
-    "title": "1-Bit LLM in the Browser",
-    "normalized": "1-bit llm in the browser",
-    "content_hash": "0d19c165ba584897cc0c8a539b4a0408"
-  },
-  {
-    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem \u2014 and most are still building the fix",
-    "normalized": "the ai context gap: enterprise ai organizations have a trust problem, not a retrieval problem -- and most are still building the fix",
-    "content_hash": "9ce6820900249432d6d130818c3abd79"
-  },
-  {
-    "title": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection",
-    "normalized": "openai details gpt-red: an internal automated red-teaming model that beat human red-teamers 84% to 13% on prompt injection",
-    "content_hash": "b74582d9903f86ad10acf908d1bfd540"
-  },
-  {
-    "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-    "normalized": "coca-cola suspended production at its fairlife dairy after a ransomware attack",
-    "content_hash": "6a36543bab0d23c395539edda09a2f15"
-  },
-  {
-    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-    "normalized": "roblox launches an ai-powered game-creation feature in its mobile app",
-    "content_hash": "e0038d9408817a3fddf1fdc28d42f204"
-  },
-  {
-    "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-    "normalized": "newsletter platform beehiiv now lets subscribers chat with each other, adds ai",
-    "content_hash": "17302ca716fa93baf7a21e4fe178e489"
-  },
-  {
-    "title": "X cracks down on creators who steal content",
-    "normalized": "x cracks down on creators who steal content",
-    "content_hash": "6dfaecf4907d7bf82924a6cc3ca600e6"
-  },
-  {
     "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
     "normalized": "why the first gpu financiers are turning to inference chips in a $400 million deal",
     "content_hash": "3ae023588fc4648a49e9e86e99deca3d"
@@ -2498,5 +2373,130 @@
     "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
     "normalized": "team uses alphafold ai to redesign gene-editing proteins to make them safer",
     "content_hash": "d4213c5af257f8a1d88eaaf71bac2e07"
+  },
+  {
+    "title": "Show HN: LLM-spend \u2013 Audit your OpenAI/Anthropic API spend locally",
+    "normalized": "show hn: llm-spend - audit your openai/anthropic api spend locally",
+    "content_hash": "eee38535e81465e6ddd6dd99bf8b4919"
+  },
+  {
+    "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
+    "normalized": "hugging face ceo calls for 'radical transparency' after 'unprecedented' openai hack",
+    "content_hash": "6da8af34277e3641de6232c7b77fd32c"
+  },
+  {
+    "title": "The US is charging an American citizen for wiping his phone at the border",
+    "normalized": "the us is charging an american citizen for wiping his phone at the border",
+    "content_hash": "e6d5f17abb475dbf2af7e0981d10622e"
+  },
+  {
+    "title": "How I built a debugging tool, and the agent, using it, found bugs in it",
+    "normalized": "how i built a debugging tool, and the agent, using it, found bugs in it",
+    "content_hash": "6a35b3d727777e27beb791934b214b4e"
+  },
+  {
+    "title": "Show HN: Anyclaude-SDK \u2013 Claude Code-Style SDK for OpenAI/Anthropic Endpoints",
+    "normalized": "show hn: anyclaude-sdk - claude code-style sdk for openai/anthropic endpoints",
+    "content_hash": "0081b70676103023f2445095e0ded61d"
+  },
+  {
+    "title": "So-called 'Skynet Day' came too close to SF after rogue agent hacked a startup",
+    "normalized": "so-called 'skynet day' came too close to sf after rogue agent hacked a startup",
+    "content_hash": "8bd3c267d24262b2dd8f20d9f0db44cb"
+  },
+  {
+    "title": "More on an Internal OpenAI Model Hacking into HuggingFace",
+    "normalized": "more on an internal openai model hacking into huggingface",
+    "content_hash": "9c68e195dad4565a8ae07c71edf6373a"
+  },
+  {
+    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
+    "normalized": "google just redesigned the search box for the first time in 25 years -- here's why it matters more than you think.",
+    "content_hash": "395a63ec377d7809c4ffb7922b0e14aa"
+  },
+  {
+    "title": "How to Give an LLM Agent a Browser",
+    "normalized": "how to give an llm agent a browser",
+    "content_hash": "335549e71c4f1b9984247158790e7163"
+  },
+  {
+    "title": "Are brain waves the next unlock for physical AI?",
+    "normalized": "are brain waves the next unlock for physical ai?",
+    "content_hash": "6f3777a09b86b2067eb2d9bddf47543a"
+  },
+  {
+    "title": "Making sense of the panic over Chinese AI",
+    "normalized": "making sense of the panic over chinese ai",
+    "content_hash": "7960f51226d7e19732f998cab87e05c3"
+  },
+  {
+    "title": "TechCrunch Mobility: Uber bets on its former CEO",
+    "normalized": "techcrunch mobility: uber bets on its former ceo",
+    "content_hash": "078603a202571c90b31648c2c33fa2f8"
+  },
+  {
+    "title": "Carrie is just trying to make a friend in the new trailer",
+    "normalized": "carrie is just trying to make a friend in the new trailer",
+    "content_hash": "a64a90febfccd462d4a9d54ee4e62abd"
+  },
+  {
+    "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
+    "normalized": "you can get three months of xbox game pass ultimate for almost half off",
+    "content_hash": "02a789b4713153937bf35fbb13113b0b"
+  },
+  {
+    "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
+    "normalized": "marvel announces ryan gosling as ghost rider, a new black panther, and more",
+    "content_hash": "0f4918df5cdb90b1368999d6004c582d"
+  },
+  {
+    "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+    "normalized": "wattage: a token-spend profiler and cost-regression gate for ai agents",
+    "content_hash": "492c3971800f507b001878a6e0d5f079"
+  },
+  {
+    "title": "OpenAI: A Bubble Bigger Than Dotcom",
+    "normalized": "openai: a bubble bigger than dotcom",
+    "content_hash": "f7846e1f2da21885b33b61a6d4dadc87"
+  },
+  {
+    "title": "Show HN: An interactive way to exploit an LLM without going to jail",
+    "normalized": "show hn: an interactive way to exploit an llm without going to jail",
+    "content_hash": "2c613b1e1807e0a2cf41452ebfadbaec"
+  },
+  {
+    "title": "Hugging Face CEO calls for 'radical transparency' after 'unprecedented' OpenAI",
+    "normalized": "hugging face ceo calls for 'radical transparency' after 'unprecedented' openai",
+    "content_hash": "c7ac2714cab66db89c449241ca95273c"
+  },
+  {
+    "title": "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",
+    "normalized": "sp/1.0: deterministic, reproducible verdicts for ai-agent decisions",
+    "content_hash": "9d9e052ec072bf1d836925a0cef2501a"
+  },
+  {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "normalized": "gpt-red: unlocking self-improvement for robustness",
+    "content_hash": "427499f078c3d377b48a10a82d5fb443"
+  },
+  {
+    "title": "Can Apple make smart glasses that aren\u2019t a constant privacy threat?",
+    "normalized": "can apple make smart glasses that aren't a constant privacy threat?",
+    "content_hash": "10a3888b2b9673314675f0c7ea04b52a"
+  },
+  {
+    "title": "Inside one London founder house rewriting the founder-house rules",
+    "normalized": "inside one london founder house rewriting the founder-house rules",
+    "content_hash": "b0a084d48d59028a6da79732180568f9"
+  },
+  {
+    "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+    "normalized": "microsoft responds to lg monitors installing mcafee ads on windows",
+    "content_hash": "278b1ce181465dae4d3ffbf8c764f606"
+  },
+  {
+    "title": "Openbase",
+    "normalized": "openbase",
+    "content_hash": "5856eaf3ff7a53f549c0e951def2aadd"
   }
 ]
