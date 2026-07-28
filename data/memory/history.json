@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: Go Micro \u2013 An agent harness and service framework in Go",
-    "normalized": "show hn: go micro - an agent harness and service framework in go",
-    "content_hash": "fd580e60e1bc2276f62c510d798388bb"
-  },
-  {
-    "title": "Google Cloud\u2019s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite",
-    "normalized": "google cloud's always-on memory agent replaces rag and embeddings with continuous llm consolidation on gemini 3.1 flash-lite",
-    "content_hash": "5a5b21899662e3851caea67ab2811907"
-  },
-  {
-    "title": "Neil Rimer thinks the AI money is coming back out",
-    "normalized": "neil rimer thinks the ai money is coming back out",
-    "content_hash": "dca8033f759fa4f06f80c8f2b9774b15"
-  },
-  {
-    "title": "How Google\u2019s New Gemini Rates Work and How to Track Your Usage",
-    "normalized": "how google's new gemini rates work and how to track your usage",
-    "content_hash": "ca32f473f84bc1e59dfe492982998af2"
-  },
-  {
-    "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-    "normalized": "prompt injection attacks are thwarting ai hacking agents",
-    "content_hash": "7aadd9e88327b644b24469144f41f05c"
-  },
-  {
-    "title": "OpenAI will start notifying parents if their teen has been kicked off of ChatGPT",
-    "normalized": "openai will start notifying parents if their teen has been kicked off of chatgpt",
-    "content_hash": "de6bd744c4d4503ca58eda84a7dc21ca"
-  },
-  {
-    "title": "More games should be on rails (literally)",
-    "normalized": "more games should be on rails (literally)",
-    "content_hash": "96b1a35040bb29b7223876e77895a41a"
-  },
-  {
-    "title": "Fine, electric mountain bikes don\u2019t suck",
-    "normalized": "fine, electric mountain bikes don't suck",
-    "content_hash": "6e9d9b6103073f2d5646e5bf2324d147"
-  },
-  {
-    "title": "Show HN: ride-recap, teaching a LLM my taste to automate cycling highlights",
-    "normalized": "show hn: ride-recap, teaching a llm my taste to automate cycling highlights",
-    "content_hash": "ebf062ef3befebed2dfbb3cef602b7a8"
-  },
-  {
-    "title": "Show HN: Open-source skills that make any AI agent write native social posts",
-    "normalized": "show hn: open-source skills that make any ai agent write native social posts",
-    "content_hash": "dcc2f263c221f94ac36f787b5bfbf067"
-  },
-  {
-    "title": "Claude shows subtle biases to Anthropic across carefully controlled tests",
-    "normalized": "claude shows subtle biases to anthropic across carefully controlled tests",
-    "content_hash": "2fd437160e6d502767192f00ba03b71b"
-  },
-  {
-    "title": "External Commentary on LLM Global Workspace Representations [pdf]",
-    "normalized": "external commentary on llm global workspace representations [pdf]",
-    "content_hash": "b092dbf3f6f161356ffb5c645c47e37b"
-  },
-  {
-    "title": "Cicy-code \u2013 a local-first multi-agent coding workspace via npx",
-    "normalized": "cicy-code - a local-first multi-agent coding workspace via npx",
-    "content_hash": "c3484f89abc076ec7fd22640689c2324"
-  },
-  {
-    "title": "In-browser agent that bulk enriches any webpage",
-    "normalized": "in-browser agent that bulk enriches any webpage",
-    "content_hash": "862d38fac191a762c3d8da3cff9833a0"
-  },
-  {
-    "title": "Why teens deserve access to safe AI",
-    "normalized": "why teens deserve access to safe ai",
-    "content_hash": "061cb2f5f5df374c2401178fbe6fe83c"
-  },
-  {
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "normalized": "how cars24 scales conversations and builds faster with openai",
-    "content_hash": "5bd2f8b60c31eacb96cebe72ac7c1279"
-  },
-  {
-    "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
-    "normalized": "enhancing small language models reasoning through knowledge graph grounding",
-    "content_hash": "2a35107ec274da3edcba27edce462fe9"
-  },
-  {
-    "title": "MemoHarness: Agent Harnesses That Learn from Experience",
-    "normalized": "memoharness: agent harnesses that learn from experience",
-    "content_hash": "8c7f4279c0d9ddf7a86ab4e589dc2563"
-  },
-  {
-    "title": "When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models",
-    "normalized": "when a verified world model still loses: play-adequacy vs prediction-accuracy in llm-synthesized code world models",
-    "content_hash": "f68375431cbfc1b8a364df0e6029d9c0"
-  },
-  {
-    "title": "ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System",
-    "normalized": "reasflow: assisting reasoning-centric scientific discovery in applied mathematics via a knowledge-based multi-agent system",
-    "content_hash": "7f206a24832323501749981960dc73ec"
-  },
-  {
-    "title": "Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation",
-    "normalized": "automatic hard example synthesis with multi-level agentic data curation",
-    "content_hash": "a5794384cc04a687c64170cbb5c6b1b9"
-  },
-  {
-    "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems",
-    "normalized": "traccia: an opentelemetry-based governance platform for ai systems",
-    "content_hash": "35a712e435bf217561ed6c792909f111"
-  },
-  {
-    "title": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
-    "normalized": "branching policy optimization: sandbox-native language agent reinforcement learning",
-    "content_hash": "16647d471109138b2713ecf5ecdfdfa1"
-  },
-  {
-    "title": "NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
-    "normalized": "nvidia ai releases nemotron 3 embed: an open embedding collection whose 8b checkpoint ranks #1 on rteb",
-    "content_hash": "40517a6a54df586afb004a74e36e9ec1"
-  },
-  {
-    "title": "Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks",
-    "normalized": "patter sdk guide to building a restaurant booking phone agent with dynamic variables, guardrails, latency dashboards, and eval checks",
-    "content_hash": "9eb80a0eb5e5588cc53adee6616cf745"
-  },
-  {
     "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
     "normalized": "dave eggers told openai staff that chatgpt was 'silencing an entire generation'",
     "content_hash": "c6d1a18e6f8fae82b3cb163e915e54ce"
@@ -2498,5 +2373,130 @@
     "title": "This $9 key physically locks your most addictive apps",
     "normalized": "this $9 key physically locks your most addictive apps",
     "content_hash": "a05d23d06955877b62c929eeeece3c77"
+  },
+  {
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "normalized": "cursor makes its biggest india push yet ahead of spacex acquisition with localized pricing",
+    "content_hash": "7c2807227d378ecc545e550b1db6e60b"
+  },
+  {
+    "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+    "normalized": "can the new york times save journalism from our ai overlords?",
+    "content_hash": "174de2a28916ae1cdca2959eac75cd82"
+  },
+  {
+    "title": "Silicon Valley\u2019s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+    "normalized": "silicon valley's next ipo billionaires are coming. nonprofits are ready for them",
+    "content_hash": "898f6157f3fd982e822272ad7d064fc4"
+  },
+  {
+    "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
+    "normalized": "microsoft says new cybersecurity ai model helps mdash score 95.95% at half the cost",
+    "content_hash": "1efaf57e61aa1894107b1ef766d0d333"
+  },
+  {
+    "title": "Perplexity\u2019s Personal Computer turns Windows PCs into AI agents",
+    "normalized": "perplexity's personal computer turns windows pcs into ai agents",
+    "content_hash": "c497c9514ee02f6b40c3f9026bd8abde"
+  },
+  {
+    "title": "Smart rings are looking like my kind of AI gadget",
+    "normalized": "smart rings are looking like my kind of ai gadget",
+    "content_hash": "9783ace87fc136c108f654f755bb8366"
+  },
+  {
+    "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
+    "normalized": "sf-ams: strategic forgetting for structured memory in llm agent",
+    "content_hash": "dcfb1c830ebab4088fa911f467550c75"
+  },
+  {
+    "title": "Execution-Grounded Security Testing for Coding Agents in Software Engineering Pipelines",
+    "normalized": "execution-grounded security testing for coding agents in software engineering pipelines",
+    "content_hash": "47da5a426953828f244a23dc4e092901"
+  },
+  {
+    "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+    "normalized": "recursive superintelligence signs $410 compute deal with amazon",
+    "content_hash": "abc7432021d59b61cf04cc3bd6a34625"
+  },
+  {
+    "title": "Lyft and Baidu enter London\u2019s robotaxi battleground as testing begins",
+    "normalized": "lyft and baidu enter london's robotaxi battleground as testing begins",
+    "content_hash": "33df5ade07549ae68deba48a373138ca"
+  },
+  {
+    "title": "You don\u2019t need to splurge on an expensive handheld fan to beat the heat",
+    "normalized": "you don't need to splurge on an expensive handheld fan to beat the heat",
+    "content_hash": "93f1448a4c42e6776328f3e2d8a291a8"
+  },
+  {
+    "title": "Logitech\u2019s handheld plans are on ice \u2014 don\u2019t expect a G Cloud 2 soon",
+    "normalized": "logitech's handheld plans are on ice -- don't expect a g cloud 2 soon",
+    "content_hash": "3c28192f1c2d0854aff0d620c89a6488"
+  },
+  {
+    "title": "Apple launches \u2018Upgrade\u2019 program to lease new devices",
+    "normalized": "apple launches 'upgrade' program to lease new devices",
+    "content_hash": "aefcea4e49215ddb87e932cd71eab90a"
+  },
+  {
+    "title": "Hugging Face is being used to easily undress women and children",
+    "normalized": "hugging face is being used to easily undress women and children",
+    "content_hash": "213ea403a622186a491e39b35c694b04"
+  },
+  {
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "normalized": "google's beyond zero: enterprise security for the ai era",
+    "content_hash": "e3a35da5e5f00f9a001ad3b427ee6f41"
+  },
+  {
+    "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+    "normalized": "fast remediation is the new trust model (jfrog and openai zero-day findings)",
+    "content_hash": "eb7b82c1dc106ecf43a2e567c76e852b"
+  },
+  {
+    "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+    "normalized": "deeplens diagnosis agent: agentic workflow design lets a small reasoning model compete with frontier llms",
+    "content_hash": "df2243630b6eebd20f14b7966d74a443"
+  },
+  {
+    "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
+    "normalized": "synthetic scenario generation for evaluation of industry 4.0 agents",
+    "content_hash": "48e4ba59b96ce5f01ff6ef6a01b007b3"
+  },
+  {
+    "title": "Keyword Matters: Unveiling the Energy Sensitivity of On-Device LLM Prompting",
+    "normalized": "keyword matters: unveiling the energy sensitivity of on-device llm prompting",
+    "content_hash": "fa5158ae2599c493f3053e9f46048695"
+  },
+  {
+    "title": "Schema-Aware Localisation (SAL): Live Schema Grounding and Hallucination Validation for Oracle NL2SQL",
+    "normalized": "schema-aware localisation (sal): live schema grounding and hallucination validation for oracle nl2sql",
+    "content_hash": "4a644707df491f9ad4c88d8a495895ff"
+  },
+  {
+    "title": "cMoLLM at Scale: Horizontal Scaling Laws for Mixture-of-LLMs",
+    "normalized": "cmollm at scale: horizontal scaling laws for mixture-of-llms",
+    "content_hash": "095e83131c6ce93dad23d7feb9b80aa5"
+  },
+  {
+    "title": "HeraSys: Collaborative Serving of Multiple LLM Workflows via Fine-Grained End-to-End Optimization",
+    "normalized": "herasys: collaborative serving of multiple llm workflows via fine-grained end-to-end optimization",
+    "content_hash": "11c2d6140a620fc294550152e2c7cdc0"
+  },
+  {
+    "title": "CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents",
+    "normalized": "corvus: context optimization and reduction via underlying synchronization for llm coding agents",
+    "content_hash": "2318d4580edb37e86b3de03e3c034c5c"
+  },
+  {
+    "title": "Progress-conditioned Group Policy Optimization for Long-Horizon Agentic Tasks",
+    "normalized": "progress-conditioned group policy optimization for long-horizon agentic tasks",
+    "content_hash": "f47ae59805491d4ed02976f7d2f14b32"
+  },
+  {
+    "title": "Beyond Shapley: An Influence-Based Data Auditing Pipeline for LLM Alignment and Evaluation",
+    "normalized": "beyond shapley: an influence-based data auditing pipeline for llm alignment and evaluation",
+    "content_hash": "6606ea62c3d6af45e049a950ca46a2e0"
   }
 ]
