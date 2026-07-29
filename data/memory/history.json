@@ -1,130 +1,5 @@
 [
   {
-    "title": "Fine-Tuning Qwen3 with LoRA Using NVIDIA NeMo AutoModel: A Complete Single-GPU Google Colab Workflow Tutorial",
-    "normalized": "fine-tuning qwen3 with lora using nvidia nemo automodel: a complete single-gpu google colab workflow tutorial",
-    "content_hash": "d2f0c6d5f73ff4c26877ae07bd798d9b"
-  },
-  {
-    "title": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking",
-    "normalized": "nvidia released deepstream 9.1: bringing agentic ai to vision ai with 13 skills and multi-view 3d tracking",
-    "content_hash": "1a7d5c51bfcd0ef8d69fb2990acd72a7"
-  },
-  {
-    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-    "normalized": "openai reduces codex model context size from 372k to 272k",
-    "content_hash": "dbe612d87bd2b4b3a58fd0c05a9ff144"
-  },
-  {
-    "title": "Show HN: LoopGain \u2013 Stop agent loops with control theory, not max_iterations",
-    "normalized": "show hn: loopgain - stop agent loops with control theory, not max_iterations",
-    "content_hash": "04850e4663a4643a78b11385bc104c14"
-  },
-  {
-    "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents",
-    "normalized": "10 open-source no-code ai platforms for building llm apps, rag systems, and ai agents",
-    "content_hash": "5fbd60818ac47a56a4c0c1a6d157ef51"
-  },
-  {
-    "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
-    "normalized": "how to watch the 2026 fifa world cup finals: spain vs. argentina",
-    "content_hash": "ac2ff63f7ff958d574483aac69b9fdd5"
-  },
-  {
-    "title": "\u2018The Odyssey\u2019 Backlash Failed Tremendously",
-    "normalized": "'the odyssey' backlash failed tremendously",
-    "content_hash": "88f29535489693f0b311b7606c630395"
-  },
-  {
-    "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
-    "normalized": "5 best smart speakers (2026): alexa, google, apple",
-    "content_hash": "e8902357b030ca57cf9facf12a811df6"
-  },
-  {
-    "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-    "normalized": "seven malicious vite npm packages use blockchain c2 to deliver a rat",
-    "content_hash": "86576cefa3c817d9d7fad3dbcc9a4d7f"
-  },
-  {
-    "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-    "normalized": "new nadmesh botnet hunts exposed ai services for cloud keys and kubernetes tokens",
-    "content_hash": "86584b69682e5ace1dce73fc6d86240a"
-  },
-  {
-    "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-    "normalized": "goldeneyedog subgroup linked to digicert breach and code-signing certificate theft",
-    "content_hash": "ed153b23514c74778cb5757d6f1c1830"
-  },
-  {
-    "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-    "normalized": "fake coding tests deliver ottercookie-aligned malware hidden in svg flag images",
-    "content_hash": "2e9750e13adff49f03a390037908ff0c"
-  },
-  {
-    "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-    "normalized": "the race to field military autonomy is on, can trusted information infrastructure keep pace?",
-    "content_hash": "5885cd59c20093889793ebbcd5778550"
-  },
-  {
-    "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-    "normalized": "armenia detains russian tourist on u.s. warrant for revil hacker, lawyers say wrong man",
-    "content_hash": "6859342a6ed646906f88aae3a422a2ae"
-  },
-  {
-    "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
-    "normalized": "new goserpent malware targets southeast asian governments and diplomats for espionage",
-    "content_hash": "72a588fea88b7f211fc5c8cd46be746f"
-  },
-  {
-    "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-    "normalized": "cisa adds exploited sharepoint rce zero-day cve-2026-58644 to kev",
-    "content_hash": "285b946439e45cff46ff0d00204d501f"
-  },
-  {
-    "title": "Two Scattered Spider Hackers Get 5.5 Years Each for \u00a329 Million TfL Hack",
-    "normalized": "two scattered spider hackers get 5.5 years each for \u00a329 million tfl hack",
-    "content_hash": "644f55c6e4e5370b8995d22f96647298"
-  },
-  {
-    "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-    "normalized": "threatsday: game cheat spyware, 24-hour ransomware, chrome sync stalking + 12 more stories",
-    "content_hash": "4bbf99ef10ecc52a92a30ec666e2c716"
-  },
-  {
-    "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-    "normalized": "n8n token exchange flaw could let attackers log in as users from another issuer",
-    "content_hash": "3300b89fe048e8d77b302867ef00345f"
-  },
-  {
-    "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-    "normalized": "new telepuz malware spreads via clickfix to steal data and run commands",
-    "content_hash": "416395cede4ebf168a100b2ebc21b706"
-  },
-  {
-    "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-    "normalized": "new clicklock macos stealer kills apps every 210ms until victims type their password",
-    "content_hash": "6abce97af02f45945c82cd5e6fc054ff"
-  },
-  {
-    "title": "20+ Hijacked Government Websites Became\u2028an Attack Channel",
-    "normalized": "20+ hijacked government websites became an attack channel",
-    "content_hash": "77490b24698f553c1622079e64f34759"
-  },
-  {
-    "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-    "normalized": "daxin resurfaces in taiwan alongside stupig pre-login system backdoor",
-    "content_hash": "055e4dd5f74cb43c80a53aeac4ad0413"
-  },
-  {
-    "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-    "normalized": "ai can find bugs, but human knowledge still proves them",
-    "content_hash": "ab21e617f27a52bbca7bd13d7711d2fe"
-  },
-  {
-    "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-    "normalized": "unpatched shark vacuum flaw could let attackers control other vacuums region-wide",
-    "content_hash": "223ccf719c40a82db52958631d0fa088"
-  },
-  {
     "title": "Netflix paid $587M for Ben Affleck\u2019s AI filmmaking startup",
     "normalized": "netflix paid $587m for ben affleck's ai filmmaking startup",
     "content_hash": "a5b1b617c3dd9f6d6df01447f5ba4d24"
@@ -2498,5 +2373,130 @@
     "title": "This comfy gaming headset that can play audio from two sources is $25",
     "normalized": "this comfy gaming headset that can play audio from two sources is $25",
     "content_hash": "9da6d62f854db44c7c4b71640510a4ef"
+  },
+  {
+    "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+    "normalized": "kernel forge: an agent harness for llm-based generation and optimization of cuda kernels",
+    "content_hash": "4fad3dc83661360d52f1b9693a340785"
+  },
+  {
+    "title": "OpenAI\u2019s rogue AI agent didn\u2019t stop at hacking Hugging Face",
+    "normalized": "openai's rogue ai agent didn't stop at hacking hugging face",
+    "content_hash": "6a6b8ca21b13ba17bd9e0b56cd1ae938"
+  },
+  {
+    "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+    "normalized": "procagent: an agentic framework for procedural task guidance on edge with human-in-the-loop",
+    "content_hash": "3137dee90c3ae97dcaf078c7d0f4b8db"
+  },
+  {
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "normalized": "as ai content floods the internet, pangram raises $9m to detect it",
+    "content_hash": "38f7eb121dcd18be0ed22ea447d70d67"
+  },
+  {
+    "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+    "normalized": "openai agent used exposed credentials across four services during hugging face breach",
+    "content_hash": "c666972759ff9aa312def7b3f84e8806"
+  },
+  {
+    "title": "We\u2019re running out of reasons to ignore AI safety",
+    "normalized": "we're running out of reasons to ignore ai safety",
+    "content_hash": "5582ba9562304894acfde8bbbfc6b82c"
+  },
+  {
+    "title": "PATHFinder Agent for Tailored Prenatal Care",
+    "normalized": "pathfinder agent for tailored prenatal care",
+    "content_hash": "c7e7ad29f9fd7d1a55a8bed7fc4933c6"
+  },
+  {
+    "title": "Qualcomm Closes All-Stock Acquisition of Compiler Startup Modular",
+    "normalized": "qualcomm closes all-stock acquisition of compiler startup modular",
+    "content_hash": "5f00ae497b502f9e617db8c629d31207"
+  },
+  {
+    "title": "Spotify adds a running mode to its app",
+    "normalized": "spotify adds a running mode to its app",
+    "content_hash": "a7c57129d3ceec238af3588aeb046482"
+  },
+  {
+    "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+    "normalized": "fast metals is treating waste with more waste to extract critical minerals",
+    "content_hash": "f0376dcdc5aa93540a19363b0e2becb8"
+  },
+  {
+    "title": "OpenAI says the rogue agent that hacked Hugging Face also breached other services",
+    "normalized": "openai says the rogue agent that hacked hugging face also breached other services",
+    "content_hash": "92b24d898317b574130294015f01e5b3"
+  },
+  {
+    "title": "DoorDash is going airborne with new drone delivery division",
+    "normalized": "doordash is going airborne with new drone delivery division",
+    "content_hash": "087bf450c9cd8ad13be08075e08d962f"
+  },
+  {
+    "title": "Artists are lawyering up against AI slop, and some are even winning",
+    "normalized": "artists are lawyering up against ai slop, and some are even winning",
+    "content_hash": "b2815e3d283bc2c4c5df3f53537965da"
+  },
+  {
+    "title": "Xbox outage shouldn&#8217;t have affected games on disc, Microsoft confirms",
+    "normalized": "xbox outage shouldn't have affected games on disc, microsoft confirms",
+    "content_hash": "275cfcfcf3c07ee5b78087d98c5848ab"
+  },
+  {
+    "title": "Why teens deserve access to safe AI",
+    "normalized": "why teens deserve access to safe ai",
+    "content_hash": "b49af9ba97aa7f03fca6892942163cad"
+  },
+  {
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "normalized": "how cars24 scales conversations and builds faster with openai",
+    "content_hash": "74daef4955e1933bd4882cda4de04ddf"
+  },
+  {
+    "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+    "normalized": "beyond memory: a templated substrate for heterogeneous collaborative knowledge work with llm agents",
+    "content_hash": "e6f4517049070a3814b541853bd44433"
+  },
+  {
+    "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+    "normalized": "crystalis: progressive nucleation and semantic annealing for coordinated multi-view visualization generation",
+    "content_hash": "9f1a8d80bfd0359db2d650fa254de1c0"
+  },
+  {
+    "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
+    "normalized": "rsmem: knowledge-enhanced memory evolution for remote sensing agents with systematic evaluation",
+    "content_hash": "1c6d9d035e83004103c7424a65ebdafb"
+  },
+  {
+    "title": "Personalization, Personas, and Forecasting in Value Alignment",
+    "normalized": "personalization, personas, and forecasting in value alignment",
+    "content_hash": "795b40aeac1e77d752beb7adc97be6cf"
+  },
+  {
+    "title": "On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?",
+    "normalized": "on the use of llms for specialised terminology: a good alternative to corpora?",
+    "content_hash": "e0be8bbe6d36e52fa793eb402085f6f5"
+  },
+  {
+    "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
+    "normalized": "samsung's chip workers are jumping ship to rival sk hynix",
+    "content_hash": "a863ea5db2e7338ac65217d841486116"
+  },
+  {
+    "title": "MoonPay\u2019s PayBox Lets AI Agents Spend Without Taking Custody",
+    "normalized": "moonpay's paybox lets ai agents spend without taking custody",
+    "content_hash": "2899898ad5d9256e378b931471934599"
+  },
+  {
+    "title": "AI Struggles to Respect the Employee Handbook",
+    "normalized": "ai struggles to respect the employee handbook",
+    "content_hash": "07176a7e571cdd80b25c8fa4088d281d"
+  },
+  {
+    "title": "OpenAI and Anthropic Back Employee Call to Pace AI Progress",
+    "normalized": "openai and anthropic back employee call to pace ai progress",
+    "content_hash": "0d398cdfbcc25c1ae992f8a20fe27d60"
   }
 ]
