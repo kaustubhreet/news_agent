@@ -1,130 +1,5 @@
 [
   {
-    "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
-    "normalized": "dave eggers told openai staff that chatgpt was 'silencing an entire generation'",
-    "content_hash": "c6d1a18e6f8fae82b3cb163e915e54ce"
-  },
-  {
-    "title": "Google is open-sourcing its 3D emoji",
-    "normalized": "google is open-sourcing its 3d emoji",
-    "content_hash": "35b97fc3f1bdb2683764ff38e8b07d3a"
-  },
-  {
-    "title": "Multi-Agent LLMs Fail to Explore Each Other",
-    "normalized": "multi-agent llms fail to explore each other",
-    "content_hash": "7dda583f49c4e118b07cf98168ab2f15"
-  },
-  {
-    "title": "OpenAI Makes ChatGPT ChatGPT Again",
-    "normalized": "openai makes chatgpt chatgpt again",
-    "content_hash": "6931497c00a964178f3185625cc2ab1a"
-  },
-  {
-    "title": "Kimi: Threat or menace?",
-    "normalized": "kimi: threat or menace?",
-    "content_hash": "f3ecd43ecb708f0480b99bc7e56c4c78"
-  },
-  {
-    "title": "Federal employees can download TikTok on their work phones again",
-    "normalized": "federal employees can download tiktok on their work phones again",
-    "content_hash": "7af8a562d35df7351b67b0f543bbb79b"
-  },
-  {
-    "title": "Google might not kneecap the Pixel 11a with an old processor",
-    "normalized": "google might not kneecap the pixel 11a with an old processor",
-    "content_hash": "567cc8d31f371b62c1394a540a814297"
-  },
-  {
-    "title": "Al-Munaa for OpenAI Build Week",
-    "normalized": "al-munaa for openai build week",
-    "content_hash": "6e1296e7b032f70b5eb57a03f6c92890"
-  },
-  {
-    "title": "Designing a programmable runtime for agent orchestration",
-    "normalized": "designing a programmable runtime for agent orchestration",
-    "content_hash": "140724a1326591b9e2ce31fcf1b7c401"
-  },
-  {
-    "title": "OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape",
-    "normalized": "openai strategic lead defines open-source ai as dystopian hellscape",
-    "content_hash": "5c1e602bf4d35443fb89c2e5e9501ef3"
-  },
-  {
-    "title": "Stately Agent: Build agents as state machines",
-    "normalized": "stately agent: build agents as state machines",
-    "content_hash": "9d0e450fab234ef299162fabad21c536"
-  },
-  {
-    "title": "OpenAI's Sol Learned Design Taste",
-    "normalized": "openai's sol learned design taste",
-    "content_hash": "7b3fd316a44b857f60ece4a41aea2d6d"
-  },
-  {
-    "title": "Show HN: Teya \u2013 Open\u2011source AI family agent on a wall\u2011mounted Android phone",
-    "normalized": "show hn: teya - open\u2011source ai family agent on a wall\u2011mounted android phone",
-    "content_hash": "f306478a48f9ad8c9aecace5fc270346"
-  },
-  {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "normalized": "mufg aims to become ai-native with openai",
-    "content_hash": "3d9013425fe219381617641d5c3a6898"
-  },
-  {
-    "title": "How to Work Effectively with GPT-5.6",
-    "normalized": "how to work effectively with gpt-5.6",
-    "content_hash": "79743562d849756c80708c8b7e70ae42"
-  },
-  {
-    "title": "Context Engineering Isn\u2019t Enough \u2014 A Loop Engineering Experiment With No LLM Inside the Loop",
-    "normalized": "context engineering isn't enough -- a loop engineering experiment with no llm inside the loop",
-    "content_hash": "8a4f0b57678acc810580756de09d84ce"
-  },
-  {
-    "title": "Waymo says San Francisco service has resumed after one-hour pause",
-    "normalized": "waymo says san francisco service has resumed after one-hour pause",
-    "content_hash": "9f26d8c1611f00fde028cf63e57731d7"
-  },
-  {
-    "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-    "normalized": "all the evs that were discontinued or killed off in the u.s. this year",
-    "content_hash": "e3dcea12532ae0417331928bb3be1edd"
-  },
-  {
-    "title": "A 600-mile road trip (and data) proves EV charging doesn\u2019t suck anymore",
-    "normalized": "a 600-mile road trip (and data) proves ev charging doesn't suck anymore",
-    "content_hash": "2abd88e96ea04d663171caa81e84ca32"
-  },
-  {
-    "title": "The Zoom hack that says, \u2018Don\u2019t record me\u2019",
-    "normalized": "the zoom hack that says, 'don't record me'",
-    "content_hash": "27ce2fccd9e5ee36451244d52b8ef851"
-  },
-  {
-    "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
-    "normalized": "i replaced my space heater and ceiling fan with one dyson appliance",
-    "content_hash": "eaf6fe7e84130713efb62adac0d2e749"
-  },
-  {
-    "title": "Parents want safer phones for kids. These companies are answering the call.",
-    "normalized": "parents want safer phones for kids. these companies are answering the call.",
-    "content_hash": "0b2a35954038d748b4b4823b3417cd1a"
-  },
-  {
-    "title": "Your Period Tracker Is (Probably) Spying on You",
-    "normalized": "your period tracker is (probably) spying on you",
-    "content_hash": "764d31dcff8f457e7384c54c5d3eb64e"
-  },
-  {
-    "title": "Balmuda NatureWind Studio Review: A Better Breeze",
-    "normalized": "balmuda naturewind studio review: a better breeze",
-    "content_hash": "cd4f5d363f21bb33b51de0cb299e0dd2"
-  },
-  {
-    "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
-    "normalized": "what cities from chicago to washington, dc, look like under a blanket of wildfire smoke",
-    "content_hash": "fe2117340f6750533960c030ba6e1066"
-  },
-  {
     "title": "Fine-Tuning Qwen3 with LoRA Using NVIDIA NeMo AutoModel: A Complete Single-GPU Google Colab Workflow Tutorial",
     "normalized": "fine-tuning qwen3 with lora using nvidia nemo automodel: a complete single-gpu google colab workflow tutorial",
     "content_hash": "d2f0c6d5f73ff4c26877ae07bd798d9b"
@@ -2498,5 +2373,130 @@
     "title": "Beyond Shapley: An Influence-Based Data Auditing Pipeline for LLM Alignment and Evaluation",
     "normalized": "beyond shapley: an influence-based data auditing pipeline for llm alignment and evaluation",
     "content_hash": "6606ea62c3d6af45e049a950ca46a2e0"
+  },
+  {
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "normalized": "ai leaders sign a statement asking the government to do something about automated ai",
+    "content_hash": "a988d5f2966fd5fbbd9e15aa0c040e08"
+  },
+  {
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "normalized": "cyera agrees to acquire oasis security for $1b to safeguard proliferating ai agents",
+    "content_hash": "65ad87946028c9ff41868653b729ed22"
+  },
+  {
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "normalized": "bot-detection startup spur nabs $200m from insight",
+    "content_hash": "4202d563a3aba95c7ff5add890789e5b"
+  },
+  {
+    "title": "These App Store hidden gems prove there\u2019s still room for great software in the AI era",
+    "normalized": "these app store hidden gems prove there's still room for great software in the ai era",
+    "content_hash": "a502e7eb8e0f2f8fba55187aa9bac6bc"
+  },
+  {
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "normalized": "fish audio raises $52m seed to build ai voice models for creators and enterprises",
+    "content_hash": "13ab853e05587cab4103765fe9049772"
+  },
+  {
+    "title": "Apple launches \u2018Upgrade\u2019 device leasing program in partnership with Klarna",
+    "normalized": "apple launches 'upgrade' device leasing program in partnership with klarna",
+    "content_hash": "d951f65a1e96833b0c5b7ad0b836db84"
+  },
+  {
+    "title": "OpenAI\u2019s Rogue AI Agent Hacked More Than Just Hugging Face",
+    "normalized": "openai's rogue ai agent hacked more than just hugging face",
+    "content_hash": "2387d33ad02c502d51b8e6eb7567e601"
+  },
+  {
+    "title": "AI company employees petition US government for regulation",
+    "normalized": "ai company employees petition us government for regulation",
+    "content_hash": "b940033c8d7b5ea6013c52b8571aaf52"
+  },
+  {
+    "title": "AI\u2019s finally expensive enough to make Wall Street nervous",
+    "normalized": "ai's finally expensive enough to make wall street nervous",
+    "content_hash": "42a42a1f7979dc0e0bf480d639648a18"
+  },
+  {
+    "title": "OpenAI's agents hacked second account during model testing",
+    "normalized": "openai's agents hacked second account during model testing",
+    "content_hash": "e849320b694463d161f544dc7c42c20f"
+  },
+  {
+    "title": "OpenAI Rogue Agent Hacked Account at Modal, Reuters Says",
+    "normalized": "openai rogue agent hacked account at modal, reuters says",
+    "content_hash": "296833e364845c16aed6823b1682ac8a"
+  },
+  {
+    "title": "OpenAI's rogue agent compromised an account at a second tech firm",
+    "normalized": "openai's rogue agent compromised an account at a second tech firm",
+    "content_hash": "41e66fa5e7b1d64fad5012d5c9ae1493"
+  },
+  {
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "normalized": "mcp startup runlayer accuses rippling of stealing its product idea",
+    "content_hash": "e6004ff278cb6312d0a8674920e6ab23"
+  },
+  {
+    "title": "Ozlo\u2019s Sleepbuds 2 build on Bose\u2019s sleep earbud legacy",
+    "normalized": "ozlo's sleepbuds 2 build on bose's sleep earbud legacy",
+    "content_hash": "f87e410debeb11468d958e19d49aab7d"
+  },
+  {
+    "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
+    "normalized": "the robot nasa hired to lift a orbital telescope tumbled out of control",
+    "content_hash": "7f59eff9cffa544ffe2fd92d235b3ec7"
+  },
+  {
+    "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+    "normalized": "waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+    "content_hash": "e67700e61d7603e4b10fd639d4c5f032"
+  },
+  {
+    "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+    "normalized": "paypal leaves the door open to a higher takeover offer following earnings beat",
+    "content_hash": "25c9fd151a937c84f71ec5e93ea26928"
+  },
+  {
+    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+    "normalized": "recursive superintelligence signs $410m compute deal with amazon",
+    "content_hash": "598c2b16913d2a2b43754f6666916bd1"
+  },
+  {
+    "title": "Granola launches an Apple Watch app",
+    "normalized": "granola launches an apple watch app",
+    "content_hash": "7436d934af89eeb2375db58a82b93556"
+  },
+  {
+    "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+    "normalized": "claude ai just cracked a post-quantum test scheme and found a faster 7-round aes attack",
+    "content_hash": "7a648736047e30949cace1439236f510"
+  },
+  {
+    "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+    "normalized": "jfrog confirms openai models exploited artifactory zero-day before hugging face breach",
+    "content_hash": "ca7976feb715a31d1e21939b2526d51a"
+  },
+  {
+    "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
+    "normalized": "ariana grande is suing the hackers who've been leaking her songs and videos for years",
+    "content_hash": "d79728ef612cb8b436a3d3e5e0aaf7f9"
+  },
+  {
+    "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
+    "normalized": "ebay's bizarre cyberstalking saga ends with a $56 million settlement",
+    "content_hash": "d1a2d08dcc799b464eefe0fcb3e21ff3"
+  },
+  {
+    "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
+    "normalized": "is it illegal to trick the us government into wiping your phone during a questionably legal search?",
+    "content_hash": "9348a40baf4f88c29e5889e41edd2b04"
+  },
+  {
+    "title": "This comfy gaming headset that can play audio from two sources is $25",
+    "normalized": "this comfy gaming headset that can play audio from two sources is $25",
+    "content_hash": "9da6d62f854db44c7c4b71640510a4ef"
   }
 ]
