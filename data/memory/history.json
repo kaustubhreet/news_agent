@@ -1,130 +1,5 @@
 [
   {
-    "title": "China delivers a one-two punch to America\u2019s AI dominance",
-    "normalized": "china delivers a one-two punch to america's ai dominance",
-    "content_hash": "0b793d04e797d37de1a02261d3a779f6"
-  },
-  {
-    "title": "StrictlyVC returns to New York\u00a0City\u00a0September 10\u00a0to celebrate a huge year for the city\u2019s startup community",
-    "normalized": "strictlyvc returns to new york city september 10 to celebrate a huge year for the city's startup community",
-    "content_hash": "32281551c09db9cadbd0eb4340174782"
-  },
-  {
-    "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-    "normalized": "mythos didn't break your security program. your exposure window could.",
-    "content_hash": "7ac9dac5ae7cb28b24c14f2625c01229"
-  },
-  {
-    "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-    "normalized": "russian-speaking hacker uses google gemini cli to control botnet of eight dental clinic pcs",
-    "content_hash": "cfbf932ecf50a49a6ffbaa94eb4639ee"
-  },
-  {
-    "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-    "normalized": "world's largest ai model repository hugging face breached by autonomous ai agent",
-    "content_hash": "799f3a16bf6a2db34473130960f8c980"
-  },
-  {
-    "title": "Avengers: Doomsday\u2019s first trailer puts everyone on high alert",
-    "normalized": "avengers: doomsday's first trailer puts everyone on high alert",
-    "content_hash": "1fb0492d726ad47ff9a70744a8baff42"
-  },
-  {
-    "title": "AliExpress fined almost $630 million over illegal product sales",
-    "normalized": "aliexpress fined almost $630 million over illegal product sales",
-    "content_hash": "32b60d3bd9bef1ba1ff5e352fd74505c"
-  },
-  {
-    "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-    "normalized": "graphdx: a cost-aware knowledge-enhanced multi-agent framework for sequential diagnosis",
-    "content_hash": "c7392c0bf811e21834b0361181f2e2b7"
-  },
-  {
-    "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-    "normalized": "cura 1t: specialized model for agentic healthcare",
-    "content_hash": "d9d7fbbdbbbed34540fbb59ae52857d2"
-  },
-  {
-    "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
-    "normalized": "anovax: a local, multi-agent voice assistant with llm planning, typed executors, and adaptive recovery",
-    "content_hash": "6b0236d872d3b678a2bb2d162acdb2f0"
-  },
-  {
-    "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
-    "normalized": "precise but uncoupled: reviewer precision does not guarantee critique uptake in multi-agent math reasoning",
-    "content_hash": "af59b93ce2371c416b7737c6c99cc9fc"
-  },
-  {
-    "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
-    "normalized": "drawingvqa: a real-world benchmark for multi-depth visual-textual reasoning on construction drawings",
-    "content_hash": "5ccd2500a1d24962f0daedf28664b0d5"
-  },
-  {
-    "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
-    "normalized": "do coding agents need executable world models, simplification, and verification to solve arc-agi-3?",
-    "content_hash": "162b7a8f542fc0f760817ac0154abceb"
-  },
-  {
-    "title": "ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning",
-    "normalized": "toolverse: unlocking massive environments and long-horizon tasks for agentic reinforcement learning",
-    "content_hash": "aba5ef693bf0bdbe7f3abb892470056d"
-  },
-  {
-    "title": "S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation",
-    "normalized": "s1-omni: a unified multimodal reasoning model for scientific understanding, prediction, and generation",
-    "content_hash": "798d2144e295ca76935912ad0e8211d3"
-  },
-  {
-    "title": "Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents",
-    "normalized": "behavioral controllability of agentic models for information extraction: from fixed workflows to reflective agents",
-    "content_hash": "0b626642854f17585c7413a5c4dde030"
-  },
-  {
-    "title": "AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets",
-    "normalized": "agentfair: a multi-agent collaborative framework for fairness evaluation of geospatial datasets",
-    "content_hash": "04e4008c739cdd5e0ee1bf5a97e1719b"
-  },
-  {
-    "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
-    "normalized": "dsworld: a data science world model for efficient autonomous agents",
-    "content_hash": "b22c8f11716f12107acdebbc86b085e1"
-  },
-  {
-    "title": "AI Trading: Evaluating Large Language Models for Technical Market Analysis",
-    "normalized": "ai trading: evaluating large language models for technical market analysis",
-    "content_hash": "773527d1278fbc6313dc6047f9268285"
-  },
-  {
-    "title": "Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching",
-    "normalized": "cache-aware prompt compression:a two-tier cost model for llm api caching",
-    "content_hash": "4f09bb45ee53a0476db59220b3c919a2"
-  },
-  {
-    "title": "From Feasibility to Desirability: Plan, Learn, Adapt (PLA) Framework for Personalized On-Device Itinerary Generation",
-    "normalized": "from feasibility to desirability: plan, learn, adapt (pla) framework for personalized on-device itinerary generation",
-    "content_hash": "7185789672d503fcf675539a7520c147"
-  },
-  {
-    "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-    "normalized": "hugging face confirms breach affected internal datasets and credentials, urges users to take action",
-    "content_hash": "eaf69db651dae37f322e13dd5ccf0a2b"
-  },
-  {
-    "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
-    "normalized": "an ebike company was sued for misleading info on safety. it points to a big problem",
-    "content_hash": "b86303b0145051cc2918d5955890671c"
-  },
-  {
-    "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
-    "normalized": "the aclu is arming lawyers to expose state surveillance secrets",
-    "content_hash": "39f2a8767709c01ab46c23ebc3e79af3"
-  },
-  {
-    "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-    "normalized": "russian intelligence hacks ip cameras to spy on military logistics across nato states and ukraine",
-    "content_hash": "255db7a4324409a092cce7696baa5034"
-  },
-  {
     "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
     "normalized": "inference startup infinity raises $15m from touring capital, openai and anthropic researchers",
     "content_hash": "0c1ada56f12985531a85bf76763944e2"
@@ -2498,5 +2373,130 @@
     "title": "xAI\u2019s last-minute scramble to stop Minnesota\u2019s anti-nudification app law",
     "normalized": "xai's last-minute scramble to stop minnesota's anti-nudification app law",
     "content_hash": "4fca781dfee1f14d8a2906f9be55074d"
+  },
+  {
+    "title": "OpenAI\u2019s Hacking Debacle Was a Human Mistake",
+    "normalized": "openai's hacking debacle was a human mistake",
+    "content_hash": "479f965cacb258e879abbee7808ac0c2"
+  },
+  {
+    "title": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
+    "normalized": "anthropic's new mcp spec, kimi k3 open weights on ollama, gpt transcribe, plus",
+    "content_hash": "07ca418f0510fc2e9787cbab728c419a"
+  },
+  {
+    "title": "OpenAI cyberattack caused by rogue AI agent worse than initially reported",
+    "normalized": "openai cyberattack caused by rogue ai agent worse than initially reported",
+    "content_hash": "11361e48f625d67af2a0ed9664f208fb"
+  },
+  {
+    "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
+    "normalized": "zoox clears final federal hurdle to launch paid robotaxi service",
+    "content_hash": "4e49054b03fecc55af6f796e1c85e159"
+  },
+  {
+    "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+    "normalized": "inforcer raises $50m to help prepare smaller businesses for a new world of ai and security risks",
+    "content_hash": "f2d46bf03b4292748643527483f9d7cb"
+  },
+  {
+    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+    "normalized": "dili raises $21.7m to bring ai compliance to the infrastructure boom",
+    "content_hash": "0850d65a00614c395a4657a31c7975e8"
+  },
+  {
+    "title": "The Hugging Face break-in explained",
+    "normalized": "the hugging face break-in explained",
+    "content_hash": "879f339c2f0ccb744871cc591c923d46"
+  },
+  {
+    "title": "LinkedIn Won\u2019t Be Expanding Its Data Centers in the Next Year",
+    "normalized": "linkedin won't be expanding its data centers in the next year",
+    "content_hash": "837cb6ce2a61f088116398b1700d2202"
+  },
+  {
+    "title": "AI Scammers Are Better at Building Trust Than Humans",
+    "normalized": "ai scammers are better at building trust than humans",
+    "content_hash": "6e067d627a65c0652b070a1391181e9d"
+  },
+  {
+    "title": "I Got a Free Meal From a Private Chef\u2014Who Filmed It All to Train Robots",
+    "normalized": "i got a free meal from a private chef--who filmed it all to train robots",
+    "content_hash": "11b804487b19df10bb101453832b0e51"
+  },
+  {
+    "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+    "normalized": "russian hackers exploit microsoft owa flaw to keep mailbox access after credential rotation",
+    "content_hash": "e9ba78b13039bda81bb8792c5444a2e9"
+  },
+  {
+    "title": "Spotify Running Mode helps match tunes to tempo",
+    "normalized": "spotify running mode helps match tunes to tempo",
+    "content_hash": "187d6ba02ab83225d630fd447799d9b3"
+  },
+  {
+    "title": "AI's top startups are barely publishing their research",
+    "normalized": "ai's top startups are barely publishing their research",
+    "content_hash": "f59654824b214aacf543359fcf010111"
+  },
+  {
+    "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+    "normalized": "mbodi ai (yc p25) is hiring robotics/research engineers",
+    "content_hash": "b58324f59e5240d1d0930099b66cd6eb"
+  },
+  {
+    "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+    "normalized": "go llm sdk for streaming, tool-calling ai backends (plus frontend react lib)",
+    "content_hash": "349ad69890b96b34eebea6adf3688e5b"
+  },
+  {
+    "title": "Lilian Weng left Thinking Machines citing health reasons, then rejoins OpenAI",
+    "normalized": "lilian weng left thinking machines citing health reasons, then rejoins openai",
+    "content_hash": "8af7fd7e64cadd7d6ee33daae345d62c"
+  },
+  {
+    "title": "Explain This \u2013 select text, get an explanation from a local LLM",
+    "normalized": "explain this - select text, get an explanation from a local llm",
+    "content_hash": "271ffd424fcfc580a1cbd59a376de788"
+  },
+  {
+    "title": "Show HN: Numbat \u2013 Agent Runtime Detection and Response",
+    "normalized": "show hn: numbat - agent runtime detection and response",
+    "content_hash": "fd000fcfc8aff04811c9c9eeef721d21"
+  },
+  {
+    "title": "OpenAI ARR in July topped all of Q2",
+    "normalized": "openai arr in july topped all of q2",
+    "content_hash": "b2dc56e21b71603caa4773f1e1dfac5d"
+  },
+  {
+    "title": "IronClaw 1.0 \u2013 one secure agent on CLI, Slack and Telegram, one memory",
+    "normalized": "ironclaw 1.0 - one secure agent on cli, slack and telegram, one memory",
+    "content_hash": "00cb0e0badaa413145b4562afd690b3b"
+  },
+  {
+    "title": "Creator of Test That OpenAI Models Tried to Cheat Sounds Alarm",
+    "normalized": "creator of test that openai models tried to cheat sounds alarm",
+    "content_hash": "598f8b75c0be260977046fd0414b177a"
+  },
+  {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "normalized": "accelerating scientific discovery with chatgpt for academic researchers",
+    "content_hash": "97652d6f3593425bf52f5b53e26ab60c"
+  },
+  {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "normalized": "how gpt-5.6 fuses frontier intelligence with frontier efficiency",
+    "content_hash": "6970222bd8f81c3b3c9926e6fde2e1ad"
+  },
+  {
+    "title": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+    "normalized": "microsoft ai releases mai-cyber-1-flash: a 5b-active-parameter cyber model that pushes mdash to 95.95% on cybergym",
+    "content_hash": "e1a75bcd27a37f6f4e825fd9477b35d9"
+  },
+  {
+    "title": "Nscale Buys Anyscale to Move Up the AI Compute Stack",
+    "normalized": "nscale buys anyscale to move up the ai compute stack",
+    "content_hash": "c014c5dbf61679e0de86bc0a1154b90f"
   }
 ]
