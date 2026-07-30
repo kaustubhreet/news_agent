@@ -1,130 +1,5 @@
 [
   {
-    "title": "Netflix paid $587M for Ben Affleck\u2019s AI filmmaking startup",
-    "normalized": "netflix paid $587m for ben affleck's ai filmmaking startup",
-    "content_hash": "a5b1b617c3dd9f6d6df01447f5ba4d24"
-  },
-  {
-    "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
-    "normalized": "can an apple lawsuit derail openai's hardware plans?",
-    "content_hash": "48fdd79d9395bf2106ea7e4f54d8752d"
-  },
-  {
-    "title": "TechCrunch Mobility: The battle over robotaxi rules",
-    "normalized": "techcrunch mobility: the battle over robotaxi rules",
-    "content_hash": "80a37e42c4c764b3bfae3f5736018061"
-  },
-  {
-    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-    "normalized": "nonprofit current ai is racing to build the world wide web of ai, free for all",
-    "content_hash": "bbf9625c9b17c129b153a7aa6fcf6d2c"
-  },
-  {
-    "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-    "normalized": "this unpronounceable series of glyphs is an incredible side project from kieran hebden (aka four tet)",
-    "content_hash": "7d26197bce258b6322a84cd5fac93941"
-  },
-  {
-    "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-    "normalized": "kodak ec35 is a dirt-cheap point-and-shoot film camera",
-    "content_hash": "b382d30dfdd379074feb88fc7ca1e2cb"
-  },
-  {
-    "title": "I hate that I don\u2019t hate this song made with Suno",
-    "normalized": "i hate that i don't hate this song made with suno",
-    "content_hash": "dfcc8dfb7ccbfa889b811ab1385ef295"
-  },
-  {
-    "title": "The FBI reportedly won\u2019t investigate ICE anymore",
-    "normalized": "the fbi reportedly won't investigate ice anymore",
-    "content_hash": "a37f33925ce246a8a4776e250b4f5226"
-  },
-  {
-    "title": "Orchid is a delightfully retro and approachable hipster synth",
-    "normalized": "orchid is a delightfully retro and approachable hipster synth",
-    "content_hash": "aaad0fe9c9ef3f6d7b830ae98ef875f4"
-  },
-  {
-    "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
-    "normalized": "birdfy's solar-powered smart feeder is down to one of its best prices",
-    "content_hash": "a0db14de6deb21f51f141e3769ea8ce0"
-  },
-  {
-    "title": "The Clapper was a bad smart home gadget \u2014\u00a0and a viral sensation",
-    "normalized": "the clapper was a bad smart home gadget -- and a viral sensation",
-    "content_hash": "c8dafec110c9f302b5c54d72001ea1d4"
-  },
-  {
-    "title": "What to watch for after Jensen Huang\u2019s Japan visit",
-    "normalized": "what to watch for after jensen huang's japan visit",
-    "content_hash": "1858426899d638db4fcca166ee639e48"
-  },
-  {
-    "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019",
-    "normalized": "'odyssey' director christopher nolan calls ai an obvious 'trojan horse'",
-    "content_hash": "961cf244079be3932dfdc2755a82a45b"
-  },
-  {
-    "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-    "normalized": "critical nginx vulnerability can crash workers and may allow remote code execution",
-    "content_hash": "29c1ad12373d216a4eedd3695919cc28"
-  },
-  {
-    "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
-    "normalized": "uac-0145 uses clickfix captchas to infect ukrainian devices wih malware",
-    "content_hash": "e7bccb41ecaf86701994fa4f2771777a"
-  },
-  {
-    "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
-    "normalized": "sonicwall sma zero-days exploited before disclosure to gain root access",
-    "content_hash": "76feb32766a54c7c236d465bd9e7e8b6"
-  },
-  {
-    "title": "ZooData",
-    "normalized": "zoodata",
-    "content_hash": "d4a07e4e81ff598797fd6cb8743b77b5"
-  },
-  {
-    "title": "OpenMarkdown",
-    "normalized": "openmarkdown",
-    "content_hash": "4cade7eec613a3b65a0f07a63ba50361"
-  },
-  {
-    "title": "Clark",
-    "normalized": "clark",
-    "content_hash": "4019a6a75a58f96cfb6a73a883c2f5ba"
-  },
-  {
-    "title": "Yapper Leaderboard",
-    "normalized": "yapper leaderboard",
-    "content_hash": "6b7324ec9e45f026287574fabd571a1d"
-  },
-  {
-    "title": "Unabyss for Claude",
-    "normalized": "unabyss for claude",
-    "content_hash": "f82cd23141d1dd500efbbcfbdf30212c"
-  },
-  {
-    "title": "US Marshals arrest the Tate brothers in Miami",
-    "normalized": "us marshals arrest the tate brothers in miami",
-    "content_hash": "f8e99076880c5f2838876aecb2b9708d"
-  },
-  {
-    "title": "The future of physical games is not looking great",
-    "normalized": "the future of physical games is not looking great",
-    "content_hash": "c4ad4365463c6a59f1c1540a2ad9fbf8"
-  },
-  {
-    "title": "The grueling, 630-mile road race where the only fuel is sunlight",
-    "normalized": "the grueling, 630-mile road race where the only fuel is sunlight",
-    "content_hash": "5c0acd1b6a790a13f1f23a051b50642a"
-  },
-  {
-    "title": "Talk: The Art of Braiding Algorithms",
-    "normalized": "talk: the art of braiding algorithms",
-    "content_hash": "4b09da7651c627fa7fd83fdc8fb8a3fc"
-  },
-  {
     "title": "China delivers a one-two punch to America\u2019s AI dominance",
     "normalized": "china delivers a one-two punch to america's ai dominance",
     "content_hash": "0b793d04e797d37de1a02261d3a779f6"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI and Anthropic Back Employee Call to Pace AI Progress",
     "normalized": "openai and anthropic back employee call to pace ai progress",
     "content_hash": "0d398cdfbcc25c1ae992f8a20fe27d60"
+  },
+  {
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "normalized": "microsoft is openly competing with openai, anthropic more than ever",
+    "content_hash": "6bfe2bee8d56cbe8071344489c3dbf76"
+  },
+  {
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "normalized": "microsoft logs $3.2b from anthropic investment, but openai was a mixed bag",
+    "content_hash": "6e389ec95d1805e6c8e42623b0c29c25"
+  },
+  {
+    "title": "Discover\u00a0what\u2019s\u00a0next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "normalized": "discover what's next for ai, from the saas reckoning to the agent security gap, at techcrunch disrupt 2026",
+    "content_hash": "d9d13d8200bba29e64409113613c07da"
+  },
+  {
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "normalized": "encore ai raises $30m to build ai agents that learn from customer calls",
+    "content_hash": "89843335eb712a6bd515fccb22b696b4"
+  },
+  {
+    "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+    "normalized": "ruflo mcp flaw lets unauthenticated attackers run commands and poison ai memory",
+    "content_hash": "a631f1baee14db8bf90ecbefa6f8ce32"
+  },
+  {
+    "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
+    "normalized": "microsoft confirms copilot 'super app' coming this year",
+    "content_hash": "48e09b7276450ebc2f69deb3ad747fe5"
+  },
+  {
+    "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
+    "normalized": "launch hn: tokenless (yc s26) - automatic model switching to save money",
+    "content_hash": "4c2be665672057743d73a5d84c3ae601"
+  },
+  {
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "normalized": "mark zuckerberg predicts that billions of people will have personal ai agents in five years",
+    "content_hash": "13d8afab562f931a3d2f1f9641dbfac8"
+  },
+  {
+    "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
+    "normalized": "zuckerberg says meta's enterprise ai opportunity extends beyond agents",
+    "content_hash": "d3dadc6db3a864ffc96ed264ac863e01"
+  },
+  {
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "normalized": "thinking machines co-founder lilian weng left the company citing health reasons, then joined openai",
+    "content_hash": "bd29eec02285e62d208b3e1cfcdea79d"
+  },
+  {
+    "title": "Google brings its age-assurance technology to Android developers worldwide",
+    "normalized": "google brings its age-assurance technology to android developers worldwide",
+    "content_hash": "64b6f2db22758dc640ff539b6464a403"
+  },
+  {
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "normalized": "hint, a new ai startup co-founded by martha stewart, offers an ai assistant for homeowners",
+    "content_hash": "e41b1ae24539134ee0affec034c98184"
+  },
+  {
+    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+    "normalized": "mark zuckerberg is planning a big push into personal ai agents",
+    "content_hash": "cadd7c8c18b2ec49eb8a9d5e7f99d0ca"
+  },
+  {
+    "title": "Qualcomm is raising phone chip prices starting September 1st",
+    "normalized": "qualcomm is raising phone chip prices starting september 1st",
+    "content_hash": "e49e1b17152a06f8b2f09600bd86eea0"
+  },
+  {
+    "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+    "normalized": "xbox revenue drops 10 percent as microsoft's cloud and ai business surges",
+    "content_hash": "c463b88a3e7fbc0c0811b4743aa4fcb0"
+  },
+  {
+    "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+    "normalized": "openai president says it's 'building a family of devices' for its ai chatbots",
+    "content_hash": "18abb1b03a3ad03b571a3a0a0830687d"
+  },
+  {
+    "title": "groundcover Raises $100 Million Series C to Scale AI-Era Observability Platform",
+    "normalized": "groundcover raises $100 million series c to scale ai-era observability platform",
+    "content_hash": "a0c77ff58d6ce9d492ec9a6b99daad33"
+  },
+  {
+    "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+    "normalized": "winamp aims for a comeback with a new music player powered by deezer",
+    "content_hash": "1683797b60ff1b0db5d5f4d017462ecd"
+  },
+  {
+    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "normalized": "the hugging face ai break-in, as told through an increasingly committed bear metaphor",
+    "content_hash": "d732600df4e9f348169dd39df2fee514"
+  },
+  {
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "normalized": "claude opus 5 became downright ruthless when tasked with running a vending machine",
+    "content_hash": "e826309421824f20e320cc76e158fb03"
+  },
+  {
+    "title": "Waymo robotaxis are starting to return to freeways",
+    "normalized": "waymo robotaxis are starting to return to freeways",
+    "content_hash": "aeb55b068d57773bad3c41d9e837ee3a"
+  },
+  {
+    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+    "normalized": "perplexity employee who worked on comet launches an ai browser aimed at knowledge work",
+    "content_hash": "2d613230262bb35e037a733f58fbbc00"
+  },
+  {
+    "title": "\u2018No one\u2019s making a phone like this\u2019: Light\u2019s co-founders on building for the anti-smartphone generation",
+    "normalized": "'no one's making a phone like this': light's co-founders on building for the anti-smartphone generation",
+    "content_hash": "e580f9be3a083b3b1557f56e058623a1"
+  },
+  {
+    "title": "OpenAI will provide free AI models to select researchers",
+    "normalized": "openai will provide free ai models to select researchers",
+    "content_hash": "5dae75784f371e286dfc0234049c0731"
+  },
+  {
+    "title": "xAI\u2019s last-minute scramble to stop Minnesota\u2019s anti-nudification app law",
+    "normalized": "xai's last-minute scramble to stop minnesota's anti-nudification app law",
+    "content_hash": "4fca781dfee1f14d8a2906f9be55074d"
   }
 ]
