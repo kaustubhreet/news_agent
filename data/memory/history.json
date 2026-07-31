@@ -1,130 +1,5 @@
 [
   {
-    "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-    "normalized": "inference startup infinity raises $15m from touring capital, openai and anthropic researchers",
-    "content_hash": "0c1ada56f12985531a85bf76763944e2"
-  },
-  {
-    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-    "normalized": "google is working on a new ai chip designed to make gemini more efficient",
-    "content_hash": "a2469c45de76a544cc695641832965a8"
-  },
-  {
-    "title": "OpenAI is scared of open-weight models. Should the US be?",
-    "normalized": "openai is scared of open-weight models. should the us be?",
-    "content_hash": "6b6581db24bf7f6ac476891149661f13"
-  },
-  {
-    "title": "Natural raises $30M to reinvent payments for AI agents \u2014 and take on Stripe",
-    "normalized": "natural raises $30m to reinvent payments for ai agents -- and take on stripe",
-    "content_hash": "92cdc75c143b73977f03d2e0f0148635"
-  },
-  {
-    "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
-    "normalized": "anthropic's landmark $1.5b copyright settlement is approved",
-    "content_hash": "b463edd3610c3df383cdcb324af5bfea"
-  },
-  {
-    "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B\u2013$30B valuation",
-    "normalized": "colossal biosciences reportedly in talks to raise new capital at $20b-$30b valuation",
-    "content_hash": "8fc02078adc7dca68bf698caecdcdb28"
-  },
-  {
-    "title": "Show HN: Provena: Open-Source Library for AI Agent Context Governance",
-    "normalized": "show hn: provena: open-source library for ai agent context governance",
-    "content_hash": "a036f025fdb833c6884935a4ab7c427f"
-  },
-  {
-    "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
-    "normalized": "build specialized agent workflows for your business with amazon quick and nvidia nemo agent toolkit",
-    "content_hash": "40f27671ade300f23b1cd323e44aa3e5"
-  },
-  {
-    "title": "Trump\u2019s latest AI czar has already resigned",
-    "normalized": "trump's latest ai czar has already resigned",
-    "content_hash": "e573f558c60f180802597ef7a3c60487"
-  },
-  {
-    "title": "AI\u2019s most important protocol is getting a little bit easier to use",
-    "normalized": "ai's most important protocol is getting a little bit easier to use",
-    "content_hash": "6b0d86523cb8d722a474cac96a80cb3c"
-  },
-  {
-    "title": "X relaunches a rebuilt Android app after year-long effort",
-    "normalized": "x relaunches a rebuilt android app after year-long effort",
-    "content_hash": "8a340902e4135b19296b64f55f76cebf"
-  },
-  {
-    "title": "Adobe camera app\u2019s new feature will critique your photos using AI",
-    "normalized": "adobe camera app's new feature will critique your photos using ai",
-    "content_hash": "577ef47dd117951bc9f72ec748d3fa44"
-  },
-  {
-    "title": "YouTube clarifies policies around AI slop and upsetting videos",
-    "normalized": "youtube clarifies policies around ai slop and upsetting videos",
-    "content_hash": "41a94c0b9c371d46f6d57ca83ba038ce"
-  },
-  {
-    "title": "Hackers stole \u2018significant\u2019 amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-    "normalized": "hackers stole 'significant' amount of data from tech firm relied on by thousands of us hospitals and pharmacies",
-    "content_hash": "b679772492679051e06e8a7087ea45e8"
-  },
-  {
-    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-    "normalized": "here are the 30,000 songs sony is suing udio's ai music generator over",
-    "content_hash": "5e2eb7c7bdb8017651f758d7f616617e"
-  },
-  {
-    "title": "SpaceX in your index fund, explained",
-    "normalized": "spacex in your index fund, explained",
-    "content_hash": "b30ae21f522ca42e6ca23bd23c28c69d"
-  },
-  {
-    "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
-    "normalized": "get borderlands 3, risk of rain 2 and 13 other great pc games for $15",
-    "content_hash": "a5ef63d8a8b5a436af75c2d1ab9aae5d"
-  },
-  {
-    "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-    "normalized": "the playstation replica ornament is an homage to a great, yet fragile console",
-    "content_hash": "6939dacd841d5059da7680fe213c67c2"
-  },
-  {
-    "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
-    "normalized": "ford's $30,000 electric truck: all the news about the company's big ev re-do",
-    "content_hash": "62d57fdc2d99b13e7725e6f70a2b15f8"
-  },
-  {
-    "title": "Judge pauses Paramount\u2019s attempt to buy Warner Bros. Discovery",
-    "normalized": "judge pauses paramount's attempt to buy warner bros. discovery",
-    "content_hash": "fd84364e6a559cdd66895aef068af0cf"
-  },
-  {
-    "title": "LG&#8217;s glossy OLED gaming monitor is rare to find under $400",
-    "normalized": "lg's glossy oled gaming monitor is rare to find under $400",
-    "content_hash": "74ca373ceaccc1a074f33f603a748654"
-  },
-  {
-    "title": "LG\u2019s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
-    "normalized": "lg's monitors come with an unwanted addition for windows: mcafee pop-up ads",
-    "content_hash": "a93e20f8c162ac65eaf448e54eddac6b"
-  },
-  {
-    "title": "Show HN: Agent Search Engine \u2013 an independent index of 247 AI agents",
-    "normalized": "show hn: agent search engine - an independent index of 247 ai agents",
-    "content_hash": "ed54fb6eb94fc56f89ccf9d7b3eb1949"
-  },
-  {
-    "title": "OpenAI Says Model Broke Out of Sandbox",
-    "normalized": "openai says model broke out of sandbox",
-    "content_hash": "080b07a61992396df07a5e15b05d041b"
-  },
-  {
-    "title": "Show HN: Vidmoat \u2013 a video editing pipeline any AI agent can operate",
-    "normalized": "show hn: vidmoat - a video editing pipeline any ai agent can operate",
-    "content_hash": "9295d505cdedfaa24c62152bfbf22de6"
-  },
-  {
     "title": "America needs to stop getting shocked by Chinese AI",
     "normalized": "america needs to stop getting shocked by chinese ai",
     "content_hash": "403b624af9b1ba773536f8f1b702f3b9"
@@ -2498,5 +2373,130 @@
     "title": "Nscale Buys Anyscale to Move Up the AI Compute Stack",
     "normalized": "nscale buys anyscale to move up the ai compute stack",
     "content_hash": "c014c5dbf61679e0de86bc0a1154b90f"
+  },
+  {
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "normalized": "google says it fixed more chrome bugs in june than over the past two years, thanks to ai",
+    "content_hash": "ce5a0c667e2a84332269e9c4d18b5aaf"
+  },
+  {
+    "title": "Nvidia\u2019s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+    "normalized": "nvidia's open source alliance is missing some key names: openai and anthropic",
+    "content_hash": "361f248e2ae70c7eff6afca424bd3436"
+  },
+  {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "normalized": "anthropic says its own ai models breached three companies during security tests",
+    "content_hash": "ad9eee47d1b1d373eb61c4073189896d"
+  },
+  {
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "normalized": "ai hedge fund situational awareness may have sold its public portfolio, but it still has its anthropic shares",
+    "content_hash": "45354bb5f0774470e1bf962297a2e48b"
+  },
+  {
+    "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
+    "normalized": "okta buys ai security startup permiso -- source says for about $200m",
+    "content_hash": "3ffbf7d77e904944e7a8794e21b4ebef"
+  },
+  {
+    "title": "Reddit reports a solid quarter but shows signs of AI\u2019s impact",
+    "normalized": "reddit reports a solid quarter but shows signs of ai's impact",
+    "content_hash": "a7444cad89f3bb378564e9c1246ff281"
+  },
+  {
+    "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply-chain risk\u2019 label",
+    "normalized": "judge says trump admin still lacks evidence for anthropic 'supply-chain risk' label",
+    "content_hash": "5b45e9e5a97fd71d15df33fac7460d8c"
+  },
+  {
+    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+    "normalized": "synthetic-user startup simile raises $200m at $2b valuation 5 months after $100m series a",
+    "content_hash": "b1d7470f4c0ee5621fb4c3ed0ebfe356"
+  },
+  {
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "normalized": "nscale buys anyscale as it seeks to own more of the ai compute stack",
+    "content_hash": "086ad82f0403693328ecc4d113a5a7aa"
+  },
+  {
+    "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
+    "normalized": "anthropic says claude hacked real systems during cybersecurity tests",
+    "content_hash": "1b6b5f16b3326a81896fc91c6f9fad20"
+  },
+  {
+    "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
+    "normalized": "everyone is freaking out about openai and anthropic's race for dominance",
+    "content_hash": "0cb5757932367859333fe05131b93118"
+  },
+  {
+    "title": "OpenAI\u2019s Hacking Debacle Comes Down to Human Error",
+    "normalized": "openai's hacking debacle comes down to human error",
+    "content_hash": "671402b1c9482f1e22ce8cbf8a3c86af"
+  },
+  {
+    "title": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body",
+    "normalized": "google deepmind's new ai model can control a robot's entire body",
+    "content_hash": "bce438e81f11e173d89b1960a3683ed7"
+  },
+  {
+    "title": "Launch HN: Prized (YC S26) \u2013 Let non-engineer staff build secure internal tools",
+    "normalized": "launch hn: prized (yc s26) - let non-engineer staff build secure internal tools",
+    "content_hash": "d7830d7046ad85363e590e011d3f3531"
+  },
+  {
+    "title": "Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining",
+    "normalized": "why do openai's gpt-2 weights beat mine? part three: testing overtraining",
+    "content_hash": "e0cfbe766df7e9bd683bb9b5a3a47a69"
+  },
+  {
+    "title": "Ask HN: What former \"must-have\" AI agent skills have you deprecated?",
+    "normalized": "ask hn: what former \"must-have\" ai agent skills have you deprecated?",
+    "content_hash": "55a7971eed9cf26be44915d3acd59c41"
+  },
+  {
+    "title": "Banks Line Up $15B of Debt for Anthropic with Google Aid",
+    "normalized": "banks line up $15b of debt for anthropic with google aid",
+    "content_hash": "86873686bedc68323675fa89fb40d919"
+  },
+  {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "normalized": "how avatarin built a 24/7 retail agent with gpt-realtime",
+    "content_hash": "0bda89da4961efdf6fe997c9bed55bef"
+  },
+  {
+    "title": "Xsight Labs Raises $300M for Programmable AI Network Silicon",
+    "normalized": "xsight labs raises $300m for programmable ai network silicon",
+    "content_hash": "690324786f16ef5bb6a8571ffcce4bd9"
+  },
+  {
+    "title": "Apple stockpiles inventory as it braces for \u2018significant supply constraints\u2019",
+    "normalized": "apple stockpiles inventory as it braces for 'significant supply constraints'",
+    "content_hash": "ae5dbe70af6e5a7cb4de3c9bba99bcc5"
+  },
+  {
+    "title": "Investors love AI, as long as you\u2019re a cloud host",
+    "normalized": "investors love ai, as long as you're a cloud host",
+    "content_hash": "5623944f18e2cddcd74b9d2fe590e4ef"
+  },
+  {
+    "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+    "normalized": "apple says gaming slowdown and app store changes hurt services growth",
+    "content_hash": "e50d146ed81bede2934bbfb17ab021ca"
+  },
+  {
+    "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+    "normalized": "carecloud begins to notify hundreds of thousands after hackers stole medical records",
+    "content_hash": "58b4fb902ed4f107301cec962bee095c"
+  },
+  {
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "normalized": "friend, the lonely ai wearable, returns with a new voice and a much bigger price tag",
+    "content_hash": "c98948ae9055ca4f404656078dfb29f8"
+  },
+  {
+    "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+    "normalized": "florida plans to build air taxi pads using $200m intended for ev chargers",
+    "content_hash": "7eb959b48162b301fde5171675e33f96"
   }
 ]
