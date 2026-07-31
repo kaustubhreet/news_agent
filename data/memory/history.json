@@ -1,130 +1,5 @@
 [
   {
-    "title": "America needs to stop getting shocked by Chinese AI",
-    "normalized": "america needs to stop getting shocked by chinese ai",
-    "content_hash": "403b624af9b1ba773536f8f1b702f3b9"
-  },
-  {
-    "title": "Show HN: ChatPanel, A Privacy-first AI Agent browser side panel",
-    "normalized": "show hn: chatpanel, a privacy-first ai agent browser side panel",
-    "content_hash": "cf86df2c5c9fe1c091d4ad576fe8487d"
-  },
-  {
-    "title": "Ask HN: Will Anthropic or OpenAI start offering Chinese open source models?",
-    "normalized": "ask hn: will anthropic or openai start offering chinese open source models?",
-    "content_hash": "598370d47efe053984af4150a5cf0bc0"
-  },
-  {
-    "title": "Head to head: GLM 5.2 vs. OpenAI: GPT-5.6 Sol",
-    "normalized": "head to head: glm 5.2 vs. openai: gpt-5.6 sol",
-    "content_hash": "ae0cb32be4d6590c2d3cf161eda08c69"
-  },
-  {
-    "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
-    "normalized": "planflip: attacking multi-agent llm systems via planning-phase prompt injection",
-    "content_hash": "98ada60cb5e6d5e23c6d0afeec09cbb4"
-  },
-  {
-    "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
-    "normalized": "democratizing ai with small language models: structured benchmarking and parameter-efficient fine-tuning for local deployment",
-    "content_hash": "70bb4079d25138fc271b24a6e8abe36a"
-  },
-  {
-    "title": "\u2018It\u2019s a Modern-Day Draft\u2019: Why Stanford Students Walked Out on Sundar Pichai\u2019s Commencement Speech",
-    "normalized": "'it's a modern-day draft': why stanford students walked out on sundar pichai's commencement speech",
-    "content_hash": "e0e70c786f4512ea5ba66fac44205ec6"
-  },
-  {
-    "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-    "normalized": "open-source android ai agents could let invisible screen text run code on host pcs",
-    "content_hash": "dd44aeb3ae0671e76dfbb83d3cb5337f"
-  },
-  {
-    "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-    "normalized": "new encforge ransomware targets ai model files in langflow rce attack",
-    "content_hash": "c556237e9a15491f4f4df026f88b348b"
-  },
-  {
-    "title": "Who\u2019s afraid of the big, bad GPU?",
-    "normalized": "who's afraid of the big, bad gpu?",
-    "content_hash": "e45dad53160c081280505f3251217f88"
-  },
-  {
-    "title": "I asked an AI agent to delete a folder my tool was guarding",
-    "normalized": "i asked an ai agent to delete a folder my tool was guarding",
-    "content_hash": "b34b1d9204d1e249eb3200f79fb48c0f"
-  },
-  {
-    "title": "Hugging Face turns to GLM 5.2 to fend off AI agent attack",
-    "normalized": "hugging face turns to glm 5.2 to fend off ai agent attack",
-    "content_hash": "31ed81539b8faf853a15866db163eb1e"
-  },
-  {
-    "title": "LLM spambots liked my Show HN post more than real people did",
-    "normalized": "llm spambots liked my show hn post more than real people did",
-    "content_hash": "c62f2692c3d766e24dd594f435e708ee"
-  },
-  {
-    "title": "I moved Agentique's LLM layer to BAML",
-    "normalized": "i moved agentique's llm layer to baml",
-    "content_hash": "dc180064af29a5dec59fd782666e1a84"
-  },
-  {
-    "title": "Show HN: Trigger-tree; see which project docs your AI coding agent reads",
-    "normalized": "show hn: trigger-tree; see which project docs your ai coding agent reads",
-    "content_hash": "d2595ac855812ce114d2a0a478885523"
-  },
-  {
-    "title": "Agent solves problem in JavaScript but fails in TypeScript",
-    "normalized": "agent solves problem in javascript but fails in typescript",
-    "content_hash": "8668ba769dc6e7f458ff55c32037d64b"
-  },
-  {
-    "title": "Hugging Face warns an autonomous AI agent hacked its network",
-    "normalized": "hugging face warns an autonomous ai agent hacked its network",
-    "content_hash": "aad4872358efc384537c3e0231bcac0c"
-  },
-  {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "normalized": "gpt-5.6 is now the preferred model in microsoft 365 copilot",
-    "content_hash": "b59c51a420bc07bac1ae7e254f53d6d0"
-  },
-  {
-    "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
-    "normalized": "some large language models exhibit consistent risk attitudes",
-    "content_hash": "de38e58eb31d7e658e8b45c206469c2d"
-  },
-  {
-    "title": "Deterministic Replay for AI Agent Systems",
-    "normalized": "deterministic replay for ai agent systems",
-    "content_hash": "73884e53eda9b627dd88fcaff1a20670"
-  },
-  {
-    "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
-    "normalized": "masked diffusion language models are strong and steerable text-based world models for agentic rl",
-    "content_hash": "bcf6deaf7c29845e8fadf76e8a3184b2"
-  },
-  {
-    "title": "Accurate and Efficient Long-Term Memory for LLM Agents",
-    "normalized": "accurate and efficient long-term memory for llm agents",
-    "content_hash": "96e4621c4664db486c1434b3816ba51a"
-  },
-  {
-    "title": "RAIL Guard: Closing the Evaluation-to-Remediation Gap in Responsible AI for LLM Agents",
-    "normalized": "rail guard: closing the evaluation-to-remediation gap in responsible ai for llm agents",
-    "content_hash": "a6a6db651cd3c75e84cfb43aa20246fd"
-  },
-  {
-    "title": "KernelBench-Verified: Do LLM-Generated Kernels Actually Beat PyTorch?",
-    "normalized": "kernelbench-verified: do llm-generated kernels actually beat pytorch?",
-    "content_hash": "d093948e775cc5b218cb8fe689459c03"
-  },
-  {
-    "title": "CIGPO: Contextual Information-Gain Policy Optimization for Multi-Turn Evidence-Reading LLM Agents",
-    "normalized": "cigpo: contextual information-gain policy optimization for multi-turn evidence-reading llm agents",
-    "content_hash": "8b4b069e94bd8a7e4844f10bf3e2ed64"
-  },
-  {
     "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
     "normalized": "nvidia wants to own every chip inside ai data centers",
     "content_hash": "eca79d84de7083c023fb940b01695cf7"
@@ -2498,5 +2373,130 @@
     "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
     "normalized": "florida plans to build air taxi pads using $200m intended for ev chargers",
     "content_hash": "7eb959b48162b301fde5171675e33f96"
+  },
+  {
+    "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+    "normalized": "repeat founder ryan williams raises $10m seed for an ai startup for private credit managers",
+    "content_hash": "f5101b4a6572364f2b45a80852ea2428"
+  },
+  {
+    "title": "Ask HN: What are you using for LLM inference in production?",
+    "normalized": "ask hn: what are you using for llm inference in production?",
+    "content_hash": "a20b7acc5cffecba76f033dc202191f7"
+  },
+  {
+    "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+    "normalized": "anthropic says claude hacked 3 organizations during cybersecurity tests",
+    "content_hash": "10eebca2301e58e9385a3daac0a15a9a"
+  },
+  {
+    "title": "Gemini Spark Your 24/7 personal AI agent",
+    "normalized": "gemini spark your 24/7 personal ai agent",
+    "content_hash": "a76a7961dfcf5e0135bf257c6f3c465e"
+  },
+  {
+    "title": "AdaMAST: Adaptive Failure Taxonomies for Improving LLM Agents",
+    "normalized": "adamast: adaptive failure taxonomies for improving llm agents",
+    "content_hash": "d01e76819ec763d6d2037eeda2e8f027"
+  },
+  {
+    "title": "EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks",
+    "normalized": "evopinn: agentic discovery of executable algorithms for physics-informed neural networks",
+    "content_hash": "73035a86884a9815b13a8aaa8ffc66d4"
+  },
+  {
+    "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
+    "normalized": "linkedin adds a button to report ai-generated 'slop'",
+    "content_hash": "b9644111505f3f1121cd88985d999c77"
+  },
+  {
+    "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
+    "normalized": "when will fusion power startup commonwealth fusion systems go public?",
+    "content_hash": "e7691a30cbb43523fefe7d46f3b97fe8"
+  },
+  {
+    "title": "Meta says AI is making it easier to build new apps \u2014 and more are coming",
+    "normalized": "meta says ai is making it easier to build new apps -- and more are coming",
+    "content_hash": "0c11159bf59e4ff5c1d8131036e73143"
+  },
+  {
+    "title": "The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key",
+    "normalized": "the new defcon badges pack a unique open source chip that doubles as a security key",
+    "content_hash": "cf4878c2e61bd552c15fd8ce2545cfc8"
+  },
+  {
+    "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+    "normalized": "chrome needs twice-a-week patching thanks to ai bug hunting",
+    "content_hash": "1dcc00e95d7ead450e605f145e864eda"
+  },
+  {
+    "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+    "normalized": "gemini robotics 2 brings google's ai into the physical world",
+    "content_hash": "138df51bd68f766d7a88154c3fa02e21"
+  },
+  {
+    "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+    "normalized": "chinese hacker commands deepseek via telegram to launch autonomous attacks",
+    "content_hash": "23377c61365ed9a9ae2a17886bd88ab7"
+  },
+  {
+    "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+    "normalized": "anthropic says claude mistook the open internet for a ctf and breached three organizations",
+    "content_hash": "094dc80de6aaeabd3e0537ef1b5aecee"
+  },
+  {
+    "title": "Anthropic says its AI models also hacked three organizations on their own",
+    "normalized": "anthropic says its ai models also hacked three organizations on their own",
+    "content_hash": "d6cdba33a0785d5a054d291394b1c810"
+  },
+  {
+    "title": "This tattoo is permanent, pain-free, and might soon come in the mail",
+    "normalized": "this tattoo is permanent, pain-free, and might soon come in the mail",
+    "content_hash": "75a42e64a43efe2f4009d920b7f31df9"
+  },
+  {
+    "title": "Sony pushes forward with ditching discs, despite backlash",
+    "normalized": "sony pushes forward with ditching discs, despite backlash",
+    "content_hash": "c0298176f061dd64a646b2c0207abba1"
+  },
+  {
+    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+    "normalized": "tim cook hints at icloud plus tier for ai power users",
+    "content_hash": "a7a18f3b4f9985dad662463e5356d002"
+  },
+  {
+    "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+    "normalized": "xbox ceo lays out priorities in memo after major 'reset'",
+    "content_hash": "51f7fe7b510aed79d166cd72c99fa204"
+  },
+  {
+    "title": "LinkedIn actually adds a \u2018seems like AI slop\u2019 button",
+    "normalized": "linkedin actually adds a 'seems like ai slop' button",
+    "content_hash": "6b5987ab891fbc632fb879a4e68f65c2"
+  },
+  {
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "normalized": "google fixed more chrome bugs in june than over the past two years, thanks to ai",
+    "content_hash": "17ba7934dcb91ffc096631c4a257d8d5"
+  },
+  {
+    "title": "Show HN: A notebook for prototyping with your agent",
+    "normalized": "show hn: a notebook for prototyping with your agent",
+    "content_hash": "38114e02f3a8729d6a50445073736c56"
+  },
+  {
+    "title": "Show HN: Provenance and decay for AI agent memory",
+    "normalized": "show hn: provenance and decay for ai agent memory",
+    "content_hash": "860975c3a1cd2206ecc9619c8c001730"
+  },
+  {
+    "title": "Promote.chat: AI Marketing Agent for Vibe Coders",
+    "normalized": "promote.chat: ai marketing agent for vibe coders",
+    "content_hash": "da4592eb0eb9a7968596996d784c4f01"
+  },
+  {
+    "title": "Keep It Real: A Schema-Level Deferral Channel for Concise LLM Dialogue [pdf]",
+    "normalized": "keep it real: a schema-level deferral channel for concise llm dialogue [pdf]",
+    "content_hash": "f7282e26af2a3c21624d1723de203e24"
   }
 ]
