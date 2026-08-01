@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-    "normalized": "nvidia wants to own every chip inside ai data centers",
-    "content_hash": "eca79d84de7083c023fb940b01695cf7"
-  },
-  {
-    "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-    "normalized": "openai says it accidentally hacked hugging face with a new ai system",
-    "content_hash": "0dde9e481fddfd9c6c9972357bf7232b"
-  },
-  {
-    "title": "OpenAI says Hugging Face was breached by its pre-release models",
-    "normalized": "openai says hugging face was breached by its pre-release models",
-    "content_hash": "3bee15dc27e0769abc77a55c376cfd99"
-  },
-  {
-    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-    "normalized": "jack dorsey is taking on slack with buzz, a group chat platform for teams and their ai agents",
-    "content_hash": "c26a8b49e20a4f443a40527b1957be06"
-  },
-  {
-    "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro",
-    "normalized": "google releases three new gemini models -- but no 3.5 pro",
-    "content_hash": "56a14aa0abae1fe04a265ac69ba3b3ed"
-  },
-  {
-    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-    "normalized": "openai models escaped containment and hacked hugging face",
-    "content_hash": "1c0e3f10261f9d88e9372825bb54e2c9"
-  },
-  {
-    "title": "Neill Blomkamp\u2019s new zombie AI \u2018film\u2019 is just slop warmed over",
-    "normalized": "neill blomkamp's new zombie ai 'film' is just slop warmed over",
-    "content_hash": "60441340193893f0e9bc90f210aa2ebc"
-  },
-  {
-    "title": "Anthropic\u2019s $1.5 billion book piracy settlement approved by judge",
-    "normalized": "anthropic's $1.5 billion book piracy settlement approved by judge",
-    "content_hash": "da4a78cc3a2245e601f40012bda97944"
-  },
-  {
-    "title": "Meta is testing an AI bedtime story app for people with no imagination",
-    "normalized": "meta is testing an ai bedtime story app for people with no imagination",
-    "content_hash": "d3b8063f4f4a7af5c1316734b4e2f24f"
-  },
-  {
-    "title": "These are the countries moving to ban social media for children",
-    "normalized": "these are the countries moving to ban social media for children",
-    "content_hash": "d6478037ebe9192da7c25b32c3811e5b"
-  },
-  {
-    "title": "AI and the rise of the universal entertainment app",
-    "normalized": "ai and the rise of the universal entertainment app",
-    "content_hash": "3b0bd1c230c5f340893c70ed43831fa2"
-  },
-  {
-    "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-    "normalized": "bucking ev slowdown, sila raises $300m to expand battery materials factory",
-    "content_hash": "26d897b70ab380708f7fdcdedd3b6ff5"
-  },
-  {
-    "title": "Einride bets $38M on EV charging as it scales electric trucking",
-    "normalized": "einride bets $38m on ev charging as it scales electric trucking",
-    "content_hash": "e9d55d74a3ee9d20379b50cc7e617f44"
-  },
-  {
-    "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
-    "normalized": "apple teams up with klarna to launch a lease-to-own program for iphones, ipads, and macs",
-    "content_hash": "d6db3e9893f9d9654635b8cf980ca895"
-  },
-  {
-    "title": "Data centers expected to use 4x more electricity by 2035",
-    "normalized": "data centers expected to use 4x more electricity by 2035",
-    "content_hash": "ac0554cd635905c995565e25749c8b6a"
-  },
-  {
-    "title": "Threads rolls out parental supervision tools",
-    "normalized": "threads rolls out parental supervision tools",
-    "content_hash": "18835a25ae8c6c4291b792f648afa4a2"
-  },
-  {
-    "title": "US threatens sanctions against Chinese AI models over IP theft",
-    "normalized": "us threatens sanctions against chinese ai models over ip theft",
-    "content_hash": "f3483e414130b2750714f95eeeb4ec9a"
-  },
-  {
-    "title": "Light made a flip phone \u2014 it\u2019s colorful and it\u2019s cheap",
-    "normalized": "light made a flip phone -- it's colorful and it's cheap",
-    "content_hash": "0d8aa28806c33c0e9879ffb00aee1685"
-  },
-  {
-    "title": "After TikTok, Snap settles social media addiction case",
-    "normalized": "after tiktok, snap settles social media addiction case",
-    "content_hash": "f1a1ea91b526f93e44ceff87ba8ef90a"
-  },
-  {
-    "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
-    "normalized": "ai music generator suno breach affects 55m users, per have i been pwned",
-    "content_hash": "86a025acae3dd7156b324144a92acae1"
-  },
-  {
-    "title": "What to know about the landmark Warner Bros.\u00a0Discovery sale",
-    "normalized": "what to know about the landmark warner bros. discovery sale",
-    "content_hash": "607840cc8476ec393900bfcd043cf3da"
-  },
-  {
-    "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-    "normalized": "google launches gemini 3.5 flash cyber ai to find and fix software vulnerabilities",
-    "content_hash": "5aa1f4d1f449ba988f4e64b5f7017e89"
-  },
-  {
-    "title": "Substack adds an AI detector to help spot blogs written by no one",
-    "normalized": "substack adds an ai detector to help spot blogs written by no one",
-    "content_hash": "c3d43b1e24145dc52da2c03d3bc48164"
-  },
-  {
-    "title": "Peak Design\u2019s modular Field Bracket has a finder tag built-in",
-    "normalized": "peak design's modular field bracket has a finder tag built-in",
-    "content_hash": "294c626c43e0bd61160cc09cd9be752b"
-  },
-  {
-    "title": "Twitch will let parents stop their teens going live",
-    "normalized": "twitch will let parents stop their teens going live",
-    "content_hash": "89454c81828041d7e9aa19ee6671b2d7"
-  },
-  {
     "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
     "normalized": "the anthropic-physical intelligence rumor roiling ai twitter",
     "content_hash": "b51006e56f1f54950cdb029e23d940df"
@@ -2498,5 +2373,130 @@
     "title": "Keep It Real: A Schema-Level Deferral Channel for Concise LLM Dialogue [pdf]",
     "normalized": "keep it real: a schema-level deferral channel for concise llm dialogue [pdf]",
     "content_hash": "f7282e26af2a3c21624d1723de203e24"
+  },
+  {
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "normalized": "openai reportedly finds evidence that more of its agents ran amok",
+    "content_hash": "0dbadeef83266f7d523979ed86796699"
+  },
+  {
+    "title": "Nvidia in Talks with OpenAI to Guarantee $250B Financing for Data Center",
+    "normalized": "nvidia in talks with openai to guarantee $250b financing for data center",
+    "content_hash": "3f6399ccb36476a16dea074cee6d37e4"
+  },
+  {
+    "title": "Time for OpenAI and Anthropic to take a leaf from Microsoft's book?",
+    "normalized": "time for openai and anthropic to take a leaf from microsoft's book?",
+    "content_hash": "9daa349991d7b10e3ba2feafa9be305a"
+  },
+  {
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "normalized": "google nixes its earth ai feature one day after launch, amid criticism it would spread misinformation",
+    "content_hash": "abad3dca07aaf992ae86028234f67e2f"
+  },
+  {
+    "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+    "normalized": "fresh off its wiz payout, index ventures raises $2b across three funds",
+    "content_hash": "d346d6a16fc87fa2447310a14c7f3f04"
+  },
+  {
+    "title": "Sam Altman\u00a0isn\u2019t\u00a0the only one who wants to pump the brakes on AI",
+    "normalized": "sam altman isn't the only one who wants to pump the brakes on ai",
+    "content_hash": "d0a5de5253c601590352bdc84a5684a0"
+  },
+  {
+    "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+    "normalized": "samsung expects memory shortage to worsen through 2027 and last until 2028",
+    "content_hash": "9076f692ece47221cde57f6e160d1b90"
+  },
+  {
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "normalized": "smallest.ai raises $13m to build ultra-fast voice ai that sounds genuinely human",
+    "content_hash": "242f0517efd490f23754398242154011"
+  },
+  {
+    "title": "Chinese AI Researchers Are Finding Their Voice on X",
+    "normalized": "chinese ai researchers are finding their voice on x",
+    "content_hash": "766c0c9aa3435a1917d45f39ae2fe07b"
+  },
+  {
+    "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
+    "normalized": "anthropic says claude hacked into 3 organizations during cybersecurity tests",
+    "content_hash": "a177dbab5b16ef323ae1222ab43a0c2a"
+  },
+  {
+    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+    "normalized": "google earth's ai deepfake tool only lasted one day",
+    "content_hash": "11dba36722b786d8c3d8fb3db32d2229"
+  },
+  {
+    "title": "Google might launch a \u2018Pixel Tag\u2019",
+    "normalized": "google might launch a 'pixel tag'",
+    "content_hash": "fe25b36cf601e445953330a4365cd8b8"
+  },
+  {
+    "title": "Here\u2019s the problem with putting an AI image generator in Google Earth",
+    "normalized": "here's the problem with putting an ai image generator in google earth",
+    "content_hash": "bdb9ffd99c312f7ecbd32082d8789865"
+  },
+  {
+    "title": "Show HN: GAI \u2013 A Go runtime for typed, tool-using LLM agents",
+    "normalized": "show hn: gai - a go runtime for typed, tool-using llm agents",
+    "content_hash": "1c8edf9787eb92361f6cbd9ca759a946"
+  },
+  {
+    "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
+    "normalized": "openai finds evidence other ai agents escaped containment as it widens probe",
+    "content_hash": "59ac45eec8bf0e27ba3beb5585baae72"
+  },
+  {
+    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+    "normalized": "rivian spinoff also to start delivering e-bikes after months of delays",
+    "content_hash": "5acc0d559799b7ef86d2797dc6d35855"
+  },
+  {
+    "title": "Silicon Valley loves young founders. Until it doesn\u2019t.",
+    "normalized": "silicon valley loves young founders. until it doesn't.",
+    "content_hash": "fe3e0059cf1975d679a4d456b7bc20ab"
+  },
+  {
+    "title": "India is starting to pay for apps, not just download them",
+    "normalized": "india is starting to pay for apps, not just download them",
+    "content_hash": "d7c486bed928f31bfc7224ee2a7a43af"
+  },
+  {
+    "title": "VC-backed startups commit more\u00a0fraud,\u00a0and researchers think they know why",
+    "normalized": "vc-backed startups commit more fraud, and researchers think they know why",
+    "content_hash": "5ee7196031c2b47d1e42e08ccecfbbc0"
+  },
+  {
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "normalized": "snapchat no longer rewards fully ai-generated spotlight content",
+    "content_hash": "158c8c41379a91a1c252df3de09c8010"
+  },
+  {
+    "title": "Siri AI could come with a paywall for power users",
+    "normalized": "siri ai could come with a paywall for power users",
+    "content_hash": "9ef40dd3ec66659f1bd0d58a86e489fe"
+  },
+  {
+    "title": "SpaceX won\u2019t remove all of xAI\u2019s unpermitted turbines for another year",
+    "normalized": "spacex won't remove all of xai's unpermitted turbines for another year",
+    "content_hash": "889b9aa3ea6ed18f8c03c8e62708ea5a"
+  },
+  {
+    "title": "Reddit is testing a new way to watch \u2014 and listen to \u2014 its viral posts",
+    "normalized": "reddit is testing a new way to watch -- and listen to -- its viral posts",
+    "content_hash": "e05ceb14905852429c19cfc0d51841fe"
+  },
+  {
+    "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+    "normalized": "tesla reportedly might sell its china business ahead of a spacex merger",
+    "content_hash": "b73de3ca997dcfe2987f662de72713be"
+  },
+  {
+    "title": "This AI Assistant Wants to Make Up for Your Boyfriend\u2019s Incompetence",
+    "normalized": "this ai assistant wants to make up for your boyfriend's incompetence",
+    "content_hash": "c22a3aa09184a6c41963fa465c37239b"
   }
 ]
