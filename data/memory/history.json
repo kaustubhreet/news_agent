@@ -1,130 +1,5 @@
 [
   {
-    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-    "normalized": "the anthropic-physical intelligence rumor roiling ai twitter",
-    "content_hash": "b51006e56f1f54950cdb029e23d940df"
-  },
-  {
-    "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-    "normalized": "batchdag: llm-planned execution graphs for scalable ad-hoc analysis over enterprise data",
-    "content_hash": "83bb0ae172de76e14adeaa5434cedd16"
-  },
-  {
-    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-    "normalized": "passionfroot raises $15m to expand its b2b creator marketplace to the us",
-    "content_hash": "beb9a770e6cba52c7c0f8dfda23d0629"
-  },
-  {
-    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-    "normalized": "glow emerges from stealth at $1.2b valuation to challenge endpoint security in the ai era",
-    "content_hash": "a68708743bb642a7a1656abf4af4079a"
-  },
-  {
-    "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-    "normalized": "microsoft azure devops mcp flaw lets hidden pr comments hijack ai review agents",
-    "content_hash": "0145c876925b331586e6c287c44bd9c2"
-  },
-  {
-    "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-    "normalized": "openai says its ai models escaped sandbox, targeted hugging face to cheat benchmark",
-    "content_hash": "e3e330e1a55c56c9eda94c08f249f37c"
-  },
-  {
-    "title": "Meta made its own AI detection system. It should have just used Google\u2019s",
-    "normalized": "meta made its own ai detection system. it should have just used google's",
-    "content_hash": "67269daded24eb865b21ab38d6c95294"
-  },
-  {
-    "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack",
-    "normalized": "openai says its ai technology acted on its own in an 'unprecedented' hack",
-    "content_hash": "096f685ef2e1a0dd2fecd32f3cf72876"
-  },
-  {
-    "title": "OpenAI's latest AI agent escaped security controls and hacked a tech company",
-    "normalized": "openai's latest ai agent escaped security controls and hacked a tech company",
-    "content_hash": "e7a5e9742734b2cd982c445f89ddf6f9"
-  },
-  {
-    "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
-    "normalized": "phionyx: a deterministic ai runtime architecture with structured state management and pre-response governance",
-    "content_hash": "6cc6df3ca0d186e2474660ed81dd233e"
-  },
-  {
-    "title": "When JSON Is Not Enough: Semantic Reliability of Schema-Constrained LLM Ordering Agents",
-    "normalized": "when json is not enough: semantic reliability of schema-constrained llm ordering agents",
-    "content_hash": "c46aea195c91395b178780cbd20b13c9"
-  },
-  {
-    "title": "Uncertainty Quantification for AI-Driven Crash Simulation Surrogates: A Comparative Study of Monte Carlo Dropout and Deep Ensemble on Open-Source Bumper Beam Benchmark",
-    "normalized": "uncertainty quantification for ai-driven crash simulation surrogates: a comparative study of monte carlo dropout and deep ensemble on open-source bumper beam benchmark",
-    "content_hash": "77a05c273ba27592c0ab604388574d72"
-  },
-  {
-    "title": "Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis",
-    "normalized": "validating distributed llm serving benchmarks with nvidia srt-slurm, slurm recipes, parameter sweeps, and pareto analysis",
-    "content_hash": "fe03b845184f7d488b5dea9d2c64c334"
-  },
-  {
-    "title": "NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device",
-    "normalized": "nvidia releases cosmos 3 edge: a 4b-parameter open world model that reasons and generates robot actions on-device",
-    "content_hash": "cd6b628a454bbedbf1d00a07abfd7c28"
-  },
-  {
-    "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
-    "normalized": "the browser wars aren't about search anymore -- here are the best alternatives to chrome and safari",
-    "content_hash": "09767ab9ccbeb6c4745a652ca105e2e8"
-  },
-  {
-    "title": "Synthesia\u2019s AI training platform is moving beyond videos into live coaching",
-    "normalized": "synthesia's ai training platform is moving beyond videos into live coaching",
-    "content_hash": "699770aed43b07a616753c584e24327d"
-  },
-  {
-    "title": "MonoCloud for Startups",
-    "normalized": "monocloud for startups",
-    "content_hash": "b22abb9f7465260485d7a92487df1100"
-  },
-  {
-    "title": "Samsung\u2019s newest foldable finally feels Ultra",
-    "normalized": "samsung's newest foldable finally feels ultra",
-    "content_hash": "1e0f4aa7bf8977e57c6c7346729e5568"
-  },
-  {
-    "title": "Samsung\u2019s wider Z Fold 8 feels just right",
-    "normalized": "samsung's wider z fold 8 feels just right",
-    "content_hash": "ff13706e43f7c6521bb7112ee0e054ba"
-  },
-  {
-    "title": "The 2026 Honda Prelude is a marvel of hybrid technology",
-    "normalized": "the 2026 honda prelude is a marvel of hybrid technology",
-    "content_hash": "c95198ea505081e76488becb45dc0426"
-  },
-  {
-    "title": "Utility companies promise to spare us from AI\u2019s energy bill",
-    "normalized": "utility companies promise to spare us from ai's energy bill",
-    "content_hash": "622e8d49df6e303afc6342bfd2a2fd6a"
-  },
-  {
-    "title": "OpenAI and Hugging Face address security incident during model evaluation",
-    "normalized": "openai and hugging face address security incident during model evaluation",
-    "content_hash": "07567944c99d9d56f52c92ebff488b26"
-  },
-  {
-    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-    "normalized": "judge approves $1.5b anthropic settlement for pirated books used to train claude",
-    "content_hash": "51747b7ca3afdafbd54f919c0a84f66d"
-  },
-  {
-    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-    "normalized": "jack dorsey launches buzz to combine team chat, ai agents and git hosting",
-    "content_hash": "ad788d0ba51ecb9cbd3bd5ebbacec5b9"
-  },
-  {
-    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-    "normalized": "gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-    "content_hash": "544b11a3fe05b2ddf0a616fe8ec80a84"
-  },
-  {
     "title": "Show HN: Millwright \u2013 Rust-based, self-hosted LLM router",
     "normalized": "show hn: millwright - rust-based, self-hosted llm router",
     "content_hash": "8e2f27bd23cc3d05301dffba0b630b22"
@@ -2498,5 +2373,130 @@
     "title": "This AI Assistant Wants to Make Up for Your Boyfriend\u2019s Incompetence",
     "normalized": "this ai assistant wants to make up for your boyfriend's incompetence",
     "content_hash": "c22a3aa09184a6c41963fa465c37239b"
+  },
+  {
+    "title": "Nobody Knows if OpenAI\u2019s and Anthropic\u2019s AI Hacking Sprees Are Illegal",
+    "normalized": "nobody knows if openai's and anthropic's ai hacking sprees are illegal",
+    "content_hash": "84b6071d65e265a5c97930fbb5606abc"
+  },
+  {
+    "title": "OpenAI's work on Git for large repositories",
+    "normalized": "openai's work on git for large repositories",
+    "content_hash": "f3159d3bef2c328460106574e2e4748a"
+  },
+  {
+    "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+    "normalized": "hijacked hotel wi-fi pushes fake updates to deliver surveillance malware",
+    "content_hash": "eadd6ececd12a41f8d18865744775060"
+  },
+  {
+    "title": "Apple\u2019s new AirTags are back down to their best price",
+    "normalized": "apple's new airtags are back down to their best price",
+    "content_hash": "7e1facf3c20d483b0d7308f170f06131"
+  },
+  {
+    "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
+    "normalized": "the nhtsa is investigating 1.2 million tesla vehicles over suspension failure reports",
+    "content_hash": "ec0c8bb121861898d8814f8a9711f3fb"
+  },
+  {
+    "title": "The ban on robot vacuums won\u2019t make them safer, only worse",
+    "normalized": "the ban on robot vacuums won't make them safer, only worse",
+    "content_hash": "d9b00b7bb4e787384709c3c7cc20f88d"
+  },
+  {
+    "title": "The major labels propose rules to keep AI slop off the charts",
+    "normalized": "the major labels propose rules to keep ai slop off the charts",
+    "content_hash": "2fed29c2e87df15aae34cc397a52128e"
+  },
+  {
+    "title": "Show HN: Free AI Prompt Gen \u2013 A local-first, open-source prompt engineering tool",
+    "normalized": "show hn: free ai prompt gen - a local-first, open-source prompt engineering tool",
+    "content_hash": "f567fcc5c3d5ce48eeb0eafd491e2f6e"
+  },
+  {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "normalized": "ten advances in mathematics and theoretical computer science",
+    "content_hash": "a8dedea698982dc46576dad1ca92c1bc"
+  },
+  {
+    "title": "Unreleased OpenAI model solves 10 major mathematical problems",
+    "normalized": "unreleased openai model solves 10 major mathematical problems",
+    "content_hash": "f8dc788c7798a1aca9ca590a97df6877"
+  },
+  {
+    "title": "Integrate LLM into your Python runtime",
+    "normalized": "integrate llm into your python runtime",
+    "content_hash": "9cb0f3d4844f704234ebaf0148763a01"
+  },
+  {
+    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+    "normalized": "show hn: minimal llm post-training experiments on an 8gb gpu (sft, dpo, grpo)",
+    "content_hash": "a78877517cd902976b6cf5375641ae9b"
+  },
+  {
+    "title": "OSS Skills: agent skills for open source contributors and maintainers",
+    "normalized": "oss skills: agent skills for open source contributors and maintainers",
+    "content_hash": "643b847f703c43d0fb89473d3c3a7186"
+  },
+  {
+    "title": "Jcode: The Coding Agent That Raises the Skill Ceiling, vs. OpenCode and Pi",
+    "normalized": "jcode: the coding agent that raises the skill ceiling, vs. opencode and pi",
+    "content_hash": "ab9fe14ffe29a89cb5d32b0ab88a0344"
+  },
+  {
+    "title": "How OpenAI Lost Its AI Crown\u2013and the Fight to Win It Back",
+    "normalized": "how openai lost its ai crown-and the fight to win it back",
+    "content_hash": "c713c9a06dfeaa56c3456d78d20f23fc"
+  },
+  {
+    "title": "An OpenAI model proves that non-sofic groups exist",
+    "normalized": "an openai model proves that non-sofic groups exist",
+    "content_hash": "50b730e3732748668496f56e7e21b922"
+  },
+  {
+    "title": "Show HN: Horus-runtime \u2013 Train your own tiny LLM from scratch",
+    "normalized": "show hn: horus-runtime - train your own tiny llm from scratch",
+    "content_hash": "72a65b640aaf97001c2c7bc435e6bbf7"
+  },
+  {
+    "title": "OpenAI Usage Reset 4th time in 7d",
+    "normalized": "openai usage reset 4th time in 7d",
+    "content_hash": "e923fdc4a1e04c6f7db7474111274388"
+  },
+  {
+    "title": "Why one of the best mathematicians is joining OpenAI",
+    "normalized": "why one of the best mathematicians is joining openai",
+    "content_hash": "33134deb275440b3f73adb8e12f628aa"
+  },
+  {
+    "title": "Disrupting a Criminal Scam Operation",
+    "normalized": "disrupting a criminal scam operation",
+    "content_hash": "23b3c57840f75815b092805a8ecc8ac7"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "normalized": "advancing the price-performance frontier with gpt-5.6",
+    "content_hash": "b29e9efee52b84564e3bd0ad845bfe71"
+  },
+  {
+    "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+    "normalized": "introducing explicit prompt caching for openai gpt-5.6 models on amazon bedrock",
+    "content_hash": "1955ae11b7c2bdb4ddc2db2eaad5377c"
+  },
+  {
+    "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+    "normalized": "supabase releases evals: an open source benchmark that scores claude code, codex and opencode on real supabase tasks",
+    "content_hash": "04aaee49e08e36ecd4d36152647a94b9"
+  },
+  {
+    "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
+    "normalized": "jetbrains open-sources kotlinllm: smart macros that generate kotlin source code at runtime and hot-reload it through jdi",
+    "content_hash": "35f7a4dcab4eca82d58e9f5d500a0006"
+  },
+  {
+    "title": "OpenAI\u2019s Widened Probe Turns Up More Agent Escapes",
+    "normalized": "openai's widened probe turns up more agent escapes",
+    "content_hash": "3764c87d091fe53c7e92d7db7702f0cf"
   }
 ]
