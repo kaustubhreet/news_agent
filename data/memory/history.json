@@ -1,130 +1,5 @@
 [
   {
-    "title": "The first known runaway AI agent \u2013 or a bad marketing stunt?",
-    "normalized": "the first known runaway ai agent - or a bad marketing stunt?",
-    "content_hash": "1aacd51171d0fd5b8b913f9d635c0f18"
-  },
-  {
-    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-    "normalized": "servicenow bets $40 million on indian banking software specialist to expand its financial services push",
-    "content_hash": "94e500a01bd10d8b13fe84b69a7f4699"
-  },
-  {
-    "title": "Google now lets you sign in to your account using a selfie video",
-    "normalized": "google now lets you sign in to your account using a selfie video",
-    "content_hash": "9c5f38b3da4665ba9846000784a4e08b"
-  },
-  {
-    "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-    "normalized": "openai and anthropic unite against open-weight ai risks to their bottom line",
-    "content_hash": "10459cb57a36000cf335ab2260e2327d"
-  },
-  {
-    "title": "Ask HN: If OpenAI hacked HuggingFace, why aren't OpenAI prosecuted?",
-    "normalized": "ask hn: if openai hacked huggingface, why aren't openai prosecuted?",
-    "content_hash": "d10472128ab85a6fe4206ad98ae460ce"
-  },
-  {
-    "title": "Senior Python Engineer \u2013 AI Agent Evaluation",
-    "normalized": "senior python engineer - ai agent evaluation",
-    "content_hash": "cdcc79c069deabe4417b1bbb6fb4c158"
-  },
-  {
-    "title": "Show HN: NvChat \u2013 A single-exe Windows client for Nvidia's free LLM API",
-    "normalized": "show hn: nvchat - a single-exe windows client for nvidia's free llm api",
-    "content_hash": "b204d3004387e1934df9af39525655d4"
-  },
-  {
-    "title": "I solved 6 open Erd\u0151s problems in 5 days, using OpenAI GPT-5.6 Sol",
-    "normalized": "i solved 6 open erd\u0151s problems in 5 days, using openai gpt-5.6 sol",
-    "content_hash": "cea5b1ac2814ff00ed0ffca5ae238439"
-  },
-  {
-    "title": "Experts say exploiting Anthropic\u2019s Fable isn\u2019t how Kimi K3 got so good",
-    "normalized": "experts say exploiting anthropic's fable isn't how kimi k3 got so good",
-    "content_hash": "86f648d39fe554004abed8610477ead7"
-  },
-  {
-    "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
-    "normalized": "google adds selfie video recovery for users locked out of their accounts",
-    "content_hash": "7142ae5f11343781a5f9838096fc31c0"
-  },
-  {
-    "title": "OpenAI sued over ChatGPT health advice that almost killed a pastor",
-    "normalized": "openai sued over chatgpt health advice that almost killed a pastor",
-    "content_hash": "8c45b968de49daa01290606ed0a7b6c0"
-  },
-  {
-    "title": "The sci-fi movie that imagines AI isn\u2019t so dystopian after all",
-    "normalized": "the sci-fi movie that imagines ai isn't so dystopian after all",
-    "content_hash": "decbcc5a96cdf49479c76b5519a16db0"
-  },
-  {
-    "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
-    "normalized": "google hit with $1 billion fine for breaking eu antitrust rules",
-    "content_hash": "4753156047c8936bea06038c398f0739"
-  },
-  {
-    "title": "Framework\u2019s premium laptop is shipping with less RAM",
-    "normalized": "framework's premium laptop is shipping with less ram",
-    "content_hash": "ff7a6c21d1348a88ace4f403205a905a"
-  },
-  {
-    "title": "Meta won\u2019t have to face the next planned social media addiction trial",
-    "normalized": "meta won't have to face the next planned social media addiction trial",
-    "content_hash": "e72f7924672c58a6b66cb5d7b40add48"
-  },
-  {
-    "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
-    "normalized": "ios code could reportedly let apple cut off apps when users miss iphone payments",
-    "content_hash": "864336d00e85d21baba4b3f3a709a440"
-  },
-  {
-    "title": "Understanding the AI Economy",
-    "normalized": "understanding the ai economy",
-    "content_hash": "1a45818327508c5011218b55b7acf0d1"
-  },
-  {
-    "title": "Anthropic is subsidizing our AI coding at 13x. How long will it last?",
-    "normalized": "anthropic is subsidizing our ai coding at 13x. how long will it last?",
-    "content_hash": "779cf96a80f8add6a5ec225c3862e8bf"
-  },
-  {
-    "title": "Show HN: Governed Agent \u2013 the LLM reads the request, rules and code decide",
-    "normalized": "show hn: governed agent - the llm reads the request, rules and code decide",
-    "content_hash": "4b6165086157b8a483e1b339156e24d6"
-  },
-  {
-    "title": "An OpenAI Model Spent an Hour Finding a Sandbox Flaw to Open a Public PR",
-    "normalized": "an openai model spent an hour finding a sandbox flaw to open a public pr",
-    "content_hash": "9ca591e28eb3d296cd077f2b6bdce691"
-  },
-  {
-    "title": "Soon everybody will be worried about Chinese LLM's as agent Trojan horses",
-    "normalized": "soon everybody will be worried about chinese llm's as agent trojan horses",
-    "content_hash": "4c09ecdb8a12036ca8ad1fb30f65d6ba"
-  },
-  {
-    "title": "OpenAI's models broke free and launched a cyberattack",
-    "normalized": "openai's models broke free and launched a cyberattack",
-    "content_hash": "02407cbeaf5442c74b5487fab834e639"
-  },
-  {
-    "title": "OpenAI's Australian data centre drops water recycling plan",
-    "normalized": "openai's australian data centre drops water recycling plan",
-    "content_hash": "f99d0e71f6d6b2a0369ca5df035b39a9"
-  },
-  {
-    "title": "Lira Engine \u2013 prove your data isn't in an LLM (AUC-ROC 1.000)",
-    "normalized": "lira engine - prove your data isn't in an llm (auc-roc 1.000)",
-    "content_hash": "8a9fad1eaf8d2257d109c5278ca0c7fe"
-  },
-  {
-    "title": "AI Firewall \u2013 Security Gateway and Reverse Proxy for LLM Traffic",
-    "normalized": "ai firewall - security gateway and reverse proxy for llm traffic",
-    "content_hash": "5595e5afe943a3ae1f81695bb328d0e6"
-  },
-  {
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
     "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
     "content_hash": "da0fb803a3702f3abd12611d409173e2"
@@ -2498,5 +2373,130 @@
     "title": "15 Best Office Chairs of 2026\u2014We Tested 70 to Pick Them",
     "normalized": "15 best office chairs of 2026--we tested 70 to pick them",
     "content_hash": "509153f49251baaa6c1d51d03a3e0e76"
+  },
+  {
+    "title": "Bolcho AI",
+    "normalized": "bolcho ai",
+    "content_hash": "52c4288f19eb246f5a8e70f69fc38c68"
+  },
+  {
+    "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+    "normalized": "an internal openai astra model solved 10 major open math and cs problems",
+    "content_hash": "bfff71992a98511759435d2d462dfbec"
+  },
+  {
+    "title": "LLM Counter-Defaults",
+    "normalized": "llm counter-defaults",
+    "content_hash": "c8675d542fec20604a9da6e9ab0c809e"
+  },
+  {
+    "title": "Running a 35B LLM at 128K Context, Full Speed, on \u20ac870 of Used Hardware",
+    "normalized": "running a 35b llm at 128k context, full speed, on \u20ac870 of used hardware",
+    "content_hash": "c21c4585ae90fad3baab004f2e28d06b"
+  },
+  {
+    "title": "MUD as AI Evaluation and LLM-judge distortion in ways aggregate \u03ba misses",
+    "normalized": "mud as ai evaluation and llm-judge distortion in ways aggregate \u03ba misses",
+    "content_hash": "dce3f526bb154ec6e7591e4c8f210ad1"
+  },
+  {
+    "title": "Testing LLM Concurrency on Consumer Hardware (RTX 5060)",
+    "normalized": "testing llm concurrency on consumer hardware (rtx 5060)",
+    "content_hash": "3aa9113bb07091476e597e7199aaa6fd"
+  },
+  {
+    "title": "Agent-Browser \u2013 Browser Automation for AI",
+    "normalized": "agent-browser - browser automation for ai",
+    "content_hash": "458719b4a9867ef11a9dc529f4584800"
+  },
+  {
+    "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
+    "normalized": "jobradar: open-source job search agent that scores listings with a local llm",
+    "content_hash": "82958171323c5a27219f4ec7cd78bf03"
+  },
+  {
+    "title": "OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+    "normalized": "openai's claimed disproof of connes' rigidity conjecture is invalid [pdf]",
+    "content_hash": "3c95195556ad36c2ef4488fa813a44ea"
+  },
+  {
+    "title": "The Math Superstar Who's Terrified of AI\u2013and Just Took a Job at OpenAI",
+    "normalized": "the math superstar who's terrified of ai-and just took a job at openai",
+    "content_hash": "0cf41b35d25dab6179a71429ab9c91dc"
+  },
+  {
+    "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+    "normalized": "scanning 7.6 petabytes of huggingface training data for secrets",
+    "content_hash": "9fe37b973d85fef93f3757d875969c6c"
+  },
+  {
+    "title": "Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips",
+    "normalized": "best car vacuums (2026): handheld, cordless, shopping tips",
+    "content_hash": "7f54771584f1b0d4c2a415a9f1f70acc"
+  },
+  {
+    "title": "Is It Possible to Make Smart Glasses That Aren\u2019t Creepy?",
+    "normalized": "is it possible to make smart glasses that aren't creepy?",
+    "content_hash": "7eaa4046d95c709d8e94fdc1006a0210"
+  },
+  {
+    "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+    "normalized": "europeans are about to find out how entrenched ai is in their daily lives",
+    "content_hash": "9d5056637dfeabec2b524bc52728694b"
+  },
+  {
+    "title": "7 States\u2019 Water Systems Hit by Cyberattacks Likely Tied to Iran",
+    "normalized": "7 states' water systems hit by cyberattacks likely tied to iran",
+    "content_hash": "9db4a54ae9650169f29ab135fc795d25"
+  },
+  {
+    "title": "Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head",
+    "normalized": "boroux vs. rorra vs. culligan: water filters, tested head to head",
+    "content_hash": "fa19513c6490dab6004c1e38921afaba"
+  },
+  {
+    "title": "Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan",
+    "normalized": "dreo summer flash sale 2026: lowest price ever on chefmaker, fan",
+    "content_hash": "68615926229e0b2cac829e689231c086"
+  },
+  {
+    "title": "Valvoline Coupons and Promo Codes for August 2026",
+    "normalized": "valvoline coupons and promo codes for august 2026",
+    "content_hash": "5b7b399f118a7f6d7801ab14c0e061f0"
+  },
+  {
+    "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+    "normalized": "coldcard hardware wallet flaw linked to $70 million bitcoin theft in 41 minutes",
+    "content_hash": "b8cdc6ab02d0dfe0adf61dd0b39ac238"
+  },
+  {
+    "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+    "normalized": "adobe campaign classic cvss 10.0 flaw could run code without user interaction",
+    "content_hash": "979fb0b87454b001e927bbac4ea8216e"
+  },
+  {
+    "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+    "normalized": "suspected chinese-speaking hackers target central asian governments with octlurk and silklurk",
+    "content_hash": "bfc3da0f7b044193b5f3ac500cb55ef2"
+  },
+  {
+    "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+    "normalized": "hollowframe loader deploys matryoshka backdoor in spear-phishing attack on law firm",
+    "content_hash": "f94de5c4eeecb001bfa8ea08536db0ed"
+  },
+  {
+    "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
+    "normalized": "cheap android tv boxes pose as phones and turn owners' broadband into proxies",
+    "content_hash": "c8fba03a93bbeb56a5776f8cf88d4de9"
+  },
+  {
+    "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+    "normalized": "three recent chrome releases fix 1,442 flaws, more than prior 23 updates combined",
+    "content_hash": "fab0d3a0fa8208665a9624246cce93ed"
+  },
+  {
+    "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+    "normalized": "6 reasons why device code phishing is the fastest-growing threat of 2026",
+    "content_hash": "9c2241b6da6343b9a43a6cead14b5194"
   }
 ]
