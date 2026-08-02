@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: Millwright \u2013 Rust-based, self-hosted LLM router",
-    "normalized": "show hn: millwright - rust-based, self-hosted llm router",
-    "content_hash": "8e2f27bd23cc3d05301dffba0b630b22"
-  },
-  {
-    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-    "normalized": "yope raises $12.3m to build a private social network without algorithms or ads",
-    "content_hash": "a79ec5330427c6326370a70663abeaa3"
-  },
-  {
-    "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
-    "normalized": "ai agent went rogue and hacked startup by itself, openai reveals",
-    "content_hash": "e73e863835411ebf004ca808cb72c44b"
-  },
-  {
-    "title": "Google justifies its massive AI spending with a booming cloud business",
-    "normalized": "google justifies its massive ai spending with a booming cloud business",
-    "content_hash": "7d2c4ae135ddc6fdf1d22f75e52eba06"
-  },
-  {
-    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
-    "normalized": "treasury threatens sanctions after white house claims moonshot distilled anthropic's fable",
-    "content_hash": "68480ed5318aa0d9d9488f1b31617a4a"
-  },
-  {
-    "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
-    "normalized": "how openai's human mistake led to the ai-powered hack on hugging face",
-    "content_hash": "80f0f2da1129e9cbd9d077ba0ebd44a6"
-  },
-  {
-    "title": "Science Corporation\u2019s vision-restoring chip wins EU approval",
-    "normalized": "science corporation's vision-restoring chip wins eu approval",
-    "content_hash": "2bb311b75ae309ae83bc27da8069a997"
-  },
-  {
-    "title": "Menlo Ventures\u2019 Matt Murphy explains why Anthropic is winning (and it\u2019s not the model)",
-    "normalized": "menlo ventures' matt murphy explains why anthropic is winning (and it's not the model)",
-    "content_hash": "27792b89767be83702168c89135ac448"
-  },
-  {
-    "title": "OpenAI\u2019s AI spending spree has ballooned to $750B",
-    "normalized": "openai's ai spending spree has ballooned to $750b",
-    "content_hash": "ef57421c8bce921eae559c8badd28924"
-  },
-  {
-    "title": "China\u2019s Open AI Models Are Challenging Silicon Valley\u2019s Playbook",
-    "normalized": "china's open ai models are challenging silicon valley's playbook",
-    "content_hash": "daa153451dd80b4a55dba702186fa4b7"
-  },
-  {
-    "title": "OpenAI Model Hacks into HuggingFace During Cybersecurity Evaluation",
-    "normalized": "openai model hacks into huggingface during cybersecurity evaluation",
-    "content_hash": "6dd3bf6a82a1ab335554b1496d0e06b0"
-  },
-  {
-    "title": "Proxy for OpenAI Codex and Claude Code, use any LLM with those apps",
-    "normalized": "proxy for openai codex and claude code, use any llm with those apps",
-    "content_hash": "9251ad4044d56e3679e69db0093f221e"
-  },
-  {
-    "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Relay",
-    "normalized": "build specialized agent workflows for your business with amazon quick and nvidia nemo relay",
-    "content_hash": "476e1c0c440899e4b3c5fd013d02a90b"
-  },
-  {
-    "title": "Build an LLM Agent That Can Write and Run Code",
-    "normalized": "build an llm agent that can write and run code",
-    "content_hash": "3ec37b89bd9377c3b9760b0ee26e0733"
-  },
-  {
-    "title": "After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe",
-    "normalized": "after shocking quarter, ibm insists that ai isn't killing the mainframe",
-    "content_hash": "5eed5d2dd81b5f30db2d5712294b2969"
-  },
-  {
-    "title": "Social media addiction lawsuit against Meta is dropped",
-    "normalized": "social media addiction lawsuit against meta is dropped",
-    "content_hash": "0bcd856562ad2f7a8dbfbdf9fc79f04e"
-  },
-  {
-    "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
-    "normalized": "soundcloud acquires decentralized music platform nina protocol months after its shutdown",
-    "content_hash": "211eaeeebf36c9c7546e258b18b46f65"
-  },
-  {
-    "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
-    "normalized": "travis kalanick's robotics company raises $1.7b, led by a16z",
-    "content_hash": "0b930d8767055f7855f284565d9fe37a"
-  },
-  {
-    "title": "Monday.com lays off hundreds to focus on AI",
-    "normalized": "monday.com lays off hundreds to focus on ai",
-    "content_hash": "6ba5d4dc4746903baefa9fc82d374822"
-  },
-  {
-    "title": "Google is making it easier to switch from iPhone to Android",
-    "normalized": "google is making it easier to switch from iphone to android",
-    "content_hash": "979beaee80e0849f3f454f098a61963a"
-  },
-  {
-    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-    "normalized": "arcee, a us open source ai lab, says chinese models are not inherently dangerous",
-    "content_hash": "59b80e287b9a7a74f638f795e0c4c495"
-  },
-  {
-    "title": "Substack\u2019s new tool tells you who\u2019s been writing their newsletters with AI",
-    "normalized": "substack's new tool tells you who's been writing their newsletters with ai",
-    "content_hash": "f2a4e67d88b7f905f29ae6031f2fe9fb"
-  },
-  {
-    "title": "If you pay a hacker\u2019s ransom, chances are that they\u2019ll come back for more",
-    "normalized": "if you pay a hacker's ransom, chances are that they'll come back for more",
-    "content_hash": "a292817748f46bf01a700a1a3b513296"
-  },
-  {
-    "title": "Cascade raises $3.5M to help construction firms find and win projects",
-    "normalized": "cascade raises $3.5m to help construction firms find and win projects",
-    "content_hash": "756c6706215f4458adbd3df8d2f86ee7"
-  },
-  {
-    "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-    "normalized": "openai says its ai agent broke out of testing sandbox to hack hugging face",
-    "content_hash": "f07d14e6765d0783129d4e65aa5e08b9"
-  },
-  {
     "title": "The first known runaway AI agent \u2013 or a bad marketing stunt?",
     "normalized": "the first known runaway ai agent - or a bad marketing stunt?",
     "content_hash": "1aacd51171d0fd5b8b913f9d635c0f18"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI\u2019s Widened Probe Turns Up More Agent Escapes",
     "normalized": "openai's widened probe turns up more agent escapes",
     "content_hash": "3764c87d091fe53c7e92d7db7702f0cf"
+  },
+  {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "normalized": "sam altman is still making the case for parenting via chatgpt",
+    "content_hash": "4b0670f125fb492232bbc501e48d4567"
+  },
+  {
+    "title": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
+    "normalized": "youtuber hank green says his ai usage is 'not healthy'",
+    "content_hash": "e8e6efa13c8405a60b6faef54de713b4"
+  },
+  {
+    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+    "normalized": "the openai and anthropic ai hacking sprees are a messy new legal frontier",
+    "content_hash": "2f3bffcb4b4f8715e65853dfabf03393"
+  },
+  {
+    "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
+    "normalized": "accelerating transformer training with nvidia transformer engine, fused kernels, bf16, fp8, and gpu benchmarking",
+    "content_hash": "35ee33cda9859b0d9365662274059244"
+  },
+  {
+    "title": "Inside the London hacker house taking a stand against founder burnout",
+    "normalized": "inside the london hacker house taking a stand against founder burnout",
+    "content_hash": "8330d2e50ef949202284af67b07ad189"
+  },
+  {
+    "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
+    "normalized": "judge denies xai's request to block minnesota ban on 'nudify' apps",
+    "content_hash": "4d3e2d0a04ae7e312958ca407eef8456"
+  },
+  {
+    "title": "Pixel 11 specs and price leak with no surprises",
+    "normalized": "pixel 11 specs and price leak with no surprises",
+    "content_hash": "5b3160b81ad68c60af7e48e41c3a1583"
+  },
+  {
+    "title": "Is this Billboard Hot 100 hit AI slop?",
+    "normalized": "is this billboard hot 100 hit ai slop?",
+    "content_hash": "2e51c0208ae95f7d8b07116a995c6000"
+  },
+  {
+    "title": "The Verge\u2019s 2026 back-to-school shopping guide",
+    "normalized": "the verge's 2026 back-to-school shopping guide",
+    "content_hash": "c319965c0d2b0f608c0a70ee7f87a86c"
+  },
+  {
+    "title": "The Mermaid Mask is a perfect vacation murder mystery",
+    "normalized": "the mermaid mask is a perfect vacation murder mystery",
+    "content_hash": "e4ff82f34ce0b8b96d9be996b0e9f109"
+  },
+  {
+    "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+    "normalized": "the greenhouse and the lens: two modes of agentic ai work",
+    "content_hash": "5e7f3d3265b77192db9bab2c1d6166bb"
+  },
+  {
+    "title": "The Labs Just Proved Your Agent\u2019s Sandbox Is Only a Suggestion",
+    "normalized": "the labs just proved your agent's sandbox is only a suggestion",
+    "content_hash": "ed56f6e50250ed9ad9487ccd37fe2ade"
+  },
+  {
+    "title": "OpenAI Cuts API Prices on Its Two Cheaper GPT-5.6 Tiers",
+    "normalized": "openai cuts api prices on its two cheaper gpt-5.6 tiers",
+    "content_hash": "97f686f34d1ae93552933ee9c793dfd4"
+  },
+  {
+    "title": "Bloom Security Emerges from Stealth with $20M to Secure the AI-Native Endpoint",
+    "normalized": "bloom security emerges from stealth with $20m to secure the ai-native endpoint",
+    "content_hash": "bdb6587b95afd159d8361eef6e194f67"
+  },
+  {
+    "title": "Simile Raises More Than $200 Million at a $2 Billion Valuation to Scale Human Behavior Simulations",
+    "normalized": "simile raises more than $200 million at a $2 billion valuation to scale human behavior simulations",
+    "content_hash": "6ae7766c551619a303049839eb8684ec"
+  },
+  {
+    "title": "DataBahn Raises $40M to Build an Agentic Control Layer for Enterprise Data",
+    "normalized": "databahn raises $40m to build an agentic control layer for enterprise data",
+    "content_hash": "ed639c5286de7a245c8b464a4c0a8453"
+  },
+  {
+    "title": "Google Ships Gemini Robotics ER 2 With Multi-Robot Teamwork",
+    "normalized": "google ships gemini robotics er 2 with multi-robot teamwork",
+    "content_hash": "a6a9dee59c912319b5baca47208fd28a"
+  },
+  {
+    "title": "Berlin Links Its AI Sovereignty Push to OpenAI\u2019s Rogue Agent",
+    "normalized": "berlin links its ai sovereignty push to openai's rogue agent",
+    "content_hash": "15c6f0a9c34f64a9c283abedf8eb73a1"
+  },
+  {
+    "title": "Amazon Engineers Move to Cap AI Spending After Cost Overruns",
+    "normalized": "amazon engineers move to cap ai spending after cost overruns",
+    "content_hash": "f547f95a9faa9b79a09097f332661e8f"
+  },
+  {
+    "title": "Should you still buy your next smartphone \u2014 or subscribe to it instead?",
+    "normalized": "should you still buy your next smartphone -- or subscribe to it instead?",
+    "content_hash": "fda7d05146f252c5bfc643162a55af22"
+  },
+  {
+    "title": "Uber is building an autonomous vehicle empire, and here\u2019s every company it\u2019s using to do it",
+    "normalized": "uber is building an autonomous vehicle empire, and here's every company it's using to do it",
+    "content_hash": "0fece3b0ebd14b09ceada311fdd5288e"
+  },
+  {
+    "title": "Apps that help you break free from doomscrolling and get active",
+    "normalized": "apps that help you break free from doomscrolling and get active",
+    "content_hash": "79343a3561cf333f5066fa9e0c4bcd0f"
+  },
+  {
+    "title": "What\u2019s the best handheld mini fan?",
+    "normalized": "what's the best handheld mini fan?",
+    "content_hash": "5b1e50121bec73c43f63ce6f6dc83244"
+  },
+  {
+    "title": "GM and Ford are talking less and less about EVs",
+    "normalized": "gm and ford are talking less and less about evs",
+    "content_hash": "c1f2d00b326b7c208de53adf52b8374d"
+  },
+  {
+    "title": "15 Best Office Chairs of 2026\u2014We Tested 70 to Pick Them",
+    "normalized": "15 best office chairs of 2026--we tested 70 to pick them",
+    "content_hash": "509153f49251baaa6c1d51d03a3e0e76"
   }
 ]
