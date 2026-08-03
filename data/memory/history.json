@@ -1,130 +1,5 @@
 [
   {
-    "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-    "normalized": "chatgpt agentforger flaw could deploy rogue workspace agents via a phishing link",
-    "content_hash": "93e36727c48b5e94e532408f84d0b302"
-  },
-  {
-    "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
-    "normalized": "inferencebench: a benchmark for open-ended llm inference optimization by ai agents",
-    "content_hash": "834ad9b177b169335ea6d87d1e92d930"
-  },
-  {
-    "title": "Microsoft pressures LG into killing unwanted McAfee ads",
-    "normalized": "microsoft pressures lg into killing unwanted mcafee ads",
-    "content_hash": "31dcfdf8742f3fb6baa83a46c4fd9d42"
-  },
-  {
-    "title": "I let an AI agent run my job search: the real numbers, including the LLM bill",
-    "normalized": "i let an ai agent run my job search: the real numbers, including the llm bill",
-    "content_hash": "7372da7f052e41ff368f194e489956c3"
-  },
-  {
-    "title": "SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales",
-    "normalized": "soap, muon, and beyond: pushing llm pretraining scales",
-    "content_hash": "910f4beb95c6b3717e851ec9795dfcb5"
-  },
-  {
-    "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
-    "normalized": "the eu fines google $1 billion for prioritizing its own services in search",
-    "content_hash": "d48da29dd9c30aee1a854ca63167a222"
-  },
-  {
-    "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-    "normalized": "seeing ai agents is not enough. security teams must enforce what they can do",
-    "content_hash": "4f2313ec520f366da5b9e9ac22d72d1d"
-  },
-  {
-    "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-    "normalized": "hacker runs hermes ai agent unattended for post-exploitation at thai finance ministry",
-    "content_hash": "a81e0edea72605f977263fe9194681e3"
-  },
-  {
-    "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-    "normalized": "nodebb patches eight ai-found flaws exposing admin access and private chats",
-    "content_hash": "2da165004df72f5b27cb9dc0f6abb50b"
-  },
-  {
-    "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-    "normalized": "kimi k3 agents found redis zero-days and built rce exploit, researchers say",
-    "content_hash": "b361c041389542a34b2875dc77f0320d"
-  },
-  {
-    "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-    "normalized": "threatsday: android spyware, plc attacks, ai image prompt injection + 12 more stories",
-    "content_hash": "319b8d82118d30160fca2b1072c56584"
-  },
-  {
-    "title": "OpenAI once again makes the case for giving ChatGPT your health records",
-    "normalized": "openai once again makes the case for giving chatgpt your health records",
-    "content_hash": "a3134374e6bb2a003737d4bfeeb55eea"
-  },
-  {
-    "title": "Whack-a-drone",
-    "normalized": "whack-a-drone",
-    "content_hash": "81c70f123c38b1596d4dbacaf69805b0"
-  },
-  {
-    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-    "normalized": "alexa plus is getting an ai update to handle more complicated instructions",
-    "content_hash": "0d193cd48714d0f7c75c9da7f264d059"
-  },
-  {
-    "title": "FCC Chairman Brendan Carr\u2019s war on the First Amendment",
-    "normalized": "fcc chairman brendan carr's war on the first amendment",
-    "content_hash": "8975a8eccc0326577df9275fabfd7d81"
-  },
-  {
-    "title": "Patreon is laying off 20 percent of workers",
-    "normalized": "patreon is laying off 20 percent of workers",
-    "content_hash": "0dde2f1a41f34ea36c339f110f2d058b"
-  },
-  {
-    "title": "Corsair\u2019s PC case with a panoramic glass design is $70 off",
-    "normalized": "corsair's pc case with a panoramic glass design is $70 off",
-    "content_hash": "68bb17515f98053f9a1fff3ba35a3694"
-  },
-  {
-    "title": "Hive_review: Multi-agent AI code-review loop",
-    "normalized": "hive_review: multi-agent ai code-review loop",
-    "content_hash": "4c2658f1b90ad783f3b1458776bf8802"
-  },
-  {
-    "title": "Beyond Static Summarization: Proactive Memory Extraction for LLM Agents",
-    "normalized": "beyond static summarization: proactive memory extraction for llm agents",
-    "content_hash": "a5bcd73e8e4affd8397f46a6eaa968a1"
-  },
-  {
-    "title": "BTL-3: A 27B open-weight agent model for agentic coding and structural tool use",
-    "normalized": "btl-3: a 27b open-weight agent model for agentic coding and structural tool use",
-    "content_hash": "701d857a5b3b2e13137c5e69b0caa058"
-  },
-  {
-    "title": "Treasury threatens sanctions, claims Moonshot distilled Anthropic's Fable",
-    "normalized": "treasury threatens sanctions, claims moonshot distilled anthropic's fable",
-    "content_hash": "af8ef6ef7ccab4816ac145a6bf94f49f"
-  },
-  {
-    "title": "OpenAI's Hugging Face Hack Triggers 'AI Kill Switch' Bill in Congress",
-    "normalized": "openai's hugging face hack triggers 'ai kill switch' bill in congress",
-    "content_hash": "e027f6333c14efb385f1d12caab44710"
-  },
-  {
-    "title": "The model didn't escape. OpenAI ran the attack",
-    "normalized": "the model didn't escape. openai ran the attack",
-    "content_hash": "f58a478310f8aec6e80d09e82094c67d"
-  },
-  {
-    "title": "Introducing OpenAI Presence",
-    "normalized": "introducing openai presence",
-    "content_hash": "b75487528372c63b53f40d17a4b0df92"
-  },
-  {
-    "title": "Introducing the ChatGPT for small business program",
-    "normalized": "introducing the chatgpt for small business program",
-    "content_hash": "746d8717c4c89802852da56e13a08adc"
-  },
-  {
     "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
     "normalized": "openai's new voice mode makes it to the chatgpt desktop app",
     "content_hash": "c47065da93a9fc518ec5c506c6072c3a"
@@ -2498,5 +2373,130 @@
     "title": "NudgeForMe",
     "normalized": "nudgeforme",
     "content_hash": "99b8cb4525bec5230e14411daf5e7ed8"
+  },
+  {
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
+    "content_hash": "da0fb803a3702f3abd12611d409173e2"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "normalized": "claude code costs up to $200 a month. goose does the same thing for free.",
+    "content_hash": "65248b0266dc1f08a04a2e243e5e13e8"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "normalized": "salesforce rolls out new slackbot ai agent as it battles microsoft and google in workplace ai",
+    "content_hash": "37f7465d43119228a5340488494c5cd0"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
+    "normalized": "anthropic launches cowork, a claude desktop agent that works in your files -- no coding required",
+    "content_hash": "9b4ec2bb172ef63f1cfc32c6f3255ae3"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "normalized": "listen labs raises $69m after viral billboard hiring stunt to scale ai customer interviews",
+    "content_hash": "b38a14630ce16f4da4c5b72d4109ed41"
+  },
+  {
+    "title": "China&#8217;s Alibaba takes another swipe at America\u2019s AI supremacy",
+    "normalized": "china's alibaba takes another swipe at america's ai supremacy",
+    "content_hash": "976563e1742348340d7610bc8b20c6ab"
+  },
+  {
+    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+    "normalized": "horizon3 hits $2 billion valuation with $250m series e as ai threats escalate",
+    "content_hash": "6c1c2e7e95fb87aa19c6c2f3f0143de7"
+  },
+  {
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "normalized": "a marc benioff-backed startup thinks ai can solve the ai deployment problem",
+    "content_hash": "ab8268837719c7267ade3ef088393260"
+  },
+  {
+    "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+    "normalized": "scitoolagent-evo: an ontology-aware self-evolving agent for open-world scientific tool acquisition",
+    "content_hash": "3ecb15e95eb121d62c563097ff2d756a"
+  },
+  {
+    "title": "Distilling Knowledge from Large Language Models into Lightweight Reinforcement Learning Agents for Autonomous Cyber Operations",
+    "normalized": "distilling knowledge from large language models into lightweight reinforcement learning agents for autonomous cyber operations",
+    "content_hash": "9e30e51901b8e28472d8e8884f6b5cd8"
+  },
+  {
+    "title": "d-Matrix Buys Wallaroo to Orchestrate Inference Across Chips",
+    "normalized": "d-matrix buys wallaroo to orchestrate inference across chips",
+    "content_hash": "c3861c82d38f0cc7bf50ecb813b66cab"
+  },
+  {
+    "title": "AgentSky",
+    "normalized": "agentsky",
+    "content_hash": "8e2b679edafdfd060cb50334a27876b8"
+  },
+  {
+    "title": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
+    "normalized": "lenovo googlebook leaks reveal a laptop and 2-in-1 tablet",
+    "content_hash": "1ef38451e61bb4fb7746f3b26a327ef6"
+  },
+  {
+    "title": "AirLLM 70B inference with single 4GB GPU",
+    "normalized": "airllm 70b inference with single 4gb gpu",
+    "content_hash": "a8d66903d52c3f1d913b7719d2ee6db9"
+  },
+  {
+    "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
+    "normalized": "show hn: nightcrawler - a local ai pentesting agent running on a smartphone",
+    "content_hash": "ccb90b4c70c84a387c3ccac4602e6cd2"
+  },
+  {
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "normalized": "openclaw and ollama in agentic ai: toward fully autonomous and scalable ai agent systems",
+    "content_hash": "9b0b3fbef85cdec14e99470bef97df8f"
+  },
+  {
+    "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+    "normalized": "can ai evaluate ai scientists? a benchmarking study of autonomous research generation systems using automated multi-model review",
+    "content_hash": "8f159336a273661ac6cd24cb1947ddc0"
+  },
+  {
+    "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
+    "normalized": "multi-agent planning with spatio-temporal and topological constraints using stl-go",
+    "content_hash": "3be9652bf4640064ae5148ce37846648"
+  },
+  {
+    "title": "Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures",
+    "normalized": "model or harness? an interaction-centric taxonomy for localizing agent failures",
+    "content_hash": "67c4dbec25f0b4097c3f305654eb1e11"
+  },
+  {
+    "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
+    "normalized": "nesyfs: a neuro-symbolic fast-slow thinking framework for llm agent under partial observability",
+    "content_hash": "456c2ff52f29d285997d0da3385900c6"
+  },
+  {
+    "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
+    "normalized": "merchantbench: benchmarking llm agents for long-term coherence in e-commerce operations",
+    "content_hash": "835f886b728225b986d8084e133a3d2a"
+  },
+  {
+    "title": "Topology-Aware Data Movement for Disaggregated GPU Inference",
+    "normalized": "topology-aware data movement for disaggregated gpu inference",
+    "content_hash": "f82a795723b0fa9da149f8911bd4c4f0"
+  },
+  {
+    "title": "Mitigating Class-Tail Undercoverage in Medical Vision-Language Models under Clinical Shift",
+    "normalized": "mitigating class-tail undercoverage in medical vision-language models under clinical shift",
+    "content_hash": "b26d81b2f18e298445b188e7d4770ecd"
+  },
+  {
+    "title": "Reflection or Re-Generation? Why LLM Revision Fails Where Human Revision Succeeds",
+    "normalized": "reflection or re-generation? why llm revision fails where human revision succeeds",
+    "content_hash": "64e4a0a905703250b0112ca218d2d50c"
+  },
+  {
+    "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
+    "normalized": "here's why ai agents lie and cheat to reach their goals",
+    "content_hash": "26b5f665f6c8b9a2a9e0837a39a6abda"
   }
 ]
