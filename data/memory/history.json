@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-    "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
-    "content_hash": "da0fb803a3702f3abd12611d409173e2"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "normalized": "claude code costs up to $200 a month. goose does the same thing for free.",
-    "content_hash": "65248b0266dc1f08a04a2e243e5e13e8"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "normalized": "salesforce rolls out new slackbot ai agent as it battles microsoft and google in workplace ai",
-    "content_hash": "37f7465d43119228a5340488494c5cd0"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
-    "normalized": "anthropic launches cowork, a claude desktop agent that works in your files -- no coding required",
-    "content_hash": "9b4ec2bb172ef63f1cfc32c6f3255ae3"
-  },
-  {
-    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-    "normalized": "amd takes on nvidia with its helios ai rack-scale system",
-    "content_hash": "b3e44eab9e8eb89541fb537db021748f"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "normalized": "listen labs raises $69m after viral billboard hiring stunt to scale ai customer interviews",
-    "content_hash": "b38a14630ce16f4da4c5b72d4109ed41"
-  },
-  {
-    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "normalized": "how ai guardrails are impeding the work of offensive cybersecurity researchers",
-    "content_hash": "ef6d7cd577e75c093e584487d0e510ee"
-  },
-  {
-    "title": "Insurance startup Corgi reportedly raised more money at $4B \u2014 its third round in 8 weeks",
-    "normalized": "insurance startup corgi reportedly raised more money at $4b -- its third round in 8 weeks",
-    "content_hash": "7385f95ba794b7fe4f94d63b1ce0ab5c"
-  },
-  {
-    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-    "normalized": "aegisai, founded by former google security execs, lands $36m to stop ai-driven spear phishing",
-    "content_hash": "35d06882ca022bd5bfaaaab71a733650"
-  },
-  {
-    "title": "OpenAI makes ChatGPT Health available to all US users",
-    "normalized": "openai makes chatgpt health available to all us users",
-    "content_hash": "a340f0a45fb0296f731cb50a4c281a40"
-  },
-  {
-    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-    "normalized": "ai chip startup etched defies skeptics, hits $10.3b valuation from big-name investors",
-    "content_hash": "8795e458a62335e4caaa9e1d743025a8"
-  },
-  {
-    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-    "normalized": "openai is making big claims as it rolls out chatgpt health to everyone",
-    "content_hash": "f0f15dd09cdc6889271a71e0ac2f64bc"
-  },
-  {
-    "title": "Anthropic updates Claude voice mode with more capable models",
-    "normalized": "anthropic updates claude voice mode with more capable models",
-    "content_hash": "3835b9551336910303527a7d74b87de5"
-  },
-  {
-    "title": "Nvidia is sending GPUs to the moon",
-    "normalized": "nvidia is sending gpus to the moon",
-    "content_hash": "8526a1fccc9ed31b22f4bb51f3ed1f52"
-  },
-  {
-    "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-    "normalized": "claude cowork flaw could let ai agent escape its vm and access mac files",
-    "content_hash": "1c4d2fe241ee4b4b9b900e1ad81884c0"
-  },
-  {
-    "title": "Claude\u2019s voice mode is now available for Opus and Sonnet",
-    "normalized": "claude's voice mode is now available for opus and sonnet",
-    "content_hash": "c6d23c62c04544d95182f44e2774a56d"
-  },
-  {
-    "title": "Doesn't OpenAI have every incentive to destroy HuggingFace?",
-    "normalized": "doesn't openai have every incentive to destroy huggingface?",
-    "content_hash": "cfcedc895813a6ef2ae36f212e262eb8"
-  },
-  {
-    "title": "Meet the judges who will crown Australia\u2019s next breakout startup",
-    "normalized": "meet the judges who will crown australia's next breakout startup",
-    "content_hash": "ee02957b460b195e05fe7577cd212dfb"
-  },
-  {
-    "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-    "normalized": "mobileye ceo amnon shashua to step aside as company pushes into robotaxis, robotics",
-    "content_hash": "39c15dfd47795838058ab818944831e2"
-  },
-  {
-    "title": "Patreon lays off 20% of its workforce",
-    "normalized": "patreon lays off 20% of its workforce",
-    "content_hash": "8d990b7c6f4d1f1c2345b11b15aa2947"
-  },
-  {
-    "title": "Runway launches AI model router as generative media gets crowded",
-    "normalized": "runway launches ai model router as generative media gets crowded",
-    "content_hash": "733a3bc8d2e120ee5a42d3934589ad3a"
-  },
-  {
-    "title": "Tesla\u2019s robotaxis are moving in reverse",
-    "normalized": "tesla's robotaxis are moving in reverse",
-    "content_hash": "c8b8905080cdbbd519cd8b1dd9b6ad29"
-  },
-  {
-    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-    "normalized": "meta launched a new ai optimism ad set to a song about human extinction",
-    "content_hash": "98e60cfb0f14cd6a4f82e372aec65bdf"
-  },
-  {
-    "title": "Google will now let you sign in to your account with a selfie video",
-    "normalized": "google will now let you sign in to your account with a selfie video",
-    "content_hash": "f5b600a6084b884679725098f22e0d04"
-  },
-  {
-    "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
-    "normalized": "edtech platform raises $4.5m to help teach students how to vibe code",
-    "content_hash": "7ba626c7735983bd6f4ff0ac1986b3fa"
-  },
-  {
     "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
     "normalized": "chatgpt agentforger flaw could deploy rogue workspace agents via a phishing link",
     "content_hash": "93e36727c48b5e94e532408f84d0b302"
@@ -2498,5 +2373,130 @@
     "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
     "normalized": "6 reasons why device code phishing is the fastest-growing threat of 2026",
     "content_hash": "9c2241b6da6343b9a43a6cead14b5194"
+  },
+  {
+    "title": "The global memory shortage hits the MacBook Air",
+    "normalized": "the global memory shortage hits the macbook air",
+    "content_hash": "7fc359e4b83ba23ae02fd4fc94760f66"
+  },
+  {
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "normalized": "is paying artists enough to convince them to embrace ai?",
+    "content_hash": "a2adcc2a0c95a707d335b8ce1bcad5ce"
+  },
+  {
+    "title": "Sam Altman and AI\u2019s decel debate",
+    "normalized": "sam altman and ai's decel debate",
+    "content_hash": "62bf9f5b29aaa03bc0999e8ea630ea71"
+  },
+  {
+    "title": "TechCrunch Mobility: Two roads diverged \u2014 for robotaxis",
+    "normalized": "techcrunch mobility: two roads diverged -- for robotaxis",
+    "content_hash": "1bac4697f82fc6897d98fd40d4b819cf"
+  },
+  {
+    "title": "Rachika Nayar\u2019s Heaven Come Crashing is an instrumental epic of desperate longing",
+    "normalized": "rachika nayar's heaven come crashing is an instrumental epic of desperate longing",
+    "content_hash": "ad13661ce2b3569f3aa112c48f9ae1d5"
+  },
+  {
+    "title": "Fender\u2019s CEO seems to think your bandmates are just analog AI",
+    "normalized": "fender's ceo seems to think your bandmates are just analog ai",
+    "content_hash": "43918138829c3473f0a22523cce896e1"
+  },
+  {
+    "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170",
+    "normalized": "xbox prices are increasing by up to \u20ac200 or \u00a3170",
+    "content_hash": "11a53a731fd5723285952cdd281dbf4a"
+  },
+  {
+    "title": "Malaysia is reportedly shutting down Balaji Srinivasan\u2019s Network School",
+    "normalized": "malaysia is reportedly shutting down balaji srinivasan's network school",
+    "content_hash": "df64c1631c3ec678777c367e89dca266"
+  },
+  {
+    "title": "15 Best Office Chairs of 2026\u2014 We Tested 70 to Pick Them",
+    "normalized": "15 best office chairs of 2026-- we tested 70 to pick them",
+    "content_hash": "d81d199a3565b4e95ae1639d5fb859a0"
+  },
+  {
+    "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+    "normalized": "dprk-linked macos malvertising uses fake updates to deliver crypto-stealing malware",
+    "content_hash": "314a3a145966aa4f7c2c4c27a51681b7"
+  },
+  {
+    "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+    "normalized": "threatsday: ai-powered hacking, 370 chrome flaws, sonicwall attacks, dns hijacking + 22 more stories",
+    "content_hash": "db3024e03e3ed61a2b19ee0bf8eb9879"
+  },
+  {
+    "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+    "normalized": "azure cosmos db flaw exposed platform-wide key that could access any database",
+    "content_hash": "aed4d112eab0c1fd8cfd5f26d6922de1"
+  },
+  {
+    "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+    "normalized": "microsoft copilot for word can copy hidden prompts into new documents",
+    "content_hash": "0f1db811a35772df004b344a1c5da328"
+  },
+  {
+    "title": "The Network Has Become the Control Plane for AI Security",
+    "normalized": "the network has become the control plane for ai security",
+    "content_hash": "a134911c9f35da81258d039f2481805f"
+  },
+  {
+    "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+    "normalized": "hackers exploit anysign4pc via hacked korean sites to install backdoors without prompts",
+    "content_hash": "91b8cff59e33d24bf854705a64947e4d"
+  },
+  {
+    "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+    "normalized": "silverfox targets japanese manufacturer with 3-driver byovd chain and valleyrat",
+    "content_hash": "e94977c1bb802a7b88483e0ccad6da1f"
+  },
+  {
+    "title": "Amazon Links Debug and Chalk npm Hijack to North Korea\u2019s Sapphire Sleet",
+    "normalized": "amazon links debug and chalk npm hijack to north korea's sapphire sleet",
+    "content_hash": "ece83c57d6535afb1c360f9aa4202453"
+  },
+  {
+    "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+    "normalized": "critical rails flaw could let unauthenticated attackers read server files via image uploads",
+    "content_hash": "12da5e124386008c3c23af57ebd597f1"
+  },
+  {
+    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+    "normalized": "as reddit stock falls, ceo questions value of google's ai overviews",
+    "content_hash": "4120448b6a57acea1eb017a10a014414"
+  },
+  {
+    "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+    "normalized": "reddit keeps its strange dmca fight over google search results alive",
+    "content_hash": "b9db9502984768ad806936c4b6738737"
+  },
+  {
+    "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+    "normalized": "google earth risked ruin with retracted ai tool for making fake satellite pics",
+    "content_hash": "8b72bf04b71135a066bc59172738a6ce"
+  },
+  {
+    "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+    "normalized": "would you get tattooed just to interview at a 7-days-a-week ai startup?",
+    "content_hash": "140acd404a1ddadd64ecd3bd144f3cf5"
+  },
+  {
+    "title": "DeepSeek-V4-Flash-0731",
+    "normalized": "deepseek-v4-flash-0731",
+    "content_hash": "be82f938fe55f9d2fb92c1c0bc61b9ef"
+  },
+  {
+    "title": "AgentMicro",
+    "normalized": "agentmicro",
+    "content_hash": "6726a95a36d50695f560afdeb34e8dfa"
+  },
+  {
+    "title": "NudgeForMe",
+    "normalized": "nudgeforme",
+    "content_hash": "99b8cb4525bec5230e14411daf5e7ed8"
   }
 ]
