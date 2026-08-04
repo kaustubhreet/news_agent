@@ -1,130 +1,5 @@
 [
   {
-    "title": "Half-Life 2 running natively on HaikuOS",
-    "normalized": "half-life 2 running natively on haikuos",
-    "content_hash": "e8678650f2d1a1e25a53fb78cfb99ee3"
-  },
-  {
-    "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
-    "normalized": "sk chair says anthropic asked for supplies to make its own chips",
-    "content_hash": "b58e1abb72bb95dc9cff20f6871832f3"
-  },
-  {
-    "title": "OpenAI did not notice Hugging Face hack for a week",
-    "normalized": "openai did not notice hugging face hack for a week",
-    "content_hash": "b334b6f5ee3d396263fd3c44926b8237"
-  },
-  {
-    "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
-    "normalized": "why the openai agent broke into hugging face: reward hacking, not malice, explained for engineers",
-    "content_hash": "03752d2def2a3a30a23067b0804330bf"
-  },
-  {
-    "title": "Anthropic launches Opus 5",
-    "normalized": "anthropic launches opus 5",
-    "content_hash": "02427849d45443009ce4fa5e5b36d18d"
-  },
-  {
-    "title": "Rivian sues the US government for \u2018full refund\u2019 of Trump tariffs",
-    "normalized": "rivian sues the us government for 'full refund' of trump tariffs",
-    "content_hash": "65adfff66ac8aa7db25cb2ba0443073f"
-  },
-  {
-    "title": "Bluesky\u2019s AI assistant Attie expands into an open social research tool",
-    "normalized": "bluesky's ai assistant attie expands into an open social research tool",
-    "content_hash": "61519299ed224d56a0fc8d1dd49cce8b"
-  },
-  {
-    "title": "Midjourney acquired the astrology app Co-Star",
-    "normalized": "midjourney acquired the astrology app co-star",
-    "content_hash": "8cd44629e1df61a2969bb53900da9974"
-  },
-  {
-    "title": "The OpenAI Models That Hacked Hugging Face Were \u2018Active on the Internet\u2019 for Days",
-    "normalized": "the openai models that hacked hugging face were 'active on the internet' for days",
-    "content_hash": "98627fc39662befb9c118cd3c64ab090"
-  },
-  {
-    "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-    "normalized": "silicon valley is completely divided over chinese ai",
-    "content_hash": "f59eb0757c621bdd0e41b0304baea76e"
-  },
-  {
-    "title": "OpenAI's rogue agent went on a hacking spree that lasted days, Reuters says",
-    "normalized": "openai's rogue agent went on a hacking spree that lasted days, reuters says",
-    "content_hash": "a01b8ac96c3959c08644dc72bdb7c46b"
-  },
-  {
-    "title": "Health in ChatGPT",
-    "normalized": "health in chatgpt",
-    "content_hash": "c7fafe2f6cbc3503738d049ea972e620"
-  },
-  {
-    "title": "Folding and flipping phones are getting seriously good",
-    "normalized": "folding and flipping phones are getting seriously good",
-    "content_hash": "6e0a3c4728f4cdf3ba2c2392794054f4"
-  },
-  {
-    "title": "Forget expensive sleepbuds. Buy this pillow instead",
-    "normalized": "forget expensive sleepbuds. buy this pillow instead",
-    "content_hash": "a222ad455cc5651d868efe1962066574"
-  },
-  {
-    "title": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
-    "normalized": "qualcomm is about to raise prices and that's bad news for everyone",
-    "content_hash": "10e5534d11f0460d4a7dc311fc0a9deb"
-  },
-  {
-    "title": "DJI camera clone company Xtra is halting and refunding all preorders",
-    "normalized": "dji camera clone company xtra is halting and refunding all preorders",
-    "content_hash": "34fc58a4c16a61e6876714cadbac1bbb"
-  },
-  {
-    "title": "The OpenAI Models That Hacked Hugging Face Were 'Active on the Internet' for Da",
-    "normalized": "the openai models that hacked hugging face were 'active on the internet' for da",
-    "content_hash": "89c826064ce74baafe165ae1a9827fc8"
-  },
-  {
-    "title": "OpenAI Is Down Again",
-    "normalized": "openai is down again",
-    "content_hash": "1541784ec689f40b1f7a0447fe988924"
-  },
-  {
-    "title": "Why a philosopher turned down Anthropic (AI industry asking the wrong questions)",
-    "normalized": "why a philosopher turned down anthropic (ai industry asking the wrong questions)",
-    "content_hash": "c8aba95456489cbb962613d1654a4e58"
-  },
-  {
-    "title": "AI Agent Blameless Postmortem Template",
-    "normalized": "ai agent blameless postmortem template",
-    "content_hash": "ff6d2fe2666184205fb7a7463a376cc9"
-  },
-  {
-    "title": "Speculative Decoding: The Free Speed Toggle Your Local LLM Is Probably Not Using",
-    "normalized": "speculative decoding: the free speed toggle your local llm is probably not using",
-    "content_hash": "70a1208643bb34e44dfd852ca697e170"
-  },
-  {
-    "title": "Cage-lite:Prebind assurance for consequential AI agent actions",
-    "normalized": "cage-lite:prebind assurance for consequential ai agent actions",
-    "content_hash": "abffcf4ac260c6ed992b67c0531ace51"
-  },
-  {
-    "title": "Are we threatened by AI misalignment seen in the OpenAI Hugging Face attack?",
-    "normalized": "are we threatened by ai misalignment seen in the openai hugging face attack?",
-    "content_hash": "05d05498a5a7770e60e0b747bffb52e0"
-  },
-  {
-    "title": "Show HN: Evidence Graph \u2013 type checking for the specs your AI agent implements",
-    "normalized": "show hn: evidence graph - type checking for the specs your ai agent implements",
-    "content_hash": "6933ff3068eb75f483a1279a2e2bb902"
-  },
-  {
-    "title": "Show HN: Kalytera \u2013 Find out why your AI agent failed, step-by-step",
-    "normalized": "show hn: kalytera - find out why your ai agent failed, step-by-step",
-    "content_hash": "b93a3987d64915ca2438bfb45d6907bf"
-  },
-  {
     "title": "Elon Musk\u2019s Boring Company reportedly raising funding at a $20 billion valuation",
     "normalized": "elon musk's boring company reportedly raising funding at a $20 billion valuation",
     "content_hash": "719932b3bab6080869a2290faef828de"
@@ -2498,5 +2373,130 @@
     "title": "Google dev kit spurs first-ever agent-on-agent violence",
     "normalized": "google dev kit spurs first-ever agent-on-agent violence",
     "content_hash": "0626ce3bea748e2d59e5e36d4a36ea36"
+  },
+  {
+    "title": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion",
+    "normalized": "openai drags apple's lawsuit into the court of public opinion",
+    "content_hash": "c1d4b86c40b0ca8a575aeeaeae55e4e5"
+  },
+  {
+    "title": "India moves to give its instant payments network a business model",
+    "normalized": "india moves to give its instant payments network a business model",
+    "content_hash": "1abdd026d54bfcfe5bd2ce4e991fbd1f"
+  },
+  {
+    "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+    "normalized": "google deletes 3 adk ai workflows after malicious github issue could trigger privileged agent",
+    "content_hash": "1227b86a131d43d24159e6bc8ba3a52b"
+  },
+  {
+    "title": "CollectWise (YC F24) Is Hiring",
+    "normalized": "collectwise (yc f24) is hiring",
+    "content_hash": "82b1b1b65f44c6f7b0374e05b98fcecd"
+  },
+  {
+    "title": "Introducing Claude Opus 5 on AWS: Anthropic\u2019s most capable Opus model",
+    "normalized": "introducing claude opus 5 on aws: anthropic's most capable opus model",
+    "content_hash": "53b64de1142d099e4d0805251be9d496"
+  },
+  {
+    "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+    "normalized": "get started with openai gpt-5.6 sol, terra, and luna on amazon bedrock",
+    "content_hash": "ebb7208549d49c82b85bc0d29e4f652c"
+  },
+  {
+    "title": "Agentic Bayesian Optimization through Surrogate-Augmented Autoresearch",
+    "normalized": "agentic bayesian optimization through surrogate-augmented autoresearch",
+    "content_hash": "2bfb49c98cf24447a7fab526e839ba85"
+  },
+  {
+    "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
+    "normalized": "building an advanced ai skill security auditing pipeline with nvidia skillspector, langgraph, yara rules, sarif, and ci policy gates",
+    "content_hash": "325954c85286a6fa254db6e0ac0f7c1d"
+  },
+  {
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "normalized": "is the future of data centers portable? runware builds a pod to find out",
+    "content_hash": "647af54495e472e54337f8d0ca71adc5"
+  },
+  {
+    "title": "Bending Spoons to buy Airtable for $1.28B",
+    "normalized": "bending spoons to buy airtable for $1.28b",
+    "content_hash": "491345214c7448a08bdfaf4a738946c3"
+  },
+  {
+    "title": "How One Startup Built a (Mostly) China-Free Robot",
+    "normalized": "how one startup built a (mostly) china-free robot",
+    "content_hash": "80df94b4df8c99df24916d5dc6758c77"
+  },
+  {
+    "title": "Peak Design\u2019s latest bags have clever integrated hooks",
+    "normalized": "peak design's latest bags have clever integrated hooks",
+    "content_hash": "fd0212623d51395cc571876699b61302"
+  },
+  {
+    "title": "The next Xbox could play every Xbox game ever made",
+    "normalized": "the next xbox could play every xbox game ever made",
+    "content_hash": "7ffcc06967cc310221ace03435069c00"
+  },
+  {
+    "title": "Can Reddit fend off a new wave of AI SEO spam?",
+    "normalized": "can reddit fend off a new wave of ai seo spam?",
+    "content_hash": "063800bc800fcb0ce0dcbf363a29b9ef"
+  },
+  {
+    "title": "That time when I failed the Microsoft interview",
+    "normalized": "that time when i failed the microsoft interview",
+    "content_hash": "abe1a6895c2637b9f5984f6b5d6d9f37"
+  },
+  {
+    "title": "Introducing OpenAI Presence",
+    "normalized": "introducing openai presence",
+    "content_hash": "b75487528372c63b53f40d17a4b0df92"
+  },
+  {
+    "title": "Introducing the ChatGPT for small business program",
+    "normalized": "introducing the chatgpt for small business program",
+    "content_hash": "746d8717c4c89802852da56e13a08adc"
+  },
+  {
+    "title": "Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark",
+    "normalized": "learning compositional meta-routing for agentic workflows: an executable benchmark",
+    "content_hash": "c463d15f5ee34ab99606d20098fd8374"
+  },
+  {
+    "title": "Agentic Graph Token Reasoning",
+    "normalized": "agentic graph token reasoning",
+    "content_hash": "7030c523b1c75c4da149d8a004346ea0"
+  },
+  {
+    "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
+    "normalized": "y combinator open-sources qm: an mit-licensed multiplayer agent harness that runs in slack and the web",
+    "content_hash": "83d34df47083e9d085ce0cde3d3cc150"
+  },
+  {
+    "title": "How to Secure AI Agents, MCP Servers, and LLM Apps in Production",
+    "normalized": "how to secure ai agents, mcp servers, and llm apps in production",
+    "content_hash": "67e9a2db17524dc51663539475dee130"
+  },
+  {
+    "title": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World\u2019s Best E-commerce Search Engines",
+    "normalized": "onton releases ontology 1: a neurosymbolic search model that is 2.7x more accurate than the world's best e-commerce search engines",
+    "content_hash": "ccd1bdca88542b13b6b0713bbc1c9290"
+  },
+  {
+    "title": "Using Agents as Tools",
+    "normalized": "using agents as tools",
+    "content_hash": "53c318eb3571f18f3c5cc55b114545d6"
+  },
+  {
+    "title": "House Homeland Security Panel Calls Altman In Over OpenAI Breach",
+    "normalized": "house homeland security panel calls altman in over openai breach",
+    "content_hash": "4e5122cd25a551970264c0934e25236f"
+  },
+  {
+    "title": "Zenity Raises $125 Million as Enterprises Confront the Security Risks of Autonomous AI Agents",
+    "normalized": "zenity raises $125 million as enterprises confront the security risks of autonomous ai agents",
+    "content_hash": "458791bd3d945e6d8e0725665f118386"
   }
 ]
