@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
-    "normalized": "openai's new voice mode makes it to the chatgpt desktop app",
-    "content_hash": "c47065da93a9fc518ec5c506c6072c3a"
-  },
-  {
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "normalized": "why cognition bought poke: ai personality is becoming a competitive advantage",
-    "content_hash": "8ee8b3c1ecf0e58ce92960e6b50789d1"
-  },
-  {
-    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-    "normalized": "as us weighs response to chinese ai, industry urges against broad open-weight restrictions",
-    "content_hash": "536d4186ee394a6e256e46d2be96db42"
-  },
-  {
-    "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
-    "normalized": "anthropic releases opus 5 with 'close' to fable 5's capabilities",
-    "content_hash": "de2f68f51f0ce5dbc7c53b4ef9fe58d7"
-  },
-  {
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "normalized": "nvidia, microsoft, meta warn against overregulating open-weight models",
-    "content_hash": "b4065bd2e0e1e2d6b9f55308406f2209"
-  },
-  {
-    "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
-    "normalized": "i tried out openai's new ai keypad -- which will be fun for some coders and slightly mystifying to everyone else",
-    "content_hash": "e6f0c1073bbac2d7302a1eda2d72eaac"
-  },
-  {
-    "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year\u2019s mark",
-    "normalized": "anduril reportedly in talks to raise funding at $100b valuation, more than 3x last year's mark",
-    "content_hash": "eae587725869b91965acb3ac334819b1"
-  },
-  {
-    "title": "India\u2019s move against Jack Dorsey\u2019s Bitchat sparks legal debate",
-    "normalized": "india's move against jack dorsey's bitchat sparks legal debate",
-    "content_hash": "716730f2f3c62987f2e259b90503feb6"
-  },
-  {
-    "title": "OpenAI\u2019s own model went rogue before Kimi had Wall Street sweating",
-    "normalized": "openai's own model went rogue before kimi had wall street sweating",
-    "content_hash": "1754063f44f46ce01afd6e4b1e12aa2e"
-  },
-  {
-    "title": "Sam Altman\u2019s biometric startup World raises $52.5M via crypto sale",
-    "normalized": "sam altman's biometric startup world raises $52.5m via crypto sale",
-    "content_hash": "cb81af26290fb61ed8a0554324946069"
-  },
-  {
-    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-    "normalized": "china-us ai race escalates, openai models break free, and why you should check your car alarm",
-    "content_hash": "3ff160c3bf282e061b609908f222c18a"
-  },
-  {
-    "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-    "normalized": "bluenoroff zoom phishing kit profiles crypto wallets before malware delivery",
-    "content_hash": "9c6b5915fc54b298df02891176621823"
-  },
-  {
-    "title": "Midjourney bought the astrology app Co-Star",
-    "normalized": "midjourney bought the astrology app co-star",
-    "content_hash": "cc84c91f91e490a649e934964ed4e204"
-  },
-  {
-    "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
-    "normalized": "nothing confirms layoffs, but calls market exit rumors 'fake news'",
-    "content_hash": "2705677991452e87bf5ef68901d1946c"
-  },
-  {
-    "title": "You can\u2019t ignore Google Zero anymore",
-    "normalized": "you can't ignore google zero anymore",
-    "content_hash": "9baa2f30ae1e2cf4ae2ef5e5b36f685c"
-  },
-  {
-    "title": "Be skeptical of OpenAI's rogue hacker agent story",
-    "normalized": "be skeptical of openai's rogue hacker agent story",
-    "content_hash": "ea0d5275530a256eca35fad05892a528"
-  },
-  {
-    "title": "Introducing Claude Opus 5 on AWS: Anthropic\u2019s most capable Opus model",
-    "normalized": "introducing claude opus 5 on aws: anthropic's most capable opus model",
-    "content_hash": "53b64de1142d099e4d0805251be9d496"
-  },
-  {
-    "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
-    "normalized": "get started with openai gpt-5.6 sol, terra, and luna on amazon bedrock",
-    "content_hash": "ebb7208549d49c82b85bc0d29e4f652c"
-  },
-  {
-    "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-    "normalized": "spacex launches new v3 starlink satellites but suffers another booster failure",
-    "content_hash": "2f363461c23757564b04b8159b1ba3a0"
-  },
-  {
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "normalized": "prentis, new ai lab co-founded by reid hoffman, mark pincus in talks to raise $100m",
-    "content_hash": "f9d1f23aaaa37f667b5bb8259ab3d480"
-  },
-  {
-    "title": "TechCrunch\u00a0Disrupt 2026\u2019s new Smart Money Stage explores fintech, payments, AI, and everything between",
-    "normalized": "techcrunch disrupt 2026's new smart money stage explores fintech, payments, ai, and everything between",
-    "content_hash": "59bf72527568b7da7f6e32434e452234"
-  },
-  {
-    "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-    "normalized": "vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-    "content_hash": "3f461535cbe0cc76b403e9706fb4e8ba"
-  },
-  {
-    "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
-    "normalized": "volkswagen engineers charged with insider trading tied to rivian joint venture",
-    "content_hash": "c38440535b6010837ea1bee341ad27ae"
-  },
-  {
-    "title": "US accuses American of allegedly wiping his phone using a \u2018duress\u2019 password during border search",
-    "normalized": "us accuses american of allegedly wiping his phone using a 'duress' password during border search",
-    "content_hash": "d6892d7560819bc029daeabbe32787d6"
-  },
-  {
-    "title": "Build in public, fail in public: what\u00a0it\u2019s\u00a0like to be a founder under 20\u00a0right now",
-    "normalized": "build in public, fail in public: what it's like to be a founder under 20 right now",
-    "content_hash": "6206ed320be67d50c5613ef10cf5afd9"
-  },
-  {
     "title": "Half-Life 2 running natively on HaikuOS",
     "normalized": "half-life 2 running natively on haikuos",
     "content_hash": "e8678650f2d1a1e25a53fb78cfb99ee3"
@@ -2498,5 +2373,130 @@
     "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
     "normalized": "here's why ai agents lie and cheat to reach their goals",
     "content_hash": "26b5f665f6c8b9a2a9e0837a39a6abda"
+  },
+  {
+    "title": "Sequoia\u2019s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+    "normalized": "sequoia's shaun maguire leads $1b round for nuclear startup valar atomics",
+    "content_hash": "1688886df3744c92c8b57503b74b6f2e"
+  },
+  {
+    "title": "Who\u2019s legally to blame for Anthropic and OpenAI\u2019s autonomous AI hacks? It\u2019s complicated",
+    "normalized": "who's legally to blame for anthropic and openai's autonomous ai hacks? it's complicated",
+    "content_hash": "8db9aef45e0dc83f1d2c06b83ce7b1c3"
+  },
+  {
+    "title": "Congress\u2019 favorite AI tool? ChatGPT",
+    "normalized": "congress' favorite ai tool? chatgpt",
+    "content_hash": "3a56cf2092f9ef1fd909d37da1f9f716"
+  },
+  {
+    "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework",
+    "normalized": "nvidia ai releases molt: a pytorch-native agentic reinforcement learning framework",
+    "content_hash": "5e2a8a4b5e7d5c5f3c0793f393419eb1"
+  },
+  {
+    "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
+    "normalized": "influencers draw backlash for attending openai's first luxury trip",
+    "content_hash": "a5a687e74748a02c1039840f679e96c3"
+  },
+  {
+    "title": "Base Power raises another $1B to save the grid using backyard batteries",
+    "normalized": "base power raises another $1b to save the grid using backyard batteries",
+    "content_hash": "52513cab44087a3a7da3026942141b8c"
+  },
+  {
+    "title": "How OpenAI built a realtime system for responsive voice AI in six months",
+    "normalized": "how openai built a realtime system for responsive voice ai in six months",
+    "content_hash": "5905b384566c0e08e1cc75e911ad276c"
+  },
+  {
+    "title": "OpenAI rebuilt ChatGPT's voice stack so GPT-Live can listen while speaking",
+    "normalized": "openai rebuilt chatgpt's voice stack so gpt-live can listen while speaking",
+    "content_hash": "ec896622b20560591ca87fbcef84efd4"
+  },
+  {
+    "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings",
+    "normalized": "big tech's anthropic and openai stakes are distorting the corporate earnings",
+    "content_hash": "fe4ab9acc1b9540bc883fa152e1ed71b"
+  },
+  {
+    "title": "When Cloud AI Escapes: OpenAI and Anthropic Models Breach Live Networks",
+    "normalized": "when cloud ai escapes: openai and anthropic models breach live networks",
+    "content_hash": "9526257830ffc5b12d90bfda92e9187e"
+  },
+  {
+    "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
+    "normalized": "who's legally to blame for anthropic and openai's autonomous ai hacks?",
+    "content_hash": "95ceccd65d35140ba3653fd70db3d48b"
+  },
+  {
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
+    "normalized": "after killer quarter, palantir ceo alex karp calls ai industry 'marxist'",
+    "content_hash": "af4e51c24f7868bd51e4d1767026ccd2"
+  },
+  {
+    "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+    "normalized": "snap ceo sidesteps specs preorder questions on q2 earnings call",
+    "content_hash": "fdb65d96ec9af313eb9a7c446d3ed8ce"
+  },
+  {
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "normalized": "aws is helping vibe-coding startup superblocks, and the implications are big",
+    "content_hash": "1e67ae46fba08ea8f255bbc92279617c"
+  },
+  {
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "normalized": "design arena creators raise $7.9 million to bring taste to ai models",
+    "content_hash": "4739157754fa2cb1fe6019de6ca446b0"
+  },
+  {
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "normalized": "apple finally fixed siri. so why does it feel anticlimactic?",
+    "content_hash": "b1ffac9b399daa794d679a98bf4d292a"
+  },
+  {
+    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+    "normalized": "google password manager attacks could let malware hijack passkey-protected accounts",
+    "content_hash": "c3d27f9ec2068031a79d8d9faea4d751"
+  },
+  {
+    "title": "The studio behind Pok\u00e9mon struggles to find its voice in Beast of Reincarnation",
+    "normalized": "the studio behind pok\u00e9mon struggles to find its voice in beast of reincarnation",
+    "content_hash": "58b04281d3409b1512b4855fdb3ade52"
+  },
+  {
+    "title": "Your Fitbit data can now connect directly to Apple Health",
+    "normalized": "your fitbit data can now connect directly to apple health",
+    "content_hash": "43db143c0d50dd68f496b6ff9b91874a"
+  },
+  {
+    "title": "Europe\u2019s AI labeling and transparency rules are now in effect",
+    "normalized": "europe's ai labeling and transparency rules are now in effect",
+    "content_hash": "a3a789884c5a096391df3a27a849f55d"
+  },
+  {
+    "title": "Microsoft is bringing Xbox 360 games to PC",
+    "normalized": "microsoft is bringing xbox 360 games to pc",
+    "content_hash": "1680f25cf4a13aaa8a8692e5f3dcd843"
+  },
+  {
+    "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
+    "normalized": "spider-man and the odyssey are splitting up imax screens after a record-breaking weekend",
+    "content_hash": "a4cc01ec2cfbf487a080c03a94d1742c"
+  },
+  {
+    "title": "Letter from 15 Attorneys General to OpenAI [pdf]",
+    "normalized": "letter from 15 attorneys general to openai [pdf]",
+    "content_hash": "360704edca7a6ababb69ebbbfc7f3ecc"
+  },
+  {
+    "title": "Agent needs a computer, not a container \u2013 introducing Cloudflare/computer",
+    "normalized": "agent needs a computer, not a container - introducing cloudflare/computer",
+    "content_hash": "89cf992f578b7d5b9adf924cfd169f88"
+  },
+  {
+    "title": "Google dev kit spurs first-ever agent-on-agent violence",
+    "normalized": "google dev kit spurs first-ever agent-on-agent violence",
+    "content_hash": "0626ce3bea748e2d59e5e36d4a36ea36"
   }
 ]
