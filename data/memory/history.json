@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: Integrate any CLI agent into any terminal",
-    "normalized": "show hn: integrate any cli agent into any terminal",
-    "content_hash": "9264ffd0093931462e75742749d180d4"
-  },
-  {
-    "title": "Microsoft launches new in-house AI models. Cuts costs up to 89% versus OpenAI",
-    "normalized": "microsoft launches new in-house ai models. cuts costs up to 89% versus openai",
-    "content_hash": "e383928a5a581800356af413a1e1b152"
-  },
-  {
-    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
-    "normalized": "agentic test processes, llm benchmarks, and other notes on agentic coding",
-    "content_hash": "f4120a4167c5142527cd02375d6be904"
-  },
-  {
-    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-    "normalized": "meet gpt-red: an llm super-hacker openai built to make its models safer",
-    "content_hash": "2087abc317307a1f9d7b7f676be839f3"
-  },
-  {
-    "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-    "normalized": "the best backpacking sleeping pads, tested on the trail (2026)",
-    "content_hash": "b864cd2192e1a6e31e951e789488d9e8"
-  },
-  {
-    "title": "An OpenAI model left notes about how to evade containment; we need more details",
-    "normalized": "an openai model left notes about how to evade containment; we need more details",
-    "content_hash": "4662e13d4aec6af4989582f7c4bfe423"
-  },
-  {
-    "title": "House AI 'kill switch' bill unveiled as OpenAI hack raises alarms",
-    "normalized": "house ai 'kill switch' bill unveiled as openai hack raises alarms",
-    "content_hash": "fe0e76accfb4d534220b8060597cf994"
-  },
-  {
-    "title": "Anthropic secures its AI-native software development lifecycle",
-    "normalized": "anthropic secures its ai-native software development lifecycle",
-    "content_hash": "92f4e45578b9dfea244a93bb063bc93f"
-  },
-  {
-    "title": "A protocol for AI agent workspace state and effect management",
-    "normalized": "a protocol for ai agent workspace state and effect management",
-    "content_hash": "761c618e11cb19d574f8b3aa856df686"
-  },
-  {
-    "title": "An agent with write access to my files, and no way to send them anywhere",
-    "normalized": "an agent with write access to my files, and no way to send them anywhere",
-    "content_hash": "46e32aa9367a7833e5eb3406f6078ac6"
-  },
-  {
-    "title": "I scanned my AI agent framework for destructive/consequential actions, and wow",
-    "normalized": "i scanned my ai agent framework for destructive/consequential actions, and wow",
-    "content_hash": "64c7170e4e6b10d3036cfd4d6fe07666"
-  },
-  {
-    "title": "How OpenAI Lost Control of an AI Model\u2013and What Needs to Change",
-    "normalized": "how openai lost control of an ai model-and what needs to change",
-    "content_hash": "4579c16633d8083fb22de2de56296a62"
-  },
-  {
-    "title": "'Misrepresents statement': MEA fact-checks viral claim on spokesperson Randhir Jaiswal's remarks on CJP protests",
-    "normalized": "'misrepresents statement': mea fact-checks viral claim on spokesperson randhir jaiswal's remarks on cjp protests",
-    "content_hash": "2ba0ad2e97fb967340cf3b35ecf674ad"
-  },
-  {
-    "title": "All the Ways You Can Make Reading on Your Phone Easier",
-    "normalized": "all the ways you can make reading on your phone easier",
-    "content_hash": "a2f76d6f4f15b99c53540c2842cc38b7"
-  },
-  {
-    "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-    "normalized": "ctm360 research reveals how insurance phishing has evolved into real-time account hijacking",
-    "content_hash": "72bb7ff04d6450664e56b79a377cca71"
-  },
-  {
-    "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-    "normalized": "cl0p affiliates target internet-exposed ptc windchill and flexplm with unauthenticated rce",
-    "content_hash": "3489f9caf6e6fc1ba9698765085744e8"
-  },
-  {
-    "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-    "normalized": "devman raas portal centralizes payload builds, victim management, and affiliate payouts",
-    "content_hash": "444f66a4e7eb160b22a2ca576d03c2ae"
-  },
-  {
-    "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-    "normalized": "certighost exploit lets low-privileged active directory users impersonate a domain controller",
-    "content_hash": "836304457ed4ec9bea3a4f54de8e30ac"
-  },
-  {
-    "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-    "normalized": "bing images flaws let crafted svgs run commands as system on microsoft's servers",
-    "content_hash": "0961536818a6b1f7702499bf46c99639"
-  },
-  {
-    "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-    "normalized": "fake notepad++ plugin delivers matchboil.v2 in uac-0099 attacks",
-    "content_hash": "c4e50a1d8a63ba406a84c7b69544535c"
-  },
-  {
-    "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-    "normalized": "russian espionage group exploited zimbra zero-day to steal mail and 2fa codes",
-    "content_hash": "e30314952fa0fc1355b512cfd31ef1f2"
-  },
-  {
-    "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-    "normalized": "chaos ransomware uses msarat to route c2 traffic through headless chrome and edge",
-    "content_hash": "443aaefa381c6848f3e63ad956c255af"
-  },
-  {
-    "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
-    "normalized": "attackers weaponize github actions runners to target cpanel and whm servers",
-    "content_hash": "f27a63fdea61653153eb360924d236a9"
-  },
-  {
-    "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-    "normalized": "nine-year-old refluxfs linux flaw gives local users root on default rhel installs",
-    "content_hash": "e51cfeb506dbd3f635f9f1cd1ac654d8"
-  },
-  {
-    "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-    "normalized": "team uses alphafold ai to redesign gene-editing proteins to make them safer",
-    "content_hash": "d4213c5af257f8a1d88eaaf71bac2e07"
-  },
-  {
     "title": "Show HN: LLM-spend \u2013 Audit your OpenAI/Anthropic API spend locally",
     "normalized": "show hn: llm-spend - audit your openai/anthropic api spend locally",
     "content_hash": "eee38535e81465e6ddd6dd99bf8b4919"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
     "normalized": "openai says apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
     "content_hash": "67a7d3d6b8fce6d79ff76ca4c2c2b706"
+  },
+  {
+    "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
+    "normalized": "indian ev startup river raises $120m series c to scale production, launch more models",
+    "content_hash": "29b40d259f867087063e2b10e7cdf2e4"
+  },
+  {
+    "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
+    "normalized": "robinhood to list a fund that lets anyone back y combinator startups",
+    "content_hash": "7e308529f248f4713355f062551ce28e"
+  },
+  {
+    "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+    "normalized": "claude mythos 5 tried to backdoor a real open-source project in testing, then vouched for itself",
+    "content_hash": "67cf417f48e5937ad6977751cdb50d26"
+  },
+  {
+    "title": "Google Assistant will disappear from your phone next month",
+    "normalized": "google assistant will disappear from your phone next month",
+    "content_hash": "9fc584e92c59fa9e03e8ba13b0a3c42d"
+  },
+  {
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "normalized": "macpaw taps liquid ai to offer on-device inference to devs building for its app store",
+    "content_hash": "7f072452109088ae7e03b7b9f577dff4"
+  },
+  {
+    "title": "Saudi Aramco backs India\u2019s Mitti Labs to make Asia\u2019s rice farming more water-resilient",
+    "normalized": "saudi aramco backs india's mitti labs to make asia's rice farming more water-resilient",
+    "content_hash": "0da75de8a10d31a3e4a0fa7563d54b84"
+  },
+  {
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "normalized": "ai makes weather prediction better. can windborne make it lucrative?",
+    "content_hash": "0305249d487e2cd6e4b879f2da5ba34f"
+  },
+  {
+    "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+    "normalized": "kali365 weaponizes microsoft authentication against us companies: new enterprise risk",
+    "content_hash": "e7df3123fda2e83b0252b78f510a2462"
+  },
+  {
+    "title": "OpenAI and Anthropic models went on a hacking spree when tested by the UK's AI research institute",
+    "normalized": "openai and anthropic models went on a hacking spree when tested by the uk's ai research institute",
+    "content_hash": "f5480232d0e82d97923e4686d864c234"
+  },
+  {
+    "title": "Trump\u2019s AI testing plan is limited and vague",
+    "normalized": "trump's ai testing plan is limited and vague",
+    "content_hash": "58119afbca4f9852dafbbd8a620267b0"
+  },
+  {
+    "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+    "normalized": "amd's data center business is booming while gaming takes a backseat",
+    "content_hash": "9b647a11194cfabf9899c932afcbb212"
+  },
+  {
+    "title": "SpaceX made more revenue as an AI company than a space company",
+    "normalized": "spacex made more revenue as an ai company than a space company",
+    "content_hash": "1e95e6ddb28b2f44c8d1fa450219047d"
+  },
+  {
+    "title": "EA is now a private company",
+    "normalized": "ea is now a private company",
+    "content_hash": "f1148dd24867b5478f379e28468d9b9b"
+  },
+  {
+    "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
+    "normalized": "iowa et al asks openai to keep their bots sandboxed",
+    "content_hash": "7be6eda1bd0604cc081a9022cb71f9da"
+  },
+  {
+    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+    "normalized": "zero-mem: zero-token memory operations for llm agents",
+    "content_hash": "3cc34a4cc8aa2cdc8251340404eb4e7c"
+  },
+  {
+    "title": "Eight Myths on Software Engineering and GenAI",
+    "normalized": "eight myths on software engineering and genai",
+    "content_hash": "0d9fe59365b7ba126c1ab5efeed72f2c"
+  },
+  {
+    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+    "normalized": "empowering india's next generation of innovators with atl saathi",
+    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
+  },
+  {
+    "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+    "normalized": "isee: interactive semantic enrichment for database fields",
+    "content_hash": "33319d157f33f37d087215f588f2c06f"
+  },
+  {
+    "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+    "normalized": "hyperagent: planning and acting over tool-schema hypergraphs for tool-use llm agents",
+    "content_hash": "aaa5ab4a79dc157d6eac1eec184d65a8"
+  },
+  {
+    "title": "VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space",
+    "normalized": "veritrace: human-like temporal exploration completes agentic action space",
+    "content_hash": "fdadcf37e7abc89cac27964e2e096bf8"
+  },
+  {
+    "title": "UrbanAgent: A Tool-Augmented Agent for Cross-System Urban Tasks",
+    "normalized": "urbanagent: a tool-augmented agent for cross-system urban tasks",
+    "content_hash": "d4aadcfb616172cba5212eef2a0a2399"
+  },
+  {
+    "title": "CastFSR: A Fast--Slow--Reflect Agentic Reasoning Framework for Context-Aware Time Series Forecasting",
+    "normalized": "castfsr: a fast--slow--reflect agentic reasoning framework for context-aware time series forecasting",
+    "content_hash": "adbd0d35480edee65ee7a601011e97f7"
+  },
+  {
+    "title": "TraceCAD: Trace-Guided Repair for Agentic CAD Generation",
+    "normalized": "tracecad: trace-guided repair for agentic cad generation",
+    "content_hash": "d3ea436bb0cf28d4d1922e0bab9ab7eb"
+  },
+  {
+    "title": "Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls",
+    "normalized": "getting the parameters right: a difficulty-graded benchmark and probe-guided training for llm tool calls",
+    "content_hash": "117de4787567f6f009f4dffcc4000d4c"
+  },
+  {
+    "title": "AI Agent Economics: Can Autonomous Economic Behavior Emerge among AI Agents under Minimal External Conditions?",
+    "normalized": "ai agent economics: can autonomous economic behavior emerge among ai agents under minimal external conditions?",
+    "content_hash": "ae88d0d2bdb9b39fb70172c82a4b8749"
   }
 ]
