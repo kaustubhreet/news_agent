@@ -1,130 +1,5 @@
 [
   {
-    "title": "Elon Musk\u2019s Boring Company reportedly raising funding at a $20 billion valuation",
-    "normalized": "elon musk's boring company reportedly raising funding at a $20 billion valuation",
-    "content_hash": "719932b3bab6080869a2290faef828de"
-  },
-  {
-    "title": "Monday.com is the latest tech company to blame AI for layoffs \u2014 here are 20 others",
-    "normalized": "monday.com is the latest tech company to blame ai for layoffs -- here are 20 others",
-    "content_hash": "74862597304ca0d759f713fcc66be28f"
-  },
-  {
-    "title": "Google basically confirms the Pixel 11 is getting a price hike",
-    "normalized": "google basically confirms the pixel 11 is getting a price hike",
-    "content_hash": "9cc4afc48266353882eb0edd5f844302"
-  },
-  {
-    "title": "Kalshi demands Netflix take down trailer for \u2018Prediction Games\u2019 documentary",
-    "normalized": "kalshi demands netflix take down trailer for 'prediction games' documentary",
-    "content_hash": "3669cf25394947b0c09bdbc6a75d664b"
-  },
-  {
-    "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops for people who are fed up with Big Tech",
-    "normalized": "librarians are hosting viral 'avoiding ai' workshops for people who are fed up with big tech",
-    "content_hash": "b872ba7991f524f5b84369969baef1d5"
-  },
-  {
-    "title": "One fallen power line exposed a growing AI data center problem. Here\u2019s how to fix it.",
-    "normalized": "one fallen power line exposed a growing ai data center problem. here's how to fix it.",
-    "content_hash": "492c6bfd2b617c6aa733d9ad2f0cd7e3"
-  },
-  {
-    "title": "Teenage Engineering\u2019s unique music machines are 30 percent off",
-    "normalized": "teenage engineering's unique music machines are 30 percent off",
-    "content_hash": "372724de38b8b79f6379d60752aa80e4"
-  },
-  {
-    "title": "Warner Bros. is suing Amazon for poaching employees",
-    "normalized": "warner bros. is suing amazon for poaching employees",
-    "content_hash": "a9c66741dfdc5c2daa5b18b8fcfe430b"
-  },
-  {
-    "title": "Becoming a Research Engineer at a Big LLM Lab",
-    "normalized": "becoming a research engineer at a big llm lab",
-    "content_hash": "c142f60850a85e39dcd7f4b7c4d61bb3"
-  },
-  {
-    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-    "normalized": "empowering india's next generation of innovators with atl saathi",
-    "content_hash": "a2b8450ac56405d592a5875e6a512704"
-  },
-  {
-    "title": "Building trade assistant: How Jefferies optimized front office trading operations with AI",
-    "normalized": "building trade assistant: how jefferies optimized front office trading operations with ai",
-    "content_hash": "44b0441b34d61e6f53a171c80a930afe"
-  },
-  {
-    "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
-    "normalized": "ai teammates: how monday.com runs production ai agents on amazon bedrock",
-    "content_hash": "dddff6a329b67e1b0a3166abe0e79f11"
-  },
-  {
-    "title": "Loop Engineering for RAG Generation: An LLM Cascade from a Cheap Local Model Up to a Hosted Flagship",
-    "normalized": "loop engineering for rag generation: an llm cascade from a cheap local model up to a hosted flagship",
-    "content_hash": "58b6ccf9eea5bd7646702caa2b6da7a7"
-  },
-  {
-    "title": "Context Windows Forget What Matters \u2014 I Built a Usage-Reinforced Decay Engine for AI Agent Memory",
-    "normalized": "context windows forget what matters -- i built a usage-reinforced decay engine for ai agent memory",
-    "content_hash": "2ea885308d461b66d4727c8097304c57"
-  },
-  {
-    "title": "Why Adding More AI Agents Made Our System\u00a0Slower",
-    "normalized": "why adding more ai agents made our system slower",
-    "content_hash": "f9c1d9f2253fd0b7fcd3c716b31e4daf"
-  },
-  {
-    "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-    "normalized": "warner bros. lawsuit accuses amazon of illegally poaching executives",
-    "content_hash": "638c4e94dba806c42d9b68715d7efcfc"
-  },
-  {
-    "title": "The hacker who humiliated spyware makers and was never caught",
-    "normalized": "the hacker who humiliated spyware makers and was never caught",
-    "content_hash": "1a5917178b3b5facc8ff1d0fe3cb7558"
-  },
-  {
-    "title": "Waymo reportedly mulling a breakup with Uber",
-    "normalized": "waymo reportedly mulling a breakup with uber",
-    "content_hash": "45caad723acedab1b3aff6a7f724d8b2"
-  },
-  {
-    "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
-    "normalized": "best window air conditioners of 2026: midea, zafro, ge",
-    "content_hash": "f36957eb122a17564d5b4a8d05e1a815"
-  },
-  {
-    "title": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
-    "normalized": "some of our favorite brain-boosting toys for kids of all ages",
-    "content_hash": "4116ee4a1d6201ab2528c829cd5784c4"
-  },
-  {
-    "title": "Some Kids Will Never Think AI Is Cool",
-    "normalized": "some kids will never think ai is cool",
-    "content_hash": "0d7a3ede193e65115ad0caec9fd6ebed"
-  },
-  {
-    "title": "Kagi Brings Back Old-School Search, One Human-Made Website at a Time",
-    "normalized": "kagi brings back old-school search, one human-made website at a time",
-    "content_hash": "51a964f02cd43785998120fe4d761d1f"
-  },
-  {
-    "title": "Meta\u2019s New Feel-Good AI Ad Uses a Song About the World Ending",
-    "normalized": "meta's new feel-good ai ad uses a song about the world ending",
-    "content_hash": "91e37858a7193196a0da9a210b79bd22"
-  },
-  {
-    "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-    "normalized": "malvertising sends malware in pieces, then makes the browser build the executable",
-    "content_hash": "36e361779c7fc63b87890529cbb1614c"
-  },
-  {
-    "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-    "normalized": "fastjson 1.x rce vulnerability targeted in attacks with no patched available",
-    "content_hash": "7e0a33879b08f59ba57de1ea50d51ac9"
-  },
-  {
     "title": "Show HN: Integrate any CLI agent into any terminal",
     "normalized": "show hn: integrate any cli agent into any terminal",
     "content_hash": "9264ffd0093931462e75742749d180d4"
@@ -2498,5 +2373,130 @@
     "title": "Zenity Raises $125 Million as Enterprises Confront the Security Risks of Autonomous AI Agents",
     "normalized": "zenity raises $125 million as enterprises confront the security risks of autonomous ai agents",
     "content_hash": "458791bd3d945e6d8e0725665f118386"
+  },
+  {
+    "title": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
+    "normalized": "nvidia doesn't mess around: a week after open ai industry group formed, it's already showing progress",
+    "content_hash": "552af558f4efedf0088d39d6a50cd619"
+  },
+  {
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "normalized": "anthropic signs $10b deal with ai cloud startup volta",
+    "content_hash": "b478d4ea0b541445f845bdcd5dbb86bf"
+  },
+  {
+    "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+    "normalized": "ok, well, rogue ai agents are hacking again",
+    "content_hash": "89ecaaa25b4f110dc8a57fbf60870fd1"
+  },
+  {
+    "title": "Launch HN: EdotEnv (YC S26) \u2013 Quant Trading RL Envs to Teach LLMs Research",
+    "normalized": "launch hn: edotenv (yc s26) - quant trading rl envs to teach llms research",
+    "content_hash": "e87e950f514d19f4fdace61843f1b1d8"
+  },
+  {
+    "title": "Show HN: A faster coding agent than Codex and Claude Code",
+    "normalized": "show hn: a faster coding agent than codex and claude code",
+    "content_hash": "08faa9fbff2bc3fae420944f83d378bf"
+  },
+  {
+    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+    "normalized": "spacex doubles revenue on anthropic and google compute deals, starlink growth",
+    "content_hash": "86f3d960d95dadac5075ebcc98721397"
+  },
+  {
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "normalized": "apple says more ex-employees may have taken confidential data to openai",
+    "content_hash": "1f471e06e12fbce8d2c50c5a1ae0b18e"
+  },
+  {
+    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+    "normalized": "the white house is keeping its ai cybersecurity framework secret",
+    "content_hash": "d859952eda449fe1a1bfa6bd32ca10ac"
+  },
+  {
+    "title": "How an OpenAI influencer trip backfired",
+    "normalized": "how an openai influencer trip backfired",
+    "content_hash": "527a20f739786328a2b2f1548a937eed"
+  },
+  {
+    "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
+    "normalized": "'not healthy' llm use is more common than you think",
+    "content_hash": "87ea45a5ddb2d91d781e1d5fb9265a5f"
+  },
+  {
+    "title": "Nobody Was Watching: Anthropic, OpenAI, and Open Models",
+    "normalized": "nobody was watching: anthropic, openai, and open models",
+    "content_hash": "e3e4718e1d1471795ebc49d86387353e"
+  },
+  {
+    "title": "Ask HN: Dear Anthropic, can we please have thought traces back?",
+    "normalized": "ask hn: dear anthropic, can we please have thought traces back?",
+    "content_hash": "6ba445fca328962506897b49f89cdd63"
+  },
+  {
+    "title": "Convex Raises $57M Series B to Build the Backend for Agent-Written Software",
+    "normalized": "convex raises $57m series b to build the backend for agent-written software",
+    "content_hash": "381b026d3393f3e8b78fc4440183494f"
+  },
+  {
+    "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+    "normalized": "how to get the best hotel deals for techcrunch disrupt 2026",
+    "content_hash": "98f87cf5850badac751c608fa069f2cc"
+  },
+  {
+    "title": "Android app developers may be unwittingly sharing their users\u2019 location data with advertisers",
+    "normalized": "android app developers may be unwittingly sharing their users' location data with advertisers",
+    "content_hash": "865be4910345a8bdb10dd36f3d7c804f"
+  },
+  {
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "normalized": "open-weight ai models are catching up to the frontier. the safety gap remains.",
+    "content_hash": "e4c8ec1bf629004b2fa55f291152c75b"
+  },
+  {
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "normalized": "meet wrinkles, an app that uncovers the hidden stories of the places around you",
+    "content_hash": "ef359b2de37754b9ac18974736d1b9a8"
+  },
+  {
+    "title": "Waymo opens up robotaxi service in Dallas to everyone",
+    "normalized": "waymo opens up robotaxi service in dallas to everyone",
+    "content_hash": "900d15b99c30ef61835eda318066b3d7"
+  },
+  {
+    "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
+    "normalized": "hackers steal over $130m by exploiting bug in offline hardware wallets",
+    "content_hash": "a056538b095ae9ce383df41442a8bbf7"
+  },
+  {
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "normalized": "spotify expands ai remix and covers project with merlin partnership",
+    "content_hash": "cd8e993eb1ef2d93c2d11df2095ab56e"
+  },
+  {
+    "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
+    "normalized": "walmart completes its acquisition of tv advertising company vibe.co",
+    "content_hash": "36a950f2a771335ab60f168bb305927d"
+  },
+  {
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "normalized": "elon musk spends half his time talking robots and ai on tesla earnings calls",
+    "content_hash": "3cd48e820ee7afd8be3fa0aafabc8044"
+  },
+  {
+    "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
+    "normalized": "host a side event during techcrunch founder summit week in boston",
+    "content_hash": "746c57ed2ea2605875f32235b4a9c8e6"
+  },
+  {
+    "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+    "normalized": "fake adobe and zoom updates install screenconnect for persistent remote access",
+    "content_hash": "03e70216733a8124ec27f063bd21bc4a"
+  },
+  {
+    "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+    "normalized": "openai says apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+    "content_hash": "67a7d3d6b8fce6d79ff76ca4c2c2b706"
   }
 ]
