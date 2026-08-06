@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: LLM-spend \u2013 Audit your OpenAI/Anthropic API spend locally",
-    "normalized": "show hn: llm-spend - audit your openai/anthropic api spend locally",
-    "content_hash": "eee38535e81465e6ddd6dd99bf8b4919"
-  },
-  {
-    "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
-    "normalized": "hugging face ceo calls for 'radical transparency' after 'unprecedented' openai hack",
-    "content_hash": "6da8af34277e3641de6232c7b77fd32c"
-  },
-  {
-    "title": "The US is charging an American citizen for wiping his phone at the border",
-    "normalized": "the us is charging an american citizen for wiping his phone at the border",
-    "content_hash": "e6d5f17abb475dbf2af7e0981d10622e"
-  },
-  {
-    "title": "How I built a debugging tool, and the agent, using it, found bugs in it",
-    "normalized": "how i built a debugging tool, and the agent, using it, found bugs in it",
-    "content_hash": "6a35b3d727777e27beb791934b214b4e"
-  },
-  {
-    "title": "Show HN: Anyclaude-SDK \u2013 Claude Code-Style SDK for OpenAI/Anthropic Endpoints",
-    "normalized": "show hn: anyclaude-sdk - claude code-style sdk for openai/anthropic endpoints",
-    "content_hash": "0081b70676103023f2445095e0ded61d"
-  },
-  {
-    "title": "So-called 'Skynet Day' came too close to SF after rogue agent hacked a startup",
-    "normalized": "so-called 'skynet day' came too close to sf after rogue agent hacked a startup",
-    "content_hash": "8bd3c267d24262b2dd8f20d9f0db44cb"
-  },
-  {
-    "title": "More on an Internal OpenAI Model Hacking into HuggingFace",
-    "normalized": "more on an internal openai model hacking into huggingface",
-    "content_hash": "9c68e195dad4565a8ae07c71edf6373a"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-    "normalized": "google just redesigned the search box for the first time in 25 years -- here's why it matters more than you think.",
-    "content_hash": "395a63ec377d7809c4ffb7922b0e14aa"
-  },
-  {
-    "title": "How to Give an LLM Agent a Browser",
-    "normalized": "how to give an llm agent a browser",
-    "content_hash": "335549e71c4f1b9984247158790e7163"
-  },
-  {
-    "title": "Are brain waves the next unlock for physical AI?",
-    "normalized": "are brain waves the next unlock for physical ai?",
-    "content_hash": "6f3777a09b86b2067eb2d9bddf47543a"
-  },
-  {
-    "title": "Making sense of the panic over Chinese AI",
-    "normalized": "making sense of the panic over chinese ai",
-    "content_hash": "7960f51226d7e19732f998cab87e05c3"
-  },
-  {
-    "title": "TechCrunch Mobility: Uber bets on its former CEO",
-    "normalized": "techcrunch mobility: uber bets on its former ceo",
-    "content_hash": "078603a202571c90b31648c2c33fa2f8"
-  },
-  {
-    "title": "Carrie is just trying to make a friend in the new trailer",
-    "normalized": "carrie is just trying to make a friend in the new trailer",
-    "content_hash": "a64a90febfccd462d4a9d54ee4e62abd"
-  },
-  {
-    "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
-    "normalized": "you can get three months of xbox game pass ultimate for almost half off",
-    "content_hash": "02a789b4713153937bf35fbb13113b0b"
-  },
-  {
-    "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
-    "normalized": "marvel announces ryan gosling as ghost rider, a new black panther, and more",
-    "content_hash": "0f4918df5cdb90b1368999d6004c582d"
-  },
-  {
-    "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
-    "normalized": "wattage: a token-spend profiler and cost-regression gate for ai agents",
-    "content_hash": "492c3971800f507b001878a6e0d5f079"
-  },
-  {
-    "title": "OpenAI: A Bubble Bigger Than Dotcom",
-    "normalized": "openai: a bubble bigger than dotcom",
-    "content_hash": "f7846e1f2da21885b33b61a6d4dadc87"
-  },
-  {
-    "title": "Show HN: An interactive way to exploit an LLM without going to jail",
-    "normalized": "show hn: an interactive way to exploit an llm without going to jail",
-    "content_hash": "2c613b1e1807e0a2cf41452ebfadbaec"
-  },
-  {
-    "title": "Hugging Face CEO calls for 'radical transparency' after 'unprecedented' OpenAI",
-    "normalized": "hugging face ceo calls for 'radical transparency' after 'unprecedented' openai",
-    "content_hash": "c7ac2714cab66db89c449241ca95273c"
-  },
-  {
-    "title": "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",
-    "normalized": "sp/1.0: deterministic, reproducible verdicts for ai-agent decisions",
-    "content_hash": "9d9e052ec072bf1d836925a0cef2501a"
-  },
-  {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "normalized": "gpt-red: unlocking self-improvement for robustness",
-    "content_hash": "427499f078c3d377b48a10a82d5fb443"
-  },
-  {
-    "title": "Can Apple make smart glasses that aren\u2019t a constant privacy threat?",
-    "normalized": "can apple make smart glasses that aren't a constant privacy threat?",
-    "content_hash": "10a3888b2b9673314675f0c7ea04b52a"
-  },
-  {
-    "title": "Inside one London founder house rewriting the founder-house rules",
-    "normalized": "inside one london founder house rewriting the founder-house rules",
-    "content_hash": "b0a084d48d59028a6da79732180568f9"
-  },
-  {
-    "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-    "normalized": "microsoft responds to lg monitors installing mcafee ads on windows",
-    "content_hash": "278b1ce181465dae4d3ffbf8c764f606"
-  },
-  {
-    "title": "Openbase",
-    "normalized": "openbase",
-    "content_hash": "5856eaf3ff7a53f549c0e951def2aadd"
-  },
-  {
     "title": "Nvidia, Microsoft launch open AI security alliance \u2014 without OpenAI, Google, or Anthropic",
     "normalized": "nvidia, microsoft launch open ai security alliance -- without openai, google, or anthropic",
     "content_hash": "9e8d71c94b0352e88a319c5486b23755"
@@ -2498,5 +2373,130 @@
     "title": "AI Agent Economics: Can Autonomous Economic Behavior Emerge among AI Agents under Minimal External Conditions?",
     "normalized": "ai agent economics: can autonomous economic behavior emerge among ai agents under minimal external conditions?",
     "content_hash": "ae88d0d2bdb9b39fb70172c82a4b8749"
+  },
+  {
+    "title": "Rogue AI agents created fake online identities in another hacking attempt",
+    "normalized": "rogue ai agents created fake online identities in another hacking attempt",
+    "content_hash": "a7ef26b0201d588dbc19db627ad6a165"
+  },
+  {
+    "title": "Why Lightspeed is going all-in on creator-led venture capital",
+    "normalized": "why lightspeed is going all-in on creator-led venture capital",
+    "content_hash": "b61bea860347c3db812f40a47672137d"
+  },
+  {
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "normalized": "jeff dean and other top ai researchers are leaving google to launch their own startup",
+    "content_hash": "fdc0c27b08c0745b62412922733cca0d"
+  },
+  {
+    "title": "Google\u2019s Top AI Brains Are Leaving to Launch Discovery Loop",
+    "normalized": "google's top ai brains are leaving to launch discovery loop",
+    "content_hash": "9ef2b2750d08253eb120e56b3668dbc0"
+  },
+  {
+    "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
+    "normalized": "openai, anthropic ai agents implicated in new security breaches",
+    "content_hash": "6d39084a6fd2ae1f59780a07522bc03f"
+  },
+  {
+    "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+    "normalized": "meta debuts first ai coding agent to take on anthropic and openai",
+    "content_hash": "ad6c32e6fe6e875abe9c2383b143b55e"
+  },
+  {
+    "title": "Microsoft makes OpenAI GPT-5.6 Sol default in GitHub Copilot for staff",
+    "normalized": "microsoft makes openai gpt-5.6 sol default in github copilot for staff",
+    "content_hash": "135a814aa2c4332b066546d9866d1d3f"
+  },
+  {
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "normalized": "meta launches muse code, an ai agent for large code bases",
+    "content_hash": "4afb9e7c86c2bf18998d0b9376cb35ab"
+  },
+  {
+    "title": "Trump\u2019s DOJ gains oversight of OpenAI\u2019s green-card employee sponsorships",
+    "normalized": "trump's doj gains oversight of openai's green-card employee sponsorships",
+    "content_hash": "c022aeffc99efd63f22b3e6925b03d15"
+  },
+  {
+    "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
+    "normalized": "klaviyo acquires elias torres' agency in full-circle reunion for tech founders",
+    "content_hash": "6041b0460e58f9d4eb2fe017d95d7640"
+  },
+  {
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "normalized": "shopify says ai search is driving more traffic and sales, not replacing google",
+    "content_hash": "d573761c643c75644e6729c139bee6a0"
+  },
+  {
+    "title": "Hark previews its browser use agent for completing tasks",
+    "normalized": "hark previews its browser use agent for completing tasks",
+    "content_hash": "f08482500bc95230220a83c7823918e9"
+  },
+  {
+    "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
+    "normalized": "trump epa wrongly canceled $20b in climate funds, appeals court rules",
+    "content_hash": "36f71e783cf750d2278758a5de9d1128"
+  },
+  {
+    "title": "OpenAI Didn\u2019t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+    "normalized": "openai didn't notice its ai agents using a message board to plan their hacking spree",
+    "content_hash": "49a7002fdc7be31ea29adacb96e6536d"
+  },
+  {
+    "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+    "normalized": "openai disrupts poipet scam network using chatgpt across multiple fraud schemes",
+    "content_hash": "e55955f3b8f692b322c04beef606058a"
+  },
+  {
+    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+    "normalized": "poison claude sells discounted claude access while its operator sees every customer prompt",
+    "content_hash": "5f0735791e5dde9d688d37b876396af0"
+  },
+  {
+    "title": "Google just announced a major shakeup of its top AI leadership",
+    "normalized": "google just announced a major shakeup of its top ai leadership",
+    "content_hash": "8babdd9e9601649356e2d19d43bf4a36"
+  },
+  {
+    "title": "Reddit is introducing a new moderator: AI",
+    "normalized": "reddit is introducing a new moderator: ai",
+    "content_hash": "2bace328bc2405fd36ee5b41c4ffb726"
+  },
+  {
+    "title": "OpenAI agents rebuilt a secret message board after the company shut it down",
+    "normalized": "openai agents rebuilt a secret message board after the company shut it down",
+    "content_hash": "e5219683587cea36640d9497bf89f6a4"
+  },
+  {
+    "title": "Anthropic Confirms It Is Building an In-House Silicon Team for Claude",
+    "normalized": "anthropic confirms it is building an in-house silicon team for claude",
+    "content_hash": "ef430f193969fbbdf96a93c2e3e5d6ef"
+  },
+  {
+    "title": "Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO",
+    "normalized": "travis kalanick's robotics startup atoms taps former uber finance chief as cfo",
+    "content_hash": "7e4ce57d4c13f8f5f4a0ee7e284aadac"
+  },
+  {
+    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+    "normalized": "moove raises $250m to become the backbone of the robotaxi industry",
+    "content_hash": "75d65046f50d13afc3a0c0759dd5a75b"
+  },
+  {
+    "title": "How Lightspeed found its newest hire\u00a0\u2026 via Instagram DM",
+    "normalized": "how lightspeed found its newest hire ... via instagram dm",
+    "content_hash": "0e348154a8059e921d9318ad2d4db604"
+  },
+  {
+    "title": "Reddit aims to make \u2018karma\u2019 less important for first-time posters with shift to AI moderation tools",
+    "normalized": "reddit aims to make 'karma' less important for first-time posters with shift to ai moderation tools",
+    "content_hash": "ce92375cb8239c616c3ecf89aa18dca3"
+  },
+  {
+    "title": "Lucid Motors just delayed its affordable EV. Now what?",
+    "normalized": "lucid motors just delayed its affordable ev. now what?",
+    "content_hash": "ab99f114502975678ab6fedcb8ee5a06"
   }
 ]
