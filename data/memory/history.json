@@ -1,130 +1,5 @@
 [
   {
-    "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-    "normalized": "nvidia forms 37-member open secure ai alliance and open-sources nooa framework",
-    "content_hash": "8b7ed8e0fa93fe48e27f28ca3c2ac6e8"
-  },
-  {
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "normalized": "microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "content_hash": "e9113372bc1e4b25fe95f4bc220e67e7"
-  },
-  {
-    "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research",
-    "normalized": "ilya sutskever's safe superintelligence partners with nvidia to scale its ai research",
-    "content_hash": "dc9eae9e470f5ef93cdfe0cd01513b2d"
-  },
-  {
-    "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
-    "normalized": "anthropic's dario amodei responds: doesn't oppose open-weight models, but fears chinese ai",
-    "content_hash": "649b91a7171902080246fd413bc19728"
-  },
-  {
-    "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
-    "normalized": "openai's hugging face breach has reignited the debate over alignment and control",
-    "content_hash": "d62405cbd18d6f5ffe760cb922f64b66"
-  },
-  {
-    "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
-    "normalized": "google's ai search is rapidly becoming the default, new data shows",
-    "content_hash": "f6b46b57f2c26fccd817f2f80d383984"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-    "normalized": "\u26a1 weekly recap: rogue ai agents, check point exploit, slopsquatting, clickfix lures and more",
-    "content_hash": "2c39682c23c7240274fcda4bedf0d633"
-  },
-  {
-    "title": "Investing in multi-agent AI safety research",
-    "normalized": "investing in multi-agent ai safety research",
-    "content_hash": "58d5ff80f8a6d836907e866275f152d9"
-  },
-  {
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "normalized": "satya nadella says companies that trust one ai for everything may not survive",
-    "content_hash": "dc4eaaa7d3005a942195f5d0a487415c"
-  },
-  {
-    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-    "normalized": "thea energy lands $20m federal grant to build its magnets for fusion reactors",
-    "content_hash": "60c5cff7a23fe6356e82f09d9866e8b7"
-  },
-  {
-    "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
-    "normalized": "as rivals chase acquisitions, peacock bets on bundles through a new deal with youtube",
-    "content_hash": "4569ec73a2fe61bbc74cd4bca541d7d5"
-  },
-  {
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "normalized": "psa: your claude shared chats and artifacts may have ended up on google",
-    "content_hash": "1d5634447299a90236c6cb0496469f35"
-  },
-  {
-    "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
-    "normalized": "apple sued after alleged app store crypto scam cost users $1.8m",
-    "content_hash": "26503aa93a34384061ee280b07aa5f64"
-  },
-  {
-    "title": "Antares raises $470M to build nuclear reactors for the US military",
-    "normalized": "antares raises $470m to build nuclear reactors for the us military",
-    "content_hash": "4aa3b933e969a273b0845b22189ce934"
-  },
-  {
-    "title": "Threads users can now chat with Meta AI in their DMs",
-    "normalized": "threads users can now chat with meta ai in their dms",
-    "content_hash": "9fc4a96f6196c56229d21b58ce17f4a8"
-  },
-  {
-    "title": "Power up\u00a0your AI infrastructure!\u00a0A first look at\u00a0the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-    "normalized": "power up your ai infrastructure! a first look at the smart systems stage agenda at techcrunch disrupt 2026",
-    "content_hash": "055c4740d2344ad338a6d4d02b7cc938"
-  },
-  {
-    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-    "normalized": "enigma raises $71m to make controlling a robot as easy as adjusting the volume",
-    "content_hash": "881e4ea9ae6ef1cdc0ddb0ba604fe6b9"
-  },
-  {
-    "title": "Private Claude Chats Exposed in Google and Bing Search Results",
-    "normalized": "private claude chats exposed in google and bing search results",
-    "content_hash": "3a8756c41561ca388fd3ddb77c9627f2"
-  },
-  {
-    "title": "Razer\u2019s analog Huntsman V3 Pro is over 20 percent off",
-    "normalized": "razer's analog huntsman v3 pro is over 20 percent off",
-    "content_hash": "60519c7b7388c4b62e1d9a09d6271ea6"
-  },
-  {
-    "title": "Why China is giving away its best AI models",
-    "normalized": "why china is giving away its best ai models",
-    "content_hash": "58f1c78bec10094e286e906485c7ec62"
-  },
-  {
-    "title": "This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800",
-    "normalized": "this is my new favorite laptop, but thanks to ramageddon the price already went up by $800",
-    "content_hash": "aa9fdf437f5d3febbf1f0ab952dc8bf7"
-  },
-  {
-    "title": "Tariffs didn\u2019t bring manufacturing jobs back to the US",
-    "normalized": "tariffs didn't bring manufacturing jobs back to the us",
-    "content_hash": "c674b0bcf600b57984a41b27e65fd0c0"
-  },
-  {
-    "title": "MAI-Cyber-1-Flash inside MDASH",
-    "normalized": "mai-cyber-1-flash inside mdash",
-    "content_hash": "c45edf3ffc7dcd64a00490a7fb2f24d3"
-  },
-  {
-    "title": "Amazon\u2019s new satellite network for mobile phones could turn up the heat on SpaceX",
-    "normalized": "amazon's new satellite network for mobile phones could turn up the heat on spacex",
-    "content_hash": "f58ae21c040cc4ee15dc6036710543f7"
-  },
-  {
-    "title": "This $9 key physically locks your most addictive apps",
-    "normalized": "this $9 key physically locks your most addictive apps",
-    "content_hash": "a05d23d06955877b62c929eeeece3c77"
-  },
-  {
     "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
     "normalized": "cursor makes its biggest india push yet ahead of spacex acquisition with localized pricing",
     "content_hash": "7c2807227d378ecc545e550b1db6e60b"
@@ -2498,5 +2373,130 @@
     "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
     "normalized": "over 250 clickfix domains use browser fingerprinting to hide macos malware lures",
     "content_hash": "72011dce388606ee8c2614901f189bf4"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
+    "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
+  },
+  {
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "normalized": "chatgpt brings unlimited text chats to free users",
+    "content_hash": "b602b58491c0168c5a7a428064ed1896"
+  },
+  {
+    "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
+    "normalized": "openai says apple's own security practices undermine its trade secrets case",
+    "content_hash": "bad1ae77dad93f2bb8bbcca7e5a0f262"
+  },
+  {
+    "title": "Anthropic will design its own hardware to power Claude",
+    "normalized": "anthropic will design its own hardware to power claude",
+    "content_hash": "1b70ab9f03f1d5bcd0729927010878de"
+  },
+  {
+    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "normalized": "openai is giving chatgpt free users unlimited text chats",
+    "content_hash": "a998a0a105a9e337c61b4d58119776fc"
+  },
+  {
+    "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
+    "normalized": "openai's new ai smart speaker will reportedly sell for between $300 and $400",
+    "content_hash": "da6384f873cdab341b66c8bd6b45a076"
+  },
+  {
+    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+    "normalized": "your table awaits: exhibit at techcrunch disrupt 2026 to be seen by thousands",
+    "content_hash": "4b1e745df29b7fd634af5637a896cd2d"
+  },
+  {
+    "title": "Google Wallet now lets parents set up secure balances for their kids",
+    "normalized": "google wallet now lets parents set up secure balances for their kids",
+    "content_hash": "d83264f16d09cdeeab00ad129a4da36c"
+  },
+  {
+    "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "normalized": "jony ive's first openai gadget is reportedly a hockey puck-sized smart speaker",
+    "content_hash": "cc0868d22825945a30dcb42e275bc27d"
+  },
+  {
+    "title": "OpenAI and four rivals just agreed on one standard for AI agents",
+    "normalized": "openai and four rivals just agreed on one standard for ai agents",
+    "content_hash": "b3e9cae150ccd140b9a4a8b301b7e9d4"
+  },
+  {
+    "title": "AMD Buys Taalas to Put Hard-Wired AI Models in Its Accelerator Roadmap",
+    "normalized": "amd buys taalas to put hard-wired ai models in its accelerator roadmap",
+    "content_hash": "7766718d4eef4aa75129f8aecd511ebf"
+  },
+  {
+    "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+    "normalized": "google says hackers are calling financial firm employees to hack and extort victims",
+    "content_hash": "885a6cd0c7b64949624fdb873ff9ea42"
+  },
+  {
+    "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+    "normalized": "defense tech hadrian raises $1.37b at $8b valuation",
+    "content_hash": "a605d265d88a03273bdb4e5b96ae8032"
+  },
+  {
+    "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
+    "normalized": "na\u00efve raises $28.5m to automate the grunt work of setting up and running a company",
+    "content_hash": "61adeac4a34e99f8cb12c3a6ff4261a8"
+  },
+  {
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "normalized": "gen z dating apps like ditto ditch swiping in favor of ai matchmaking",
+    "content_hash": "4161c2f9eec909a1cfa1bfcfda5e4d69"
+  },
+  {
+    "title": "Tesla and SpaceX will invest $16.8B to start building \u2018Terafab\u2019 chip factory in Texas",
+    "normalized": "tesla and spacex will invest $16.8b to start building 'terafab' chip factory in texas",
+    "content_hash": "62bf44c6d29d279c08576b63439131b2"
+  },
+  {
+    "title": "Ford\u2019s new electric truck, \u2018Fathom,\u2019 starts at $28,350",
+    "normalized": "ford's new electric truck, 'fathom,' starts at $28,350",
+    "content_hash": "b75c438a41085a112862eaaaa11eb6e4"
+  },
+  {
+    "title": "Why Normal People Aren\u2019t Using AI Agents",
+    "normalized": "why normal people aren't using ai agents",
+    "content_hash": "524c6cde0154b5bacdf5a1de0a8d90d2"
+  },
+  {
+    "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+    "normalized": "paperclip ai flaws let attackers run host commands via malicious agent imports",
+    "content_hash": "affe2d405094e14ca382ad3777262951"
+  },
+  {
+    "title": "Anthropic\u2019s AI used fake identities, malware in rogue attack on GitHub project",
+    "normalized": "anthropic's ai used fake identities, malware in rogue attack on github project",
+    "content_hash": "0e98ce3806182146fcd01bdf0b2bf6bd"
+  },
+  {
+    "title": "OpenAI will no longer limit how many texts free accounts can send to ChatGPT",
+    "normalized": "openai will no longer limit how many texts free accounts can send to chatgpt",
+    "content_hash": "eaea6227b029490c58a01b9258943bab"
+  },
+  {
+    "title": "Adobe's new ChatGPT plugin brings 70 of its tools to OpenAI's chatbot",
+    "normalized": "adobe's new chatgpt plugin brings 70 of its tools to openai's chatbot",
+    "content_hash": "eef2d5c103b7848a89ed5b6db30646f9"
+  },
+  {
+    "title": "Trevor Noah is hosting Google\u2019s Pixel 11 launch event",
+    "normalized": "trevor noah is hosting google's pixel 11 launch event",
+    "content_hash": "52af1f268ae50fee4e82a325f718df2a"
+  },
+  {
+    "title": "The AirPods Pro are $60 off, their best price since late June",
+    "normalized": "the airpods pro are $60 off, their best price since late june",
+    "content_hash": "e4ba692cc6f52c5fa31c5ed7b130a35b"
+  },
+  {
+    "title": "The Zelda movie\u2019s Ganondorf casting hints at more movies",
+    "normalized": "the zelda movie's ganondorf casting hints at more movies",
+    "content_hash": "ed19ee648b8bf97aa20a61e9b2021cb2"
   }
 ]
