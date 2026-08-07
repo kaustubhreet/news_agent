@@ -1,130 +1,5 @@
 [
   {
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "normalized": "cursor makes its biggest india push yet ahead of spacex acquisition with localized pricing",
-    "content_hash": "7c2807227d378ecc545e550b1db6e60b"
-  },
-  {
-    "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-    "normalized": "can the new york times save journalism from our ai overlords?",
-    "content_hash": "174de2a28916ae1cdca2959eac75cd82"
-  },
-  {
-    "title": "Silicon Valley\u2019s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-    "normalized": "silicon valley's next ipo billionaires are coming. nonprofits are ready for them",
-    "content_hash": "898f6157f3fd982e822272ad7d064fc4"
-  },
-  {
-    "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-    "normalized": "microsoft says new cybersecurity ai model helps mdash score 95.95% at half the cost",
-    "content_hash": "1efaf57e61aa1894107b1ef766d0d333"
-  },
-  {
-    "title": "Perplexity\u2019s Personal Computer turns Windows PCs into AI agents",
-    "normalized": "perplexity's personal computer turns windows pcs into ai agents",
-    "content_hash": "c497c9514ee02f6b40c3f9026bd8abde"
-  },
-  {
-    "title": "Smart rings are looking like my kind of AI gadget",
-    "normalized": "smart rings are looking like my kind of ai gadget",
-    "content_hash": "9783ace87fc136c108f654f755bb8366"
-  },
-  {
-    "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
-    "normalized": "sf-ams: strategic forgetting for structured memory in llm agent",
-    "content_hash": "dcfb1c830ebab4088fa911f467550c75"
-  },
-  {
-    "title": "Execution-Grounded Security Testing for Coding Agents in Software Engineering Pipelines",
-    "normalized": "execution-grounded security testing for coding agents in software engineering pipelines",
-    "content_hash": "47da5a426953828f244a23dc4e092901"
-  },
-  {
-    "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
-    "normalized": "recursive superintelligence signs $410 compute deal with amazon",
-    "content_hash": "abc7432021d59b61cf04cc3bd6a34625"
-  },
-  {
-    "title": "Lyft and Baidu enter London\u2019s robotaxi battleground as testing begins",
-    "normalized": "lyft and baidu enter london's robotaxi battleground as testing begins",
-    "content_hash": "33df5ade07549ae68deba48a373138ca"
-  },
-  {
-    "title": "You don\u2019t need to splurge on an expensive handheld fan to beat the heat",
-    "normalized": "you don't need to splurge on an expensive handheld fan to beat the heat",
-    "content_hash": "93f1448a4c42e6776328f3e2d8a291a8"
-  },
-  {
-    "title": "Logitech\u2019s handheld plans are on ice \u2014 don\u2019t expect a G Cloud 2 soon",
-    "normalized": "logitech's handheld plans are on ice -- don't expect a g cloud 2 soon",
-    "content_hash": "3c28192f1c2d0854aff0d620c89a6488"
-  },
-  {
-    "title": "Apple launches \u2018Upgrade\u2019 program to lease new devices",
-    "normalized": "apple launches 'upgrade' program to lease new devices",
-    "content_hash": "aefcea4e49215ddb87e932cd71eab90a"
-  },
-  {
-    "title": "Hugging Face is being used to easily undress women and children",
-    "normalized": "hugging face is being used to easily undress women and children",
-    "content_hash": "213ea403a622186a491e39b35c694b04"
-  },
-  {
-    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-    "normalized": "google's beyond zero: enterprise security for the ai era",
-    "content_hash": "e3a35da5e5f00f9a001ad3b427ee6f41"
-  },
-  {
-    "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-    "normalized": "fast remediation is the new trust model (jfrog and openai zero-day findings)",
-    "content_hash": "eb7b82c1dc106ecf43a2e567c76e852b"
-  },
-  {
-    "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
-    "normalized": "deeplens diagnosis agent: agentic workflow design lets a small reasoning model compete with frontier llms",
-    "content_hash": "df2243630b6eebd20f14b7966d74a443"
-  },
-  {
-    "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
-    "normalized": "synthetic scenario generation for evaluation of industry 4.0 agents",
-    "content_hash": "48e4ba59b96ce5f01ff6ef6a01b007b3"
-  },
-  {
-    "title": "Keyword Matters: Unveiling the Energy Sensitivity of On-Device LLM Prompting",
-    "normalized": "keyword matters: unveiling the energy sensitivity of on-device llm prompting",
-    "content_hash": "fa5158ae2599c493f3053e9f46048695"
-  },
-  {
-    "title": "Schema-Aware Localisation (SAL): Live Schema Grounding and Hallucination Validation for Oracle NL2SQL",
-    "normalized": "schema-aware localisation (sal): live schema grounding and hallucination validation for oracle nl2sql",
-    "content_hash": "4a644707df491f9ad4c88d8a495895ff"
-  },
-  {
-    "title": "cMoLLM at Scale: Horizontal Scaling Laws for Mixture-of-LLMs",
-    "normalized": "cmollm at scale: horizontal scaling laws for mixture-of-llms",
-    "content_hash": "095e83131c6ce93dad23d7feb9b80aa5"
-  },
-  {
-    "title": "HeraSys: Collaborative Serving of Multiple LLM Workflows via Fine-Grained End-to-End Optimization",
-    "normalized": "herasys: collaborative serving of multiple llm workflows via fine-grained end-to-end optimization",
-    "content_hash": "11c2d6140a620fc294550152e2c7cdc0"
-  },
-  {
-    "title": "CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents",
-    "normalized": "corvus: context optimization and reduction via underlying synchronization for llm coding agents",
-    "content_hash": "2318d4580edb37e86b3de03e3c034c5c"
-  },
-  {
-    "title": "Progress-conditioned Group Policy Optimization for Long-Horizon Agentic Tasks",
-    "normalized": "progress-conditioned group policy optimization for long-horizon agentic tasks",
-    "content_hash": "f47ae59805491d4ed02976f7d2f14b32"
-  },
-  {
-    "title": "Beyond Shapley: An Influence-Based Data Auditing Pipeline for LLM Alignment and Evaluation",
-    "normalized": "beyond shapley: an influence-based data auditing pipeline for llm alignment and evaluation",
-    "content_hash": "6606ea62c3d6af45e049a950ca46a2e0"
-  },
-  {
     "title": "AI leaders sign a statement asking the government to do something about automated AI",
     "normalized": "ai leaders sign a statement asking the government to do something about automated ai",
     "content_hash": "a988d5f2966fd5fbbd9e15aa0c040e08"
@@ -2498,5 +2373,130 @@
     "title": "The Zelda movie\u2019s Ganondorf casting hints at more movies",
     "normalized": "the zelda movie's ganondorf casting hints at more movies",
     "content_hash": "ed19ee648b8bf97aa20a61e9b2021cb2"
+  },
+  {
+    "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+    "normalized": "claude code and gemini cli flaws let a github issue reach ci workflow secrets",
+    "content_hash": "112e6dc65003b7b2038937702b5ed56a"
+  },
+  {
+    "title": "Investing in multi-agent AI safety research",
+    "normalized": "investing in multi-agent ai safety research",
+    "content_hash": "f15755133eca743d3794b7838c5bb1fa"
+  },
+  {
+    "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
+    "normalized": "searchauditor: auditing and attributing failures in long-horizon search agents",
+    "content_hash": "88cb8a8e64f05dc804941940b5c30b2d"
+  },
+  {
+    "title": "Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks",
+    "normalized": "agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks",
+    "content_hash": "7efe405006ef991569516a186a31d968"
+  },
+  {
+    "title": "Counterfactual Analysis via Large Language Models",
+    "normalized": "counterfactual analysis via large language models",
+    "content_hash": "42cc6afd718972d4120c234adff3216d"
+  },
+  {
+    "title": "When Do Corrective Features Help? An Agent for Corrective Feature Discovery on Black-Box Forecasters",
+    "normalized": "when do corrective features help? an agent for corrective feature discovery on black-box forecasters",
+    "content_hash": "542d3ddf79e4eae2d11c4a78bf0857aa"
+  },
+  {
+    "title": "EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
+    "normalized": "evoharness-rl: learning self-evolving runtime harness for long-horizon llm agents",
+    "content_hash": "9bcd121dca98b734bc8ab511cae7e54f"
+  },
+  {
+    "title": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "normalized": "the founder's guide to techcrunch disrupt 2026: everything you need to know",
+    "content_hash": "d98af549cc7cb39104a396c1feac25af"
+  },
+  {
+    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "normalized": "the hottest new ai chatbot is just a guy answering your questions",
+    "content_hash": "d9024f899370c14fe7356343e742461e"
+  },
+  {
+    "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+    "normalized": "microsoft 365 aitm phishing hijacks accounts to collect payroll and finance emails",
+    "content_hash": "9148fe268a4bdcf4773b9d00c6d0d702"
+  },
+  {
+    "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+    "normalized": "malware can abuse windows hello for business keys for persistent entra id access",
+    "content_hash": "855b5b02a2f1ece693187e58cd0b279d"
+  },
+  {
+    "title": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
+    "normalized": "trying to explain one night only's tech-enforced sex dystopia",
+    "content_hash": "baf9065b536cb7284912c628c27ace11"
+  },
+  {
+    "title": "Suno shares plans to combat spammy AI music",
+    "normalized": "suno shares plans to combat spammy ai music",
+    "content_hash": "2557053616601df457204c1205600b58"
+  },
+  {
+    "title": "Brendan Carr officially unleashes broadcast consolidation",
+    "normalized": "brendan carr officially unleashes broadcast consolidation",
+    "content_hash": "e6398997060e04c77cf325a32d67e9f1"
+  },
+  {
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "normalized": "humans missed 1 in 3 threats approving ai agent commands across 40k game runs",
+    "content_hash": "e0ba39153a3d2710889dd0e26d81f79c"
+  },
+  {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "normalized": "from asking to doing: how the world is putting chatgpt to work",
+    "content_hash": "8ed6e6f6f2aa8c015571e9117ee27aad"
+  },
+  {
+    "title": "How AI is expanding what people do at work",
+    "normalized": "how ai is expanding what people do at work",
+    "content_hash": "af725c4d9a82c4b07b00d5020694c1f6"
+  },
+  {
+    "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+    "normalized": "skilltrace: multi-trace provenance auditing for llm-agent skill reuse",
+    "content_hash": "dfbe5fab46a8442a4cbe9ebb3fe3dcc1"
+  },
+  {
+    "title": "Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning",
+    "normalized": "search2skill: skill distillation beyond knowledge boundaries via rubric-based reinforcement learning",
+    "content_hash": "9baeefbe72063a05f8b46742a60972c5"
+  },
+  {
+    "title": "CASCADE: An Agentic Regulatory Network Framework for Patient-Data-Validated Downstream Perturbation Prediction",
+    "normalized": "cascade: an agentic regulatory network framework for patient-data-validated downstream perturbation prediction",
+    "content_hash": "417f40a077e107cfddffdc0f1dc577ee"
+  },
+  {
+    "title": "DoctorAgents: an agentic framework to iteratively refine AutoML pipeline for small clinical temporal data",
+    "normalized": "doctoragents: an agentic framework to iteratively refine automl pipeline for small clinical temporal data",
+    "content_hash": "20cd2fb5d029b88aee142a7abd91d72d"
+  },
+  {
+    "title": "Adaptive Arena-based Contestable Argumentative Network-of-Experts for Open-Ended Care Plan Coordination",
+    "normalized": "adaptive arena-based contestable argumentative network-of-experts for open-ended care plan coordination",
+    "content_hash": "c4aa653d1c04c8da3db256f74f1f4809"
+  },
+  {
+    "title": "PPDL: LLM-Based Flows as Probabilistic Programs",
+    "normalized": "ppdl: llm-based flows as probabilistic programs",
+    "content_hash": "7421ad751b159e9122559677e5166e31"
+  },
+  {
+    "title": "Decoupling Perception from Description: Computation-Grounded Representation Alignment between Multivariate Time Series and Language",
+    "normalized": "decoupling perception from description: computation-grounded representation alignment between multivariate time series and language",
+    "content_hash": "b8b60599d55fa947aca098fd76d07340"
+  },
+  {
+    "title": "'Internal matter for us': MEA dismisses US lawmaker's criticism of FCRA Bill",
+    "normalized": "'internal matter for us': mea dismisses us lawmaker's criticism of fcra bill",
+    "content_hash": "39121fa956afbdb315fb1c87a2c7e0ad"
   }
 ]
