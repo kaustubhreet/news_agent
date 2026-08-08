@@ -1,130 +1,5 @@
 [
   {
-    "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-    "normalized": "kernel forge: an agent harness for llm-based generation and optimization of cuda kernels",
-    "content_hash": "4fad3dc83661360d52f1b9693a340785"
-  },
-  {
-    "title": "OpenAI\u2019s rogue AI agent didn\u2019t stop at hacking Hugging Face",
-    "normalized": "openai's rogue ai agent didn't stop at hacking hugging face",
-    "content_hash": "6a6b8ca21b13ba17bd9e0b56cd1ae938"
-  },
-  {
-    "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
-    "normalized": "procagent: an agentic framework for procedural task guidance on edge with human-in-the-loop",
-    "content_hash": "3137dee90c3ae97dcaf078c7d0f4b8db"
-  },
-  {
-    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-    "normalized": "as ai content floods the internet, pangram raises $9m to detect it",
-    "content_hash": "38f7eb121dcd18be0ed22ea447d70d67"
-  },
-  {
-    "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-    "normalized": "openai agent used exposed credentials across four services during hugging face breach",
-    "content_hash": "c666972759ff9aa312def7b3f84e8806"
-  },
-  {
-    "title": "We\u2019re running out of reasons to ignore AI safety",
-    "normalized": "we're running out of reasons to ignore ai safety",
-    "content_hash": "5582ba9562304894acfde8bbbfc6b82c"
-  },
-  {
-    "title": "PATHFinder Agent for Tailored Prenatal Care",
-    "normalized": "pathfinder agent for tailored prenatal care",
-    "content_hash": "c7e7ad29f9fd7d1a55a8bed7fc4933c6"
-  },
-  {
-    "title": "Qualcomm Closes All-Stock Acquisition of Compiler Startup Modular",
-    "normalized": "qualcomm closes all-stock acquisition of compiler startup modular",
-    "content_hash": "5f00ae497b502f9e617db8c629d31207"
-  },
-  {
-    "title": "Spotify adds a running mode to its app",
-    "normalized": "spotify adds a running mode to its app",
-    "content_hash": "a7c57129d3ceec238af3588aeb046482"
-  },
-  {
-    "title": "Fast Metals is treating waste with more waste to extract critical minerals",
-    "normalized": "fast metals is treating waste with more waste to extract critical minerals",
-    "content_hash": "f0376dcdc5aa93540a19363b0e2becb8"
-  },
-  {
-    "title": "OpenAI says the rogue agent that hacked Hugging Face also breached other services",
-    "normalized": "openai says the rogue agent that hacked hugging face also breached other services",
-    "content_hash": "92b24d898317b574130294015f01e5b3"
-  },
-  {
-    "title": "DoorDash is going airborne with new drone delivery division",
-    "normalized": "doordash is going airborne with new drone delivery division",
-    "content_hash": "087bf450c9cd8ad13be08075e08d962f"
-  },
-  {
-    "title": "Artists are lawyering up against AI slop, and some are even winning",
-    "normalized": "artists are lawyering up against ai slop, and some are even winning",
-    "content_hash": "b2815e3d283bc2c4c5df3f53537965da"
-  },
-  {
-    "title": "Xbox outage shouldn&#8217;t have affected games on disc, Microsoft confirms",
-    "normalized": "xbox outage shouldn't have affected games on disc, microsoft confirms",
-    "content_hash": "275cfcfcf3c07ee5b78087d98c5848ab"
-  },
-  {
-    "title": "Why teens deserve access to safe AI",
-    "normalized": "why teens deserve access to safe ai",
-    "content_hash": "b49af9ba97aa7f03fca6892942163cad"
-  },
-  {
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "normalized": "how cars24 scales conversations and builds faster with openai",
-    "content_hash": "74daef4955e1933bd4882cda4de04ddf"
-  },
-  {
-    "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-    "normalized": "beyond memory: a templated substrate for heterogeneous collaborative knowledge work with llm agents",
-    "content_hash": "e6f4517049070a3814b541853bd44433"
-  },
-  {
-    "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
-    "normalized": "crystalis: progressive nucleation and semantic annealing for coordinated multi-view visualization generation",
-    "content_hash": "9f1a8d80bfd0359db2d650fa254de1c0"
-  },
-  {
-    "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
-    "normalized": "rsmem: knowledge-enhanced memory evolution for remote sensing agents with systematic evaluation",
-    "content_hash": "1c6d9d035e83004103c7424a65ebdafb"
-  },
-  {
-    "title": "Personalization, Personas, and Forecasting in Value Alignment",
-    "normalized": "personalization, personas, and forecasting in value alignment",
-    "content_hash": "795b40aeac1e77d752beb7adc97be6cf"
-  },
-  {
-    "title": "On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?",
-    "normalized": "on the use of llms for specialised terminology: a good alternative to corpora?",
-    "content_hash": "e0be8bbe6d36e52fa793eb402085f6f5"
-  },
-  {
-    "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
-    "normalized": "samsung's chip workers are jumping ship to rival sk hynix",
-    "content_hash": "a863ea5db2e7338ac65217d841486116"
-  },
-  {
-    "title": "MoonPay\u2019s PayBox Lets AI Agents Spend Without Taking Custody",
-    "normalized": "moonpay's paybox lets ai agents spend without taking custody",
-    "content_hash": "2899898ad5d9256e378b931471934599"
-  },
-  {
-    "title": "AI Struggles to Respect the Employee Handbook",
-    "normalized": "ai struggles to respect the employee handbook",
-    "content_hash": "07176a7e571cdd80b25c8fa4088d281d"
-  },
-  {
-    "title": "OpenAI and Anthropic Back Employee Call to Pace AI Progress",
-    "normalized": "openai and anthropic back employee call to pace ai progress",
-    "content_hash": "0d398cdfbcc25c1ae992f8a20fe27d60"
-  },
-  {
     "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
     "normalized": "microsoft is openly competing with openai, anthropic more than ever",
     "content_hash": "6bfe2bee8d56cbe8071344489c3dbf76"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI Trained Its Models for Months While They Coordinated Exploits",
     "normalized": "openai trained its models for months while they coordinated exploits",
     "content_hash": "af3afa5aa78d6016245245c722215c71"
+  },
+  {
+    "title": "Show HN: Buddy \u2013 An iOS browser with an AI agent inside",
+    "normalized": "show hn: buddy - an ios browser with an ai agent inside",
+    "content_hash": "5325972db2fdf5afa5ca7da9776de29b"
+  },
+  {
+    "title": "How to Disable Gemini in Gmail and Google Docs",
+    "normalized": "how to disable gemini in gmail and google docs",
+    "content_hash": "8750493524d8b72f069a3bdb584feb6a"
+  },
+  {
+    "title": "Is this $450 laptop from an unknown brand too good to be true?",
+    "normalized": "is this $450 laptop from an unknown brand too good to be true?",
+    "content_hash": "d9ec7a2c3c8884cd046703b5f70109a8"
+  },
+  {
+    "title": "My favorite feel-good show is back",
+    "normalized": "my favorite feel-good show is back",
+    "content_hash": "8c525e151e3c6faebf39601302e32d49"
+  },
+  {
+    "title": "Nitecore\u2019s latest power bank is the lightest and most compact yet",
+    "normalized": "nitecore's latest power bank is the lightest and most compact yet",
+    "content_hash": "e95581ebed807281b5dcb3bfe4534e4b"
+  },
+  {
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+    "normalized": "now we have a timeline of the openai accidental attack against hugging face",
+    "content_hash": "040ff22cc3c240bdb4ecccbd33b6a76d"
+  },
+  {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "normalized": "responding to the next frontier of critical cyber capabilities",
+    "content_hash": "71ece285ebeee6864f2a23f0f5139066"
+  },
+  {
+    "title": "A Chinese AI model stopped OpenAI's 'unprecedented' cyber attack",
+    "normalized": "a chinese ai model stopped openai's 'unprecedented' cyber attack",
+    "content_hash": "afad470df8ee6b00fa947b1368537f7d"
+  },
+  {
+    "title": "ByteDance is building a 10T model aimed straight at Anthropic [video]",
+    "normalized": "bytedance is building a 10t model aimed straight at anthropic [video]",
+    "content_hash": "ee8d3ec883bcc9c588b551b53beddaa2"
+  },
+  {
+    "title": "Supply-chain hygiene for Emacs: LLM review of package upgrades",
+    "normalized": "supply-chain hygiene for emacs: llm review of package upgrades",
+    "content_hash": "23737c7943cab0f39f42e74fc3ab33e5"
+  },
+  {
+    "title": "OpenAI provides more details on the Hugging Face incident",
+    "normalized": "openai provides more details on the hugging face incident",
+    "content_hash": "ac926863bad595c94917a00e529a873e"
+  },
+  {
+    "title": "Show HN: Hosted LLM Wiki",
+    "normalized": "show hn: hosted llm wiki",
+    "content_hash": "e3fce685a20c45772048b79278f3be27"
+  },
+  {
+    "title": "Google doesn't need the LLM crown",
+    "normalized": "google doesn't need the llm crown",
+    "content_hash": "96d98fffdfef58c1da2096b8dc688b66"
+  },
+  {
+    "title": "I'm leaving OpenAI to build Jurassic Park",
+    "normalized": "i'm leaving openai to build jurassic park",
+    "content_hash": "57b1c8a93d328900cde0070b17479d9d"
+  },
+  {
+    "title": "Show HN: Agent_acid \u2013 ACID rollbacks and dry-run guardrails for AI agents",
+    "normalized": "show hn: agent_acid - acid rollbacks and dry-run guardrails for ai agents",
+    "content_hash": "6c4ae9e8a3ac8dfe1b7ec359b6e0f1f4"
+  },
+  {
+    "title": "OpenAI Trained Models for Months While Those Models Were Coordinating Exploits",
+    "normalized": "openai trained models for months while those models were coordinating exploits",
+    "content_hash": "5392483737ff32defcfa5ea4d3c6d924"
+  },
+  {
+    "title": "Ask HN: How can I tell which LLM's have been trained on what?",
+    "normalized": "ask hn: how can i tell which llm's have been trained on what?",
+    "content_hash": "c7eea69058dcd57dd1b9a640301eae9e"
+  },
+  {
+    "title": "Obscura: Headless browser engine. For web scraping and AI agent automation",
+    "normalized": "obscura: headless browser engine. for web scraping and ai agent automation",
+    "content_hash": "266ca666e10d2be8dcbd3b52bd13edf4"
+  },
+  {
+    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+    "normalized": "timeline of the openai accidental attack against hugging face",
+    "content_hash": "aa0dbf6a0369c8ee622fbc187e0ae3db"
+  },
+  {
+    "title": "Firebird Opens the CIS Region\u2019s Largest AI Factory in Armenia",
+    "normalized": "firebird opens the cis region's largest ai factory in armenia",
+    "content_hash": "101989b42e1da6994223f0fb4808571b"
+  },
+  {
+    "title": "Microsoft Brings Fourth India Cloud Region Online in Hyderabad",
+    "normalized": "microsoft brings fourth india cloud region online in hyderabad",
+    "content_hash": "2edc573adb81f023bdd4eceeba745cfb"
+  },
+  {
+    "title": "OpenAI Says Upcoming Astra Model May Cross Critical Cybersecurity Threshold",
+    "normalized": "openai says upcoming astra model may cross critical cybersecurity threshold",
+    "content_hash": "e14a7ceec29ba5f66853c7838a83c4e3"
+  },
+  {
+    "title": "ChatGPT Ads Arrive in Brazil as OpenAI Adds Conversion Tools and Carousels",
+    "normalized": "chatgpt ads arrive in brazil as openai adds conversion tools and carousels",
+    "content_hash": "c84bdd4f2df44390b7f24369cebe0ee9"
+  },
+  {
+    "title": "Claude Code Sessions Can Now Run on Infrastructure Your Team Controls",
+    "normalized": "claude code sessions can now run on infrastructure your team controls",
+    "content_hash": "e3e19eff1186e2a8bd9c79280ff44069"
+  },
+  {
+    "title": "Microsoft Opens 26 Open Models to Startups Through Fireworks AI on Foundry",
+    "normalized": "microsoft opens 26 open models to startups through fireworks ai on foundry",
+    "content_hash": "22d31a35bb3a88611284db2212346ebb"
   }
 ]
