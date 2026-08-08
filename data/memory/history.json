@@ -1,130 +1,5 @@
 [
   {
-    "title": "AI leaders sign a statement asking the government to do something about automated AI",
-    "normalized": "ai leaders sign a statement asking the government to do something about automated ai",
-    "content_hash": "a988d5f2966fd5fbbd9e15aa0c040e08"
-  },
-  {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "normalized": "cyera agrees to acquire oasis security for $1b to safeguard proliferating ai agents",
-    "content_hash": "65ad87946028c9ff41868653b729ed22"
-  },
-  {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "normalized": "bot-detection startup spur nabs $200m from insight",
-    "content_hash": "4202d563a3aba95c7ff5add890789e5b"
-  },
-  {
-    "title": "These App Store hidden gems prove there\u2019s still room for great software in the AI era",
-    "normalized": "these app store hidden gems prove there's still room for great software in the ai era",
-    "content_hash": "a502e7eb8e0f2f8fba55187aa9bac6bc"
-  },
-  {
-    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-    "normalized": "fish audio raises $52m seed to build ai voice models for creators and enterprises",
-    "content_hash": "13ab853e05587cab4103765fe9049772"
-  },
-  {
-    "title": "Apple launches \u2018Upgrade\u2019 device leasing program in partnership with Klarna",
-    "normalized": "apple launches 'upgrade' device leasing program in partnership with klarna",
-    "content_hash": "d951f65a1e96833b0c5b7ad0b836db84"
-  },
-  {
-    "title": "OpenAI\u2019s Rogue AI Agent Hacked More Than Just Hugging Face",
-    "normalized": "openai's rogue ai agent hacked more than just hugging face",
-    "content_hash": "2387d33ad02c502d51b8e6eb7567e601"
-  },
-  {
-    "title": "AI company employees petition US government for regulation",
-    "normalized": "ai company employees petition us government for regulation",
-    "content_hash": "b940033c8d7b5ea6013c52b8571aaf52"
-  },
-  {
-    "title": "AI\u2019s finally expensive enough to make Wall Street nervous",
-    "normalized": "ai's finally expensive enough to make wall street nervous",
-    "content_hash": "42a42a1f7979dc0e0bf480d639648a18"
-  },
-  {
-    "title": "OpenAI's agents hacked second account during model testing",
-    "normalized": "openai's agents hacked second account during model testing",
-    "content_hash": "e849320b694463d161f544dc7c42c20f"
-  },
-  {
-    "title": "OpenAI Rogue Agent Hacked Account at Modal, Reuters Says",
-    "normalized": "openai rogue agent hacked account at modal, reuters says",
-    "content_hash": "296833e364845c16aed6823b1682ac8a"
-  },
-  {
-    "title": "OpenAI's rogue agent compromised an account at a second tech firm",
-    "normalized": "openai's rogue agent compromised an account at a second tech firm",
-    "content_hash": "41e66fa5e7b1d64fad5012d5c9ae1493"
-  },
-  {
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "normalized": "mcp startup runlayer accuses rippling of stealing its product idea",
-    "content_hash": "e6004ff278cb6312d0a8674920e6ab23"
-  },
-  {
-    "title": "Ozlo\u2019s Sleepbuds 2 build on Bose\u2019s sleep earbud legacy",
-    "normalized": "ozlo's sleepbuds 2 build on bose's sleep earbud legacy",
-    "content_hash": "f87e410debeb11468d958e19d49aab7d"
-  },
-  {
-    "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
-    "normalized": "the robot nasa hired to lift a orbital telescope tumbled out of control",
-    "content_hash": "7f59eff9cffa544ffe2fd92d235b3ec7"
-  },
-  {
-    "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-    "normalized": "waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-    "content_hash": "e67700e61d7603e4b10fd639d4c5f032"
-  },
-  {
-    "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
-    "normalized": "paypal leaves the door open to a higher takeover offer following earnings beat",
-    "content_hash": "25c9fd151a937c84f71ec5e93ea26928"
-  },
-  {
-    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-    "normalized": "recursive superintelligence signs $410m compute deal with amazon",
-    "content_hash": "598c2b16913d2a2b43754f6666916bd1"
-  },
-  {
-    "title": "Granola launches an Apple Watch app",
-    "normalized": "granola launches an apple watch app",
-    "content_hash": "7436d934af89eeb2375db58a82b93556"
-  },
-  {
-    "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
-    "normalized": "claude ai just cracked a post-quantum test scheme and found a faster 7-round aes attack",
-    "content_hash": "7a648736047e30949cace1439236f510"
-  },
-  {
-    "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-    "normalized": "jfrog confirms openai models exploited artifactory zero-day before hugging face breach",
-    "content_hash": "ca7976feb715a31d1e21939b2526d51a"
-  },
-  {
-    "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
-    "normalized": "ariana grande is suing the hackers who've been leaking her songs and videos for years",
-    "content_hash": "d79728ef612cb8b436a3d3e5e0aaf7f9"
-  },
-  {
-    "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
-    "normalized": "ebay's bizarre cyberstalking saga ends with a $56 million settlement",
-    "content_hash": "d1a2d08dcc799b464eefe0fcb3e21ff3"
-  },
-  {
-    "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
-    "normalized": "is it illegal to trick the us government into wiping your phone during a questionably legal search?",
-    "content_hash": "9348a40baf4f88c29e5889e41edd2b04"
-  },
-  {
-    "title": "This comfy gaming headset that can play audio from two sources is $25",
-    "normalized": "this comfy gaming headset that can play audio from two sources is $25",
-    "content_hash": "9da6d62f854db44c7c4b71640510a4ef"
-  },
-  {
     "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
     "normalized": "kernel forge: an agent harness for llm-based generation and optimization of cuda kernels",
     "content_hash": "4fad3dc83661360d52f1b9693a340785"
@@ -2498,5 +2373,130 @@
     "title": "'Internal matter for us': MEA dismisses US lawmaker's criticism of FCRA Bill",
     "normalized": "'internal matter for us': mea dismisses us lawmaker's criticism of fcra bill",
     "content_hash": "39121fa956afbdb315fb1c87a2c7e0ad"
+  },
+  {
+    "title": "What&#8217;s behind the Google AI shake-up",
+    "normalized": "what's behind the google ai shake-up",
+    "content_hash": "8f926245da9856d9260f476f915e347d"
+  },
+  {
+    "title": "Show HN: Alyph, a manual transmission for LLM context",
+    "normalized": "show hn: alyph, a manual transmission for llm context",
+    "content_hash": "8c532094b0930ba48c62d7c351e9947c"
+  },
+  {
+    "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+    "normalized": "openai puts the brakes on a new model because it's supposedly too powerful",
+    "content_hash": "f41b858226189c666f09e192079cf16d"
+  },
+  {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "normalized": "openai says it slowed astra model development over security concerns",
+    "content_hash": "b5db7df78f7f42f500fe2c34177b7de6"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "normalized": "cloudflare launches kitesurf, a browser built for ai agents",
+    "content_hash": "b7bea917bd43eb6e56c0b4c06e259aee"
+  },
+  {
+    "title": "SpaceX\u2019s Terafab will rely on natural gas power plants, not Tesla solar panels",
+    "normalized": "spacex's terafab will rely on natural gas power plants, not tesla solar panels",
+    "content_hash": "96fdf1573e779d6c8c5af17489d80480"
+  },
+  {
+    "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+    "normalized": "microsoft edge is about to lock out older ad blockers, just like chrome did",
+    "content_hash": "c491f05f5118920275603615f1f02272"
+  },
+  {
+    "title": "OpenAI Didn't Notice Its AI Agents Using a Message Board to Plan Hacking Spree",
+    "normalized": "openai didn't notice its ai agents using a message board to plan hacking spree",
+    "content_hash": "59ab3ed439da342c01e1f525b352d8db"
+  },
+  {
+    "title": "Lemma Raises $2.3M Pre-Seed to Tackle Silent AI Agent Failures in Production",
+    "normalized": "lemma raises $2.3m pre-seed to tackle silent ai agent failures in production",
+    "content_hash": "e5f5331622c60923d18c72330c197725"
+  },
+  {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "normalized": "after rippling blew millions on ai in months, it built an employee roi tool",
+    "content_hash": "87ec4d37497977021308e16f6a3294d4"
+  },
+  {
+    "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+    "normalized": "security researchers scanned the polish web and found courts, hospitals, and airports at risk of hacks",
+    "content_hash": "10f92ea2a427215bc94e508b6fc73bb7"
+  },
+  {
+    "title": "Computer maker Framework notifies \u2018all customers\u2019 of a data breach",
+    "normalized": "computer maker framework notifies 'all customers' of a data breach",
+    "content_hash": "bd8bfb182ac362c280e422ff6f39e4c3"
+  },
+  {
+    "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+    "normalized": "chinese ai model kimi escaped its cybersecurity testing environment, researchers say",
+    "content_hash": "35a1cb7cd588c3089cae93ad678f3702"
+  },
+  {
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "normalized": "airbnb says ai is helping it ship features faster as it tests a new search function",
+    "content_hash": "dd87474aeb50bada536f210be2b39f93"
+  },
+  {
+    "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+    "normalized": "the gaming site sponsored by walmart lays off its editorial staff",
+    "content_hash": "ccd8ac0181ccfaffc7831cccc03d5b43"
+  },
+  {
+    "title": "Fenix Flexin isn\u2019t even denying using AI to make \u2018Rubberz\u2019 anymore",
+    "normalized": "fenix flexin isn't even denying using ai to make 'rubberz' anymore",
+    "content_hash": "b5131fa9bc1ec9f734582ad10c900cf2"
+  },
+  {
+    "title": "Watching Roku\u2019s AI channel is like eating from a trough",
+    "normalized": "watching roku's ai channel is like eating from a trough",
+    "content_hash": "ef7dcfd5a6c14084bff8dcb194555f17"
+  },
+  {
+    "title": "Disney Plus tries a new AI-powered search",
+    "normalized": "disney plus tries a new ai-powered search",
+    "content_hash": "2c092a020a00c70cbab3f88c328ec8c3"
+  },
+  {
+    "title": "Captain Bible Reverse Engineering",
+    "normalized": "captain bible reverse engineering",
+    "content_hash": "5a7181891868742ac307ca673f596033"
+  },
+  {
+    "title": "Black Hat USA 2026: The OpenAI\u2013Hugging Face Incident [video]",
+    "normalized": "black hat usa 2026: the openai-hugging face incident [video]",
+    "content_hash": "fc0f55cceb23459d9c4c8afe3bfa781a"
+  },
+  {
+    "title": "From Chat Completions to Responses: Why Is OpenAI Upgrading Its Core API?",
+    "normalized": "from chat completions to responses: why is openai upgrading its core api?",
+    "content_hash": "df4b00669d1558878e94a072cf6aef07"
+  },
+  {
+    "title": "OpenAI slows release of Astra model, citing cyber capabilities",
+    "normalized": "openai slows release of astra model, citing cyber capabilities",
+    "content_hash": "70c4155ea81ecd7306abaae875fa80c7"
+  },
+  {
+    "title": "An AI agent with $15, 46 hours, and no way to send email",
+    "normalized": "an ai agent with $15, 46 hours, and no way to send email",
+    "content_hash": "06f7704de82c1a5201254c358395f320"
+  },
+  {
+    "title": "A self-improving RLM agent for coding workflows and long-running autonomous task",
+    "normalized": "a self-improving rlm agent for coding workflows and long-running autonomous task",
+    "content_hash": "9814fa1433ac2d8d9e1fffa4b447d477"
+  },
+  {
+    "title": "OpenAI Trained Its Models for Months While They Coordinated Exploits",
+    "normalized": "openai trained its models for months while they coordinated exploits",
+    "content_hash": "af3afa5aa78d6016245245c722215c71"
   }
 ]
