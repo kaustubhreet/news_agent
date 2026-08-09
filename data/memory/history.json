@@ -1,130 +1,5 @@
 [
   {
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "normalized": "microsoft is openly competing with openai, anthropic more than ever",
-    "content_hash": "6bfe2bee8d56cbe8071344489c3dbf76"
-  },
-  {
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "normalized": "microsoft logs $3.2b from anthropic investment, but openai was a mixed bag",
-    "content_hash": "6e389ec95d1805e6c8e42623b0c29c25"
-  },
-  {
-    "title": "Discover\u00a0what\u2019s\u00a0next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-    "normalized": "discover what's next for ai, from the saas reckoning to the agent security gap, at techcrunch disrupt 2026",
-    "content_hash": "d9d13d8200bba29e64409113613c07da"
-  },
-  {
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "normalized": "encore ai raises $30m to build ai agents that learn from customer calls",
-    "content_hash": "89843335eb712a6bd515fccb22b696b4"
-  },
-  {
-    "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-    "normalized": "ruflo mcp flaw lets unauthenticated attackers run commands and poison ai memory",
-    "content_hash": "a631f1baee14db8bf90ecbefa6f8ce32"
-  },
-  {
-    "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
-    "normalized": "microsoft confirms copilot 'super app' coming this year",
-    "content_hash": "48e09b7276450ebc2f69deb3ad747fe5"
-  },
-  {
-    "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
-    "normalized": "launch hn: tokenless (yc s26) - automatic model switching to save money",
-    "content_hash": "4c2be665672057743d73a5d84c3ae601"
-  },
-  {
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "normalized": "mark zuckerberg predicts that billions of people will have personal ai agents in five years",
-    "content_hash": "13d8afab562f931a3d2f1f9641dbfac8"
-  },
-  {
-    "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
-    "normalized": "zuckerberg says meta's enterprise ai opportunity extends beyond agents",
-    "content_hash": "d3dadc6db3a864ffc96ed264ac863e01"
-  },
-  {
-    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-    "normalized": "thinking machines co-founder lilian weng left the company citing health reasons, then joined openai",
-    "content_hash": "bd29eec02285e62d208b3e1cfcdea79d"
-  },
-  {
-    "title": "Google brings its age-assurance technology to Android developers worldwide",
-    "normalized": "google brings its age-assurance technology to android developers worldwide",
-    "content_hash": "64b6f2db22758dc640ff539b6464a403"
-  },
-  {
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "normalized": "hint, a new ai startup co-founded by martha stewart, offers an ai assistant for homeowners",
-    "content_hash": "e41b1ae24539134ee0affec034c98184"
-  },
-  {
-    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-    "normalized": "mark zuckerberg is planning a big push into personal ai agents",
-    "content_hash": "cadd7c8c18b2ec49eb8a9d5e7f99d0ca"
-  },
-  {
-    "title": "Qualcomm is raising phone chip prices starting September 1st",
-    "normalized": "qualcomm is raising phone chip prices starting september 1st",
-    "content_hash": "e49e1b17152a06f8b2f09600bd86eea0"
-  },
-  {
-    "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
-    "normalized": "xbox revenue drops 10 percent as microsoft's cloud and ai business surges",
-    "content_hash": "c463b88a3e7fbc0c0811b4743aa4fcb0"
-  },
-  {
-    "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-    "normalized": "openai president says it's 'building a family of devices' for its ai chatbots",
-    "content_hash": "18abb1b03a3ad03b571a3a0a0830687d"
-  },
-  {
-    "title": "groundcover Raises $100 Million Series C to Scale AI-Era Observability Platform",
-    "normalized": "groundcover raises $100 million series c to scale ai-era observability platform",
-    "content_hash": "a0c77ff58d6ce9d492ec9a6b99daad33"
-  },
-  {
-    "title": "Winamp aims for a comeback with a new music player powered by Deezer",
-    "normalized": "winamp aims for a comeback with a new music player powered by deezer",
-    "content_hash": "1683797b60ff1b0db5d5f4d017462ecd"
-  },
-  {
-    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-    "normalized": "the hugging face ai break-in, as told through an increasingly committed bear metaphor",
-    "content_hash": "d732600df4e9f348169dd39df2fee514"
-  },
-  {
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "normalized": "claude opus 5 became downright ruthless when tasked with running a vending machine",
-    "content_hash": "e826309421824f20e320cc76e158fb03"
-  },
-  {
-    "title": "Waymo robotaxis are starting to return to freeways",
-    "normalized": "waymo robotaxis are starting to return to freeways",
-    "content_hash": "aeb55b068d57773bad3c41d9e837ee3a"
-  },
-  {
-    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-    "normalized": "perplexity employee who worked on comet launches an ai browser aimed at knowledge work",
-    "content_hash": "2d613230262bb35e037a733f58fbbc00"
-  },
-  {
-    "title": "\u2018No one\u2019s making a phone like this\u2019: Light\u2019s co-founders on building for the anti-smartphone generation",
-    "normalized": "'no one's making a phone like this': light's co-founders on building for the anti-smartphone generation",
-    "content_hash": "e580f9be3a083b3b1557f56e058623a1"
-  },
-  {
-    "title": "OpenAI will provide free AI models to select researchers",
-    "normalized": "openai will provide free ai models to select researchers",
-    "content_hash": "5dae75784f371e286dfc0234049c0731"
-  },
-  {
-    "title": "xAI\u2019s last-minute scramble to stop Minnesota\u2019s anti-nudification app law",
-    "normalized": "xai's last-minute scramble to stop minnesota's anti-nudification app law",
-    "content_hash": "4fca781dfee1f14d8a2906f9be55074d"
-  },
-  {
     "title": "OpenAI\u2019s Hacking Debacle Was a Human Mistake",
     "normalized": "openai's hacking debacle was a human mistake",
     "content_hash": "479f965cacb258e879abbee7808ac0c2"
@@ -2498,5 +2373,130 @@
     "title": "Microsoft Opens 26 Open Models to Startups Through Fireworks AI on Foundry",
     "normalized": "microsoft opens 26 open models to startups through fireworks ai on foundry",
     "content_hash": "22d31a35bb3a88611284db2212346ebb"
+  },
+  {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "normalized": "openai acquires presentation startup nextslide",
+    "content_hash": "754f634a04ece928e249337d16a0c8f2"
+  },
+  {
+    "title": "Google\u2019s top hacker hunter explains why hacking groups get codenames",
+    "normalized": "google's top hacker hunter explains why hacking groups get codenames",
+    "content_hash": "5f5c351a1a13ebaa649fed988b7277f9"
+  },
+  {
+    "title": "Show HN: agent-hop \u2013 reverse-engineered session formats to resume in any agent",
+    "normalized": "show hn: agent-hop - reverse-engineered session formats to resume in any agent",
+    "content_hash": "65224570c598f6fd61a408ef99fefa37"
+  },
+  {
+    "title": "OpenAI acquires NextSlide as ChatGPT expands into PowerPoint",
+    "normalized": "openai acquires nextslide as chatgpt expands into powerpoint",
+    "content_hash": "03cc3d4563c2b489f342b180ec3f9aff"
+  },
+  {
+    "title": "What Happened: OpenAI and HuggingFace",
+    "normalized": "what happened: openai and huggingface",
+    "content_hash": "c142781f23e5ff3903f6ecbe9b19f848"
+  },
+  {
+    "title": "Prinevo Memory: A Domain-Pluggable Context Graph for Long-Term Agent Memory",
+    "normalized": "prinevo memory: a domain-pluggable context graph for long-term agent memory",
+    "content_hash": "e6c3c3156745d4d8af3613aecd64f44e"
+  },
+  {
+    "title": "OpenAI Acquires NextSlide, the AI Presentation Startup",
+    "normalized": "openai acquires nextslide, the ai presentation startup",
+    "content_hash": "103019bf22f61298151507ef3c738454"
+  },
+  {
+    "title": "Show HN: Tura \u2013 Build agent that uses 80% less token and delivers better results",
+    "normalized": "show hn: tura - build agent that uses 80% less token and delivers better results",
+    "content_hash": "4f301a7db92975b525df25cfcb5137ec"
+  },
+  {
+    "title": "You can build an AI agent's memory layer with only Go's standard library",
+    "normalized": "you can build an ai agent's memory layer with only go's standard library",
+    "content_hash": "fe5dc7dfaaf334f98bbb303334d790e5"
+  },
+  {
+    "title": "Show HN: Try Benzi \u2013 A coding harness/agent beating Claude Code itself on Sonnet",
+    "normalized": "show hn: try benzi - a coding harness/agent beating claude code itself on sonnet",
+    "content_hash": "4992a2b9d1f4d568a2b20b16c1778118"
+  },
+  {
+    "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+    "normalized": "openai to pause some work on ai model astra due to security concerns",
+    "content_hash": "82701ded21440c69f09385576db13a39"
+  },
+  {
+    "title": "Apple's war on OpenAI is about who owns the Attachment Economy",
+    "normalized": "apple's war on openai is about who owns the attachment economy",
+    "content_hash": "8f232e18d950b448464adbcd7e366d85"
+  },
+  {
+    "title": "LLM-oriented programming \u2013 statistically revealed components",
+    "normalized": "llm-oriented programming - statistically revealed components",
+    "content_hash": "6891066138ea77764a81e0cff39db48d"
+  },
+  {
+    "title": "OpenAI Astra: A Paradigm Shift from Answers to Assignments",
+    "normalized": "openai astra: a paradigm shift from answers to assignments",
+    "content_hash": "fb2d8e601edd9823c57bd4688b292482"
+  },
+  {
+    "title": "OpenAI Trained Models While They Were Coordinating Exploits via Message Boards",
+    "normalized": "openai trained models while they were coordinating exploits via message boards",
+    "content_hash": "6cb21b7f063129b36baa48010526dc24"
+  },
+  {
+    "title": "Canon-A controlled English for model prompting and agent-to-agent communication",
+    "normalized": "canon-a controlled english for model prompting and agent-to-agent communication",
+    "content_hash": "742bee94358c6e37343d1a198d90d8e8"
+  },
+  {
+    "title": "I run a 9-model LLM council to write a financial newsletter. What breaks",
+    "normalized": "i run a 9-model llm council to write a financial newsletter. what breaks",
+    "content_hash": "6ef79345c64591d0fb789053cf26d80a"
+  },
+  {
+    "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
+    "normalized": "samsung's chip workers are jumping ship to rival sk hynix",
+    "content_hash": "5d6329783167f401af647fefa9902227"
+  },
+  {
+    "title": "Firebird Takes Its AI Factory Platform Global With a 2-Gigawatt Pipeline",
+    "normalized": "firebird takes its ai factory platform global with a 2-gigawatt pipeline",
+    "content_hash": "59ab1592928dbc342a1224ebf8d18885"
+  },
+  {
+    "title": "Anthropic\u2019s Silicon Team Is Hiring for Tapeout and Production Ramp",
+    "normalized": "anthropic's silicon team is hiring for tapeout and production ramp",
+    "content_hash": "a381ad34bb51bffe114b7e4289522229"
+  },
+  {
+    "title": "OpenAI Gives Free ChatGPT Users Unlimited Text Chats on GPT-5.6 Luna",
+    "normalized": "openai gives free chatgpt users unlimited text chats on gpt-5.6 luna",
+    "content_hash": "a210074343384b3c50de54255b887a79"
+  },
+  {
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "normalized": "planned amazon data center could become the biggest climate polluter in the u.s.",
+    "content_hash": "4664e487240c5c26bef534129892eb1a"
+  },
+  {
+    "title": "X replaces \u2018misaligned\u2019 revenue sharing program with Original Content Rewards",
+    "normalized": "x replaces 'misaligned' revenue sharing program with original content rewards",
+    "content_hash": "e0c8567b7c5d3c4e577fc7cee7f72ea5"
+  },
+  {
+    "title": "The Kindle Scribe Colorsoft is a lot of fun, but it\u2019s not a must-have",
+    "normalized": "the kindle scribe colorsoft is a lot of fun, but it's not a must-have",
+    "content_hash": "553cc68281cb83ab3360b9b7c823bfa3"
+  },
+  {
+    "title": "Wacom\u2019s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+    "normalized": "wacom's movinkpad 11 is a fun, midpriced entry point for digital artists",
+    "content_hash": "8eaaee73ab7d80fc4fdb8f8658bf4807"
   }
 ]
