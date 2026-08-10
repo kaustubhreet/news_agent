@@ -1,130 +1,5 @@
 [
   {
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "normalized": "google says it fixed more chrome bugs in june than over the past two years, thanks to ai",
-    "content_hash": "ce5a0c667e2a84332269e9c4d18b5aaf"
-  },
-  {
-    "title": "Nvidia\u2019s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-    "normalized": "nvidia's open source alliance is missing some key names: openai and anthropic",
-    "content_hash": "361f248e2ae70c7eff6afca424bd3436"
-  },
-  {
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "normalized": "anthropic says its own ai models breached three companies during security tests",
-    "content_hash": "ad9eee47d1b1d373eb61c4073189896d"
-  },
-  {
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "normalized": "ai hedge fund situational awareness may have sold its public portfolio, but it still has its anthropic shares",
-    "content_hash": "45354bb5f0774470e1bf962297a2e48b"
-  },
-  {
-    "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
-    "normalized": "okta buys ai security startup permiso -- source says for about $200m",
-    "content_hash": "3ffbf7d77e904944e7a8794e21b4ebef"
-  },
-  {
-    "title": "Reddit reports a solid quarter but shows signs of AI\u2019s impact",
-    "normalized": "reddit reports a solid quarter but shows signs of ai's impact",
-    "content_hash": "a7444cad89f3bb378564e9c1246ff281"
-  },
-  {
-    "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply-chain risk\u2019 label",
-    "normalized": "judge says trump admin still lacks evidence for anthropic 'supply-chain risk' label",
-    "content_hash": "5b45e9e5a97fd71d15df33fac7460d8c"
-  },
-  {
-    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-    "normalized": "synthetic-user startup simile raises $200m at $2b valuation 5 months after $100m series a",
-    "content_hash": "b1d7470f4c0ee5621fb4c3ed0ebfe356"
-  },
-  {
-    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "normalized": "nscale buys anyscale as it seeks to own more of the ai compute stack",
-    "content_hash": "086ad82f0403693328ecc4d113a5a7aa"
-  },
-  {
-    "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
-    "normalized": "anthropic says claude hacked real systems during cybersecurity tests",
-    "content_hash": "1b6b5f16b3326a81896fc91c6f9fad20"
-  },
-  {
-    "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
-    "normalized": "everyone is freaking out about openai and anthropic's race for dominance",
-    "content_hash": "0cb5757932367859333fe05131b93118"
-  },
-  {
-    "title": "OpenAI\u2019s Hacking Debacle Comes Down to Human Error",
-    "normalized": "openai's hacking debacle comes down to human error",
-    "content_hash": "671402b1c9482f1e22ce8cbf8a3c86af"
-  },
-  {
-    "title": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body",
-    "normalized": "google deepmind's new ai model can control a robot's entire body",
-    "content_hash": "bce438e81f11e173d89b1960a3683ed7"
-  },
-  {
-    "title": "Launch HN: Prized (YC S26) \u2013 Let non-engineer staff build secure internal tools",
-    "normalized": "launch hn: prized (yc s26) - let non-engineer staff build secure internal tools",
-    "content_hash": "d7830d7046ad85363e590e011d3f3531"
-  },
-  {
-    "title": "Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining",
-    "normalized": "why do openai's gpt-2 weights beat mine? part three: testing overtraining",
-    "content_hash": "e0cfbe766df7e9bd683bb9b5a3a47a69"
-  },
-  {
-    "title": "Ask HN: What former \"must-have\" AI agent skills have you deprecated?",
-    "normalized": "ask hn: what former \"must-have\" ai agent skills have you deprecated?",
-    "content_hash": "55a7971eed9cf26be44915d3acd59c41"
-  },
-  {
-    "title": "Banks Line Up $15B of Debt for Anthropic with Google Aid",
-    "normalized": "banks line up $15b of debt for anthropic with google aid",
-    "content_hash": "86873686bedc68323675fa89fb40d919"
-  },
-  {
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "normalized": "how avatarin built a 24/7 retail agent with gpt-realtime",
-    "content_hash": "0bda89da4961efdf6fe997c9bed55bef"
-  },
-  {
-    "title": "Xsight Labs Raises $300M for Programmable AI Network Silicon",
-    "normalized": "xsight labs raises $300m for programmable ai network silicon",
-    "content_hash": "690324786f16ef5bb6a8571ffcce4bd9"
-  },
-  {
-    "title": "Apple stockpiles inventory as it braces for \u2018significant supply constraints\u2019",
-    "normalized": "apple stockpiles inventory as it braces for 'significant supply constraints'",
-    "content_hash": "ae5dbe70af6e5a7cb4de3c9bba99bcc5"
-  },
-  {
-    "title": "Investors love AI, as long as you\u2019re a cloud host",
-    "normalized": "investors love ai, as long as you're a cloud host",
-    "content_hash": "5623944f18e2cddcd74b9d2fe590e4ef"
-  },
-  {
-    "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-    "normalized": "apple says gaming slowdown and app store changes hurt services growth",
-    "content_hash": "e50d146ed81bede2934bbfb17ab021ca"
-  },
-  {
-    "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-    "normalized": "carecloud begins to notify hundreds of thousands after hackers stole medical records",
-    "content_hash": "58b4fb902ed4f107301cec962bee095c"
-  },
-  {
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "normalized": "friend, the lonely ai wearable, returns with a new voice and a much bigger price tag",
-    "content_hash": "c98948ae9055ca4f404656078dfb29f8"
-  },
-  {
-    "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-    "normalized": "florida plans to build air taxi pads using $200m intended for ev chargers",
-    "content_hash": "7eb959b48162b301fde5171675e33f96"
-  },
-  {
     "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
     "normalized": "repeat founder ryan williams raises $10m seed for an ai startup for private credit managers",
     "content_hash": "f5101b4a6572364f2b45a80852ea2428"
@@ -2498,5 +2373,130 @@
     "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
     "normalized": "clickfix attacks deliver macos stealer that can drain crypto wallets",
     "content_hash": "84e9fe79cd8d0bed3fe29e757a83ff9b"
+  },
+  {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "normalized": "embattled hedge fund situational awareness invests $400m in chip startup source foundry",
+    "content_hash": "5edf4e16d65763015bd433b9b95b0005"
+  },
+  {
+    "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "normalized": "israeli startup was linked to rogue ai hacks at openai, anthropic and meta",
+    "content_hash": "3917abfadca6fc74573d79b35185f4d9"
+  },
+  {
+    "title": "The AI safety test is becoming a safety risk",
+    "normalized": "the ai safety test is becoming a safety risk",
+    "content_hash": "dba5d0d3794a6135d95aae57e076deba"
+  },
+  {
+    "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
+    "normalized": "show hn: pacific slate: a self-hosted, model-agnostic multi-agent ai assistant",
+    "content_hash": "70d7a3ed5a02d7f5718794b3af488f2a"
+  },
+  {
+    "title": "Devs to Anthropic, OpenAI, Cursor, and friends Make security and privacy default",
+    "normalized": "devs to anthropic, openai, cursor, and friends make security and privacy default",
+    "content_hash": "efb69f1c2348482fed86a923b371ccc6"
+  },
+  {
+    "title": "gpt-5.6-sol agent harness in 17 lines PHP",
+    "normalized": "gpt-5.6-sol agent harness in 17 lines php",
+    "content_hash": "e28125d6e736ca0bd956a95bc65a2f1e"
+  },
+  {
+    "title": "What Happened: OpenAI and Hugging Face",
+    "normalized": "what happened: openai and hugging face",
+    "content_hash": "cf216a2a0e1e6625e895f5ecdd01545d"
+  },
+  {
+    "title": "Captaining your AI: new human-agent UX paradigm",
+    "normalized": "captaining your ai: new human-agent ux paradigm",
+    "content_hash": "5722f9f785b6d4e757d5cfef4fd186aa"
+  },
+  {
+    "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
+    "normalized": "anthropic is turning claude code's auto mode on by default",
+    "content_hash": "37c1ed5c72a9385849fe9e0fc05edc5d"
+  },
+  {
+    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber\u2019s AV empire",
+    "normalized": "techcrunch mobility: zoox prepares for launch and uber's av empire",
+    "content_hash": "3c911f510b025dbe2c964a8778be490b"
+  },
+  {
+    "title": "This\u00a0former\u00a0notorious red-light district\u00a0is now\u00a0one of the world\u2019s top AI hubs",
+    "normalized": "this former notorious red-light district is now one of the world's top ai hubs",
+    "content_hash": "1db874685c8fde8cb6896f0f54b5d2e6"
+  },
+  {
+    "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+    "normalized": "49ers coach says his tesla was on autopilot when he crashed",
+    "content_hash": "117add9149081f8b26fb6de54464e0ee"
+  },
+  {
+    "title": "Dropbox is a PC builder\u2019s best friend",
+    "normalized": "dropbox is a pc builder's best friend",
+    "content_hash": "ace230a037ef2b62a9758cbd8d3a44a5"
+  },
+  {
+    "title": "Human vs. AI \u2013 Diff-based line-level provenance for text under agentic editing",
+    "normalized": "human vs. ai - diff-based line-level provenance for text under agentic editing",
+    "content_hash": "1088c51678562ba39a9c489ca04e477d"
+  },
+  {
+    "title": "Testing Anthropic's RSI Claims",
+    "normalized": "testing anthropic's rsi claims",
+    "content_hash": "88f576f441e9cace0de0cae4be827280"
+  },
+  {
+    "title": "AI Agent Qubitz",
+    "normalized": "ai agent qubitz",
+    "content_hash": "6a340228f60631d5cdcce653ddfc5e75"
+  },
+  {
+    "title": "The OpenAI and Hugging Face incident, explained in simple terms",
+    "normalized": "the openai and hugging face incident, explained in simple terms",
+    "content_hash": "ac32574f1253899f7a8e14eae6c263d1"
+  },
+  {
+    "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+    "normalized": "an openai strategist says ai labs should rival government power",
+    "content_hash": "84811e0a61e3e0ea9d5851e5c1edf144"
+  },
+  {
+    "title": "Adversarial LLM Reversal for hermes-agent",
+    "normalized": "adversarial llm reversal for hermes-agent",
+    "content_hash": "f8d0161b0f110bcb6f99b8b0dfb341fb"
+  },
+  {
+    "title": "Show HN: Job Seeker \u2013 AI agent skills for job searching",
+    "normalized": "show hn: job seeker - ai agent skills for job searching",
+    "content_hash": "c491913a1a3625f6d3be508d8ff5503e"
+  },
+  {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "normalized": "accelerating scientific discovery with chatgpt for academic researchers",
+    "content_hash": "7d22669e217f6a6c5c70b851893ded4d"
+  },
+  {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "normalized": "how gpt-5.6 fuses frontier intelligence with frontier efficiency",
+    "content_hash": "75797208210aa6b83ff8ce8231087651"
+  },
+  {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "normalized": "historian jill lepore says silicon valley misreads science fiction and undermines democracy",
+    "content_hash": "06d8e910f1dda6167c3508b678492a85"
+  },
+  {
+    "title": "This \u2018adversarial\u2019 pattern can prevent surveillance cameras from detecting you",
+    "normalized": "this 'adversarial' pattern can prevent surveillance cameras from detecting you",
+    "content_hash": "b9d8752958490aacfff9c8d4b656e0a1"
+  },
+  {
+    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+    "normalized": "new wordpress pre-auth xss could lead to php code execution - patch asap",
+    "content_hash": "65231f7ee7a4bcada546cebccd9517c9"
   }
 ]
