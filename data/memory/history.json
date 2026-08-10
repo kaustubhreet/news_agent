@@ -1,130 +1,5 @@
 [
   {
-    "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-    "normalized": "repeat founder ryan williams raises $10m seed for an ai startup for private credit managers",
-    "content_hash": "f5101b4a6572364f2b45a80852ea2428"
-  },
-  {
-    "title": "Ask HN: What are you using for LLM inference in production?",
-    "normalized": "ask hn: what are you using for llm inference in production?",
-    "content_hash": "a20b7acc5cffecba76f033dc202191f7"
-  },
-  {
-    "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-    "normalized": "anthropic says claude hacked 3 organizations during cybersecurity tests",
-    "content_hash": "10eebca2301e58e9385a3daac0a15a9a"
-  },
-  {
-    "title": "Gemini Spark Your 24/7 personal AI agent",
-    "normalized": "gemini spark your 24/7 personal ai agent",
-    "content_hash": "a76a7961dfcf5e0135bf257c6f3c465e"
-  },
-  {
-    "title": "AdaMAST: Adaptive Failure Taxonomies for Improving LLM Agents",
-    "normalized": "adamast: adaptive failure taxonomies for improving llm agents",
-    "content_hash": "d01e76819ec763d6d2037eeda2e8f027"
-  },
-  {
-    "title": "EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks",
-    "normalized": "evopinn: agentic discovery of executable algorithms for physics-informed neural networks",
-    "content_hash": "73035a86884a9815b13a8aaa8ffc66d4"
-  },
-  {
-    "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
-    "normalized": "linkedin adds a button to report ai-generated 'slop'",
-    "content_hash": "b9644111505f3f1121cd88985d999c77"
-  },
-  {
-    "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
-    "normalized": "when will fusion power startup commonwealth fusion systems go public?",
-    "content_hash": "e7691a30cbb43523fefe7d46f3b97fe8"
-  },
-  {
-    "title": "Meta says AI is making it easier to build new apps \u2014 and more are coming",
-    "normalized": "meta says ai is making it easier to build new apps -- and more are coming",
-    "content_hash": "0c11159bf59e4ff5c1d8131036e73143"
-  },
-  {
-    "title": "The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key",
-    "normalized": "the new defcon badges pack a unique open source chip that doubles as a security key",
-    "content_hash": "cf4878c2e61bd552c15fd8ce2545cfc8"
-  },
-  {
-    "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
-    "normalized": "chrome needs twice-a-week patching thanks to ai bug hunting",
-    "content_hash": "1dcc00e95d7ead450e605f145e864eda"
-  },
-  {
-    "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-    "normalized": "gemini robotics 2 brings google's ai into the physical world",
-    "content_hash": "138df51bd68f766d7a88154c3fa02e21"
-  },
-  {
-    "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-    "normalized": "chinese hacker commands deepseek via telegram to launch autonomous attacks",
-    "content_hash": "23377c61365ed9a9ae2a17886bd88ab7"
-  },
-  {
-    "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-    "normalized": "anthropic says claude mistook the open internet for a ctf and breached three organizations",
-    "content_hash": "094dc80de6aaeabd3e0537ef1b5aecee"
-  },
-  {
-    "title": "Anthropic says its AI models also hacked three organizations on their own",
-    "normalized": "anthropic says its ai models also hacked three organizations on their own",
-    "content_hash": "d6cdba33a0785d5a054d291394b1c810"
-  },
-  {
-    "title": "This tattoo is permanent, pain-free, and might soon come in the mail",
-    "normalized": "this tattoo is permanent, pain-free, and might soon come in the mail",
-    "content_hash": "75a42e64a43efe2f4009d920b7f31df9"
-  },
-  {
-    "title": "Sony pushes forward with ditching discs, despite backlash",
-    "normalized": "sony pushes forward with ditching discs, despite backlash",
-    "content_hash": "c0298176f061dd64a646b2c0207abba1"
-  },
-  {
-    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-    "normalized": "tim cook hints at icloud plus tier for ai power users",
-    "content_hash": "a7a18f3b4f9985dad662463e5356d002"
-  },
-  {
-    "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
-    "normalized": "xbox ceo lays out priorities in memo after major 'reset'",
-    "content_hash": "51f7fe7b510aed79d166cd72c99fa204"
-  },
-  {
-    "title": "LinkedIn actually adds a \u2018seems like AI slop\u2019 button",
-    "normalized": "linkedin actually adds a 'seems like ai slop' button",
-    "content_hash": "6b5987ab891fbc632fb879a4e68f65c2"
-  },
-  {
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "normalized": "google fixed more chrome bugs in june than over the past two years, thanks to ai",
-    "content_hash": "17ba7934dcb91ffc096631c4a257d8d5"
-  },
-  {
-    "title": "Show HN: A notebook for prototyping with your agent",
-    "normalized": "show hn: a notebook for prototyping with your agent",
-    "content_hash": "38114e02f3a8729d6a50445073736c56"
-  },
-  {
-    "title": "Show HN: Provenance and decay for AI agent memory",
-    "normalized": "show hn: provenance and decay for ai agent memory",
-    "content_hash": "860975c3a1cd2206ecc9619c8c001730"
-  },
-  {
-    "title": "Promote.chat: AI Marketing Agent for Vibe Coders",
-    "normalized": "promote.chat: ai marketing agent for vibe coders",
-    "content_hash": "da4592eb0eb9a7968596996d784c4f01"
-  },
-  {
-    "title": "Keep It Real: A Schema-Level Deferral Channel for Concise LLM Dialogue [pdf]",
-    "normalized": "keep it real: a schema-level deferral channel for concise llm dialogue [pdf]",
-    "content_hash": "f7282e26af2a3c21624d1723de203e24"
-  },
-  {
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "normalized": "openai reportedly finds evidence that more of its agents ran amok",
     "content_hash": "0dbadeef83266f7d523979ed86796699"
@@ -2498,5 +2373,130 @@
     "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
     "normalized": "new wordpress pre-auth xss could lead to php code execution - patch asap",
     "content_hash": "65231f7ee7a4bcada546cebccd9517c9"
+  },
+  {
+    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "normalized": "discovered materials is playing ai whack-a-mole to hunt cooler chips",
+    "content_hash": "ac71870b251424a5d9345c3fd7a3e49c"
+  },
+  {
+    "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+    "normalized": "openai's next ai model astra shows cyber performance strong enough to trigger pause",
+    "content_hash": "bc78af37820d182fefad742ddbeef09e"
+  },
+  {
+    "title": "The first rival Android app store just arrived in the US Play Store",
+    "normalized": "the first rival android app store just arrived in the us play store",
+    "content_hash": "cbbff68fb715c955a68012c584ceaa8e"
+  },
+  {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "normalized": "how avatarin built a 24/7 retail agent with gpt-realtime",
+    "content_hash": "90d57b8e1db5bb2746b34ca24ddbd1f8"
+  },
+  {
+    "title": "These startups are chasing the next big thing in LLMs",
+    "normalized": "these startups are chasing the next big thing in llms",
+    "content_hash": "da837d414c4b4bfd5e965315a0a0caed"
+  },
+  {
+    "title": "Google Play adds Venmo as a payment option",
+    "normalized": "google play adds venmo as a payment option",
+    "content_hash": "0f06f124a3cbf35c7878a69163e36b73"
+  },
+  {
+    "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+    "normalized": "solidity pro vs code extensions steal crypto wallets, api keys, and credentials",
+    "content_hash": "dc40a23e360e7a5df55d7de125429a76"
+  },
+  {
+    "title": "Ford\u2019s new AI assistant can check your fuel levels and tire pressure",
+    "normalized": "ford's new ai assistant can check your fuel levels and tire pressure",
+    "content_hash": "e95d9d76ad54fb058cea34fa2c38395a"
+  },
+  {
+    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "normalized": "docker sandboxes - disposable, isolated sandboxes for ai agents",
+    "content_hash": "e06feddfaaa6fdbead088ed7dfacbe04"
+  },
+  {
+    "title": "Meta's new open-weight model targets local agentic AI",
+    "normalized": "meta's new open-weight model targets local agentic ai",
+    "content_hash": "1b44535e3e267b1ceb8303c7ac0f1182"
+  },
+  {
+    "title": "Show HN: Taalas-style on-chip LLM weights on a $250 AMD FPGA (60k tok/s)",
+    "normalized": "show hn: taalas-style on-chip llm weights on a $250 amd fpga (60k tok/s)",
+    "content_hash": "2d0021b53133ce0c7145bdab22e0f618"
+  },
+  {
+    "title": "OpenAI tightens controls on its new model over cybersecurity risks",
+    "normalized": "openai tightens controls on its new model over cybersecurity risks",
+    "content_hash": "7c1ddb6c9f2e760a743a890d565843dd"
+  },
+  {
+    "title": "The OpenAI and Hugging Face breach story told from the perspective of the AI",
+    "normalized": "the openai and hugging face breach story told from the perspective of the ai",
+    "content_hash": "58be17b875a476f108b33ca255ecc72e"
+  },
+  {
+    "title": "Meta releases a 30B agent model that fits in ~17GB",
+    "normalized": "meta releases a 30b agent model that fits in ~17gb",
+    "content_hash": "9cff2b80cff4676f870497d82496d5a2"
+  },
+  {
+    "title": "Did Apple Search engine bot enter the security LLM fuzzing gauntlet",
+    "normalized": "did apple search engine bot enter the security llm fuzzing gauntlet",
+    "content_hash": "191164a7594541ef1a8cbfbc81f054f2"
+  },
+  {
+    "title": "Prime Agent: A Self-Improving RLM Agent",
+    "normalized": "prime agent: a self-improving rlm agent",
+    "content_hash": "54ea8f869a8ebc4d2833a39810ee2be4"
+  },
+  {
+    "title": "We Build an Autonomous SRE Agent for Kubernetes Deployments",
+    "normalized": "we build an autonomous sre agent for kubernetes deployments",
+    "content_hash": "5f716bbec2a2dab9716ed65579f39812"
+  },
+  {
+    "title": "Kimi K3 Sandbox Escape Exposes Weak Links in Agent Testing",
+    "normalized": "kimi k3 sandbox escape exposes weak links in agent testing",
+    "content_hash": "db98541639498c89c8ef63bbf57b676a"
+  },
+  {
+    "title": "Escaping the LLM Coding Rat Race",
+    "normalized": "escaping the llm coding rat race",
+    "content_hash": "e7948ad46616d7d281f7e8527a96b9a7"
+  },
+  {
+    "title": "Show HN: Memcode AI goes open source with Claude Code inspired coding agent",
+    "normalized": "show hn: memcode ai goes open source with claude code inspired coding agent",
+    "content_hash": "8030968a901cf8d818823d003e9afbcd"
+  },
+  {
+    "title": "Show HN: Ask your coding agent to subtitle, translate, and clip video (FFmpeg)",
+    "normalized": "show hn: ask your coding agent to subtitle, translate, and clip video (ffmpeg)",
+    "content_hash": "28bff26a6f3941ef41af855a0215e02c"
+  },
+  {
+    "title": "Multi-Agent Coach Adversarial Eval. Passed Designed Traps and Basics Failed",
+    "normalized": "multi-agent coach adversarial eval. passed designed traps and basics failed",
+    "content_hash": "3478489d14cf3efdf358e03fdb17a937"
+  },
+  {
+    "title": "Show HN: SynapsCLI \u2013 lightweight agent runtime in Rust, control an agent swarm",
+    "normalized": "show hn: synapscli - lightweight agent runtime in rust, control an agent swarm",
+    "content_hash": "e2422af78190c5da5a7a7708f91feb2e"
+  },
+  {
+    "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+    "normalized": "webgrader: training llms for web development with self-evolving programmatic grader",
+    "content_hash": "e33c07274654d830e0524e95fc442a1a"
+  },
+  {
+    "title": "Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation",
+    "normalized": "shape your feed: an llm-based agentic system for conversational recommendation",
+    "content_hash": "0bcaaacfa62e9c0352a8a69d4de4ca15"
   }
 ]
