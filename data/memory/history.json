@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "normalized": "openai reportedly finds evidence that more of its agents ran amok",
-    "content_hash": "0dbadeef83266f7d523979ed86796699"
-  },
-  {
-    "title": "Nvidia in Talks with OpenAI to Guarantee $250B Financing for Data Center",
-    "normalized": "nvidia in talks with openai to guarantee $250b financing for data center",
-    "content_hash": "3f6399ccb36476a16dea074cee6d37e4"
-  },
-  {
-    "title": "Time for OpenAI and Anthropic to take a leaf from Microsoft's book?",
-    "normalized": "time for openai and anthropic to take a leaf from microsoft's book?",
-    "content_hash": "9daa349991d7b10e3ba2feafa9be305a"
-  },
-  {
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "normalized": "google nixes its earth ai feature one day after launch, amid criticism it would spread misinformation",
-    "content_hash": "abad3dca07aaf992ae86028234f67e2f"
-  },
-  {
-    "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-    "normalized": "fresh off its wiz payout, index ventures raises $2b across three funds",
-    "content_hash": "d346d6a16fc87fa2447310a14c7f3f04"
-  },
-  {
-    "title": "Sam Altman\u00a0isn\u2019t\u00a0the only one who wants to pump the brakes on AI",
-    "normalized": "sam altman isn't the only one who wants to pump the brakes on ai",
-    "content_hash": "d0a5de5253c601590352bdc84a5684a0"
-  },
-  {
-    "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
-    "normalized": "samsung expects memory shortage to worsen through 2027 and last until 2028",
-    "content_hash": "9076f692ece47221cde57f6e160d1b90"
-  },
-  {
-    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-    "normalized": "smallest.ai raises $13m to build ultra-fast voice ai that sounds genuinely human",
-    "content_hash": "242f0517efd490f23754398242154011"
-  },
-  {
-    "title": "Chinese AI Researchers Are Finding Their Voice on X",
-    "normalized": "chinese ai researchers are finding their voice on x",
-    "content_hash": "766c0c9aa3435a1917d45f39ae2fe07b"
-  },
-  {
-    "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
-    "normalized": "anthropic says claude hacked into 3 organizations during cybersecurity tests",
-    "content_hash": "a177dbab5b16ef323ae1222ab43a0c2a"
-  },
-  {
-    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-    "normalized": "google earth's ai deepfake tool only lasted one day",
-    "content_hash": "11dba36722b786d8c3d8fb3db32d2229"
-  },
-  {
-    "title": "Google might launch a \u2018Pixel Tag\u2019",
-    "normalized": "google might launch a 'pixel tag'",
-    "content_hash": "fe25b36cf601e445953330a4365cd8b8"
-  },
-  {
-    "title": "Here\u2019s the problem with putting an AI image generator in Google Earth",
-    "normalized": "here's the problem with putting an ai image generator in google earth",
-    "content_hash": "bdb9ffd99c312f7ecbd32082d8789865"
-  },
-  {
-    "title": "Show HN: GAI \u2013 A Go runtime for typed, tool-using LLM agents",
-    "normalized": "show hn: gai - a go runtime for typed, tool-using llm agents",
-    "content_hash": "1c8edf9787eb92361f6cbd9ca759a946"
-  },
-  {
-    "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
-    "normalized": "openai finds evidence other ai agents escaped containment as it widens probe",
-    "content_hash": "59ac45eec8bf0e27ba3beb5585baae72"
-  },
-  {
-    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-    "normalized": "rivian spinoff also to start delivering e-bikes after months of delays",
-    "content_hash": "5acc0d559799b7ef86d2797dc6d35855"
-  },
-  {
-    "title": "Silicon Valley loves young founders. Until it doesn\u2019t.",
-    "normalized": "silicon valley loves young founders. until it doesn't.",
-    "content_hash": "fe3e0059cf1975d679a4d456b7bc20ab"
-  },
-  {
-    "title": "India is starting to pay for apps, not just download them",
-    "normalized": "india is starting to pay for apps, not just download them",
-    "content_hash": "d7c486bed928f31bfc7224ee2a7a43af"
-  },
-  {
-    "title": "VC-backed startups commit more\u00a0fraud,\u00a0and researchers think they know why",
-    "normalized": "vc-backed startups commit more fraud, and researchers think they know why",
-    "content_hash": "5ee7196031c2b47d1e42e08ccecfbbc0"
-  },
-  {
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "normalized": "snapchat no longer rewards fully ai-generated spotlight content",
-    "content_hash": "158c8c41379a91a1c252df3de09c8010"
-  },
-  {
-    "title": "Siri AI could come with a paywall for power users",
-    "normalized": "siri ai could come with a paywall for power users",
-    "content_hash": "9ef40dd3ec66659f1bd0d58a86e489fe"
-  },
-  {
-    "title": "SpaceX won\u2019t remove all of xAI\u2019s unpermitted turbines for another year",
-    "normalized": "spacex won't remove all of xai's unpermitted turbines for another year",
-    "content_hash": "889b9aa3ea6ed18f8c03c8e62708ea5a"
-  },
-  {
-    "title": "Reddit is testing a new way to watch \u2014 and listen to \u2014 its viral posts",
-    "normalized": "reddit is testing a new way to watch -- and listen to -- its viral posts",
-    "content_hash": "e05ceb14905852429c19cfc0d51841fe"
-  },
-  {
-    "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-    "normalized": "tesla reportedly might sell its china business ahead of a spacex merger",
-    "content_hash": "b73de3ca997dcfe2987f662de72713be"
-  },
-  {
-    "title": "This AI Assistant Wants to Make Up for Your Boyfriend\u2019s Incompetence",
-    "normalized": "this ai assistant wants to make up for your boyfriend's incompetence",
-    "content_hash": "c22a3aa09184a6c41963fa465c37239b"
-  },
-  {
     "title": "Nobody Knows if OpenAI\u2019s and Anthropic\u2019s AI Hacking Sprees Are Illegal",
     "normalized": "nobody knows if openai's and anthropic's ai hacking sprees are illegal",
     "content_hash": "84b6071d65e265a5c97930fbb5606abc"
@@ -2498,5 +2373,130 @@
     "title": "Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation",
     "normalized": "shape your feed: an llm-based agentic system for conversational recommendation",
     "content_hash": "0bcaaacfa62e9c0352a8a69d4de4ca15"
+  },
+  {
+    "title": "Show HN: Keen Code \u2013 an agentic-engineered coding agent",
+    "normalized": "show hn: keen code - an agentic-engineered coding agent",
+    "content_hash": "717aad0b6dac890dcec807b922429cb7"
+  },
+  {
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "normalized": "openai reportedly completed a $7 billion employee tender offer",
+    "content_hash": "4380cb679df6c2376d6efcc3f92014a1"
+  },
+  {
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "normalized": "as ai-led attacks multiply, openai launches a new cyber model",
+    "content_hash": "477f90a6a722f8d53350a753f4f65d7d"
+  },
+  {
+    "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+    "normalized": "google co-founder sergey brin has now spent $100 million to fight the billionaire tax",
+    "content_hash": "dc027bfcc3da9a63f1b17ee228985e28"
+  },
+  {
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "normalized": "tech industry is buzzing after a claude agent hacked into a gym",
+    "content_hash": "36fec775ce2fd30fb6af436e8773d51c"
+  },
+  {
+    "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+    "normalized": "social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+    "content_hash": "76efb859f9ce098cbccada2ee911b32a"
+  },
+  {
+    "title": "Now Rippling is counter-suing tiny startup Runlayer",
+    "normalized": "now rippling is counter-suing tiny startup runlayer",
+    "content_hash": "cc34a66905180182c8b47272b37b65bd"
+  },
+  {
+    "title": "Mark Zuckerberg\u2019s AI manifesto is exactly why people don\u2019t like AI",
+    "normalized": "mark zuckerberg's ai manifesto is exactly why people don't like ai",
+    "content_hash": "ae0b916321dee0ade3a5b934e338978d"
+  },
+  {
+    "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+    "normalized": "aptoide becomes the first rival app store to return to google play in the us",
+    "content_hash": "c3ffb24f7dbae41178e18eaecebc3b31"
+  },
+  {
+    "title": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision",
+    "normalized": "meta's new glimmer ai model offers a hint at zuckerberg's personal intelligence vision",
+    "content_hash": "f48de4addb75bddbaecdee3e6a07e260"
+  },
+  {
+    "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
+    "normalized": "sila lands $1.4b pentagon loan as militaries demand more batteries",
+    "content_hash": "9c764c50ea6f64c3bbde7f719ac259c5"
+  },
+  {
+    "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
+    "normalized": "a data breach at shipping giant ceva logistics is rippling across banks, retailers, steam gamers, and beyond",
+    "content_hash": "2e25f128cb93f243cb0028ca385fc78b"
+  },
+  {
+    "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+    "normalized": "china-linked hackers deploy new stormencryptor ransomware, likely via n-central flaw",
+    "content_hash": "7acad305c9f60234d9427885bd6f263f"
+  },
+  {
+    "title": "Mark Zuckerberg doesn\u2019t understand how to live",
+    "normalized": "mark zuckerberg doesn't understand how to live",
+    "content_hash": "4ec0b4c70bb65feb4b221a817708cfc7"
+  },
+  {
+    "title": "What to expect from Google\u2019s 2026 Pixel hardware launch event",
+    "normalized": "what to expect from google's 2026 pixel hardware launch event",
+    "content_hash": "1c6cc902791c9d82a483f189b09bb277"
+  },
+  {
+    "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+    "normalized": "four takeaways from mark zuckerberg's massive ai manifesto",
+    "content_hash": "69ad1412052146535ade101d0c42fea7"
+  },
+  {
+    "title": "Apple will stream Friday Night Baseball live in Vision Pro",
+    "normalized": "apple will stream friday night baseball live in vision pro",
+    "content_hash": "4f8f2be1a8900a0d1f7bdde2df0cc752"
+  },
+  {
+    "title": "What happens to Bose when headphones become AI?",
+    "normalized": "what happens to bose when headphones become ai?",
+    "content_hash": "c4880ff3f11e5c3c0d85b56febddc2de"
+  },
+  {
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "normalized": "show hn: needle2: 14mb agentic llm for phones, wearables, smart home and robots",
+    "content_hash": "e8f0fc183f5b59fbde40c6c3a33bcbc2"
+  },
+  {
+    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "normalized": "exploring claude/gpt knowledge cutoffs and pre-training timelines",
+    "content_hash": "d370d7f11bb70bce45287eadae585c79"
+  },
+  {
+    "title": "OpenAI found us generators for maximal Monster subgroup holdout 59:29",
+    "normalized": "openai found us generators for maximal monster subgroup holdout 59:29",
+    "content_hash": "b007767a378402b3a683f1dbd4bef064"
+  },
+  {
+    "title": "Wanno \u2013 AI builder, cloud agent and infra for your apps",
+    "normalized": "wanno - ai builder, cloud agent and infra for your apps",
+    "content_hash": "a82faf026fb635042b11aaca8a0be2eb"
+  },
+  {
+    "title": "OpenAI has bought back $7B worth of shares in a secondary employee tender",
+    "normalized": "openai has bought back $7b worth of shares in a secondary employee tender",
+    "content_hash": "fca1bb58f63f67fca067d971588f08c5"
+  },
+  {
+    "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+    "normalized": "show hn: ai pulse a fake led strip beside the macos dock that shows agent status",
+    "content_hash": "f4394a96cbbfab46d0ad65cef7196412"
+  },
+  {
+    "title": "EvoHarnessRL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
+    "normalized": "evoharnessrl: learning self-evolving runtime harness for long-horizon llm agents",
+    "content_hash": "7510cc77ab19db4ee648cc7540a39606"
   }
 ]
