@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nobody Knows if OpenAI\u2019s and Anthropic\u2019s AI Hacking Sprees Are Illegal",
-    "normalized": "nobody knows if openai's and anthropic's ai hacking sprees are illegal",
-    "content_hash": "84b6071d65e265a5c97930fbb5606abc"
-  },
-  {
-    "title": "OpenAI's work on Git for large repositories",
-    "normalized": "openai's work on git for large repositories",
-    "content_hash": "f3159d3bef2c328460106574e2e4748a"
-  },
-  {
-    "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-    "normalized": "hijacked hotel wi-fi pushes fake updates to deliver surveillance malware",
-    "content_hash": "eadd6ececd12a41f8d18865744775060"
-  },
-  {
-    "title": "Apple\u2019s new AirTags are back down to their best price",
-    "normalized": "apple's new airtags are back down to their best price",
-    "content_hash": "7e1facf3c20d483b0d7308f170f06131"
-  },
-  {
-    "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
-    "normalized": "the nhtsa is investigating 1.2 million tesla vehicles over suspension failure reports",
-    "content_hash": "ec0c8bb121861898d8814f8a9711f3fb"
-  },
-  {
-    "title": "The ban on robot vacuums won\u2019t make them safer, only worse",
-    "normalized": "the ban on robot vacuums won't make them safer, only worse",
-    "content_hash": "d9b00b7bb4e787384709c3c7cc20f88d"
-  },
-  {
-    "title": "The major labels propose rules to keep AI slop off the charts",
-    "normalized": "the major labels propose rules to keep ai slop off the charts",
-    "content_hash": "2fed29c2e87df15aae34cc397a52128e"
-  },
-  {
-    "title": "Show HN: Free AI Prompt Gen \u2013 A local-first, open-source prompt engineering tool",
-    "normalized": "show hn: free ai prompt gen - a local-first, open-source prompt engineering tool",
-    "content_hash": "f567fcc5c3d5ce48eeb0eafd491e2f6e"
-  },
-  {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "normalized": "ten advances in mathematics and theoretical computer science",
-    "content_hash": "a8dedea698982dc46576dad1ca92c1bc"
-  },
-  {
-    "title": "Unreleased OpenAI model solves 10 major mathematical problems",
-    "normalized": "unreleased openai model solves 10 major mathematical problems",
-    "content_hash": "f8dc788c7798a1aca9ca590a97df6877"
-  },
-  {
-    "title": "Integrate LLM into your Python runtime",
-    "normalized": "integrate llm into your python runtime",
-    "content_hash": "9cb0f3d4844f704234ebaf0148763a01"
-  },
-  {
-    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
-    "normalized": "show hn: minimal llm post-training experiments on an 8gb gpu (sft, dpo, grpo)",
-    "content_hash": "a78877517cd902976b6cf5375641ae9b"
-  },
-  {
-    "title": "OSS Skills: agent skills for open source contributors and maintainers",
-    "normalized": "oss skills: agent skills for open source contributors and maintainers",
-    "content_hash": "643b847f703c43d0fb89473d3c3a7186"
-  },
-  {
-    "title": "Jcode: The Coding Agent That Raises the Skill Ceiling, vs. OpenCode and Pi",
-    "normalized": "jcode: the coding agent that raises the skill ceiling, vs. opencode and pi",
-    "content_hash": "ab9fe14ffe29a89cb5d32b0ab88a0344"
-  },
-  {
-    "title": "How OpenAI Lost Its AI Crown\u2013and the Fight to Win It Back",
-    "normalized": "how openai lost its ai crown-and the fight to win it back",
-    "content_hash": "c713c9a06dfeaa56c3456d78d20f23fc"
-  },
-  {
-    "title": "An OpenAI model proves that non-sofic groups exist",
-    "normalized": "an openai model proves that non-sofic groups exist",
-    "content_hash": "50b730e3732748668496f56e7e21b922"
-  },
-  {
-    "title": "Show HN: Horus-runtime \u2013 Train your own tiny LLM from scratch",
-    "normalized": "show hn: horus-runtime - train your own tiny llm from scratch",
-    "content_hash": "72a65b640aaf97001c2c7bc435e6bbf7"
-  },
-  {
-    "title": "OpenAI Usage Reset 4th time in 7d",
-    "normalized": "openai usage reset 4th time in 7d",
-    "content_hash": "e923fdc4a1e04c6f7db7474111274388"
-  },
-  {
-    "title": "Why one of the best mathematicians is joining OpenAI",
-    "normalized": "why one of the best mathematicians is joining openai",
-    "content_hash": "33134deb275440b3f73adb8e12f628aa"
-  },
-  {
-    "title": "Disrupting a Criminal Scam Operation",
-    "normalized": "disrupting a criminal scam operation",
-    "content_hash": "23b3c57840f75815b092805a8ecc8ac7"
-  },
-  {
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "normalized": "advancing the price-performance frontier with gpt-5.6",
-    "content_hash": "b29e9efee52b84564e3bd0ad845bfe71"
-  },
-  {
-    "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
-    "normalized": "introducing explicit prompt caching for openai gpt-5.6 models on amazon bedrock",
-    "content_hash": "1955ae11b7c2bdb4ddc2db2eaad5377c"
-  },
-  {
-    "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-    "normalized": "supabase releases evals: an open source benchmark that scores claude code, codex and opencode on real supabase tasks",
-    "content_hash": "04aaee49e08e36ecd4d36152647a94b9"
-  },
-  {
-    "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
-    "normalized": "jetbrains open-sources kotlinllm: smart macros that generate kotlin source code at runtime and hot-reload it through jdi",
-    "content_hash": "35f7a4dcab4eca82d58e9f5d500a0006"
-  },
-  {
-    "title": "OpenAI\u2019s Widened Probe Turns Up More Agent Escapes",
-    "normalized": "openai's widened probe turns up more agent escapes",
-    "content_hash": "3764c87d091fe53c7e92d7db7702f0cf"
-  },
-  {
     "title": "Sam Altman is still making the case for parenting via ChatGPT",
     "normalized": "sam altman is still making the case for parenting via chatgpt",
     "content_hash": "4b0670f125fb492232bbc501e48d4567"
@@ -2498,5 +2373,130 @@
     "title": "EvoHarnessRL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
     "normalized": "evoharnessrl: learning self-evolving runtime harness for long-horizon llm agents",
     "content_hash": "7510cc77ab19db4ee648cc7540a39606"
+  },
+  {
+    "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
+    "normalized": "when llm agents negotiate: private information and dynamic bargaining in supply chains",
+    "content_hash": "333db958b9a55b785ed38ee3561047b0"
+  },
+  {
+    "title": "Anthropic says it will watermark text generated by its AI models",
+    "normalized": "anthropic says it will watermark text generated by its ai models",
+    "content_hash": "d5d6ee67c3d88eeb76436475e1ea9cff"
+  },
+  {
+    "title": "Claude will apply invisible watermarks to AI text and images",
+    "normalized": "claude will apply invisible watermarks to ai text and images",
+    "content_hash": "c1a2432190cf2461e8cb1f26d91fe5bd"
+  },
+  {
+    "title": "Joby flexes military muscle with $500 million defense acquisition",
+    "normalized": "joby flexes military muscle with $500 million defense acquisition",
+    "content_hash": "32148c45480fcce98d2dd161b56a4c22"
+  },
+  {
+    "title": "MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents",
+    "normalized": "metaspace: metamorphic testing for spatial cognition in embodied agents",
+    "content_hash": "0c9eb3c128e6b19598d063b3d7e72464"
+  },
+  {
+    "title": "From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems",
+    "normalized": "from single chatbots to governed agent ecosystems: an agentic ai pattern catalogue and orchestration framework for mission-critical hospital information management systems",
+    "content_hash": "bfb192082a63b6f27a6b4ab9367fcfbe"
+  },
+  {
+    "title": "An Agentic AI Framework Overcomes Fundamental Limitations of Large Language Models for Glaucoma Detection from Fundus Photography",
+    "normalized": "an agentic ai framework overcomes fundamental limitations of large language models for glaucoma detection from fundus photography",
+    "content_hash": "935b290c8b0d98376028b14afbada262"
+  },
+  {
+    "title": "A New Trick Reveals AI Models\u2019 Inner Thoughts",
+    "normalized": "a new trick reveals ai models' inner thoughts",
+    "content_hash": "0f0b17a419ad24c5cd9abf971a3e0fa4"
+  },
+  {
+    "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
+    "normalized": "researchers built a fake crypto startup and hired three suspected north korean it workers",
+    "content_hash": "d5fed0e297772bf173cf170859784690"
+  },
+  {
+    "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+    "normalized": "researchers turn usb auto-install into a full system takeover on windows 11",
+    "content_hash": "7b5e517ac4ff85891cda22d299bdca1d"
+  },
+  {
+    "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+    "normalized": "malicious mcp servers can split instructions to make ai coding agents exfiltrate secrets",
+    "content_hash": "ec53b6841ab5f9e30e4fe580bc656866"
+  },
+  {
+    "title": "The AI takeover of mathematics has begun",
+    "normalized": "the ai takeover of mathematics has begun",
+    "content_hash": "05fdf3b2519c5698c68fb183779cba7d"
+  },
+  {
+    "title": "OpenAI's Only Ethicist Reportedly Left Last Month",
+    "normalized": "openai's only ethicist reportedly left last month",
+    "content_hash": "774c95642a504cf30dffcd26ba10d0c7"
+  },
+  {
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "normalized": "expanding daybreak as the cyber defense window narrows",
+    "content_hash": "3d4c2142623036e5f373e5eb216e2160"
+  },
+  {
+    "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
+    "normalized": "dynamic coalition formation and communication pricing in skill-based agentic ai systems",
+    "content_hash": "dd692885d6b622fa78f5900d401d780a"
+  },
+  {
+    "title": "Controlled Memory Interference in Continual LLM Agents",
+    "normalized": "controlled memory interference in continual llm agents",
+    "content_hash": "8ff1295ecebe5b2a316b692087740e84"
+  },
+  {
+    "title": "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns",
+    "normalized": "agent-md: selective llm intervention with event-driven escalation for stateful gcmc--md campaigns",
+    "content_hash": "4c208b35e51db2bcaae39fada75c5cb1"
+  },
+  {
+    "title": "Contextual Value Alignment via Multilayer Combinatorial Fusion",
+    "normalized": "contextual value alignment via multilayer combinatorial fusion",
+    "content_hash": "adf329da71dc7cca4ff38c19b66169ea"
+  },
+  {
+    "title": "SkillConsist: Detecting Inconsistencies in Agent Skills via Bidirectional Graph Alignment",
+    "normalized": "skillconsist: detecting inconsistencies in agent skills via bidirectional graph alignment",
+    "content_hash": "803b92b7c9514ea74ab9812a82403c53"
+  },
+  {
+    "title": "CODS: Iterative Bellman-Residual Data Selection for Reusable Offline Reinforcement Learning",
+    "normalized": "cods: iterative bellman-residual data selection for reusable offline reinforcement learning",
+    "content_hash": "f1776f84237ab12fb0d3b31c135d6399"
+  },
+  {
+    "title": "SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding",
+    "normalized": "spectra: pushing the kv cache beyond the 2-bit cliff via spectral transform coding",
+    "content_hash": "a27cda3415d651494398cb7e8e13023a"
+  },
+  {
+    "title": "Can a Local LLM Run My AI Assistant?",
+    "normalized": "can a local llm run my ai assistant?",
+    "content_hash": "a8e26e3582a71eab14c6b1857527058e"
+  },
+  {
+    "title": "Why Agentic Payment Logic Belongs at the Payment Layer and What It Means for Merchant Control in an AI\u2011Driven Economy",
+    "normalized": "why agentic payment logic belongs at the payment layer and what it means for merchant control in an ai\u2011driven economy",
+    "content_hash": "b3b47b53df7d4926b4e1858c1dcc6f89"
+  },
+  {
+    "title": "NVIDIA Mobilizes $500 Billion in Third-Party Capital to Finance AI Compute",
+    "normalized": "nvidia mobilizes $500 billion in third-party capital to finance ai compute",
+    "content_hash": "5692bbf22330867c950ac20f4e2003ea"
+  },
+  {
+    "title": "OpenAI Expands Daybreak With Two Tiers and a New Cybersecurity Model",
+    "normalized": "openai expands daybreak with two tiers and a new cybersecurity model",
+    "content_hash": "80c95aaa0e2e5e0e84860e1244762a7b"
   }
 ]
