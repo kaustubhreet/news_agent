@@ -1,130 +1,5 @@
 [
   {
-    "title": "Bolcho AI",
-    "normalized": "bolcho ai",
-    "content_hash": "52c4288f19eb246f5a8e70f69fc38c68"
-  },
-  {
-    "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
-    "normalized": "an internal openai astra model solved 10 major open math and cs problems",
-    "content_hash": "bfff71992a98511759435d2d462dfbec"
-  },
-  {
-    "title": "LLM Counter-Defaults",
-    "normalized": "llm counter-defaults",
-    "content_hash": "c8675d542fec20604a9da6e9ab0c809e"
-  },
-  {
-    "title": "Running a 35B LLM at 128K Context, Full Speed, on \u20ac870 of Used Hardware",
-    "normalized": "running a 35b llm at 128k context, full speed, on \u20ac870 of used hardware",
-    "content_hash": "c21c4585ae90fad3baab004f2e28d06b"
-  },
-  {
-    "title": "MUD as AI Evaluation and LLM-judge distortion in ways aggregate \u03ba misses",
-    "normalized": "mud as ai evaluation and llm-judge distortion in ways aggregate \u03ba misses",
-    "content_hash": "dce3f526bb154ec6e7591e4c8f210ad1"
-  },
-  {
-    "title": "Testing LLM Concurrency on Consumer Hardware (RTX 5060)",
-    "normalized": "testing llm concurrency on consumer hardware (rtx 5060)",
-    "content_hash": "3aa9113bb07091476e597e7199aaa6fd"
-  },
-  {
-    "title": "Agent-Browser \u2013 Browser Automation for AI",
-    "normalized": "agent-browser - browser automation for ai",
-    "content_hash": "458719b4a9867ef11a9dc529f4584800"
-  },
-  {
-    "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
-    "normalized": "jobradar: open-source job search agent that scores listings with a local llm",
-    "content_hash": "82958171323c5a27219f4ec7cd78bf03"
-  },
-  {
-    "title": "OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
-    "normalized": "openai's claimed disproof of connes' rigidity conjecture is invalid [pdf]",
-    "content_hash": "3c95195556ad36c2ef4488fa813a44ea"
-  },
-  {
-    "title": "The Math Superstar Who's Terrified of AI\u2013and Just Took a Job at OpenAI",
-    "normalized": "the math superstar who's terrified of ai-and just took a job at openai",
-    "content_hash": "0cf41b35d25dab6179a71429ab9c91dc"
-  },
-  {
-    "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-    "normalized": "scanning 7.6 petabytes of huggingface training data for secrets",
-    "content_hash": "9fe37b973d85fef93f3757d875969c6c"
-  },
-  {
-    "title": "Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips",
-    "normalized": "best car vacuums (2026): handheld, cordless, shopping tips",
-    "content_hash": "7f54771584f1b0d4c2a415a9f1f70acc"
-  },
-  {
-    "title": "Is It Possible to Make Smart Glasses That Aren\u2019t Creepy?",
-    "normalized": "is it possible to make smart glasses that aren't creepy?",
-    "content_hash": "7eaa4046d95c709d8e94fdc1006a0210"
-  },
-  {
-    "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-    "normalized": "europeans are about to find out how entrenched ai is in their daily lives",
-    "content_hash": "9d5056637dfeabec2b524bc52728694b"
-  },
-  {
-    "title": "7 States\u2019 Water Systems Hit by Cyberattacks Likely Tied to Iran",
-    "normalized": "7 states' water systems hit by cyberattacks likely tied to iran",
-    "content_hash": "9db4a54ae9650169f29ab135fc795d25"
-  },
-  {
-    "title": "Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head",
-    "normalized": "boroux vs. rorra vs. culligan: water filters, tested head to head",
-    "content_hash": "fa19513c6490dab6004c1e38921afaba"
-  },
-  {
-    "title": "Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan",
-    "normalized": "dreo summer flash sale 2026: lowest price ever on chefmaker, fan",
-    "content_hash": "68615926229e0b2cac829e689231c086"
-  },
-  {
-    "title": "Valvoline Coupons and Promo Codes for August 2026",
-    "normalized": "valvoline coupons and promo codes for august 2026",
-    "content_hash": "5b7b399f118a7f6d7801ab14c0e061f0"
-  },
-  {
-    "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-    "normalized": "coldcard hardware wallet flaw linked to $70 million bitcoin theft in 41 minutes",
-    "content_hash": "b8cdc6ab02d0dfe0adf61dd0b39ac238"
-  },
-  {
-    "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-    "normalized": "adobe campaign classic cvss 10.0 flaw could run code without user interaction",
-    "content_hash": "979fb0b87454b001e927bbac4ea8216e"
-  },
-  {
-    "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-    "normalized": "suspected chinese-speaking hackers target central asian governments with octlurk and silklurk",
-    "content_hash": "bfc3da0f7b044193b5f3ac500cb55ef2"
-  },
-  {
-    "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-    "normalized": "hollowframe loader deploys matryoshka backdoor in spear-phishing attack on law firm",
-    "content_hash": "f94de5c4eeecb001bfa8ea08536db0ed"
-  },
-  {
-    "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
-    "normalized": "cheap android tv boxes pose as phones and turn owners' broadband into proxies",
-    "content_hash": "c8fba03a93bbeb56a5776f8cf88d4de9"
-  },
-  {
-    "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-    "normalized": "three recent chrome releases fix 1,442 flaws, more than prior 23 updates combined",
-    "content_hash": "fab0d3a0fa8208665a9624246cce93ed"
-  },
-  {
-    "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
-    "normalized": "6 reasons why device code phishing is the fastest-growing threat of 2026",
-    "content_hash": "9c2241b6da6343b9a43a6cead14b5194"
-  },
-  {
     "title": "The global memory shortage hits the MacBook Air",
     "normalized": "the global memory shortage hits the macbook air",
     "content_hash": "7fc359e4b83ba23ae02fd4fc94760f66"
@@ -2498,5 +2373,130 @@
     "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
     "normalized": "spotify will label 'ai persona' profiles and exclude their music from recommendations",
     "content_hash": "acb531af1cbc66c95009aa5b63518103"
+  },
+  {
+    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+    "normalized": "of course the chatgpt dog cancer vaccine spawned a startup",
+    "content_hash": "33c9f6dfe5a83793bf62b9d5a47f0a90"
+  },
+  {
+    "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
+    "normalized": "ai code-testing startup blacksmith's valuation jumps almost 10x in less than a year",
+    "content_hash": "989c5bfc2a9ef9640b5b3cf767cd854e"
+  },
+  {
+    "title": "India\u2019s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+    "normalized": "india's yulu raises $93m as quick-commerce boom fuels e-bike demand",
+    "content_hash": "a1fc2cfbb92f7c5857ea5ad3b1300539"
+  },
+  {
+    "title": "Grok is now an AI \u2018teammate\u2019 you can assign work",
+    "normalized": "grok is now an ai 'teammate' you can assign work",
+    "content_hash": "380a27dfa144a9e72def110f564c2609"
+  },
+  {
+    "title": "Congressional Letter to Sam Altman demanding HuggingFace incident transparency [pdf]",
+    "normalized": "congressional letter to sam altman demanding huggingface incident transparency [pdf]",
+    "content_hash": "818393d84d51e9cb9fe5139cad4b18ec"
+  },
+  {
+    "title": "OpenAI releases ChatGPT/Codex desktop app for Linux",
+    "normalized": "openai releases chatgpt/codex desktop app for linux",
+    "content_hash": "a487e81ffcac0785c7502cbce86a3afd"
+  },
+  {
+    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
+    "normalized": "nvidia ai releases nemotron 3.5 lightning: a 30b open moe with 3b active parameters, and nemo switchyard model router",
+    "content_hash": "5d4b2a31a6cb8c84dc525872f40f8bf9"
+  },
+  {
+    "title": "Reservoir raises $8M to make water heaters that people \u2014 and the grid \u2014 will actually want",
+    "normalized": "reservoir raises $8m to make water heaters that people -- and the grid -- will actually want",
+    "content_hash": "a4b40d9197321b013b450c9e19972af7"
+  },
+  {
+    "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+    "normalized": "the job-interview tattoo guy everyone got mad at finally explains himself",
+    "content_hash": "03acbd7d3b9e768c6d0fdad2198d6f42"
+  },
+  {
+    "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+    "normalized": "oh lord, ai reporters are actually breaking big news",
+    "content_hash": "bd57faf9689c09d36cf595e7a9658116"
+  },
+  {
+    "title": "FEMA's \u2018Shadow Administrator\u2019 Was Paid by a DOGE Member's Startup for Months",
+    "normalized": "fema's 'shadow administrator' was paid by a doge member's startup for months",
+    "content_hash": "afa060f8af40cc2687c5fbbe3baa757b"
+  },
+  {
+    "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+    "normalized": "malicious litellm releases tied to trivy hack may have exposed 2,100+ organizations",
+    "content_hash": "d0d07f13938a1c100cad0fbed24e278d"
+  },
+  {
+    "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+    "normalized": "shieldbreak zero-day poc claims microsoft defender patch bypass with system access",
+    "content_hash": "e155c9d045800e27e3d66c3b8c3b0f67"
+  },
+  {
+    "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+    "normalized": "sandworm-linked uac-0145 uses fake job interviews to push vpn that can run commands",
+    "content_hash": "92e7d082c0ae10b7334738f311042092"
+  },
+  {
+    "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+    "normalized": "deadlock ransomware uses polygon smart contracts to make extortion infra harder to disrupt",
+    "content_hash": "e53cc2378271d65ba2c0459ee9fa33f7"
+  },
+  {
+    "title": "LaraCopilot",
+    "normalized": "laracopilot",
+    "content_hash": "76c83987ec7615c89433292a51d93872"
+  },
+  {
+    "title": "Honor\u2019s Robot Phone is better than a gimbal in a phone has any right to be",
+    "normalized": "honor's robot phone is better than a gimbal in a phone has any right to be",
+    "content_hash": "9976bd52e8fd62bda2718b8346366dd2"
+  },
+  {
+    "title": "An FCC filing points to new Sonos headphones coming soon",
+    "normalized": "an fcc filing points to new sonos headphones coming soon",
+    "content_hash": "d249abaa5bdc941b6570f058d3f8bc56"
+  },
+  {
+    "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
+    "normalized": "launch hn: discovered materials (yc p26) - ai agents to discover new materials",
+    "content_hash": "9beddb62f6ab5c5c4b0232fcfd0161c8"
+  },
+  {
+    "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
+    "normalized": "openai's head of ethics leaves less than a year after joining",
+    "content_hash": "5a1021b7a1ac79ff1502c4ec899e8a88"
+  },
+  {
+    "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+    "normalized": "nvidia nemotron 3.5 lightning and nemo switchyard",
+    "content_hash": "1d248fedbe746bd0581e84b8eeb36f33"
+  },
+  {
+    "title": "I built a personal AI agent in Swift on top of what macOS ships",
+    "normalized": "i built a personal ai agent in swift on top of what macos ships",
+    "content_hash": "f6cdef1f2daa57de57020b5ad607c8e6"
+  },
+  {
+    "title": "Never Trust Your AI Agent's Own Sandbox",
+    "normalized": "never trust your ai agent's own sandbox",
+    "content_hash": "0704df0d27811c2f1a35333ad9c41392"
+  },
+  {
+    "title": "The case for disaggregated LLM serving",
+    "normalized": "the case for disaggregated llm serving",
+    "content_hash": "b875299e4f30d94049176d2fa4dbc326"
+  },
+  {
+    "title": "How do you decide that an agent's output is good enough to stop iterating?",
+    "normalized": "how do you decide that an agent's output is good enough to stop iterating?",
+    "content_hash": "87ccd5f890ff16aff07c4973ed83f356"
   }
 ]
