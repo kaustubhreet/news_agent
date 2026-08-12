@@ -1,130 +1,5 @@
 [
   {
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "normalized": "sam altman is still making the case for parenting via chatgpt",
-    "content_hash": "4b0670f125fb492232bbc501e48d4567"
-  },
-  {
-    "title": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
-    "normalized": "youtuber hank green says his ai usage is 'not healthy'",
-    "content_hash": "e8e6efa13c8405a60b6faef54de713b4"
-  },
-  {
-    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-    "normalized": "the openai and anthropic ai hacking sprees are a messy new legal frontier",
-    "content_hash": "2f3bffcb4b4f8715e65853dfabf03393"
-  },
-  {
-    "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
-    "normalized": "accelerating transformer training with nvidia transformer engine, fused kernels, bf16, fp8, and gpu benchmarking",
-    "content_hash": "35ee33cda9859b0d9365662274059244"
-  },
-  {
-    "title": "Inside the London hacker house taking a stand against founder burnout",
-    "normalized": "inside the london hacker house taking a stand against founder burnout",
-    "content_hash": "8330d2e50ef949202284af67b07ad189"
-  },
-  {
-    "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
-    "normalized": "judge denies xai's request to block minnesota ban on 'nudify' apps",
-    "content_hash": "4d3e2d0a04ae7e312958ca407eef8456"
-  },
-  {
-    "title": "Pixel 11 specs and price leak with no surprises",
-    "normalized": "pixel 11 specs and price leak with no surprises",
-    "content_hash": "5b3160b81ad68c60af7e48e41c3a1583"
-  },
-  {
-    "title": "Is this Billboard Hot 100 hit AI slop?",
-    "normalized": "is this billboard hot 100 hit ai slop?",
-    "content_hash": "2e51c0208ae95f7d8b07116a995c6000"
-  },
-  {
-    "title": "The Verge\u2019s 2026 back-to-school shopping guide",
-    "normalized": "the verge's 2026 back-to-school shopping guide",
-    "content_hash": "c319965c0d2b0f608c0a70ee7f87a86c"
-  },
-  {
-    "title": "The Mermaid Mask is a perfect vacation murder mystery",
-    "normalized": "the mermaid mask is a perfect vacation murder mystery",
-    "content_hash": "e4ff82f34ce0b8b96d9be996b0e9f109"
-  },
-  {
-    "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-    "normalized": "the greenhouse and the lens: two modes of agentic ai work",
-    "content_hash": "5e7f3d3265b77192db9bab2c1d6166bb"
-  },
-  {
-    "title": "The Labs Just Proved Your Agent\u2019s Sandbox Is Only a Suggestion",
-    "normalized": "the labs just proved your agent's sandbox is only a suggestion",
-    "content_hash": "ed56f6e50250ed9ad9487ccd37fe2ade"
-  },
-  {
-    "title": "OpenAI Cuts API Prices on Its Two Cheaper GPT-5.6 Tiers",
-    "normalized": "openai cuts api prices on its two cheaper gpt-5.6 tiers",
-    "content_hash": "97f686f34d1ae93552933ee9c793dfd4"
-  },
-  {
-    "title": "Bloom Security Emerges from Stealth with $20M to Secure the AI-Native Endpoint",
-    "normalized": "bloom security emerges from stealth with $20m to secure the ai-native endpoint",
-    "content_hash": "bdb6587b95afd159d8361eef6e194f67"
-  },
-  {
-    "title": "Simile Raises More Than $200 Million at a $2 Billion Valuation to Scale Human Behavior Simulations",
-    "normalized": "simile raises more than $200 million at a $2 billion valuation to scale human behavior simulations",
-    "content_hash": "6ae7766c551619a303049839eb8684ec"
-  },
-  {
-    "title": "DataBahn Raises $40M to Build an Agentic Control Layer for Enterprise Data",
-    "normalized": "databahn raises $40m to build an agentic control layer for enterprise data",
-    "content_hash": "ed639c5286de7a245c8b464a4c0a8453"
-  },
-  {
-    "title": "Google Ships Gemini Robotics ER 2 With Multi-Robot Teamwork",
-    "normalized": "google ships gemini robotics er 2 with multi-robot teamwork",
-    "content_hash": "a6a9dee59c912319b5baca47208fd28a"
-  },
-  {
-    "title": "Berlin Links Its AI Sovereignty Push to OpenAI\u2019s Rogue Agent",
-    "normalized": "berlin links its ai sovereignty push to openai's rogue agent",
-    "content_hash": "15c6f0a9c34f64a9c283abedf8eb73a1"
-  },
-  {
-    "title": "Amazon Engineers Move to Cap AI Spending After Cost Overruns",
-    "normalized": "amazon engineers move to cap ai spending after cost overruns",
-    "content_hash": "f547f95a9faa9b79a09097f332661e8f"
-  },
-  {
-    "title": "Should you still buy your next smartphone \u2014 or subscribe to it instead?",
-    "normalized": "should you still buy your next smartphone -- or subscribe to it instead?",
-    "content_hash": "fda7d05146f252c5bfc643162a55af22"
-  },
-  {
-    "title": "Uber is building an autonomous vehicle empire, and here\u2019s every company it\u2019s using to do it",
-    "normalized": "uber is building an autonomous vehicle empire, and here's every company it's using to do it",
-    "content_hash": "0fece3b0ebd14b09ceada311fdd5288e"
-  },
-  {
-    "title": "Apps that help you break free from doomscrolling and get active",
-    "normalized": "apps that help you break free from doomscrolling and get active",
-    "content_hash": "79343a3561cf333f5066fa9e0c4bcd0f"
-  },
-  {
-    "title": "What\u2019s the best handheld mini fan?",
-    "normalized": "what's the best handheld mini fan?",
-    "content_hash": "5b1e50121bec73c43f63ce6f6dc83244"
-  },
-  {
-    "title": "GM and Ford are talking less and less about EVs",
-    "normalized": "gm and ford are talking less and less about evs",
-    "content_hash": "c1f2d00b326b7c208de53adf52b8374d"
-  },
-  {
-    "title": "15 Best Office Chairs of 2026\u2014We Tested 70 to Pick Them",
-    "normalized": "15 best office chairs of 2026--we tested 70 to pick them",
-    "content_hash": "509153f49251baaa6c1d51d03a3e0e76"
-  },
-  {
     "title": "Bolcho AI",
     "normalized": "bolcho ai",
     "content_hash": "52c4288f19eb246f5a8e70f69fc38c68"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI Expands Daybreak With Two Tiers and a New Cybersecurity Model",
     "normalized": "openai expands daybreak with two tiers and a new cybersecurity model",
     "content_hash": "80c95aaa0e2e5e0e84860e1244762a7b"
+  },
+  {
+    "title": "ChatGPT and Gemini both just passed 1 billion users",
+    "normalized": "chatgpt and gemini both just passed 1 billion users",
+    "content_hash": "e700b8b42ef3489ffc72d448d64b9860"
+  },
+  {
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "normalized": "openai launches chatgpt desktop app for linux",
+    "content_hash": "fc0e7502c7e9696fe7c935c7e7f01ab3"
+  },
+  {
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "normalized": "general catalyst leads $1.1b round into 2-month-old river ai",
+    "content_hash": "7bf975d72dafd6ed8fb8ff8e23372efe"
+  },
+  {
+    "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was \u2018cookie stuffing\u2019 for months",
+    "normalized": "phoebe gates and sophia kianni reportedly knew phia was 'cookie stuffing' for months",
+    "content_hash": "d7ebc2bda137622eeae6b13b2b4e07b2"
+  },
+  {
+    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "normalized": "accel closes oversubscribed $550m india fund within weeks, 19 months after its last",
+    "content_hash": "92246fd1e762c69e4728252a990bb5bd"
+  },
+  {
+    "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019",
+    "normalized": "brad lightcap, openai's longtime coo, is leaving to 'start something new'",
+    "content_hash": "bf4c25dba02750fcb9d93926413a7c57"
+  },
+  {
+    "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+    "normalized": "researchers disclose ai-assisted sharepoint exploit chain reaching unauthenticated rce",
+    "content_hash": "4945862c237a5c62ab02b9c717d39331"
+  },
+  {
+    "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+    "normalized": "openai launches gpt-5.6-cyber with reduced safeguards for exploit development",
+    "content_hash": "e2f651edde0af65052467caa9df162ab"
+  },
+  {
+    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+    "normalized": "saber denies replacing rideshare stimulator's writers with chatgpt",
+    "content_hash": "eddf42f584be70a0fd9a25f5a6b8dc95"
+  },
+  {
+    "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+    "normalized": "xbox elite 3 prototype pad leaks with tiny built-in screen",
+    "content_hash": "364927792cf60feaab60b93fcabd6549"
+  },
+  {
+    "title": "Google\u2019s free streaming service now lets you pick shows and movies to watch",
+    "normalized": "google's free streaming service now lets you pick shows and movies to watch",
+    "content_hash": "81a67b24fe71bd14ff9cc8161157c121"
+  },
+  {
+    "title": "Another OpenAI executive takes off",
+    "normalized": "another openai executive takes off",
+    "content_hash": "0c536f54000fdfae04e800bbd7bf124a"
+  },
+  {
+    "title": "The budget-friendly Pixel Buds 2a are even cheaper right now",
+    "normalized": "the budget-friendly pixel buds 2a are even cheaper right now",
+    "content_hash": "c91f04d0253a7cdf7c8a0c22016a4a13"
+  },
+  {
+    "title": "Google\u2019s upcoming Pixel phones are for the fans, even if its launch event isn\u2019t",
+    "normalized": "google's upcoming pixel phones are for the fans, even if its launch event isn't",
+    "content_hash": "11304d4098a6f6953a1b5ef44662fabd"
+  },
+  {
+    "title": "OpenAI Daybreak Cyber Defense Models Land on Amazon Bedrock",
+    "normalized": "openai daybreak cyber defense models land on amazon bedrock",
+    "content_hash": "d0ef27225163b44b34bb68634acd85d1"
+  },
+  {
+    "title": "River AI Raises $1.1B Out of Stealth to Rebuild the Stack for Personal AI",
+    "normalized": "river ai raises $1.1b out of stealth to rebuild the stack for personal ai",
+    "content_hash": "575f20a753933ffee020b7876cefe230"
+  },
+  {
+    "title": "FBI says cybercriminals are hacking into victims\u2019 online accounts to steal their intimate pictures",
+    "normalized": "fbi says cybercriminals are hacking into victims' online accounts to steal their intimate pictures",
+    "content_hash": "4b2b00e51c2e9f34c8b0b471a920278b"
+  },
+  {
+    "title": "Google\u2019s Gemini app surges to 1 billion users",
+    "normalized": "google's gemini app surges to 1 billion users",
+    "content_hash": "ee82e02d4c9a74d702500922fcd83572"
+  },
+  {
+    "title": "Bluesky\u2019s active user base is shrinking as its focus expands beyond the app",
+    "normalized": "bluesky's active user base is shrinking as its focus expands beyond the app",
+    "content_hash": "3edd9068c907cf72bdefd1c1dce8d946"
+  },
+  {
+    "title": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems",
+    "normalized": "an unreleased anthropic model made progress on one of math's biggest unsolved problems",
+    "content_hash": "def5e8e18af66da1bf3b640fbcb672bc"
+  },
+  {
+    "title": "Joby Aviation builds out defense business with $500M acquisition",
+    "normalized": "joby aviation builds out defense business with $500m acquisition",
+    "content_hash": "64c8590081420d3051d0c44e803aed3b"
+  },
+  {
+    "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+    "normalized": "delta investigating after someone set up fake wi-fi network mid-flight",
+    "content_hash": "bcff866fec9074d108c7bb5be810e12e"
+  },
+  {
+    "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once \u2014 he\u2019ll\u00a0explain why at Disrupt 2026",
+    "normalized": "rivian ceo rj scaringe is betting on evs, robots, and autonomy all at once -- he'll explain why at disrupt 2026",
+    "content_hash": "fb2146a548a5a5c5fb28b47ddc8858a2"
+  },
+  {
+    "title": "Kyoto Fusioneering starts work on key fusion power plant device",
+    "normalized": "kyoto fusioneering starts work on key fusion power plant device",
+    "content_hash": "75fa8fe718830b26548e41b9541102a8"
+  },
+  {
+    "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
+    "normalized": "spotify will label 'ai persona' profiles and exclude their music from recommendations",
+    "content_hash": "acb531af1cbc66c95009aa5b63518103"
   }
 ]
