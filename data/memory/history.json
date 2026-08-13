@@ -1,130 +1,5 @@
 [
   {
-    "title": "The global memory shortage hits the MacBook Air",
-    "normalized": "the global memory shortage hits the macbook air",
-    "content_hash": "7fc359e4b83ba23ae02fd4fc94760f66"
-  },
-  {
-    "title": "Is paying artists enough to convince them to embrace AI?",
-    "normalized": "is paying artists enough to convince them to embrace ai?",
-    "content_hash": "a2adcc2a0c95a707d335b8ce1bcad5ce"
-  },
-  {
-    "title": "Sam Altman and AI\u2019s decel debate",
-    "normalized": "sam altman and ai's decel debate",
-    "content_hash": "62bf9f5b29aaa03bc0999e8ea630ea71"
-  },
-  {
-    "title": "TechCrunch Mobility: Two roads diverged \u2014 for robotaxis",
-    "normalized": "techcrunch mobility: two roads diverged -- for robotaxis",
-    "content_hash": "1bac4697f82fc6897d98fd40d4b819cf"
-  },
-  {
-    "title": "Rachika Nayar\u2019s Heaven Come Crashing is an instrumental epic of desperate longing",
-    "normalized": "rachika nayar's heaven come crashing is an instrumental epic of desperate longing",
-    "content_hash": "ad13661ce2b3569f3aa112c48f9ae1d5"
-  },
-  {
-    "title": "Fender\u2019s CEO seems to think your bandmates are just analog AI",
-    "normalized": "fender's ceo seems to think your bandmates are just analog ai",
-    "content_hash": "43918138829c3473f0a22523cce896e1"
-  },
-  {
-    "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170",
-    "normalized": "xbox prices are increasing by up to \u20ac200 or \u00a3170",
-    "content_hash": "11a53a731fd5723285952cdd281dbf4a"
-  },
-  {
-    "title": "Malaysia is reportedly shutting down Balaji Srinivasan\u2019s Network School",
-    "normalized": "malaysia is reportedly shutting down balaji srinivasan's network school",
-    "content_hash": "df64c1631c3ec678777c367e89dca266"
-  },
-  {
-    "title": "15 Best Office Chairs of 2026\u2014 We Tested 70 to Pick Them",
-    "normalized": "15 best office chairs of 2026-- we tested 70 to pick them",
-    "content_hash": "d81d199a3565b4e95ae1639d5fb859a0"
-  },
-  {
-    "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-    "normalized": "dprk-linked macos malvertising uses fake updates to deliver crypto-stealing malware",
-    "content_hash": "314a3a145966aa4f7c2c4c27a51681b7"
-  },
-  {
-    "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-    "normalized": "threatsday: ai-powered hacking, 370 chrome flaws, sonicwall attacks, dns hijacking + 22 more stories",
-    "content_hash": "db3024e03e3ed61a2b19ee0bf8eb9879"
-  },
-  {
-    "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-    "normalized": "azure cosmos db flaw exposed platform-wide key that could access any database",
-    "content_hash": "aed4d112eab0c1fd8cfd5f26d6922de1"
-  },
-  {
-    "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
-    "normalized": "microsoft copilot for word can copy hidden prompts into new documents",
-    "content_hash": "0f1db811a35772df004b344a1c5da328"
-  },
-  {
-    "title": "The Network Has Become the Control Plane for AI Security",
-    "normalized": "the network has become the control plane for ai security",
-    "content_hash": "a134911c9f35da81258d039f2481805f"
-  },
-  {
-    "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
-    "normalized": "hackers exploit anysign4pc via hacked korean sites to install backdoors without prompts",
-    "content_hash": "91b8cff59e33d24bf854705a64947e4d"
-  },
-  {
-    "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-    "normalized": "silverfox targets japanese manufacturer with 3-driver byovd chain and valleyrat",
-    "content_hash": "e94977c1bb802a7b88483e0ccad6da1f"
-  },
-  {
-    "title": "Amazon Links Debug and Chalk npm Hijack to North Korea\u2019s Sapphire Sleet",
-    "normalized": "amazon links debug and chalk npm hijack to north korea's sapphire sleet",
-    "content_hash": "ece83c57d6535afb1c360f9aa4202453"
-  },
-  {
-    "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-    "normalized": "critical rails flaw could let unauthenticated attackers read server files via image uploads",
-    "content_hash": "12da5e124386008c3c23af57ebd597f1"
-  },
-  {
-    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-    "normalized": "as reddit stock falls, ceo questions value of google's ai overviews",
-    "content_hash": "4120448b6a57acea1eb017a10a014414"
-  },
-  {
-    "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-    "normalized": "reddit keeps its strange dmca fight over google search results alive",
-    "content_hash": "b9db9502984768ad806936c4b6738737"
-  },
-  {
-    "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-    "normalized": "google earth risked ruin with retracted ai tool for making fake satellite pics",
-    "content_hash": "8b72bf04b71135a066bc59172738a6ce"
-  },
-  {
-    "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-    "normalized": "would you get tattooed just to interview at a 7-days-a-week ai startup?",
-    "content_hash": "140acd404a1ddadd64ecd3bd144f3cf5"
-  },
-  {
-    "title": "DeepSeek-V4-Flash-0731",
-    "normalized": "deepseek-v4-flash-0731",
-    "content_hash": "be82f938fe55f9d2fb92c1c0bc61b9ef"
-  },
-  {
-    "title": "AgentMicro",
-    "normalized": "agentmicro",
-    "content_hash": "6726a95a36d50695f560afdeb34e8dfa"
-  },
-  {
-    "title": "NudgeForMe",
-    "normalized": "nudgeforme",
-    "content_hash": "99b8cb4525bec5230e14411daf5e7ed8"
-  },
-  {
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
     "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
     "content_hash": "da0fb803a3702f3abd12611d409173e2"
@@ -2498,5 +2373,130 @@
     "title": "How do you decide that an agent's output is good enough to stop iterating?",
     "normalized": "how do you decide that an agent's output is good enough to stop iterating?",
     "content_hash": "87ccd5f890ff16aff07c4973ed83f356"
+  },
+  {
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "normalized": "openai-backed thrive holdings raises $2b to bring ai to the enterprise",
+    "content_hash": "11a450920b19664e1dc8ccd134b55330"
+  },
+  {
+    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+    "normalized": "lovable confirms new $13.3b valuation, raises another $400m",
+    "content_hash": "7ab72f838b6b533131ff205713a120a8"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "normalized": "openai, anthropic, google api flaw let weaker ai models decode stronger models' reasoning",
+    "content_hash": "5289bfc71f01b68f52b38a5a2a4ddfb8"
+  },
+  {
+    "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
+    "normalized": "some claude users are mad that anthropic's new watermarks will catch them using it at their jobs, classes",
+    "content_hash": "b93a9ad5bafd5b3939630534bebe6c0a"
+  },
+  {
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "normalized": "ai coding startup cognition reportedly already in talks to raise at $40b valuation",
+    "content_hash": "177c91a7552792e75db3697821d163df"
+  },
+  {
+    "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+    "normalized": "form energy raises $750m to build more 100-hour batteries for the grid",
+    "content_hash": "e9bede9204ccaf715b2b6db963d9d82b"
+  },
+  {
+    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "normalized": "how a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "content_hash": "52691386347001454a67fcb7fe4a6534"
+  },
+  {
+    "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+    "normalized": "after microsoft threatened legal action, a security researcher publishes a new windows zero-day bug",
+    "content_hash": "481adf05bf8c3f8ef50a4965957b2b6a"
+  },
+  {
+    "title": "Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "normalized": "everything announced at made by google '26: pixel 11, pixel watch 5, pixel tag, and tons of gemini features",
+    "content_hash": "e01f1766051bf209c13a0aa37ee43495"
+  },
+  {
+    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+    "normalized": "lazarus exploits windows zero-day to gain system access and deploy backdoor",
+    "content_hash": "cce2cb1f7436ceb12fc26adcd6790434"
+  },
+  {
+    "title": "How Google\u2019s new Pixel 11 phones compare to last year\u2019s models",
+    "normalized": "how google's new pixel 11 phones compare to last year's models",
+    "content_hash": "c74c44402884aab9ed3091550ad3ff62"
+  },
+  {
+    "title": "ICE wants to give agents electrified gloves that shock people into compliance",
+    "normalized": "ice wants to give agents electrified gloves that shock people into compliance",
+    "content_hash": "044fbe8dfbb9a6db90c9f1f576870d5d"
+  },
+  {
+    "title": "A simple fix for LLM tail latency",
+    "normalized": "a simple fix for llm tail latency",
+    "content_hash": "47d2e4cbd9e3447ef790abef3257785e"
+  },
+  {
+    "title": "OpenAI-realtime-toolkit: voice agents for React Native",
+    "normalized": "openai-realtime-toolkit: voice agents for react native",
+    "content_hash": "5a46b243c6994d348977882959210bd4"
+  },
+  {
+    "title": "Show HN: An idle desktop incremental game driven by coding-agent",
+    "normalized": "show hn: an idle desktop incremental game driven by coding-agent",
+    "content_hash": "44db0cb68246f02927160c292b04b7e6"
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "normalized": "from assistance to execution: how enterprises put ai to work",
+    "content_hash": "54e93b50c91f9d9387610cb2f44af0bb"
+  },
+  {
+    "title": "Skan AI Raises $63M Series C to Build a Context Layer for Enterprise AI Agents",
+    "normalized": "skan ai raises $63m series c to build a context layer for enterprise ai agents",
+    "content_hash": "d6dc8e8d99dab3701b85cca1dc6a841c"
+  },
+  {
+    "title": "AI nuclear power firm Fermi finally has a new CEO",
+    "normalized": "ai nuclear power firm fermi finally has a new ceo",
+    "content_hash": "4f50b541d59fd492262d6b1962e52444"
+  },
+  {
+    "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
+    "normalized": "amazon will train on twitch streamers' content by default, unless they opt out",
+    "content_hash": "86b527539f2d9b3402a206123101422d"
+  },
+  {
+    "title": "Grubhub\u2019s $24M FTC settlement is finally reaching diners and drivers",
+    "normalized": "grubhub's $24m ftc settlement is finally reaching diners and drivers",
+    "content_hash": "42eb90ba8891c05c2e8fc0b9ff0ad638"
+  },
+  {
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "normalized": "as ai safety concerns mount, three pioneers make the case for staying open",
+    "content_hash": "9e16821314e113a88e3a006c39aa3ff1"
+  },
+  {
+    "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+    "normalized": "uber freight reportedly investigating after hacking group claims data breach",
+    "content_hash": "0a05a8c63189a91cee2fe499a78a79c4"
+  },
+  {
+    "title": "Mesh, Automattic\u2019s CRM for everyone, comes to Android",
+    "normalized": "mesh, automattic's crm for everyone, comes to android",
+    "content_hash": "9a48a3b7a69f6c3faf01f83453c77657"
+  },
+  {
+    "title": "Why Stream\u00a0ring-maker Sandbar says the future of AI wearables is voice",
+    "normalized": "why stream ring-maker sandbar says the future of ai wearables is voice",
+    "content_hash": "803daa49b58ffcdf5817818a348e0e4c"
+  },
+  {
+    "title": "Tesla wants to build a $10B solar factory in Texas",
+    "normalized": "tesla wants to build a $10b solar factory in texas",
+    "content_hash": "887ddb9a5267c26bdced535d5f6b4a7f"
   }
 ]
