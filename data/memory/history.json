@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion",
-    "normalized": "openai drags apple's lawsuit into the court of public opinion",
-    "content_hash": "c1d4b86c40b0ca8a575aeeaeae55e4e5"
-  },
-  {
-    "title": "India moves to give its instant payments network a business model",
-    "normalized": "india moves to give its instant payments network a business model",
-    "content_hash": "1abdd026d54bfcfe5bd2ce4e991fbd1f"
-  },
-  {
-    "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-    "normalized": "google deletes 3 adk ai workflows after malicious github issue could trigger privileged agent",
-    "content_hash": "1227b86a131d43d24159e6bc8ba3a52b"
-  },
-  {
-    "title": "CollectWise (YC F24) Is Hiring",
-    "normalized": "collectwise (yc f24) is hiring",
-    "content_hash": "82b1b1b65f44c6f7b0374e05b98fcecd"
-  },
-  {
-    "title": "Introducing Claude Opus 5 on AWS: Anthropic\u2019s most capable Opus model",
-    "normalized": "introducing claude opus 5 on aws: anthropic's most capable opus model",
-    "content_hash": "53b64de1142d099e4d0805251be9d496"
-  },
-  {
-    "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
-    "normalized": "get started with openai gpt-5.6 sol, terra, and luna on amazon bedrock",
-    "content_hash": "ebb7208549d49c82b85bc0d29e4f652c"
-  },
-  {
-    "title": "Agentic Bayesian Optimization through Surrogate-Augmented Autoresearch",
-    "normalized": "agentic bayesian optimization through surrogate-augmented autoresearch",
-    "content_hash": "2bfb49c98cf24447a7fab526e839ba85"
-  },
-  {
-    "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
-    "normalized": "building an advanced ai skill security auditing pipeline with nvidia skillspector, langgraph, yara rules, sarif, and ci policy gates",
-    "content_hash": "325954c85286a6fa254db6e0ac0f7c1d"
-  },
-  {
-    "title": "Is the future of data centers portable? Runware builds a pod to find out",
-    "normalized": "is the future of data centers portable? runware builds a pod to find out",
-    "content_hash": "647af54495e472e54337f8d0ca71adc5"
-  },
-  {
-    "title": "Bending Spoons to buy Airtable for $1.28B",
-    "normalized": "bending spoons to buy airtable for $1.28b",
-    "content_hash": "491345214c7448a08bdfaf4a738946c3"
-  },
-  {
-    "title": "How One Startup Built a (Mostly) China-Free Robot",
-    "normalized": "how one startup built a (mostly) china-free robot",
-    "content_hash": "80df94b4df8c99df24916d5dc6758c77"
-  },
-  {
-    "title": "Peak Design\u2019s latest bags have clever integrated hooks",
-    "normalized": "peak design's latest bags have clever integrated hooks",
-    "content_hash": "fd0212623d51395cc571876699b61302"
-  },
-  {
-    "title": "The next Xbox could play every Xbox game ever made",
-    "normalized": "the next xbox could play every xbox game ever made",
-    "content_hash": "7ffcc06967cc310221ace03435069c00"
-  },
-  {
-    "title": "Can Reddit fend off a new wave of AI SEO spam?",
-    "normalized": "can reddit fend off a new wave of ai seo spam?",
-    "content_hash": "063800bc800fcb0ce0dcbf363a29b9ef"
-  },
-  {
-    "title": "That time when I failed the Microsoft interview",
-    "normalized": "that time when i failed the microsoft interview",
-    "content_hash": "abe1a6895c2637b9f5984f6b5d6d9f37"
-  },
-  {
-    "title": "Introducing OpenAI Presence",
-    "normalized": "introducing openai presence",
-    "content_hash": "b75487528372c63b53f40d17a4b0df92"
-  },
-  {
-    "title": "Introducing the ChatGPT for small business program",
-    "normalized": "introducing the chatgpt for small business program",
-    "content_hash": "746d8717c4c89802852da56e13a08adc"
-  },
-  {
-    "title": "Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark",
-    "normalized": "learning compositional meta-routing for agentic workflows: an executable benchmark",
-    "content_hash": "c463d15f5ee34ab99606d20098fd8374"
-  },
-  {
-    "title": "Agentic Graph Token Reasoning",
-    "normalized": "agentic graph token reasoning",
-    "content_hash": "7030c523b1c75c4da149d8a004346ea0"
-  },
-  {
-    "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
-    "normalized": "y combinator open-sources qm: an mit-licensed multiplayer agent harness that runs in slack and the web",
-    "content_hash": "83d34df47083e9d085ce0cde3d3cc150"
-  },
-  {
-    "title": "How to Secure AI Agents, MCP Servers, and LLM Apps in Production",
-    "normalized": "how to secure ai agents, mcp servers, and llm apps in production",
-    "content_hash": "67e9a2db17524dc51663539475dee130"
-  },
-  {
-    "title": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World\u2019s Best E-commerce Search Engines",
-    "normalized": "onton releases ontology 1: a neurosymbolic search model that is 2.7x more accurate than the world's best e-commerce search engines",
-    "content_hash": "ccd1bdca88542b13b6b0713bbc1c9290"
-  },
-  {
-    "title": "Using Agents as Tools",
-    "normalized": "using agents as tools",
-    "content_hash": "53c318eb3571f18f3c5cc55b114545d6"
-  },
-  {
-    "title": "House Homeland Security Panel Calls Altman In Over OpenAI Breach",
-    "normalized": "house homeland security panel calls altman in over openai breach",
-    "content_hash": "4e5122cd25a551970264c0934e25236f"
-  },
-  {
-    "title": "Zenity Raises $125 Million as Enterprises Confront the Security Risks of Autonomous AI Agents",
-    "normalized": "zenity raises $125 million as enterprises confront the security risks of autonomous ai agents",
-    "content_hash": "458791bd3d945e6d8e0725665f118386"
-  },
-  {
     "title": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
     "normalized": "nvidia doesn't mess around: a week after open ai industry group formed, it's already showing progress",
     "content_hash": "552af558f4efedf0088d39d6a50cd619"
@@ -2498,5 +2373,130 @@
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "normalized": "databricks wanted to raise $1b, investors wanted $15b. it settled on $5b at a $190b valuation.",
     "content_hash": "3ec89d4a4d3302c1ec3e685b6317053e"
+  },
+  {
+    "title": "The MSI Claw EX is the most important handheld since Steam Deck \u2014 I still wouldn\u2019t buy one",
+    "normalized": "the msi claw ex is the most important handheld since steam deck -- i still wouldn't buy one",
+    "content_hash": "a4ae5fc838fe343581bb8411e767ad89"
+  },
+  {
+    "title": "Help build a monument to that \u2018sad little bitch\u2019 Elon Musk",
+    "normalized": "help build a monument to that 'sad little bitch' elon musk",
+    "content_hash": "e879549f6128217ce2dea9d795a253fa"
+  },
+  {
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "normalized": "how organizations use ai: evidence from chatgpt [pdf]",
+    "content_hash": "af945d2208ac918e406a2849fc3d8dc3"
+  },
+  {
+    "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
+    "normalized": "$\\varepsilon$-memevo: adaptive cross-task memory transfer for llm program evolution",
+    "content_hash": "b36fb697e3b8d4c9833f19931b72947d"
+  },
+  {
+    "title": "CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution",
+    "normalized": "cake: compiler-agent co-design for frontier kernel evolution",
+    "content_hash": "85ed4b95f9b1a30b9b999c79c9fe7be0"
+  },
+  {
+    "title": "The Shift from AI Capability to AI Control",
+    "normalized": "the shift from ai capability to ai control",
+    "content_hash": "1f529152814e6f3e11f9bd12439c2d36"
+  },
+  {
+    "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+    "normalized": "uber and pony.ai plan to bring 2,000 robotaxis to europe",
+    "content_hash": "e58963866192e5c88266b0cd67580a99"
+  },
+  {
+    "title": "Who really needs a cocktail robot?",
+    "normalized": "who really needs a cocktail robot?",
+    "content_hash": "cd94255800709a613141f98aba68b54b"
+  },
+  {
+    "title": "Gemini 3.7 Flash",
+    "normalized": "gemini 3.7 flash",
+    "content_hash": "344b1116bc701c3ad9db0b5f786ab794"
+  },
+  {
+    "title": "Apple trained its own AI model for China with help from Alibaba",
+    "normalized": "apple trained its own ai model for china with help from alibaba",
+    "content_hash": "b0d518f441ebcdd8bd21c2656cdd0768"
+  },
+  {
+    "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+    "normalized": "trump declares 100 percent tariffs on many drones and all aircraft parts",
+    "content_hash": "9403b2fd9442930aac362970d782735a"
+  },
+  {
+    "title": "\u2018That is not acceptable\u2019: Judge orders Google to make rival app store installs easier",
+    "normalized": "'that is not acceptable': judge orders google to make rival app store installs easier",
+    "content_hash": "b900b15713b21ff66f222eda9b108f7e"
+  },
+  {
+    "title": "The fight over Flock and other ALPRs",
+    "normalized": "the fight over flock and other alprs",
+    "content_hash": "9d4c4d33155c88cc459f11d00572faaa"
+  },
+  {
+    "title": "Microsoft\u2019s Clippy-like Mico character is no longer the face of Copilot",
+    "normalized": "microsoft's clippy-like mico character is no longer the face of copilot",
+    "content_hash": "3779dda17c88cb51bb30b7bc985d12d5"
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "normalized": "previewing ultrafast mode: gpt-5.6 sol at up to 14x the speed",
+    "content_hash": "2f06adeb0b19da8b61483e09085c62b7"
+  },
+  {
+    "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
+    "normalized": "amazon quick for microsoft 365: agentic ai where you work",
+    "content_hash": "31794cd0ae0a40ed006a8030bb5cfe33"
+  },
+  {
+    "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+    "normalized": "agreement is not alignment: divergent moral grounds in human and llm ethical judgments",
+    "content_hash": "f521500f3650d4a5470a1f13e3264b38"
+  },
+  {
+    "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+    "normalized": "multi-agent scheduling with llm-assisted contract net negotiation for stream processing in mobile edge computing",
+    "content_hash": "aa3f34c91cc85b2b50d5407de8db49df"
+  },
+  {
+    "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+    "normalized": "research assistant: astrazeneca's agentic system for r&d",
+    "content_hash": "45f30663f993fca080fc7b0da026c62e"
+  },
+  {
+    "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
+    "normalized": "reasoning jury: multi-model consensus for evaluating reasoning traces",
+    "content_hash": "d4467ab3d62778973bc5baba6f14b81b"
+  },
+  {
+    "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+    "normalized": "steerbench-work: a benchmark for agent steering at action boundaries",
+    "content_hash": "2bf1f5f835640fd117ffb2061ca1270e"
+  },
+  {
+    "title": "Designing AI Pipelines for Decision-Ready ITSM Intelligence",
+    "normalized": "designing ai pipelines for decision-ready itsm intelligence",
+    "content_hash": "83a23426847135707498fcc41b6ea5a7"
+  },
+  {
+    "title": "Multi-AUV Ad-hoc network-based Target Tracking: A Value Gradient Guidance Multi-Agent Diffusion Reinforcement Learning Approach",
+    "normalized": "multi-auv ad-hoc network-based target tracking: a value gradient guidance multi-agent diffusion reinforcement learning approach",
+    "content_hash": "f3d6d65ba712157e4bc1f439d6f7bab2"
+  },
+  {
+    "title": "Scaling Automatic Research Agents via World Models",
+    "normalized": "scaling automatic research agents via world models",
+    "content_hash": "ee5fe495e699549ee56cb304043ac8e2"
+  },
+  {
+    "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
+    "normalized": "here's why ai agents lie and cheat to reach their goals",
+    "content_hash": "26b5f665f6c8b9a2a9e0837a39a6abda"
   }
 ]
