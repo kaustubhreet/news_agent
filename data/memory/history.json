@@ -1,130 +1,5 @@
 [
   {
-    "title": "Sequoia\u2019s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
-    "normalized": "sequoia's shaun maguire leads $1b round for nuclear startup valar atomics",
-    "content_hash": "1688886df3744c92c8b57503b74b6f2e"
-  },
-  {
-    "title": "Who\u2019s legally to blame for Anthropic and OpenAI\u2019s autonomous AI hacks? It\u2019s complicated",
-    "normalized": "who's legally to blame for anthropic and openai's autonomous ai hacks? it's complicated",
-    "content_hash": "8db9aef45e0dc83f1d2c06b83ce7b1c3"
-  },
-  {
-    "title": "Congress\u2019 favorite AI tool? ChatGPT",
-    "normalized": "congress' favorite ai tool? chatgpt",
-    "content_hash": "3a56cf2092f9ef1fd909d37da1f9f716"
-  },
-  {
-    "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework",
-    "normalized": "nvidia ai releases molt: a pytorch-native agentic reinforcement learning framework",
-    "content_hash": "5e2a8a4b5e7d5c5f3c0793f393419eb1"
-  },
-  {
-    "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
-    "normalized": "influencers draw backlash for attending openai's first luxury trip",
-    "content_hash": "a5a687e74748a02c1039840f679e96c3"
-  },
-  {
-    "title": "Base Power raises another $1B to save the grid using backyard batteries",
-    "normalized": "base power raises another $1b to save the grid using backyard batteries",
-    "content_hash": "52513cab44087a3a7da3026942141b8c"
-  },
-  {
-    "title": "How OpenAI built a realtime system for responsive voice AI in six months",
-    "normalized": "how openai built a realtime system for responsive voice ai in six months",
-    "content_hash": "5905b384566c0e08e1cc75e911ad276c"
-  },
-  {
-    "title": "OpenAI rebuilt ChatGPT's voice stack so GPT-Live can listen while speaking",
-    "normalized": "openai rebuilt chatgpt's voice stack so gpt-live can listen while speaking",
-    "content_hash": "ec896622b20560591ca87fbcef84efd4"
-  },
-  {
-    "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings",
-    "normalized": "big tech's anthropic and openai stakes are distorting the corporate earnings",
-    "content_hash": "fe4ab9acc1b9540bc883fa152e1ed71b"
-  },
-  {
-    "title": "When Cloud AI Escapes: OpenAI and Anthropic Models Breach Live Networks",
-    "normalized": "when cloud ai escapes: openai and anthropic models breach live networks",
-    "content_hash": "9526257830ffc5b12d90bfda92e9187e"
-  },
-  {
-    "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
-    "normalized": "who's legally to blame for anthropic and openai's autonomous ai hacks?",
-    "content_hash": "95ceccd65d35140ba3653fd70db3d48b"
-  },
-  {
-    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
-    "normalized": "after killer quarter, palantir ceo alex karp calls ai industry 'marxist'",
-    "content_hash": "af4e51c24f7868bd51e4d1767026ccd2"
-  },
-  {
-    "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-    "normalized": "snap ceo sidesteps specs preorder questions on q2 earnings call",
-    "content_hash": "fdb65d96ec9af313eb9a7c446d3ed8ce"
-  },
-  {
-    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "normalized": "aws is helping vibe-coding startup superblocks, and the implications are big",
-    "content_hash": "1e67ae46fba08ea8f255bbc92279617c"
-  },
-  {
-    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-    "normalized": "design arena creators raise $7.9 million to bring taste to ai models",
-    "content_hash": "4739157754fa2cb1fe6019de6ca446b0"
-  },
-  {
-    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-    "normalized": "apple finally fixed siri. so why does it feel anticlimactic?",
-    "content_hash": "b1ffac9b399daa794d679a98bf4d292a"
-  },
-  {
-    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-    "normalized": "google password manager attacks could let malware hijack passkey-protected accounts",
-    "content_hash": "c3d27f9ec2068031a79d8d9faea4d751"
-  },
-  {
-    "title": "The studio behind Pok\u00e9mon struggles to find its voice in Beast of Reincarnation",
-    "normalized": "the studio behind pok\u00e9mon struggles to find its voice in beast of reincarnation",
-    "content_hash": "58b04281d3409b1512b4855fdb3ade52"
-  },
-  {
-    "title": "Your Fitbit data can now connect directly to Apple Health",
-    "normalized": "your fitbit data can now connect directly to apple health",
-    "content_hash": "43db143c0d50dd68f496b6ff9b91874a"
-  },
-  {
-    "title": "Europe\u2019s AI labeling and transparency rules are now in effect",
-    "normalized": "europe's ai labeling and transparency rules are now in effect",
-    "content_hash": "a3a789884c5a096391df3a27a849f55d"
-  },
-  {
-    "title": "Microsoft is bringing Xbox 360 games to PC",
-    "normalized": "microsoft is bringing xbox 360 games to pc",
-    "content_hash": "1680f25cf4a13aaa8a8692e5f3dcd843"
-  },
-  {
-    "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
-    "normalized": "spider-man and the odyssey are splitting up imax screens after a record-breaking weekend",
-    "content_hash": "a4cc01ec2cfbf487a080c03a94d1742c"
-  },
-  {
-    "title": "Letter from 15 Attorneys General to OpenAI [pdf]",
-    "normalized": "letter from 15 attorneys general to openai [pdf]",
-    "content_hash": "360704edca7a6ababb69ebbbfc7f3ecc"
-  },
-  {
-    "title": "Agent needs a computer, not a container \u2013 introducing Cloudflare/computer",
-    "normalized": "agent needs a computer, not a container - introducing cloudflare/computer",
-    "content_hash": "89cf992f578b7d5b9adf924cfd169f88"
-  },
-  {
-    "title": "Google dev kit spurs first-ever agent-on-agent violence",
-    "normalized": "google dev kit spurs first-ever agent-on-agent violence",
-    "content_hash": "0626ce3bea748e2d59e5e36d4a36ea36"
-  },
-  {
     "title": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion",
     "normalized": "openai drags apple's lawsuit into the court of public opinion",
     "content_hash": "c1d4b86c40b0ca8a575aeeaeae55e4e5"
@@ -2498,5 +2373,130 @@
     "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
     "normalized": "dynamic governance of multi-llm agent systems for collaborative conversational outcomes",
     "content_hash": "c5b51c7780d8a17fdd60ac8d5351bc72"
+  },
+  {
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
+    "content_hash": "da0fb803a3702f3abd12611d409173e2"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "normalized": "claude code costs up to $200 a month. goose does the same thing for free.",
+    "content_hash": "65248b0266dc1f08a04a2e243e5e13e8"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "normalized": "salesforce rolls out new slackbot ai agent as it battles microsoft and google in workplace ai",
+    "content_hash": "37f7465d43119228a5340488494c5cd0"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
+    "normalized": "anthropic launches cowork, a claude desktop agent that works in your files -- no coding required",
+    "content_hash": "9b4ec2bb172ef63f1cfc32c6f3255ae3"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "normalized": "listen labs raises $69m after viral billboard hiring stunt to scale ai customer interviews",
+    "content_hash": "b38a14630ce16f4da4c5b72d4109ed41"
+  },
+  {
+    "title": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "normalized": "openai introduces 'ultrafast,' a new mode that makes gpt-5.6 sol work at 14x the speed",
+    "content_hash": "623866356fd88b3da1057a8947114c0b"
+  },
+  {
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "normalized": "anthropic set ai agents loose on the same task. they started a turf war.",
+    "content_hash": "7a4cd3abb31967597960dd2222ff999f"
+  },
+  {
+    "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "normalized": "nvidia's new $500b plan is risky but brilliant, especially for aging gpus",
+    "content_hash": "3626a7c48c1ee335e42189b7dab3ce83"
+  },
+  {
+    "title": "Show HN: Taurus Agents, my take on multi-agent hierarchies",
+    "normalized": "show hn: taurus agents, my take on multi-agent hierarchies",
+    "content_hash": "d135d7ec7f32fb44b38d3b6d6cb63093"
+  },
+  {
+    "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+    "normalized": "investors sue selena gomez alleging fraud tied to her mental health startup",
+    "content_hash": "9bed76211e6815753820873c4cc00665"
+  },
+  {
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "normalized": "ibm partners with openai to bolster enterprise ai push",
+    "content_hash": "ab958439818674aca959fea0c5f28fe2"
+  },
+  {
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "normalized": "openai hires new cro as executive shake-up continues",
+    "content_hash": "d939fb8b21eba5caa27e77c79ca4e599"
+  },
+  {
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "normalized": "microsoft kills off unsuccessful ai features while merging its separate copilot apps",
+    "content_hash": "326ec21cb180f85f7cce1960675b7ec6"
+  },
+  {
+    "title": "The Safety Reckoning Inside OpenAI",
+    "normalized": "the safety reckoning inside openai",
+    "content_hash": "27fcd5a3db9c5ad37360f1e13d0b9634"
+  },
+  {
+    "title": "OpenAI is losing its second executive this week",
+    "normalized": "openai is losing its second executive this week",
+    "content_hash": "a89d9a2be674eddb0cdad15bce3c32ed"
+  },
+  {
+    "title": "OpenAI launches Computer History to track macOS activity as memory timeline",
+    "normalized": "openai launches computer history to track macos activity as memory timeline",
+    "content_hash": "95f905febb3ff2f44a7d9f65a7ec53d5"
+  },
+  {
+    "title": "Agents on Rails: The LLM Benchmark Project",
+    "normalized": "agents on rails: the llm benchmark project",
+    "content_hash": "2dc84a1cbc72d0038c3bf5e7ce72e13e"
+  },
+  {
+    "title": "New model BDH-CQ costs $0.007 per task 11x less than OpenAI Luna even w 80% off",
+    "normalized": "new model bdh-cq costs $0.007 per task 11x less than openai luna even w 80% off",
+    "content_hash": "9883d6ea6c6494ed41e73da8bc06c162"
+  },
+  {
+    "title": "The builder\u2019s guide to GPT\u20115.6",
+    "normalized": "the builder's guide to gpt\u20115.6",
+    "content_hash": "01563cd4d80bd92a14d33a5e4cd6ca95"
+  },
+  {
+    "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+    "normalized": "google ai just released gemini 3.7 flash: a coding and agent model at $0.75/1m input tokens",
+    "content_hash": "b2f0dd8bc9e71b36e622ac51d2977180"
+  },
+  {
+    "title": "How to Utilize OKF Efficiently to Enable Knowledge Exchange Among LLMs",
+    "normalized": "how to utilize okf efficiently to enable knowledge exchange among llms",
+    "content_hash": "acde0255002c783692f6da5bca285a95"
+  },
+  {
+    "title": "Cerebras Runs OpenAI\u2019s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier",
+    "normalized": "cerebras runs openai's gpt-5.6 sol at 750 tokens per second in new ultrafast tier",
+    "content_hash": "4e02bf19ce29bdffaba8e0326e4c9353"
+  },
+  {
+    "title": "Flock says its new tool will help identify police abuse, but hasn\u2019t explained how it works",
+    "normalized": "flock says its new tool will help identify police abuse, but hasn't explained how it works",
+    "content_hash": "7558684d042fc155f2f17211d2768210"
+  },
+  {
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "normalized": "writer introduces new ai model and upgraded harness to contain token costs",
+    "content_hash": "024c9585fd2cdc851d427e285ccc3bae"
+  },
+  {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "normalized": "databricks wanted to raise $1b, investors wanted $15b. it settled on $5b at a $190b valuation.",
+    "content_hash": "3ec89d4a4d3302c1ec3e685b6317053e"
   }
 ]
