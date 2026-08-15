@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
-    "normalized": "nvidia doesn't mess around: a week after open ai industry group formed, it's already showing progress",
-    "content_hash": "552af558f4efedf0088d39d6a50cd619"
-  },
-  {
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "normalized": "anthropic signs $10b deal with ai cloud startup volta",
-    "content_hash": "b478d4ea0b541445f845bdcd5dbb86bf"
-  },
-  {
-    "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-    "normalized": "ok, well, rogue ai agents are hacking again",
-    "content_hash": "89ecaaa25b4f110dc8a57fbf60870fd1"
-  },
-  {
-    "title": "Launch HN: EdotEnv (YC S26) \u2013 Quant Trading RL Envs to Teach LLMs Research",
-    "normalized": "launch hn: edotenv (yc s26) - quant trading rl envs to teach llms research",
-    "content_hash": "e87e950f514d19f4fdace61843f1b1d8"
-  },
-  {
-    "title": "Show HN: A faster coding agent than Codex and Claude Code",
-    "normalized": "show hn: a faster coding agent than codex and claude code",
-    "content_hash": "08faa9fbff2bc3fae420944f83d378bf"
-  },
-  {
-    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-    "normalized": "spacex doubles revenue on anthropic and google compute deals, starlink growth",
-    "content_hash": "86f3d960d95dadac5075ebcc98721397"
-  },
-  {
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "normalized": "apple says more ex-employees may have taken confidential data to openai",
-    "content_hash": "1f471e06e12fbce8d2c50c5a1ae0b18e"
-  },
-  {
-    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-    "normalized": "the white house is keeping its ai cybersecurity framework secret",
-    "content_hash": "d859952eda449fe1a1bfa6bd32ca10ac"
-  },
-  {
-    "title": "How an OpenAI influencer trip backfired",
-    "normalized": "how an openai influencer trip backfired",
-    "content_hash": "527a20f739786328a2b2f1548a937eed"
-  },
-  {
-    "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
-    "normalized": "'not healthy' llm use is more common than you think",
-    "content_hash": "87ea45a5ddb2d91d781e1d5fb9265a5f"
-  },
-  {
-    "title": "Nobody Was Watching: Anthropic, OpenAI, and Open Models",
-    "normalized": "nobody was watching: anthropic, openai, and open models",
-    "content_hash": "e3e4718e1d1471795ebc49d86387353e"
-  },
-  {
-    "title": "Ask HN: Dear Anthropic, can we please have thought traces back?",
-    "normalized": "ask hn: dear anthropic, can we please have thought traces back?",
-    "content_hash": "6ba445fca328962506897b49f89cdd63"
-  },
-  {
-    "title": "Convex Raises $57M Series B to Build the Backend for Agent-Written Software",
-    "normalized": "convex raises $57m series b to build the backend for agent-written software",
-    "content_hash": "381b026d3393f3e8b78fc4440183494f"
-  },
-  {
-    "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-    "normalized": "how to get the best hotel deals for techcrunch disrupt 2026",
-    "content_hash": "98f87cf5850badac751c608fa069f2cc"
-  },
-  {
-    "title": "Android app developers may be unwittingly sharing their users\u2019 location data with advertisers",
-    "normalized": "android app developers may be unwittingly sharing their users' location data with advertisers",
-    "content_hash": "865be4910345a8bdb10dd36f3d7c804f"
-  },
-  {
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "normalized": "open-weight ai models are catching up to the frontier. the safety gap remains.",
-    "content_hash": "e4c8ec1bf629004b2fa55f291152c75b"
-  },
-  {
-    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "normalized": "meet wrinkles, an app that uncovers the hidden stories of the places around you",
-    "content_hash": "ef359b2de37754b9ac18974736d1b9a8"
-  },
-  {
-    "title": "Waymo opens up robotaxi service in Dallas to everyone",
-    "normalized": "waymo opens up robotaxi service in dallas to everyone",
-    "content_hash": "900d15b99c30ef61835eda318066b3d7"
-  },
-  {
-    "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
-    "normalized": "hackers steal over $130m by exploiting bug in offline hardware wallets",
-    "content_hash": "a056538b095ae9ce383df41442a8bbf7"
-  },
-  {
-    "title": "Spotify expands AI remix and covers project with Merlin partnership",
-    "normalized": "spotify expands ai remix and covers project with merlin partnership",
-    "content_hash": "cd8e993eb1ef2d93c2d11df2095ab56e"
-  },
-  {
-    "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
-    "normalized": "walmart completes its acquisition of tv advertising company vibe.co",
-    "content_hash": "36a950f2a771335ab60f168bb305927d"
-  },
-  {
-    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "normalized": "elon musk spends half his time talking robots and ai on tesla earnings calls",
-    "content_hash": "3cd48e820ee7afd8be3fa0aafabc8044"
-  },
-  {
-    "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-    "normalized": "host a side event during techcrunch founder summit week in boston",
-    "content_hash": "746c57ed2ea2605875f32235b4a9c8e6"
-  },
-  {
-    "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
-    "normalized": "fake adobe and zoom updates install screenconnect for persistent remote access",
-    "content_hash": "03e70216733a8124ec27f063bd21bc4a"
-  },
-  {
-    "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-    "normalized": "openai says apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-    "content_hash": "67a7d3d6b8fce6d79ff76ca4c2c2b706"
-  },
-  {
     "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
     "normalized": "indian ev startup river raises $120m series c to scale production, launch more models",
     "content_hash": "29b40d259f867087063e2b10e7cdf2e4"
@@ -2498,5 +2373,130 @@
     "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
     "normalized": "here's why ai agents lie and cheat to reach their goals",
     "content_hash": "26b5f665f6c8b9a2a9e0837a39a6abda"
+  },
+  {
+    "title": "Show HN: Embassia \u2013 LLM Search Console \u2013 Web crawlers talk to your site's agent",
+    "normalized": "show hn: embassia - llm search console - web crawlers talk to your site's agent",
+    "content_hash": "f915c56c719a32bc4243815ad8f86900"
+  },
+  {
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "normalized": "google will now allow users to remove visible watermark from its ai generations",
+    "content_hash": "cfb5ff08d3db577e3512a61c0ea592c5"
+  },
+  {
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "normalized": "kog is going deeper to squeeze more inference out of gpus",
+    "content_hash": "3a9518a7d3b41c5a44c8d64f29b53a66"
+  },
+  {
+    "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+    "normalized": "the x-files creator chris carter wanted to make a more horrific movie",
+    "content_hash": "5054380ed8c89436f978b149b9771661"
+  },
+  {
+    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "normalized": "you can now turn off google gemini's visible watermarks",
+    "content_hash": "7a61ff7249ddded91577659cafaea3ec"
+  },
+  {
+    "title": "The MSI Claw EX is the most important PC handheld since Steam Deck \u2014 I still wouldn\u2019t buy one",
+    "normalized": "the msi claw ex is the most important pc handheld since steam deck -- i still wouldn't buy one",
+    "content_hash": "d86a41af5ff72f3e8ae443c9c3fa6da4"
+  },
+  {
+    "title": "Show HN: Captain, AI Travel Agent",
+    "normalized": "show hn: captain, ai travel agent",
+    "content_hash": "a6fb6067b73a68b0b32821d765350354"
+  },
+  {
+    "title": "Show HN: Agentic Ship \u2013 open-source Lovable alternative that runs on your agent",
+    "normalized": "show hn: agentic ship - open-source lovable alternative that runs on your agent",
+    "content_hash": "da699bb21e12b7d1e84adf8544609443"
+  },
+  {
+    "title": "Self-driving trucks are officially testing on California highways",
+    "normalized": "self-driving trucks are officially testing on california highways",
+    "content_hash": "08e1d8eefe725dec449da969ce24b5e0"
+  },
+  {
+    "title": "Thrive\u2019s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+    "normalized": "thrive's joshua kushner chides silicon valley vcs over ai euphoria",
+    "content_hash": "1e15a28110e476a975eaf770bb933671"
+  },
+  {
+    "title": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
+    "normalized": "does mark zuckerberg really believe ai is 'for everyone'?",
+    "content_hash": "3721b399b04d4a39fd9788ded45fbdf8"
+  },
+  {
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "normalized": "hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "content_hash": "2ddc86ea5d0c8c7ecbf0474fb588e6d3"
+  },
+  {
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "normalized": "openai and anthropic in price war as chinese ai rivals gain ground",
+    "content_hash": "77f16eea581d95d08566d52dcdcadd3f"
+  },
+  {
+    "title": "Samsung has new Galaxy headphones in the works",
+    "normalized": "samsung has new galaxy headphones in the works",
+    "content_hash": "2abcf85c9dd91fb1a7e7758350790bd6"
+  },
+  {
+    "title": "Lamborghini\u2019s flagship Revuelto levels up with SV trim",
+    "normalized": "lamborghini's flagship revuelto levels up with sv trim",
+    "content_hash": "4a0844a734cdbc9181dfcd1c8676a819"
+  },
+  {
+    "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+    "normalized": "google's best new camera feature is only for the pixel 11 series",
+    "content_hash": "3fa6174b27d7a93355cd009b3a687506"
+  },
+  {
+    "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
+    "normalized": "2025 goty clair obscur: expedition 33 is down to $33",
+    "content_hash": "f5230db147574c4b7e699f227bfdf945"
+  },
+  {
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "normalized": "google is making private ai practical with homomorphic encryption",
+    "content_hash": "b6945d93fb021d14fd3f1585530d2d6c"
+  },
+  {
+    "title": "Baking a Model: A Metaphor for LLM Training",
+    "normalized": "baking a model: a metaphor for llm training",
+    "content_hash": "58af56d5e7a32873c236a7791157c14d"
+  },
+  {
+    "title": "Flownie \u2013 Open and Visual Data Workflow Platform with AI Agent Assistance",
+    "normalized": "flownie - open and visual data workflow platform with ai agent assistance",
+    "content_hash": "41c271716d7406513042a4c07ec9daa5"
+  },
+  {
+    "title": "Talos AI Agent Super Secure",
+    "normalized": "talos ai agent super secure",
+    "content_hash": "35f46a6096963cde2b1dc371ae5353ba"
+  },
+  {
+    "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+    "normalized": "openai talent exodus raises 'huge red flag' ahead of ipo",
+    "content_hash": "276ba502d68207863960ef14bcb64614"
+  },
+  {
+    "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
+    "normalized": "fmr openai exec fidji simo discusses pots battle and plan to cure it with ai",
+    "content_hash": "f891aa63567f75ae16be9177471f9fcb"
+  },
+  {
+    "title": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
+    "normalized": "llm web search benchmarks: more searches beat a better search engine",
+    "content_hash": "4f085f3b6c6565f7426dc181a5a55890"
+  },
+  {
+    "title": "Map: Tracking OpenAI's Leadership Exodus",
+    "normalized": "map: tracking openai's leadership exodus",
+    "content_hash": "33aac4ab078989f63932617b1aabb3c8"
   }
 ]
