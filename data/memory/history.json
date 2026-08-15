@@ -1,130 +1,5 @@
 [
   {
-    "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
-    "normalized": "indian ev startup river raises $120m series c to scale production, launch more models",
-    "content_hash": "29b40d259f867087063e2b10e7cdf2e4"
-  },
-  {
-    "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
-    "normalized": "robinhood to list a fund that lets anyone back y combinator startups",
-    "content_hash": "7e308529f248f4713355f062551ce28e"
-  },
-  {
-    "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-    "normalized": "claude mythos 5 tried to backdoor a real open-source project in testing, then vouched for itself",
-    "content_hash": "67cf417f48e5937ad6977751cdb50d26"
-  },
-  {
-    "title": "Google Assistant will disappear from your phone next month",
-    "normalized": "google assistant will disappear from your phone next month",
-    "content_hash": "9fc584e92c59fa9e03e8ba13b0a3c42d"
-  },
-  {
-    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-    "normalized": "macpaw taps liquid ai to offer on-device inference to devs building for its app store",
-    "content_hash": "7f072452109088ae7e03b7b9f577dff4"
-  },
-  {
-    "title": "Saudi Aramco backs India\u2019s Mitti Labs to make Asia\u2019s rice farming more water-resilient",
-    "normalized": "saudi aramco backs india's mitti labs to make asia's rice farming more water-resilient",
-    "content_hash": "0da75de8a10d31a3e4a0fa7563d54b84"
-  },
-  {
-    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-    "normalized": "ai makes weather prediction better. can windborne make it lucrative?",
-    "content_hash": "0305249d487e2cd6e4b879f2da5ba34f"
-  },
-  {
-    "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-    "normalized": "kali365 weaponizes microsoft authentication against us companies: new enterprise risk",
-    "content_hash": "e7df3123fda2e83b0252b78f510a2462"
-  },
-  {
-    "title": "OpenAI and Anthropic models went on a hacking spree when tested by the UK's AI research institute",
-    "normalized": "openai and anthropic models went on a hacking spree when tested by the uk's ai research institute",
-    "content_hash": "f5480232d0e82d97923e4686d864c234"
-  },
-  {
-    "title": "Trump\u2019s AI testing plan is limited and vague",
-    "normalized": "trump's ai testing plan is limited and vague",
-    "content_hash": "58119afbca4f9852dafbbd8a620267b0"
-  },
-  {
-    "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
-    "normalized": "amd's data center business is booming while gaming takes a backseat",
-    "content_hash": "9b647a11194cfabf9899c932afcbb212"
-  },
-  {
-    "title": "SpaceX made more revenue as an AI company than a space company",
-    "normalized": "spacex made more revenue as an ai company than a space company",
-    "content_hash": "1e95e6ddb28b2f44c8d1fa450219047d"
-  },
-  {
-    "title": "EA is now a private company",
-    "normalized": "ea is now a private company",
-    "content_hash": "f1148dd24867b5478f379e28468d9b9b"
-  },
-  {
-    "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
-    "normalized": "iowa et al asks openai to keep their bots sandboxed",
-    "content_hash": "7be6eda1bd0604cc081a9022cb71f9da"
-  },
-  {
-    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-    "normalized": "zero-mem: zero-token memory operations for llm agents",
-    "content_hash": "3cc34a4cc8aa2cdc8251340404eb4e7c"
-  },
-  {
-    "title": "Eight Myths on Software Engineering and GenAI",
-    "normalized": "eight myths on software engineering and genai",
-    "content_hash": "0d9fe59365b7ba126c1ab5efeed72f2c"
-  },
-  {
-    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-    "normalized": "empowering india's next generation of innovators with atl saathi",
-    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
-  },
-  {
-    "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
-    "normalized": "isee: interactive semantic enrichment for database fields",
-    "content_hash": "33319d157f33f37d087215f588f2c06f"
-  },
-  {
-    "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
-    "normalized": "hyperagent: planning and acting over tool-schema hypergraphs for tool-use llm agents",
-    "content_hash": "aaa5ab4a79dc157d6eac1eec184d65a8"
-  },
-  {
-    "title": "VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space",
-    "normalized": "veritrace: human-like temporal exploration completes agentic action space",
-    "content_hash": "fdadcf37e7abc89cac27964e2e096bf8"
-  },
-  {
-    "title": "UrbanAgent: A Tool-Augmented Agent for Cross-System Urban Tasks",
-    "normalized": "urbanagent: a tool-augmented agent for cross-system urban tasks",
-    "content_hash": "d4aadcfb616172cba5212eef2a0a2399"
-  },
-  {
-    "title": "CastFSR: A Fast--Slow--Reflect Agentic Reasoning Framework for Context-Aware Time Series Forecasting",
-    "normalized": "castfsr: a fast--slow--reflect agentic reasoning framework for context-aware time series forecasting",
-    "content_hash": "adbd0d35480edee65ee7a601011e97f7"
-  },
-  {
-    "title": "TraceCAD: Trace-Guided Repair for Agentic CAD Generation",
-    "normalized": "tracecad: trace-guided repair for agentic cad generation",
-    "content_hash": "d3ea436bb0cf28d4d1922e0bab9ab7eb"
-  },
-  {
-    "title": "Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls",
-    "normalized": "getting the parameters right: a difficulty-graded benchmark and probe-guided training for llm tool calls",
-    "content_hash": "117de4787567f6f009f4dffcc4000d4c"
-  },
-  {
-    "title": "AI Agent Economics: Can Autonomous Economic Behavior Emerge among AI Agents under Minimal External Conditions?",
-    "normalized": "ai agent economics: can autonomous economic behavior emerge among ai agents under minimal external conditions?",
-    "content_hash": "ae88d0d2bdb9b39fb70172c82a4b8749"
-  },
-  {
     "title": "Rogue AI agents created fake online identities in another hacking attempt",
     "normalized": "rogue ai agents created fake online identities in another hacking attempt",
     "content_hash": "a7ef26b0201d588dbc19db627ad6a165"
@@ -2498,5 +2373,130 @@
     "title": "Map: Tracking OpenAI's Leadership Exodus",
     "normalized": "map: tracking openai's leadership exodus",
     "content_hash": "33aac4ab078989f63932617b1aabb3c8"
+  },
+  {
+    "title": "Nvidia Downsizes Plans for $250B Guarantee of OpenAI Data Center",
+    "normalized": "nvidia downsizes plans for $250b guarantee of openai data center",
+    "content_hash": "096859742741af99156272a194c87c09"
+  },
+  {
+    "title": "OpenAI updates its Privacy Policy to include ads",
+    "normalized": "openai updates its privacy policy to include ads",
+    "content_hash": "855c95e3c66f99f8638be6328efbd609"
+  },
+  {
+    "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
+    "normalized": "choosing the right database for ai agents: llm generated sql",
+    "content_hash": "14b65289a6ff3201776e000c5246d1d1"
+  },
+  {
+    "title": "The Commons \u2013 experiments in inherited knowledge and errors between LLM agents",
+    "normalized": "the commons - experiments in inherited knowledge and errors between llm agents",
+    "content_hash": "0fc87bce453bd4c30c39bbf3debe5763"
+  },
+  {
+    "title": "When housing is unaffordable, this artist\u2019s device makes pedaling harder",
+    "normalized": "when housing is unaffordable, this artist's device makes pedaling harder",
+    "content_hash": "8f5479aa9ce8885409dcef7abb72e519"
+  },
+  {
+    "title": "Debian has begun voting on the future of AI/LLM contributions",
+    "normalized": "debian has begun voting on the future of ai/llm contributions",
+    "content_hash": "93d27637438c924d52b67e8e5ad66493"
+  },
+  {
+    "title": "Show HN: Agent-shell \u2013 vendor-neutral chat with AI agents in Emacs",
+    "normalized": "show hn: agent-shell - vendor-neutral chat with ai agents in emacs",
+    "content_hash": "db6d2c6f9138dea26fffa732b15ecf00"
+  },
+  {
+    "title": "OpenAI slows release of Astra model citing cyber capabilities",
+    "normalized": "openai slows release of astra model citing cyber capabilities",
+    "content_hash": "020403cc77a4f9f901bf274e512f77da"
+  },
+  {
+    "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
+    "normalized": "anthropic sees ai risks rising, no plan to release stronger \"model 2\"",
+    "content_hash": "c99e8ba3ead8d5a262db76ba468cfd83"
+  },
+  {
+    "title": "OpenAI rolling out ads for Europe later this month",
+    "normalized": "openai rolling out ads for europe later this month",
+    "content_hash": "bf89bbade137cb3e01937844440bffc3"
+  },
+  {
+    "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
+    "normalized": "openai upheaval mounts as sam altman readies ipo push",
+    "content_hash": "2e7de38a324588f0aaf465d81451fa6c"
+  },
+  {
+    "title": "Ask HN: Could Anthropic's watermark be much simpler than we think?",
+    "normalized": "ask hn: could anthropic's watermark be much simpler than we think?",
+    "content_hash": "feb2b247dc05e0cbd3ffd36df4d91f51"
+  },
+  {
+    "title": "Show HN: WMTrace \u2013 See how LLM text watermarks work (Anthropic just adopted one)",
+    "normalized": "show hn: wmtrace - see how llm text watermarks work (anthropic just adopted one)",
+    "content_hash": "5d834e8203f3163a38969599e47c243e"
+  },
+  {
+    "title": "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging",
+    "normalized": "openai ditches recall-style screenshot surveillance for friendly keylogging",
+    "content_hash": "75f48bd941fbe05a8236e2d7c9bfc276"
+  },
+  {
+    "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
+    "normalized": "building agentic workflows with sagemaker ai and bedrock agentcore",
+    "content_hash": "eb080b5745ba03912b0b8742ef1299ee"
+  },
+  {
+    "title": "Waiting at the gates: Gautamnagar\u2019s long struggle for a rail underpass",
+    "normalized": "waiting at the gates: gautamnagar's long struggle for a rail underpass",
+    "content_hash": "efeff4668ee42d0d805cd4050fd56602"
+  },
+  {
+    "title": "OpenAI Tells Investors Enterprise Revenue Has Overtaken Its ChatGPT Consumer Business",
+    "normalized": "openai tells investors enterprise revenue has overtaken its chatgpt consumer business",
+    "content_hash": "ca0511da403166ebcba726ef187ef6d6"
+  },
+  {
+    "title": "Anthropic Explains the Mechanics of Claude\u2019s Text Watermark",
+    "normalized": "anthropic explains the mechanics of claude's text watermark",
+    "content_hash": "eb8b03885b0259d3841c8bd17ffda662"
+  },
+  {
+    "title": "LG to Unveil Next-Gen Bipedal Humanoid Robot Built on NVIDIA Isaac GR00T",
+    "normalized": "lg to unveil next-gen bipedal humanoid robot built on nvidia isaac gr00t",
+    "content_hash": "0bd8d5df7fcc93975c0b7ef3065f6964"
+  },
+  {
+    "title": "OpenAI\u2019s Computer History Turns Mac Activity Into ChatGPT Memory",
+    "normalized": "openai's computer history turns mac activity into chatgpt memory",
+    "content_hash": "507b2d7d277ec2f643fd681d9aedb12b"
+  },
+  {
+    "title": "Amazon Quick Arrives Inside Word, Excel, PowerPoint, and Outlook",
+    "normalized": "amazon quick arrives inside word, excel, powerpoint, and outlook",
+    "content_hash": "6ba4f356c7c863306cdec41d0ebc4762"
+  },
+  {
+    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+    "normalized": "talks to sell paypal to stripe and advent are heating up",
+    "content_hash": "e5ff860fcbb174a584bcc4cee34da302"
+  },
+  {
+    "title": "What we know about the alleged Iranian hacks on US water utilities",
+    "normalized": "what we know about the alleged iranian hacks on us water utilities",
+    "content_hash": "6ac994890ffb6c4bbd68c71f34961bf8"
+  },
+  {
+    "title": "Read-it-later app Pocket shut down \u2014 here are the best alternatives",
+    "normalized": "read-it-later app pocket shut down -- here are the best alternatives",
+    "content_hash": "bf4a435782bfb08876fbe7153e9acc74"
+  },
+  {
+    "title": "Unforgetful is a new reminders app for people who can\u2019t stop hitting snooze",
+    "normalized": "unforgetful is a new reminders app for people who can't stop hitting snooze",
+    "content_hash": "c358290e7d60d532deb4e440fe21ce97"
   }
 ]
