@@ -1,130 +1,5 @@
 [
   {
-    "title": "Rogue AI agents created fake online identities in another hacking attempt",
-    "normalized": "rogue ai agents created fake online identities in another hacking attempt",
-    "content_hash": "a7ef26b0201d588dbc19db627ad6a165"
-  },
-  {
-    "title": "Why Lightspeed is going all-in on creator-led venture capital",
-    "normalized": "why lightspeed is going all-in on creator-led venture capital",
-    "content_hash": "b61bea860347c3db812f40a47672137d"
-  },
-  {
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "normalized": "jeff dean and other top ai researchers are leaving google to launch their own startup",
-    "content_hash": "fdc0c27b08c0745b62412922733cca0d"
-  },
-  {
-    "title": "Google\u2019s Top AI Brains Are Leaving to Launch Discovery Loop",
-    "normalized": "google's top ai brains are leaving to launch discovery loop",
-    "content_hash": "9ef2b2750d08253eb120e56b3668dbc0"
-  },
-  {
-    "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
-    "normalized": "openai, anthropic ai agents implicated in new security breaches",
-    "content_hash": "6d39084a6fd2ae1f59780a07522bc03f"
-  },
-  {
-    "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
-    "normalized": "meta debuts first ai coding agent to take on anthropic and openai",
-    "content_hash": "ad6c32e6fe6e875abe9c2383b143b55e"
-  },
-  {
-    "title": "Microsoft makes OpenAI GPT-5.6 Sol default in GitHub Copilot for staff",
-    "normalized": "microsoft makes openai gpt-5.6 sol default in github copilot for staff",
-    "content_hash": "135a814aa2c4332b066546d9866d1d3f"
-  },
-  {
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "normalized": "meta launches muse code, an ai agent for large code bases",
-    "content_hash": "4afb9e7c86c2bf18998d0b9376cb35ab"
-  },
-  {
-    "title": "Trump\u2019s DOJ gains oversight of OpenAI\u2019s green-card employee sponsorships",
-    "normalized": "trump's doj gains oversight of openai's green-card employee sponsorships",
-    "content_hash": "c022aeffc99efd63f22b3e6925b03d15"
-  },
-  {
-    "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
-    "normalized": "klaviyo acquires elias torres' agency in full-circle reunion for tech founders",
-    "content_hash": "6041b0460e58f9d4eb2fe017d95d7640"
-  },
-  {
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "normalized": "shopify says ai search is driving more traffic and sales, not replacing google",
-    "content_hash": "d573761c643c75644e6729c139bee6a0"
-  },
-  {
-    "title": "Hark previews its browser use agent for completing tasks",
-    "normalized": "hark previews its browser use agent for completing tasks",
-    "content_hash": "f08482500bc95230220a83c7823918e9"
-  },
-  {
-    "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
-    "normalized": "trump epa wrongly canceled $20b in climate funds, appeals court rules",
-    "content_hash": "36f71e783cf750d2278758a5de9d1128"
-  },
-  {
-    "title": "OpenAI Didn\u2019t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-    "normalized": "openai didn't notice its ai agents using a message board to plan their hacking spree",
-    "content_hash": "49a7002fdc7be31ea29adacb96e6536d"
-  },
-  {
-    "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-    "normalized": "openai disrupts poipet scam network using chatgpt across multiple fraud schemes",
-    "content_hash": "e55955f3b8f692b322c04beef606058a"
-  },
-  {
-    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "normalized": "poison claude sells discounted claude access while its operator sees every customer prompt",
-    "content_hash": "5f0735791e5dde9d688d37b876396af0"
-  },
-  {
-    "title": "Google just announced a major shakeup of its top AI leadership",
-    "normalized": "google just announced a major shakeup of its top ai leadership",
-    "content_hash": "8babdd9e9601649356e2d19d43bf4a36"
-  },
-  {
-    "title": "Reddit is introducing a new moderator: AI",
-    "normalized": "reddit is introducing a new moderator: ai",
-    "content_hash": "2bace328bc2405fd36ee5b41c4ffb726"
-  },
-  {
-    "title": "OpenAI agents rebuilt a secret message board after the company shut it down",
-    "normalized": "openai agents rebuilt a secret message board after the company shut it down",
-    "content_hash": "e5219683587cea36640d9497bf89f6a4"
-  },
-  {
-    "title": "Anthropic Confirms It Is Building an In-House Silicon Team for Claude",
-    "normalized": "anthropic confirms it is building an in-house silicon team for claude",
-    "content_hash": "ef430f193969fbbdf96a93c2e3e5d6ef"
-  },
-  {
-    "title": "Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO",
-    "normalized": "travis kalanick's robotics startup atoms taps former uber finance chief as cfo",
-    "content_hash": "7e4ce57d4c13f8f5f4a0ee7e284aadac"
-  },
-  {
-    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-    "normalized": "moove raises $250m to become the backbone of the robotaxi industry",
-    "content_hash": "75d65046f50d13afc3a0c0759dd5a75b"
-  },
-  {
-    "title": "How Lightspeed found its newest hire\u00a0\u2026 via Instagram DM",
-    "normalized": "how lightspeed found its newest hire ... via instagram dm",
-    "content_hash": "0e348154a8059e921d9318ad2d4db604"
-  },
-  {
-    "title": "Reddit aims to make \u2018karma\u2019 less important for first-time posters with shift to AI moderation tools",
-    "normalized": "reddit aims to make 'karma' less important for first-time posters with shift to ai moderation tools",
-    "content_hash": "ce92375cb8239c616c3ecf89aa18dca3"
-  },
-  {
-    "title": "Lucid Motors just delayed its affordable EV. Now what?",
-    "normalized": "lucid motors just delayed its affordable ev. now what?",
-    "content_hash": "ab99f114502975678ab6fedcb8ee5a06"
-  },
-  {
     "title": "OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019",
     "normalized": "openai says apple's trade secrets lawsuit is 'rotten to its core'",
     "content_hash": "498a5c32d522148d8b0652c701a11d34"
@@ -2498,5 +2373,130 @@
     "title": "Unforgetful is a new reminders app for people who can\u2019t stop hitting snooze",
     "normalized": "unforgetful is a new reminders app for people who can't stop hitting snooze",
     "content_hash": "c358290e7d60d532deb4e440fe21ce97"
+  },
+  {
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "normalized": "spacex officially closes its cursor acquisition",
+    "content_hash": "5414da71fe1d109a580e31ad3a590b45"
+  },
+  {
+    "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
+    "normalized": "anthropic shares more details about how claude's new watermarks will work",
+    "content_hash": "b057d9b1261eea4d4dbdd96c7372f607"
+  },
+  {
+    "title": "Every fusion startup that has raised over $100M",
+    "normalized": "every fusion startup that has raised over $100m",
+    "content_hash": "e5dd9e8bd47df593fc83850d758c9050"
+  },
+  {
+    "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
+    "normalized": "sentinel scan: an authorized llm red-team audit, run by an ai agent",
+    "content_hash": "db6f841e4226121d69e1c8376fd9d83b"
+  },
+  {
+    "title": "Kimi Work attaches raw agent sessions to feedback reports",
+    "normalized": "kimi work attaches raw agent sessions to feedback reports",
+    "content_hash": "4d34a5639cd2e6503225500091da9122"
+  },
+  {
+    "title": "Show HN: Jovethra \u2013 prepaid OpenAI-compatible API with hard usage limits",
+    "normalized": "show hn: jovethra - prepaid openai-compatible api with hard usage limits",
+    "content_hash": "0b83cd252eae875b8cdbdaae824f11a0"
+  },
+  {
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "normalized": "woman claims her stepfather used grok to transform childhood photo into explicit imagery",
+    "content_hash": "619e4a31beabc7a9ba932ffd33ac05e0"
+  },
+  {
+    "title": "How to tell if your AI platforms\u2019 accounts have been hacked",
+    "normalized": "how to tell if your ai platforms' accounts have been hacked",
+    "content_hash": "3c988d5a3f39c652f2bcac0eed58f97a"
+  },
+  {
+    "title": "Have a laugh at AI\u2019s expense by roleplaying as a chatbot",
+    "normalized": "have a laugh at ai's expense by roleplaying as a chatbot",
+    "content_hash": "9088869307bf14ef509f2422e2aa0425"
+  },
+  {
+    "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
+    "normalized": "don't overlook elektron's budget electronic music instruments",
+    "content_hash": "0ed54cc8746216858496cb27a43846f7"
+  },
+  {
+    "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+    "normalized": "star wars: ahsoka season 2 and starfighter get teased at d23",
+    "content_hash": "e4a87a549b4b14118ba961deea306053"
+  },
+  {
+    "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+    "normalized": "disney d23 2026: everything announced for star wars, marvel, and more",
+    "content_hash": "7e4d24adf5bf5fda7703f14485d2674f"
+  },
+  {
+    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+    "normalized": "voltair (yc w26) is hiring a test flight engineer",
+    "content_hash": "161ef5f4f0dfe0d5a2349ec5b6bdf424"
+  },
+  {
+    "title": "Anthropic shares details about how Claude's new watermarks will work",
+    "normalized": "anthropic shares details about how claude's new watermarks will work",
+    "content_hash": "6351ff026036f560cd6e694b174e3fd6"
+  },
+  {
+    "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
+    "normalized": "temporalstore: a disruptive open-source engine managing your llm memory",
+    "content_hash": "27e623b6e6d5bd43f5a78bedf86fc548"
+  },
+  {
+    "title": "Job titles of the future: Space travel agent",
+    "normalized": "job titles of the future: space travel agent",
+    "content_hash": "a868a5957e979fd3dd6565e2d24b6dce"
+  },
+  {
+    "title": "Show HN: Bento Term \u2013 native tmux client with agent states and voice input",
+    "normalized": "show hn: bento term - native tmux client with agent states and voice input",
+    "content_hash": "106e2446adf2b589efa2faf8bc734bc1"
+  },
+  {
+    "title": "Show HN: Velorn \u2013 an open-source desktop video editor with MCP agent control",
+    "normalized": "show hn: velorn - an open-source desktop video editor with mcp agent control",
+    "content_hash": "162a6153f54728f6d110d0d6a148e97f"
+  },
+  {
+    "title": "Ask HN: What agent skills are necessary?",
+    "normalized": "ask hn: what agent skills are necessary?",
+    "content_hash": "9232595eccae52ef0fc3e0d467170ac1"
+  },
+  {
+    "title": "Show HN: I built a spatial node canvas to fix LLM context drift",
+    "normalized": "show hn: i built a spatial node canvas to fix llm context drift",
+    "content_hash": "c20a609d645c8a4bd0a8eb86e7b2ef96"
+  },
+  {
+    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+    "normalized": "empowering india's next generation of innovators with atl saathi",
+    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
+  },
+  {
+    "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
+    "normalized": "spacexai releases grok 4.6: a 500k-context frontier model tuned for long-running agents, coding, and knowledge work",
+    "content_hash": "e7026cd694b9a916b67a7a0820c272a4"
+  },
+  {
+    "title": "Anthropic Documents AI Agents That Kill Rivals and Evade Their Monitors",
+    "normalized": "anthropic documents ai agents that kill rivals and evade their monitors",
+    "content_hash": "30e7e8a84d7ae491f550969a4090f387"
+  },
+  {
+    "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+    "normalized": "apple proposes to take a 15% cut of purchases made outside the app store",
+    "content_hash": "7655754e72341cbe560a5be728db8d1f"
+  },
+  {
+    "title": "US courts will start publishing how often the government uses spyware",
+    "normalized": "us courts will start publishing how often the government uses spyware",
+    "content_hash": "bd36597eb9a57cc23526f5f4b484a823"
   }
 ]
