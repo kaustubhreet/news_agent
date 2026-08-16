@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019",
-    "normalized": "openai says apple's trade secrets lawsuit is 'rotten to its core'",
-    "content_hash": "498a5c32d522148d8b0652c701a11d34"
-  },
-  {
-    "title": "An Explainable LLM Agent Layer for Open-World Anomaly Detection in Oil Wells",
-    "normalized": "an explainable llm agent layer for open-world anomaly detection in oil wells",
-    "content_hash": "4a4cb6fbf9dc552ff1976b99f3f81f7c"
-  },
-  {
-    "title": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI",
-    "normalized": "google shifts ai leadership to california in race against anthropic, openai",
-    "content_hash": "e09e6ddc0a8c12baeef5be203e88dc37"
-  },
-  {
-    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "normalized": "ex-spotify employees raise $10m to bring the ai behind its recommendations to e-commerce",
-    "content_hash": "fb7aaf78a9e7f1825c677183407e9edb"
-  },
-  {
-    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "normalized": "exclusive: mirendil inks $100m+ google cloud deal to scale self-improving ai",
-    "content_hash": "4ddc883d551cf8acb3d0ba44fa2f8e2a"
-  },
-  {
-    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-    "normalized": "google maps adds agentic features, including food ordering and hotel bookings",
-    "content_hash": "25eb317688885c3764651741e6d04a4e"
-  },
-  {
-    "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-    "normalized": "aws, google, and vercel agent flaws let attackers trigger tools without running the model",
-    "content_hash": "655267da10ea6ef66695445b91d7863b"
-  },
-  {
-    "title": "The messy politics behind Google\u2019s big AI shakeup",
-    "normalized": "the messy politics behind google's big ai shakeup",
-    "content_hash": "3b49e99d9f01e3a7a0e387f621b57f5c"
-  },
-  {
-    "title": "You can now ask Google Maps\u2019 AI to order food for you",
-    "normalized": "you can now ask google maps' ai to order food for you",
-    "content_hash": "897042cd61bb550924691f4d051ae3ed"
-  },
-  {
-    "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
-    "normalized": "launch hn: hyperprobe (yc s26) - agents that do read-only debugging in prod",
-    "content_hash": "526e7fff320d6a07bf12d95358759533"
-  },
-  {
-    "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-    "normalized": "microsoft's ai sales mostly come from openai, disclosures show",
-    "content_hash": "e35d2605007a66bd8f1d21b66044efe7"
-  },
-  {
-    "title": "AI Amplifies Human Ignorance: Lessons from \"OpenAI Hacks HuggingFace\" Incident [video]",
-    "normalized": "ai amplifies human ignorance: lessons from \"openai hacks huggingface\" incident [video]",
-    "content_hash": "3e602b2b40b7ebfbb2463d0cad08ba66"
-  },
-  {
-    "title": "Anthropic is hiring an AI chip design team",
-    "normalized": "anthropic is hiring an ai chip design team",
-    "content_hash": "b7ac8253b9686ae9a989eb9cf53f117b"
-  },
-  {
-    "title": "OpenAI Didn't Notice Its AI Agents Using Message Board to Plan Hacking Spree",
-    "normalized": "openai didn't notice its ai agents using message board to plan hacking spree",
-    "content_hash": "10f9ed65ccc68bd31a34fffbb2f99dc1"
-  },
-  {
-    "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
-    "normalized": "finprobench: evaluating financial ai agents with role-grounded rubrics derived from professional deliverables",
-    "content_hash": "702a7db5c9b084fbb797afd8d73fb992"
-  },
-  {
-    "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
-    "normalized": "matraix: simulating the world with 8.3 billion persona agents",
-    "content_hash": "52dc48dfcd1d21678be8d280207f337f"
-  },
-  {
-    "title": "Architectural Implications of Agentic AI Workflows",
-    "normalized": "architectural implications of agentic ai workflows",
-    "content_hash": "bb05e1ca8eda360d38be2ceede83af37"
-  },
-  {
-    "title": "Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools",
-    "normalized": "diagnosing tool-selection reasoning in llm agents with canary tools",
-    "content_hash": "0a8a163447278d02313fe875c39a3fbc"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-    "normalized": "google just redesigned the search box for the first time in 25 years -- here's why it matters more than you think.",
-    "content_hash": "6d664fc288d99f6d67b77e4b21334d39"
-  },
-  {
-    "title": "Ford\u2019s new electric truck, \u2018Fathom\u2019, starts at $28,350",
-    "normalized": "ford's new electric truck, 'fathom', starts at $28,350",
-    "content_hash": "642e6953be8623b3c37829aeb9852f89"
-  },
-  {
-    "title": "Omilia raises $67M to scale its customer support platform",
-    "normalized": "omilia raises $67m to scale its customer support platform",
-    "content_hash": "ef41c8dd061e1a7b23209089181f3f44"
-  },
-  {
-    "title": "Meet the eight startups pitching at Startup Battlefield Australia",
-    "normalized": "meet the eight startups pitching at startup battlefield australia",
-    "content_hash": "b0949895573c6d2701eee51d74538b90"
-  },
-  {
-    "title": "Microsoft\u2019s Quantum Chief Doesn\u2019t Care That Scientists Don\u2019t Believe His Results",
-    "normalized": "microsoft's quantum chief doesn't care that scientists don't believe his results",
-    "content_hash": "7951d682349dfa57cdd1aa55ad86e6ad"
-  },
-  {
-    "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
-    "normalized": "ai recommendation poisoning: how \"ask ai\" buttons silently alter llm memory",
-    "content_hash": "359732fd449565379f12a011a9a8f498"
-  },
-  {
-    "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-    "normalized": "over 250 clickfix domains use browser fingerprinting to hide macos malware lures",
-    "content_hash": "72011dce388606ee8c2614901f189bf4"
-  },
-  {
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
     "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
@@ -2498,5 +2373,130 @@
     "title": "US courts will start publishing how often the government uses spyware",
     "normalized": "us courts will start publishing how often the government uses spyware",
     "content_hash": "bd36597eb9a57cc23526f5f4b484a823"
+  },
+  {
+    "title": "Rogue AI aren\u2019t science fiction anymore",
+    "normalized": "rogue ai aren't science fiction anymore",
+    "content_hash": "f49616f912066b09b05b08f2da4cfb9f"
+  },
+  {
+    "title": "Polaroid\u2019s tiny instant camera is $72 and includes a free pack of film",
+    "normalized": "polaroid's tiny instant camera is $72 and includes a free pack of film",
+    "content_hash": "dc3c046d9d8fade92c7b8773562d0835"
+  },
+  {
+    "title": "An AI agent can burn 100\u00d7 the tokens of a chat turn",
+    "normalized": "an ai agent can burn 100\u00d7 the tokens of a chat turn",
+    "content_hash": "c758a5d024b5b55b47bc4fa368813a70"
+  },
+  {
+    "title": "HN: HomeBrain \u2013 Your private local cloud, agent wired into everything",
+    "normalized": "hn: homebrain - your private local cloud, agent wired into everything",
+    "content_hash": "31dbb70af803558346795c11a38f27b1"
+  },
+  {
+    "title": "AI Agent Insurance Products: The New Wave",
+    "normalized": "ai agent insurance products: the new wave",
+    "content_hash": "f0e02f25f1116070aabf63bb31d8a6eb"
+  },
+  {
+    "title": "Tokencompress A sub-2ms Go CLI and MCP sidecar that prunes AI agent tool context",
+    "normalized": "tokencompress a sub-2ms go cli and mcp sidecar that prunes ai agent tool context",
+    "content_hash": "a7fc4c1cfc1b51ec5bbd76254a501910"
+  },
+  {
+    "title": "TrueStar \u2013 AI moderated expert interviews and multi-agent deep research",
+    "normalized": "truestar - ai moderated expert interviews and multi-agent deep research",
+    "content_hash": "d27f7d4b064471615b63bd4693f0bf11"
+  },
+  {
+    "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
+    "normalized": "privibe - llm cli local first+privacy focus+llama.cpp cache branch + qwen3.x",
+    "content_hash": "6569a2231014df35f4189e5505a14dfa"
+  },
+  {
+    "title": "Someone Finally Fixed Installing Apps on a Mac",
+    "normalized": "someone finally fixed installing apps on a mac",
+    "content_hash": "961c2eac80550731d3b8afb980ed8ee2"
+  },
+  {
+    "title": "TerraMow V1000 Review: Show Your Lawn Some Love",
+    "normalized": "terramow v1000 review: show your lawn some love",
+    "content_hash": "ee2eeffc005d9d70725f97efc8950591"
+  },
+  {
+    "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+    "normalized": "the best cat water fountains of 2026: petlibro, petkit, oneisall",
+    "content_hash": "83423bb61288914cb733773cd2016cdd"
+  },
+  {
+    "title": "Puerto Rico Is Rationing Water. It Could\u2019ve Avoided It by Harvesting Rainwater",
+    "normalized": "puerto rico is rationing water. it could've avoided it by harvesting rainwater",
+    "content_hash": "48542b64ed931f90cad651553871fef7"
+  },
+  {
+    "title": "Amazon Can Use Your Twitch Content to Train Its AI\u2014Unless You Opt Out",
+    "normalized": "amazon can use your twitch content to train its ai--unless you opt out",
+    "content_hash": "943164ccd4848309ca961bc18b7b29bc"
+  },
+  {
+    "title": "Google Workspace Promo Codes: 14% Off for August 2026",
+    "normalized": "google workspace promo codes: 14% off for august 2026",
+    "content_hash": "5d327bdca63595a515e8b960ff335a44"
+  },
+  {
+    "title": "Tech Visionary Says the Big AI Labs Don\u2019t Get What People Want",
+    "normalized": "tech visionary says the big ai labs don't get what people want",
+    "content_hash": "7d58447f38e02de17d0acab64afd0451"
+  },
+  {
+    "title": "FTC Strikes Deals to Ignore Unlawful Credit Discrimination",
+    "normalized": "ftc strikes deals to ignore unlawful credit discrimination",
+    "content_hash": "39d1f414e548afa26b15d44189f810ce"
+  },
+  {
+    "title": "These \u2018Masturbation Consultants\u2019 Were Hired to Pleasure Themselves With AI",
+    "normalized": "these 'masturbation consultants' were hired to pleasure themselves with ai",
+    "content_hash": "7bcd807c2b1aa2c4f1e409e668c202e2"
+  },
+  {
+    "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+    "normalized": "attackers exploit sharepoint authentication bypass after public poc release",
+    "content_hash": "6a088f76b9cae9639f67c83d1dab5270"
+  },
+  {
+    "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+    "normalized": "737 chrome vpn extensions caught routing traffic through proxies. check if you have one",
+    "content_hash": "88c31d9962444790972c63b1aa441e40"
+  },
+  {
+    "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+    "normalized": "adobe patches three cvss 10.0 coldfusion and campaign classic flaws",
+    "content_hash": "14bd50177d8a21d28e74668d25a7374b"
+  },
+  {
+    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+    "normalized": "attackers exploit vmware vcenter vulnerability to gain persistent remote access",
+    "content_hash": "8089a814bb906360e9d3627b2f381f64"
+  },
+  {
+    "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+    "normalized": "microsoft patches 398 flaws including a windows driver zero-day under active attack",
+    "content_hash": "b99fab05988c60f9a0e924c29c195278"
+  },
+  {
+    "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+    "normalized": "kimwolf v7 android botnet makes http/2 ddos traffic look like legitimate browsing",
+    "content_hash": "87712bb09242ed5e5985d7222560a4a5"
+  },
+  {
+    "title": "Anthropic is watermarking text generated by Claude to comply with EU law",
+    "normalized": "anthropic is watermarking text generated by claude to comply with eu law",
+    "content_hash": "99e00145a18a51e09775a04d69b48f13"
+  },
+  {
+    "title": "SpaceX has officially acquired AI coding startup Cursor",
+    "normalized": "spacex has officially acquired ai coding startup cursor",
+    "content_hash": "3142bd85cbd011bf965722514ca1a31f"
   }
 ]
