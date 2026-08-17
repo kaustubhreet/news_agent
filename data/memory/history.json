@@ -1,130 +1,5 @@
 [
   {
-    "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-    "normalized": "claude code and gemini cli flaws let a github issue reach ci workflow secrets",
-    "content_hash": "112e6dc65003b7b2038937702b5ed56a"
-  },
-  {
-    "title": "Investing in multi-agent AI safety research",
-    "normalized": "investing in multi-agent ai safety research",
-    "content_hash": "f15755133eca743d3794b7838c5bb1fa"
-  },
-  {
-    "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
-    "normalized": "searchauditor: auditing and attributing failures in long-horizon search agents",
-    "content_hash": "88cb8a8e64f05dc804941940b5c30b2d"
-  },
-  {
-    "title": "Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks",
-    "normalized": "agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks",
-    "content_hash": "7efe405006ef991569516a186a31d968"
-  },
-  {
-    "title": "Counterfactual Analysis via Large Language Models",
-    "normalized": "counterfactual analysis via large language models",
-    "content_hash": "42cc6afd718972d4120c234adff3216d"
-  },
-  {
-    "title": "When Do Corrective Features Help? An Agent for Corrective Feature Discovery on Black-Box Forecasters",
-    "normalized": "when do corrective features help? an agent for corrective feature discovery on black-box forecasters",
-    "content_hash": "542d3ddf79e4eae2d11c4a78bf0857aa"
-  },
-  {
-    "title": "EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
-    "normalized": "evoharness-rl: learning self-evolving runtime harness for long-horizon llm agents",
-    "content_hash": "9bcd121dca98b734bc8ab511cae7e54f"
-  },
-  {
-    "title": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "normalized": "the founder's guide to techcrunch disrupt 2026: everything you need to know",
-    "content_hash": "d98af549cc7cb39104a396c1feac25af"
-  },
-  {
-    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-    "normalized": "the hottest new ai chatbot is just a guy answering your questions",
-    "content_hash": "d9024f899370c14fe7356343e742461e"
-  },
-  {
-    "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-    "normalized": "microsoft 365 aitm phishing hijacks accounts to collect payroll and finance emails",
-    "content_hash": "9148fe268a4bdcf4773b9d00c6d0d702"
-  },
-  {
-    "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-    "normalized": "malware can abuse windows hello for business keys for persistent entra id access",
-    "content_hash": "855b5b02a2f1ece693187e58cd0b279d"
-  },
-  {
-    "title": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
-    "normalized": "trying to explain one night only's tech-enforced sex dystopia",
-    "content_hash": "baf9065b536cb7284912c628c27ace11"
-  },
-  {
-    "title": "Suno shares plans to combat spammy AI music",
-    "normalized": "suno shares plans to combat spammy ai music",
-    "content_hash": "2557053616601df457204c1205600b58"
-  },
-  {
-    "title": "Brendan Carr officially unleashes broadcast consolidation",
-    "normalized": "brendan carr officially unleashes broadcast consolidation",
-    "content_hash": "e6398997060e04c77cf325a32d67e9f1"
-  },
-  {
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-    "normalized": "humans missed 1 in 3 threats approving ai agent commands across 40k game runs",
-    "content_hash": "e0ba39153a3d2710889dd0e26d81f79c"
-  },
-  {
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "normalized": "from asking to doing: how the world is putting chatgpt to work",
-    "content_hash": "8ed6e6f6f2aa8c015571e9117ee27aad"
-  },
-  {
-    "title": "How AI is expanding what people do at work",
-    "normalized": "how ai is expanding what people do at work",
-    "content_hash": "af725c4d9a82c4b07b00d5020694c1f6"
-  },
-  {
-    "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-    "normalized": "skilltrace: multi-trace provenance auditing for llm-agent skill reuse",
-    "content_hash": "dfbe5fab46a8442a4cbe9ebb3fe3dcc1"
-  },
-  {
-    "title": "Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning",
-    "normalized": "search2skill: skill distillation beyond knowledge boundaries via rubric-based reinforcement learning",
-    "content_hash": "9baeefbe72063a05f8b46742a60972c5"
-  },
-  {
-    "title": "CASCADE: An Agentic Regulatory Network Framework for Patient-Data-Validated Downstream Perturbation Prediction",
-    "normalized": "cascade: an agentic regulatory network framework for patient-data-validated downstream perturbation prediction",
-    "content_hash": "417f40a077e107cfddffdc0f1dc577ee"
-  },
-  {
-    "title": "DoctorAgents: an agentic framework to iteratively refine AutoML pipeline for small clinical temporal data",
-    "normalized": "doctoragents: an agentic framework to iteratively refine automl pipeline for small clinical temporal data",
-    "content_hash": "20cd2fb5d029b88aee142a7abd91d72d"
-  },
-  {
-    "title": "Adaptive Arena-based Contestable Argumentative Network-of-Experts for Open-Ended Care Plan Coordination",
-    "normalized": "adaptive arena-based contestable argumentative network-of-experts for open-ended care plan coordination",
-    "content_hash": "c4aa653d1c04c8da3db256f74f1f4809"
-  },
-  {
-    "title": "PPDL: LLM-Based Flows as Probabilistic Programs",
-    "normalized": "ppdl: llm-based flows as probabilistic programs",
-    "content_hash": "7421ad751b159e9122559677e5166e31"
-  },
-  {
-    "title": "Decoupling Perception from Description: Computation-Grounded Representation Alignment between Multivariate Time Series and Language",
-    "normalized": "decoupling perception from description: computation-grounded representation alignment between multivariate time series and language",
-    "content_hash": "b8b60599d55fa947aca098fd76d07340"
-  },
-  {
-    "title": "'Internal matter for us': MEA dismisses US lawmaker's criticism of FCRA Bill",
-    "normalized": "'internal matter for us': mea dismisses us lawmaker's criticism of fcra bill",
-    "content_hash": "39121fa956afbdb315fb1c87a2c7e0ad"
-  },
-  {
     "title": "What&#8217;s behind the Google AI shake-up",
     "normalized": "what's behind the google ai shake-up",
     "content_hash": "8f926245da9856d9260f476f915e347d"
@@ -2498,5 +2373,130 @@
     "title": "Switched on Pop\u2019s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
     "normalized": "switched on pop's nate sloan and charlie harding love fresh vegetables and guitar pedals",
     "content_hash": "8bf678e3b99474b4eed6f451480e75ac"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
+    "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
+  },
+  {
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "normalized": "anthropic explains how claude's invisible text watermarks will work",
+    "content_hash": "db244564d67be42ddc51bf75d5164011"
+  },
+  {
+    "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
+    "normalized": "chrome devtools technique enables authenticated session hijacking in live windows browsers",
+    "content_hash": "7946882f3fca5a8a037e45a5cefe57aa"
+  },
+  {
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "normalized": "gpt 5.6 sol is the best \"vision\" model openai ever released",
+    "content_hash": "ab0db8448115e125bd94d1fd25cf7a0c"
+  },
+  {
+    "title": "Show HN: RAX Compute Gateway \u2013 One API for OpenAI, Anthropic, and Gemini",
+    "normalized": "show hn: rax compute gateway - one api for openai, anthropic, and gemini",
+    "content_hash": "afd4d2cb30d8b3a8a670b8cf0e6fe6e4"
+  },
+  {
+    "title": "Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required",
+    "normalized": "don't claim benchmark-oriented optimization improves general coding capability -- diverse evaluation is required",
+    "content_hash": "3437b35d161d29beb33d64fa3fce59de"
+  },
+  {
+    "title": "From BERT to Frontier Agents: Eight Years of Language-Model Progress, the Collapse of the Capability-Cost Curve, and the Rise of Task-Targeted Models",
+    "normalized": "from bert to frontier agents: eight years of language-model progress, the collapse of the capability-cost curve, and the rise of task-targeted models",
+    "content_hash": "dc4031e0747f21b6d78de7b3d054d5a8"
+  },
+  {
+    "title": "CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps",
+    "normalized": "ctm360 uncovers over 3,000 recruitment phishing urls using browser-in-the-browser (bitb) credential traps",
+    "content_hash": "195e6598137f1795979fceb91c7f6b13"
+  },
+  {
+    "title": "New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure",
+    "normalized": "new patchcord backdoor targets afghan telecom and indian critical infrastructure",
+    "content_hash": "03d7e8f7fc6fe6755b4541a0b35bd2d7"
+  },
+  {
+    "title": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
+    "normalized": "whisker's ai-powered litter robot thinks my cats swapped bodies",
+    "content_hash": "2fb7da2d3266de4dbd460f6e950cee56"
+  },
+  {
+    "title": "Amazon is trying to crush class action suits before they get started",
+    "normalized": "amazon is trying to crush class action suits before they get started",
+    "content_hash": "617afa2f27c81fcdb3ad54d3da2c04ec"
+  },
+  {
+    "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+    "normalized": "stripe will reportedly acquire openrouter for $7b+",
+    "content_hash": "54233cbb3602b7b5e0153d4643d1ffa2"
+  },
+  {
+    "title": "MathCode, Mathematical Coding Agent",
+    "normalized": "mathcode, mathematical coding agent",
+    "content_hash": "7f1f081c018bb0090599be7c1c7ea4a3"
+  },
+  {
+    "title": "What happens when an AI agent stops being a disposable session?",
+    "normalized": "what happens when an ai agent stops being a disposable session?",
+    "content_hash": "f8873bd32f3fa8f97da713c9cb173108"
+  },
+  {
+    "title": "What the OpenAI/Hugging Face Hack Tells Us About AI Danger",
+    "normalized": "what the openai/hugging face hack tells us about ai danger",
+    "content_hash": "e2641b423ddbc673469fb862461d0142"
+  },
+  {
+    "title": "Programmatic memory for long-horizon LLM agents",
+    "normalized": "programmatic memory for long-horizon llm agents",
+    "content_hash": "a4d8ff17949cdb7d11fe8fa7be475988"
+  },
+  {
+    "title": "Anthropic becomes the 'Apple of AI': Most revenue despite being most expensive",
+    "normalized": "anthropic becomes the 'apple of ai': most revenue despite being most expensive",
+    "content_hash": "ba9cffc43dcc60d8f5e15f71df23e209"
+  },
+  {
+    "title": "The null result in OpenAI's enterprise AI paper",
+    "normalized": "the null result in openai's enterprise ai paper",
+    "content_hash": "eead1ceb280bb6f3bca90190f1629f8b"
+  },
+  {
+    "title": "OpenAI-Compatible API Quickstart in Python, JavaScript, and PowerShell",
+    "normalized": "openai-compatible api quickstart in python, javascript, and powershell",
+    "content_hash": "1516445707b099f2ba9e2608a217f883"
+  },
+  {
+    "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+    "normalized": "agentao: a governed local-first runtime for tool-using llm agents",
+    "content_hash": "3241d07ab397d4224e6996c4ef854dc6"
+  },
+  {
+    "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
+    "normalized": "measuring cross-task behavioral consistency in language model agents",
+    "content_hash": "e41ca155dcf0e9512561e0544ace3e3e"
+  },
+  {
+    "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
+    "normalized": "evaluating agentic learning harness capabilities without labels via the scaling hypothesis",
+    "content_hash": "46844f4832f2999f10c3f5b9b7ee76f5"
+  },
+  {
+    "title": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
+    "normalized": "semplan: benchmarking structured semantic planning for llm-based queries over enterprise data",
+    "content_hash": "af5757370750fbce06410efb172b57f0"
+  },
+  {
+    "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
+    "normalized": "second thought: reasoning in parallel as llm agents act and observe",
+    "content_hash": "0ec254cd0938abed28488c792c0d3eaf"
+  },
+  {
+    "title": "There\u2019s a New Link Between Gut Health and Alzheimer\u2019s Disease",
+    "normalized": "there's a new link between gut health and alzheimer's disease",
+    "content_hash": "a60c9e7c99bbab83eb9f23134bc8d701"
   }
 ]
