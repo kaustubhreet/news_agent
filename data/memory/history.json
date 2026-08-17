@@ -1,130 +1,5 @@
 [
   {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
-    "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
-  },
-  {
-    "title": "ChatGPT brings unlimited text chats to free users",
-    "normalized": "chatgpt brings unlimited text chats to free users",
-    "content_hash": "b602b58491c0168c5a7a428064ed1896"
-  },
-  {
-    "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
-    "normalized": "openai says apple's own security practices undermine its trade secrets case",
-    "content_hash": "bad1ae77dad93f2bb8bbcca7e5a0f262"
-  },
-  {
-    "title": "Anthropic will design its own hardware to power Claude",
-    "normalized": "anthropic will design its own hardware to power claude",
-    "content_hash": "1b70ab9f03f1d5bcd0729927010878de"
-  },
-  {
-    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "normalized": "openai is giving chatgpt free users unlimited text chats",
-    "content_hash": "a998a0a105a9e337c61b4d58119776fc"
-  },
-  {
-    "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
-    "normalized": "openai's new ai smart speaker will reportedly sell for between $300 and $400",
-    "content_hash": "da6384f873cdab341b66c8bd6b45a076"
-  },
-  {
-    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-    "normalized": "your table awaits: exhibit at techcrunch disrupt 2026 to be seen by thousands",
-    "content_hash": "4b1e745df29b7fd634af5637a896cd2d"
-  },
-  {
-    "title": "Google Wallet now lets parents set up secure balances for their kids",
-    "normalized": "google wallet now lets parents set up secure balances for their kids",
-    "content_hash": "d83264f16d09cdeeab00ad129a4da36c"
-  },
-  {
-    "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "normalized": "jony ive's first openai gadget is reportedly a hockey puck-sized smart speaker",
-    "content_hash": "cc0868d22825945a30dcb42e275bc27d"
-  },
-  {
-    "title": "OpenAI and four rivals just agreed on one standard for AI agents",
-    "normalized": "openai and four rivals just agreed on one standard for ai agents",
-    "content_hash": "b3e9cae150ccd140b9a4a8b301b7e9d4"
-  },
-  {
-    "title": "AMD Buys Taalas to Put Hard-Wired AI Models in Its Accelerator Roadmap",
-    "normalized": "amd buys taalas to put hard-wired ai models in its accelerator roadmap",
-    "content_hash": "7766718d4eef4aa75129f8aecd511ebf"
-  },
-  {
-    "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-    "normalized": "google says hackers are calling financial firm employees to hack and extort victims",
-    "content_hash": "885a6cd0c7b64949624fdb873ff9ea42"
-  },
-  {
-    "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
-    "normalized": "defense tech hadrian raises $1.37b at $8b valuation",
-    "content_hash": "a605d265d88a03273bdb4e5b96ae8032"
-  },
-  {
-    "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
-    "normalized": "na\u00efve raises $28.5m to automate the grunt work of setting up and running a company",
-    "content_hash": "61adeac4a34e99f8cb12c3a6ff4261a8"
-  },
-  {
-    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "normalized": "gen z dating apps like ditto ditch swiping in favor of ai matchmaking",
-    "content_hash": "4161c2f9eec909a1cfa1bfcfda5e4d69"
-  },
-  {
-    "title": "Tesla and SpaceX will invest $16.8B to start building \u2018Terafab\u2019 chip factory in Texas",
-    "normalized": "tesla and spacex will invest $16.8b to start building 'terafab' chip factory in texas",
-    "content_hash": "62bf44c6d29d279c08576b63439131b2"
-  },
-  {
-    "title": "Ford\u2019s new electric truck, \u2018Fathom,\u2019 starts at $28,350",
-    "normalized": "ford's new electric truck, 'fathom,' starts at $28,350",
-    "content_hash": "b75c438a41085a112862eaaaa11eb6e4"
-  },
-  {
-    "title": "Why Normal People Aren\u2019t Using AI Agents",
-    "normalized": "why normal people aren't using ai agents",
-    "content_hash": "524c6cde0154b5bacdf5a1de0a8d90d2"
-  },
-  {
-    "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-    "normalized": "paperclip ai flaws let attackers run host commands via malicious agent imports",
-    "content_hash": "affe2d405094e14ca382ad3777262951"
-  },
-  {
-    "title": "Anthropic\u2019s AI used fake identities, malware in rogue attack on GitHub project",
-    "normalized": "anthropic's ai used fake identities, malware in rogue attack on github project",
-    "content_hash": "0e98ce3806182146fcd01bdf0b2bf6bd"
-  },
-  {
-    "title": "OpenAI will no longer limit how many texts free accounts can send to ChatGPT",
-    "normalized": "openai will no longer limit how many texts free accounts can send to chatgpt",
-    "content_hash": "eaea6227b029490c58a01b9258943bab"
-  },
-  {
-    "title": "Adobe's new ChatGPT plugin brings 70 of its tools to OpenAI's chatbot",
-    "normalized": "adobe's new chatgpt plugin brings 70 of its tools to openai's chatbot",
-    "content_hash": "eef2d5c103b7848a89ed5b6db30646f9"
-  },
-  {
-    "title": "Trevor Noah is hosting Google\u2019s Pixel 11 launch event",
-    "normalized": "trevor noah is hosting google's pixel 11 launch event",
-    "content_hash": "52af1f268ae50fee4e82a325f718df2a"
-  },
-  {
-    "title": "The AirPods Pro are $60 off, their best price since late June",
-    "normalized": "the airpods pro are $60 off, their best price since late june",
-    "content_hash": "e4ba692cc6f52c5fa31c5ed7b130a35b"
-  },
-  {
-    "title": "The Zelda movie\u2019s Ganondorf casting hints at more movies",
-    "normalized": "the zelda movie's ganondorf casting hints at more movies",
-    "content_hash": "ed19ee648b8bf97aa20a61e9b2021cb2"
-  },
-  {
     "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
     "normalized": "claude code and gemini cli flaws let a github issue reach ci workflow secrets",
     "content_hash": "112e6dc65003b7b2038937702b5ed56a"
@@ -2498,5 +2373,130 @@
     "title": "SpaceX has officially acquired AI coding startup Cursor",
     "normalized": "spacex has officially acquired ai coding startup cursor",
     "content_hash": "3142bd85cbd011bf965722514ca1a31f"
+  },
+  {
+    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+    "normalized": "nvidia dramatically reduces amount of openai infra financing it may guarantee",
+    "content_hash": "0f80ad90d2f581448af1765bf35cb99b"
+  },
+  {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "normalized": "stripe will reportedly acquire ai gateway startup openrouter for $7b+",
+    "content_hash": "fa108acb34785c9d6d0ad31a61c63098"
+  },
+  {
+    "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
+    "normalized": "anthropic ceo says ai backlash is 'fundamentally a crisis of trust'",
+    "content_hash": "6f5074d3c2dcc831144127213fa775d0"
+  },
+  {
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "normalized": "openai reportedly disbanded its preparedness team",
+    "content_hash": "89db2b798bb0458eca825296f9f1cb90"
+  },
+  {
+    "title": "ChatGPT\u2019s Computer History tracks your clicks and keystrokes",
+    "normalized": "chatgpt's computer history tracks your clicks and keystrokes",
+    "content_hash": "1982b916c03e8203f3be657c677f970e"
+  },
+  {
+    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
+    "normalized": "google just redesigned the search box for the first time in 25 years -- here's why it matters more than you think.",
+    "content_hash": "6d664fc288d99f6d67b77e4b21334d39"
+  },
+  {
+    "title": "Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future",
+    "normalized": "why people aren't buying mark zuckerberg's ai future",
+    "content_hash": "d9fa546986d639125e240c4ccb40ab15"
+  },
+  {
+    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+    "normalized": "techcrunch mobility: the shifting flight path of electric air taxis",
+    "content_hash": "b9787db978bbafc60ce98471615d4156"
+  },
+  {
+    "title": "Amazon is trying to crush class-action suits before they get started",
+    "normalized": "amazon is trying to crush class-action suits before they get started",
+    "content_hash": "dd93d14a237a90ddebfda38e895ecdbb"
+  },
+  {
+    "title": "The CLI your AI agent drives to manage your knowledge graph",
+    "normalized": "the cli your ai agent drives to manage your knowledge graph",
+    "content_hash": "067d8cfa7df23ee5a6a2a8a77d3b9f2e"
+  },
+  {
+    "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+    "normalized": "anthropic ceo says the way for ai to win over the public is to cure cancer",
+    "content_hash": "db82525149e4df51296bbd738d45ec4d"
+  },
+  {
+    "title": "Legbar \u2013 live AI agent sessions beside GitHub CI, in one terminal",
+    "normalized": "legbar - live ai agent sessions beside github ci, in one terminal",
+    "content_hash": "167b6a39ff8af4c2a1d640284ad9a62f"
+  },
+  {
+    "title": "12-Factor Agents \u2013 Principles for building reliable LLM applications",
+    "normalized": "12-factor agents - principles for building reliable llm applications",
+    "content_hash": "eabc2ad1b8f1dda00e370ab08f6fe99d"
+  },
+  {
+    "title": "Show HN: Agent6 \u2013 coding agent with jailed commands and editable state machines",
+    "normalized": "show hn: agent6 - coding agent with jailed commands and editable state machines",
+    "content_hash": "cf39a2ce38df69399a42d712719f80b8"
+  },
+  {
+    "title": "AgentShield \u2013 Offline Rust security scanner for AI agent tools and MCP (<50ms)",
+    "normalized": "agentshield - offline rust security scanner for ai agent tools and mcp (<50ms)",
+    "content_hash": "85343d412a03eecd09a027a44674332a"
+  },
+  {
+    "title": "Show HN: Rungraph \u2013 See your AI coding-agent runs as a graph",
+    "normalized": "show hn: rungraph - see your ai coding-agent runs as a graph",
+    "content_hash": "3b68baab632316ae165fffbb3ba87400"
+  },
+  {
+    "title": "If your agent commits a crime, who is responsible?",
+    "normalized": "if your agent commits a crime, who is responsible?",
+    "content_hash": "b44e1907154843feb5d06d509cb5dae8"
+  },
+  {
+    "title": "HarnessRouter Community Edition",
+    "normalized": "harnessrouter community edition",
+    "content_hash": "ee2709d67a457387edea9a493f46419f"
+  },
+  {
+    "title": "Chert",
+    "normalized": "chert",
+    "content_hash": "a8fdc322fb25e0287ba30106d3b61635"
+  },
+  {
+    "title": "Inferock Bench",
+    "normalized": "inferock bench",
+    "content_hash": "3e37ebfdfecf56fde7ed1c4f6fef123d"
+  },
+  {
+    "title": "nenspace",
+    "normalized": "nenspace",
+    "content_hash": "8af57df34fcfa171da6ada3bc42bf110"
+  },
+  {
+    "title": "Freebuff",
+    "normalized": "freebuff",
+    "content_hash": "bbee15a4ff0e1a07704222cfa6984840"
+  },
+  {
+    "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+    "normalized": "open mike eagle and kenny segal crafted a hip hop breakup masterpiece",
+    "content_hash": "07d31f20e4c4706e0594053acad887c2"
+  },
+  {
+    "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
+    "normalized": "matt groening lets slip that simpsons: hit & run might be making a comeback",
+    "content_hash": "05307c7cc7b5ad86a6a82188c8c45e34"
+  },
+  {
+    "title": "Switched on Pop\u2019s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+    "normalized": "switched on pop's nate sloan and charlie harding love fresh vegetables and guitar pedals",
+    "content_hash": "8bf678e3b99474b4eed6f451480e75ac"
   }
 ]
