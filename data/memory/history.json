@@ -1,130 +1,5 @@
 [
   {
-    "title": "What&#8217;s behind the Google AI shake-up",
-    "normalized": "what's behind the google ai shake-up",
-    "content_hash": "8f926245da9856d9260f476f915e347d"
-  },
-  {
-    "title": "Show HN: Alyph, a manual transmission for LLM context",
-    "normalized": "show hn: alyph, a manual transmission for llm context",
-    "content_hash": "8c532094b0930ba48c62d7c351e9947c"
-  },
-  {
-    "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-    "normalized": "openai puts the brakes on a new model because it's supposedly too powerful",
-    "content_hash": "f41b858226189c666f09e192079cf16d"
-  },
-  {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "normalized": "openai says it slowed astra model development over security concerns",
-    "content_hash": "b5db7df78f7f42f500fe2c34177b7de6"
-  },
-  {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "normalized": "cloudflare launches kitesurf, a browser built for ai agents",
-    "content_hash": "b7bea917bd43eb6e56c0b4c06e259aee"
-  },
-  {
-    "title": "SpaceX\u2019s Terafab will rely on natural gas power plants, not Tesla solar panels",
-    "normalized": "spacex's terafab will rely on natural gas power plants, not tesla solar panels",
-    "content_hash": "96fdf1573e779d6c8c5af17489d80480"
-  },
-  {
-    "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-    "normalized": "microsoft edge is about to lock out older ad blockers, just like chrome did",
-    "content_hash": "c491f05f5118920275603615f1f02272"
-  },
-  {
-    "title": "OpenAI Didn't Notice Its AI Agents Using a Message Board to Plan Hacking Spree",
-    "normalized": "openai didn't notice its ai agents using a message board to plan hacking spree",
-    "content_hash": "59ab3ed439da342c01e1f525b352d8db"
-  },
-  {
-    "title": "Lemma Raises $2.3M Pre-Seed to Tackle Silent AI Agent Failures in Production",
-    "normalized": "lemma raises $2.3m pre-seed to tackle silent ai agent failures in production",
-    "content_hash": "e5f5331622c60923d18c72330c197725"
-  },
-  {
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "normalized": "after rippling blew millions on ai in months, it built an employee roi tool",
-    "content_hash": "87ec4d37497977021308e16f6a3294d4"
-  },
-  {
-    "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-    "normalized": "security researchers scanned the polish web and found courts, hospitals, and airports at risk of hacks",
-    "content_hash": "10f92ea2a427215bc94e508b6fc73bb7"
-  },
-  {
-    "title": "Computer maker Framework notifies \u2018all customers\u2019 of a data breach",
-    "normalized": "computer maker framework notifies 'all customers' of a data breach",
-    "content_hash": "bd8bfb182ac362c280e422ff6f39e4c3"
-  },
-  {
-    "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-    "normalized": "chinese ai model kimi escaped its cybersecurity testing environment, researchers say",
-    "content_hash": "35a1cb7cd588c3089cae93ad678f3702"
-  },
-  {
-    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "normalized": "airbnb says ai is helping it ship features faster as it tests a new search function",
-    "content_hash": "dd87474aeb50bada536f210be2b39f93"
-  },
-  {
-    "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-    "normalized": "the gaming site sponsored by walmart lays off its editorial staff",
-    "content_hash": "ccd8ac0181ccfaffc7831cccc03d5b43"
-  },
-  {
-    "title": "Fenix Flexin isn\u2019t even denying using AI to make \u2018Rubberz\u2019 anymore",
-    "normalized": "fenix flexin isn't even denying using ai to make 'rubberz' anymore",
-    "content_hash": "b5131fa9bc1ec9f734582ad10c900cf2"
-  },
-  {
-    "title": "Watching Roku\u2019s AI channel is like eating from a trough",
-    "normalized": "watching roku's ai channel is like eating from a trough",
-    "content_hash": "ef7dcfd5a6c14084bff8dcb194555f17"
-  },
-  {
-    "title": "Disney Plus tries a new AI-powered search",
-    "normalized": "disney plus tries a new ai-powered search",
-    "content_hash": "2c092a020a00c70cbab3f88c328ec8c3"
-  },
-  {
-    "title": "Captain Bible Reverse Engineering",
-    "normalized": "captain bible reverse engineering",
-    "content_hash": "5a7181891868742ac307ca673f596033"
-  },
-  {
-    "title": "Black Hat USA 2026: The OpenAI\u2013Hugging Face Incident [video]",
-    "normalized": "black hat usa 2026: the openai-hugging face incident [video]",
-    "content_hash": "fc0f55cceb23459d9c4c8afe3bfa781a"
-  },
-  {
-    "title": "From Chat Completions to Responses: Why Is OpenAI Upgrading Its Core API?",
-    "normalized": "from chat completions to responses: why is openai upgrading its core api?",
-    "content_hash": "df4b00669d1558878e94a072cf6aef07"
-  },
-  {
-    "title": "OpenAI slows release of Astra model, citing cyber capabilities",
-    "normalized": "openai slows release of astra model, citing cyber capabilities",
-    "content_hash": "70c4155ea81ecd7306abaae875fa80c7"
-  },
-  {
-    "title": "An AI agent with $15, 46 hours, and no way to send email",
-    "normalized": "an ai agent with $15, 46 hours, and no way to send email",
-    "content_hash": "06f7704de82c1a5201254c358395f320"
-  },
-  {
-    "title": "A self-improving RLM agent for coding workflows and long-running autonomous task",
-    "normalized": "a self-improving rlm agent for coding workflows and long-running autonomous task",
-    "content_hash": "9814fa1433ac2d8d9e1fffa4b447d477"
-  },
-  {
-    "title": "OpenAI Trained Its Models for Months While They Coordinated Exploits",
-    "normalized": "openai trained its models for months while they coordinated exploits",
-    "content_hash": "af3afa5aa78d6016245245c722215c71"
-  },
-  {
     "title": "Show HN: Buddy \u2013 An iOS browser with an AI agent inside",
     "normalized": "show hn: buddy - an ios browser with an ai agent inside",
     "content_hash": "5325972db2fdf5afa5ca7da9776de29b"
@@ -2498,5 +2373,130 @@
     "title": "There\u2019s a New Link Between Gut Health and Alzheimer\u2019s Disease",
     "normalized": "there's a new link between gut health and alzheimer's disease",
     "content_hash": "a60c9e7c99bbab83eb9f23134bc8d701"
+  },
+  {
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "normalized": "nvidia investing $1.5b in softbank data center developer behind openai project",
+    "content_hash": "2fa8589a8917989a87e2701332db2a3b"
+  },
+  {
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "normalized": "groq raises $350m to fuel its pivot from ai chips to neocloud",
+    "content_hash": "86cddb97eea8c58161f7ef0d0aab1485"
+  },
+  {
+    "title": "AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",
+    "normalized": "ai automation startup relay shuts down, staff joins google's chrome team",
+    "content_hash": "026705ad7afeb18f6417143471c7ef39"
+  },
+  {
+    "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
+    "normalized": "sound-powered fire protection startup gets $15m to snuff out fires before they turn catastrophic",
+    "content_hash": "86b5ff9337f057f4cd5bba31c064a1ee"
+  },
+  {
+    "title": "Nvidia backing $105B in financing for OpenAI data center in Ohio",
+    "normalized": "nvidia backing $105b in financing for openai data center in ohio",
+    "content_hash": "93bfe36a469cc37b92b3a80a72eba0b7"
+  },
+  {
+    "title": "OpenAI Locks in Lease for Data Center in Ohio with Backing from Nvidia",
+    "normalized": "openai locks in lease for data center in ohio with backing from nvidia",
+    "content_hash": "da1c93424962c64c64f501c39abce2fc"
+  },
+  {
+    "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
+    "normalized": "show hn: harnessrouter: unified interface for agent harnesses",
+    "content_hash": "d18d17571396848dd851bec2b8a2663a"
+  },
+  {
+    "title": "NVIDIA Guarantees up to $105B for 8-GW Ohio AI Campus Leased by OpenAI",
+    "normalized": "nvidia guarantees up to $105b for 8-gw ohio ai campus leased by openai",
+    "content_hash": "b28d9ca80c5aa3cd1a90ff1bf27bfcd5"
+  },
+  {
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "normalized": "amazon, which started off selling books, is destroying rare texts to train ai",
+    "content_hash": "3bdd3bc5b84d38f72cf87f4e71f367de"
+  },
+  {
+    "title": "OpenAI's autonomous hackers and the newsroom revolt of 2020",
+    "normalized": "openai's autonomous hackers and the newsroom revolt of 2020",
+    "content_hash": "3eb5c83f2df08840756f5a78cae5679c"
+  },
+  {
+    "title": "Anthropic says its AI agents are killing rivals and hiding their tracks",
+    "normalized": "anthropic says its ai agents are killing rivals and hiding their tracks",
+    "content_hash": "9658678b651327b023c58238cdb6b4de"
+  },
+  {
+    "title": "Investing in multi-agent AI safety research",
+    "normalized": "investing in multi-agent ai safety research",
+    "content_hash": "f15755133eca743d3794b7838c5bb1fa"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
+    "normalized": "nvidia nemotron 3.5 lightning now available in amazon sagemaker jumpstart",
+    "content_hash": "8c630d4d807d5e4e7d72cbd33797fc08"
+  },
+  {
+    "title": "Webwright: Why AI Web Agents Should Write Code, Not Click",
+    "normalized": "webwright: why ai web agents should write code, not click",
+    "content_hash": "b0ea35ad239b764c5bc7d5a11bd58c39"
+  },
+  {
+    "title": "Anthropic\u2019s annualized revenue surges to $65B",
+    "normalized": "anthropic's annualized revenue surges to $65b",
+    "content_hash": "3fd26234388618eb4ecd245907a2e9fe"
+  },
+  {
+    "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "normalized": "save up to $300 on your techcrunch disrupt 2026 pass until august 21",
+    "content_hash": "bdf58bebcb77ba262bee09433982b196"
+  },
+  {
+    "title": "Spotify\u2019s new Playlist Notes let users and editors explain their song picks",
+    "normalized": "spotify's new playlist notes let users and editors explain their song picks",
+    "content_hash": "4361a9d42aa2e0e294ce973a22a98d18"
+  },
+  {
+    "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
+    "normalized": "higgsfield raises $400m series b, quadrupling its valuation in 8 months to $5.4b",
+    "content_hash": "4452f77c2ca232a02e9cf8ca29153919"
+  },
+  {
+    "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+    "normalized": "feedly attributes weeklong slowdown to bug, not its ai pivot",
+    "content_hash": "7aaf9102659515ecfcb113ee415b5b13"
+  },
+  {
+    "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
+    "normalized": "terra industries closes $52m seed round to build defense infrastructure for the global south",
+    "content_hash": "61ec8469e88d54e4455f0fdbf84d4ff5"
+  },
+  {
+    "title": "WordPress.com targets the next generation of web creators with a free student plan",
+    "normalized": "wordpress.com targets the next generation of web creators with a free student plan",
+    "content_hash": "28578f95041398d616cfe64134f07bdd"
+  },
+  {
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "normalized": "wispr raises $280m at $2b valuation as it looks beyond dictation",
+    "content_hash": "6e64346cc8a849c78f7ad831f265188f"
+  },
+  {
+    "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
+    "normalized": "crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
+    "content_hash": "cca2acf6772dc2a1b9c1d8f285fd8cc3"
+  },
+  {
+    "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+    "normalized": "cavern c2 uses dns and google apps script to blend into legitimate traffic",
+    "content_hash": "0324c93b17e28c877d206d854cee3bfa"
+  },
+  {
+    "title": "How MCP Servers Can Expose Enterprise Secrets",
+    "normalized": "how mcp servers can expose enterprise secrets",
+    "content_hash": "e0ffe56b37ba9d73bcd2df1c61ab42ba"
   }
 ]
