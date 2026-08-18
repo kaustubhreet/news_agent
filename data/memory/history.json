@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: Buddy \u2013 An iOS browser with an AI agent inside",
-    "normalized": "show hn: buddy - an ios browser with an ai agent inside",
-    "content_hash": "5325972db2fdf5afa5ca7da9776de29b"
-  },
-  {
-    "title": "How to Disable Gemini in Gmail and Google Docs",
-    "normalized": "how to disable gemini in gmail and google docs",
-    "content_hash": "8750493524d8b72f069a3bdb584feb6a"
-  },
-  {
-    "title": "Is this $450 laptop from an unknown brand too good to be true?",
-    "normalized": "is this $450 laptop from an unknown brand too good to be true?",
-    "content_hash": "d9ec7a2c3c8884cd046703b5f70109a8"
-  },
-  {
-    "title": "My favorite feel-good show is back",
-    "normalized": "my favorite feel-good show is back",
-    "content_hash": "8c525e151e3c6faebf39601302e32d49"
-  },
-  {
-    "title": "Nitecore\u2019s latest power bank is the lightest and most compact yet",
-    "normalized": "nitecore's latest power bank is the lightest and most compact yet",
-    "content_hash": "e95581ebed807281b5dcb3bfe4534e4b"
-  },
-  {
-    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-    "normalized": "now we have a timeline of the openai accidental attack against hugging face",
-    "content_hash": "040ff22cc3c240bdb4ecccbd33b6a76d"
-  },
-  {
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "normalized": "responding to the next frontier of critical cyber capabilities",
-    "content_hash": "71ece285ebeee6864f2a23f0f5139066"
-  },
-  {
-    "title": "A Chinese AI model stopped OpenAI's 'unprecedented' cyber attack",
-    "normalized": "a chinese ai model stopped openai's 'unprecedented' cyber attack",
-    "content_hash": "afad470df8ee6b00fa947b1368537f7d"
-  },
-  {
-    "title": "ByteDance is building a 10T model aimed straight at Anthropic [video]",
-    "normalized": "bytedance is building a 10t model aimed straight at anthropic [video]",
-    "content_hash": "ee8d3ec883bcc9c588b551b53beddaa2"
-  },
-  {
-    "title": "Supply-chain hygiene for Emacs: LLM review of package upgrades",
-    "normalized": "supply-chain hygiene for emacs: llm review of package upgrades",
-    "content_hash": "23737c7943cab0f39f42e74fc3ab33e5"
-  },
-  {
-    "title": "OpenAI provides more details on the Hugging Face incident",
-    "normalized": "openai provides more details on the hugging face incident",
-    "content_hash": "ac926863bad595c94917a00e529a873e"
-  },
-  {
-    "title": "Show HN: Hosted LLM Wiki",
-    "normalized": "show hn: hosted llm wiki",
-    "content_hash": "e3fce685a20c45772048b79278f3be27"
-  },
-  {
-    "title": "Google doesn't need the LLM crown",
-    "normalized": "google doesn't need the llm crown",
-    "content_hash": "96d98fffdfef58c1da2096b8dc688b66"
-  },
-  {
-    "title": "I'm leaving OpenAI to build Jurassic Park",
-    "normalized": "i'm leaving openai to build jurassic park",
-    "content_hash": "57b1c8a93d328900cde0070b17479d9d"
-  },
-  {
-    "title": "Show HN: Agent_acid \u2013 ACID rollbacks and dry-run guardrails for AI agents",
-    "normalized": "show hn: agent_acid - acid rollbacks and dry-run guardrails for ai agents",
-    "content_hash": "6c4ae9e8a3ac8dfe1b7ec359b6e0f1f4"
-  },
-  {
-    "title": "OpenAI Trained Models for Months While Those Models Were Coordinating Exploits",
-    "normalized": "openai trained models for months while those models were coordinating exploits",
-    "content_hash": "5392483737ff32defcfa5ea4d3c6d924"
-  },
-  {
-    "title": "Ask HN: How can I tell which LLM's have been trained on what?",
-    "normalized": "ask hn: how can i tell which llm's have been trained on what?",
-    "content_hash": "c7eea69058dcd57dd1b9a640301eae9e"
-  },
-  {
-    "title": "Obscura: Headless browser engine. For web scraping and AI agent automation",
-    "normalized": "obscura: headless browser engine. for web scraping and ai agent automation",
-    "content_hash": "266ca666e10d2be8dcbd3b52bd13edf4"
-  },
-  {
-    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-    "normalized": "timeline of the openai accidental attack against hugging face",
-    "content_hash": "aa0dbf6a0369c8ee622fbc187e0ae3db"
-  },
-  {
-    "title": "Firebird Opens the CIS Region\u2019s Largest AI Factory in Armenia",
-    "normalized": "firebird opens the cis region's largest ai factory in armenia",
-    "content_hash": "101989b42e1da6994223f0fb4808571b"
-  },
-  {
-    "title": "Microsoft Brings Fourth India Cloud Region Online in Hyderabad",
-    "normalized": "microsoft brings fourth india cloud region online in hyderabad",
-    "content_hash": "2edc573adb81f023bdd4eceeba745cfb"
-  },
-  {
-    "title": "OpenAI Says Upcoming Astra Model May Cross Critical Cybersecurity Threshold",
-    "normalized": "openai says upcoming astra model may cross critical cybersecurity threshold",
-    "content_hash": "e14a7ceec29ba5f66853c7838a83c4e3"
-  },
-  {
-    "title": "ChatGPT Ads Arrive in Brazil as OpenAI Adds Conversion Tools and Carousels",
-    "normalized": "chatgpt ads arrive in brazil as openai adds conversion tools and carousels",
-    "content_hash": "c84bdd4f2df44390b7f24369cebe0ee9"
-  },
-  {
-    "title": "Claude Code Sessions Can Now Run on Infrastructure Your Team Controls",
-    "normalized": "claude code sessions can now run on infrastructure your team controls",
-    "content_hash": "e3e19eff1186e2a8bd9c79280ff44069"
-  },
-  {
-    "title": "Microsoft Opens 26 Open Models to Startups Through Fireworks AI on Foundry",
-    "normalized": "microsoft opens 26 open models to startups through fireworks ai on foundry",
-    "content_hash": "22d31a35bb3a88611284db2212346ebb"
-  },
-  {
     "title": "OpenAI acquires presentation startup NextSlide",
     "normalized": "openai acquires presentation startup nextslide",
     "content_hash": "754f634a04ece928e249337d16a0c8f2"
@@ -2498,5 +2373,130 @@
     "title": "How MCP Servers Can Expose Enterprise Secrets",
     "normalized": "how mcp servers can expose enterprise secrets",
     "content_hash": "e0ffe56b37ba9d73bcd2df1c61ab42ba"
+  },
+  {
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "normalized": "chatgpt is getting a dedicated mode for teens",
+    "content_hash": "01c1cc88b5b29fe55c5aeb517eed47be"
+  },
+  {
+    "title": "Show HN: Zeroparams, a coding agent with zero parameters because it's just me",
+    "normalized": "show hn: zeroparams, a coding agent with zero parameters because it's just me",
+    "content_hash": "45dbc87ff2908250b8ff0102327ed12d"
+  },
+  {
+    "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
+    "normalized": "ogx: an open-source, vendor-neutral generative ai application server",
+    "content_hash": "42f14151a7c827a1042bc81b8295f3bc"
+  },
+  {
+    "title": "Do LLM Agents Negotiate Rationally? A Mechanism-Design Framework for Verifiable Multi-Agent Interaction over A2A/MCP",
+    "normalized": "do llm agents negotiate rationally? a mechanism-design framework for verifiable multi-agent interaction over a2a/mcp",
+    "content_hash": "8b7fb44af69bbf62de1598b19a831b49"
+  },
+  {
+    "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+    "normalized": "detroit startup grounded raises $5m to customize electric and gas-powered vans",
+    "content_hash": "fc3f0824fd156336e19f6fbaa222df2a"
+  },
+  {
+    "title": "My parrot ate my keyboard",
+    "normalized": "my parrot ate my keyboard",
+    "content_hash": "03966a29032a34b4e6d2a35c00897011"
+  },
+  {
+    "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
+    "normalized": "skill: self-correcting knowledge-guided iterative large language model agent for logic optimization",
+    "content_hash": "16bc1554014e241d41a06a81fb1a7d34"
+  },
+  {
+    "title": "The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines",
+    "normalized": "the hallucination snowball: modeling error propagation as state transitions in multi-agent llm pipelines",
+    "content_hash": "e56e75665cd65dc9e8ea974599fe8f2a"
+  },
+  {
+    "title": "We still don\u2019t know how people are really using AI",
+    "normalized": "we still don't know how people are really using ai",
+    "content_hash": "45780892186c3369ab7ff248cdac65ed"
+  },
+  {
+    "title": "Reach Capital raises $265M Fund V to back AI founders building to \u2018expand human potential\u2019",
+    "normalized": "reach capital raises $265m fund v to back ai founders building to 'expand human potential'",
+    "content_hash": "ed28f0d4ca77d95fec714d7b7f60562c"
+  },
+  {
+    "title": "Fairphone is launching its latest repairable phone in the US too",
+    "normalized": "fairphone is launching its latest repairable phone in the us too",
+    "content_hash": "613990aa8ba27b86b531a5c49dad427b"
+  },
+  {
+    "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+    "normalized": "one attacker has scraped both salesforce and servicenow portals since 2025",
+    "content_hash": "62140525fed97959d90a0078e656c423"
+  },
+  {
+    "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+    "normalized": "unisoc volte video call exploit chain can give attackers full android kernel access",
+    "content_hash": "f1f0a8132a6a068dcf398dd2613655b9"
+  },
+  {
+    "title": "ChatGPT's stricter teen mode starts rolling out today",
+    "normalized": "chatgpt's stricter teen mode starts rolling out today",
+    "content_hash": "17b1a87be3ae0831c8bbf5e9ffc4f13c"
+  },
+  {
+    "title": "Google&#8217;s Pet Memory forgot who my cats are",
+    "normalized": "google's pet memory forgot who my cats are",
+    "content_hash": "3ebe8e91700526596dd7cbda9fc70579"
+  },
+  {
+    "title": "The Verge Guide to Pets",
+    "normalized": "the verge guide to pets",
+    "content_hash": "d75d434ac37cd3efa8b10fc1a4cfc19e"
+  },
+  {
+    "title": "Oops! My cat is an iPad kid",
+    "normalized": "oops! my cat is an ipad kid",
+    "content_hash": "ba0c3a025587221e207d6db647d6e317"
+  },
+  {
+    "title": "Fairphone\u2019s latest repairable phone is going on sale in the US",
+    "normalized": "fairphone's latest repairable phone is going on sale in the us",
+    "content_hash": "87c9ef60d8f0c6ef7c0f2c3427c8d4c1"
+  },
+  {
+    "title": "Elon Musk made flying even worse so Palantir could profit",
+    "normalized": "elon musk made flying even worse so palantir could profit",
+    "content_hash": "feda95e1180434aa0b044f7e1e4f2f53"
+  },
+  {
+    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+    "normalized": "apple's camera-equipped airpods appear in leaked video",
+    "content_hash": "87223ad4e1aa7d30df79ff1d7112660b"
+  },
+  {
+    "title": "Reddit\u2019s AI is turning posts into podcasts and short videos",
+    "normalized": "reddit's ai is turning posts into podcasts and short videos",
+    "content_hash": "34bc3439fa593db4a7af59953c40a67a"
+  },
+  {
+    "title": "Google buys crashed airline Spirit's data at auction, because AI",
+    "normalized": "google buys crashed airline spirit's data at auction, because ai",
+    "content_hash": "f9a2c40c8a257a4e012712f52827658c"
+  },
+  {
+    "title": "OpenAI Model Spec",
+    "normalized": "openai model spec",
+    "content_hash": "84cfadbaaba1ce89516418188a5dd17b"
+  },
+  {
+    "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+    "normalized": "mind viruses: self-propagating ideas in multi-agent llm systems",
+    "content_hash": "2a4426703fdf623b17dc27320cd61319"
+  },
+  {
+    "title": "Show HN: AnyCreature. making 3D creature by agent. harness by 3D assets pipeline",
+    "normalized": "show hn: anycreature. making 3d creature by agent. harness by 3d assets pipeline",
+    "content_hash": "e7e2e7833b7f807572849fded2a7061c"
   }
 ]
