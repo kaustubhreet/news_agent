@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "normalized": "openai acquires presentation startup nextslide",
-    "content_hash": "754f634a04ece928e249337d16a0c8f2"
-  },
-  {
-    "title": "Google\u2019s top hacker hunter explains why hacking groups get codenames",
-    "normalized": "google's top hacker hunter explains why hacking groups get codenames",
-    "content_hash": "5f5c351a1a13ebaa649fed988b7277f9"
-  },
-  {
-    "title": "Show HN: agent-hop \u2013 reverse-engineered session formats to resume in any agent",
-    "normalized": "show hn: agent-hop - reverse-engineered session formats to resume in any agent",
-    "content_hash": "65224570c598f6fd61a408ef99fefa37"
-  },
-  {
-    "title": "OpenAI acquires NextSlide as ChatGPT expands into PowerPoint",
-    "normalized": "openai acquires nextslide as chatgpt expands into powerpoint",
-    "content_hash": "03cc3d4563c2b489f342b180ec3f9aff"
-  },
-  {
-    "title": "What Happened: OpenAI and HuggingFace",
-    "normalized": "what happened: openai and huggingface",
-    "content_hash": "c142781f23e5ff3903f6ecbe9b19f848"
-  },
-  {
-    "title": "Prinevo Memory: A Domain-Pluggable Context Graph for Long-Term Agent Memory",
-    "normalized": "prinevo memory: a domain-pluggable context graph for long-term agent memory",
-    "content_hash": "e6c3c3156745d4d8af3613aecd64f44e"
-  },
-  {
-    "title": "OpenAI Acquires NextSlide, the AI Presentation Startup",
-    "normalized": "openai acquires nextslide, the ai presentation startup",
-    "content_hash": "103019bf22f61298151507ef3c738454"
-  },
-  {
-    "title": "Show HN: Tura \u2013 Build agent that uses 80% less token and delivers better results",
-    "normalized": "show hn: tura - build agent that uses 80% less token and delivers better results",
-    "content_hash": "4f301a7db92975b525df25cfcb5137ec"
-  },
-  {
-    "title": "You can build an AI agent's memory layer with only Go's standard library",
-    "normalized": "you can build an ai agent's memory layer with only go's standard library",
-    "content_hash": "fe5dc7dfaaf334f98bbb303334d790e5"
-  },
-  {
-    "title": "Show HN: Try Benzi \u2013 A coding harness/agent beating Claude Code itself on Sonnet",
-    "normalized": "show hn: try benzi - a coding harness/agent beating claude code itself on sonnet",
-    "content_hash": "4992a2b9d1f4d568a2b20b16c1778118"
-  },
-  {
-    "title": "OpenAI to pause some work on AI model Astra due to security concerns",
-    "normalized": "openai to pause some work on ai model astra due to security concerns",
-    "content_hash": "82701ded21440c69f09385576db13a39"
-  },
-  {
-    "title": "Apple's war on OpenAI is about who owns the Attachment Economy",
-    "normalized": "apple's war on openai is about who owns the attachment economy",
-    "content_hash": "8f232e18d950b448464adbcd7e366d85"
-  },
-  {
-    "title": "LLM-oriented programming \u2013 statistically revealed components",
-    "normalized": "llm-oriented programming - statistically revealed components",
-    "content_hash": "6891066138ea77764a81e0cff39db48d"
-  },
-  {
-    "title": "OpenAI Astra: A Paradigm Shift from Answers to Assignments",
-    "normalized": "openai astra: a paradigm shift from answers to assignments",
-    "content_hash": "fb2d8e601edd9823c57bd4688b292482"
-  },
-  {
-    "title": "OpenAI Trained Models While They Were Coordinating Exploits via Message Boards",
-    "normalized": "openai trained models while they were coordinating exploits via message boards",
-    "content_hash": "6cb21b7f063129b36baa48010526dc24"
-  },
-  {
-    "title": "Canon-A controlled English for model prompting and agent-to-agent communication",
-    "normalized": "canon-a controlled english for model prompting and agent-to-agent communication",
-    "content_hash": "742bee94358c6e37343d1a198d90d8e8"
-  },
-  {
-    "title": "I run a 9-model LLM council to write a financial newsletter. What breaks",
-    "normalized": "i run a 9-model llm council to write a financial newsletter. what breaks",
-    "content_hash": "6ef79345c64591d0fb789053cf26d80a"
-  },
-  {
-    "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
-    "normalized": "samsung's chip workers are jumping ship to rival sk hynix",
-    "content_hash": "5d6329783167f401af647fefa9902227"
-  },
-  {
-    "title": "Firebird Takes Its AI Factory Platform Global With a 2-Gigawatt Pipeline",
-    "normalized": "firebird takes its ai factory platform global with a 2-gigawatt pipeline",
-    "content_hash": "59ab1592928dbc342a1224ebf8d18885"
-  },
-  {
-    "title": "Anthropic\u2019s Silicon Team Is Hiring for Tapeout and Production Ramp",
-    "normalized": "anthropic's silicon team is hiring for tapeout and production ramp",
-    "content_hash": "a381ad34bb51bffe114b7e4289522229"
-  },
-  {
-    "title": "OpenAI Gives Free ChatGPT Users Unlimited Text Chats on GPT-5.6 Luna",
-    "normalized": "openai gives free chatgpt users unlimited text chats on gpt-5.6 luna",
-    "content_hash": "a210074343384b3c50de54255b887a79"
-  },
-  {
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "normalized": "planned amazon data center could become the biggest climate polluter in the u.s.",
-    "content_hash": "4664e487240c5c26bef534129892eb1a"
-  },
-  {
-    "title": "X replaces \u2018misaligned\u2019 revenue sharing program with Original Content Rewards",
-    "normalized": "x replaces 'misaligned' revenue sharing program with original content rewards",
-    "content_hash": "e0c8567b7c5d3c4e577fc7cee7f72ea5"
-  },
-  {
-    "title": "The Kindle Scribe Colorsoft is a lot of fun, but it\u2019s not a must-have",
-    "normalized": "the kindle scribe colorsoft is a lot of fun, but it's not a must-have",
-    "content_hash": "553cc68281cb83ab3360b9b7c823bfa3"
-  },
-  {
-    "title": "Wacom\u2019s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-    "normalized": "wacom's movinkpad 11 is a fun, midpriced entry point for digital artists",
-    "content_hash": "8eaaee73ab7d80fc4fdb8f8658bf4807"
-  },
-  {
     "title": "AI detectors are creating a new era of distrust",
     "normalized": "ai detectors are creating a new era of distrust",
     "content_hash": "0399e351893d4f996b0bed090fa53006"
@@ -2498,5 +2373,130 @@
     "title": "Show HN: AnyCreature. making 3D creature by agent. harness by 3D assets pipeline",
     "normalized": "show hn: anycreature. making 3d creature by agent. harness by 3d assets pipeline",
     "content_hash": "e7e2e7833b7f807572849fded2a7061c"
+  },
+  {
+    "title": "OpenAI launches a safer ChatGPT for teens \u2014 years after teens started using it",
+    "normalized": "openai launches a safer chatgpt for teens -- years after teens started using it",
+    "content_hash": "bee18a2ec94faf135c3317d6eabdeec5"
+  },
+  {
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "normalized": "openai overhauls safety protocols after its ai agents went rogue",
+    "content_hash": "212c1d3c0af74d057a0a1f76e9507868"
+  },
+  {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "normalized": "openai institutes new safeguards after hugging face breach",
+    "content_hash": "84546b165f4b2fe6364af19c05300d59"
+  },
+  {
+    "title": "Etched\u2019s valuation doubles to $21B in a month",
+    "normalized": "etched's valuation doubles to $21b in a month",
+    "content_hash": "35c33bb08f9c3987672c22b4cc8fdb74"
+  },
+  {
+    "title": "Perplexity\u2019s free AI offer left it with millions more users in India",
+    "normalized": "perplexity's free ai offer left it with millions more users in india",
+    "content_hash": "134a16a0e997d5fea4235e8dec0b49c3"
+  },
+  {
+    "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    "normalized": "ai \"mind viruses\" can spread between agents through persistent prompt files",
+    "content_hash": "dc26d72b1ae983d35de5b6c3e80f1979"
+  },
+  {
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "normalized": "openai lays out new security changes after its ai hacked hugging face",
+    "content_hash": "807f673e7aeab98d40c77377ed9b1da9"
+  },
+  {
+    "title": "OpenAI's Second-Quarter Sales Show Tepid Growth Compared with Anthropic",
+    "normalized": "openai's second-quarter sales show tepid growth compared with anthropic",
+    "content_hash": "d47e3a30d74ac07bd61db2c35e9af829"
+  },
+  {
+    "title": "OpenAI Overhauls Safety Protocols, Pauses Training Runs After Rogue Agents",
+    "normalized": "openai overhauls safety protocols, pauses training runs after rogue agents",
+    "content_hash": "3fa26988130935e7c402192ef5eaa205"
+  },
+  {
+    "title": "OpenAI built a safer ChatGPT, just not for you",
+    "normalized": "openai built a safer chatgpt, just not for you",
+    "content_hash": "e55929d91ace676ee51d5cac140985eb"
+  },
+  {
+    "title": "What Parents Need to Know About OpenAI's New ChatGPT for Teens",
+    "normalized": "what parents need to know about openai's new chatgpt for teens",
+    "content_hash": "4b2a0a68bc21cf92b30605be514bc687"
+  },
+  {
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "normalized": "cursor capitalizes on github frustration, launches rival hosting platform",
+    "content_hash": "a9b83a63f98f10176a04c49aa2770945"
+  },
+  {
+    "title": "TikTok explores peer-to-peer payments via DMs, report says",
+    "normalized": "tiktok explores peer-to-peer payments via dms, report says",
+    "content_hash": "c2f7262a4fa30a120de820e81712167d"
+  },
+  {
+    "title": "Why Apple\u2019s camera-equipped AirPods may not be the \u2018pervert pods\u2019 consumers fear",
+    "normalized": "why apple's camera-equipped airpods may not be the 'pervert pods' consumers fear",
+    "content_hash": "aa917c7ba52b75f3775aafa470dcde3e"
+  },
+  {
+    "title": "Peacock is raising prices across all of its streaming plans",
+    "normalized": "peacock is raising prices across all of its streaming plans",
+    "content_hash": "564336b805672fc8d88a5b409edf0537"
+  },
+  {
+    "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+    "normalized": "anthro energy breaks ground on factory that could pave the road to solid-state batteries",
+    "content_hash": "8c9ba2fe893e4743636a2d12c9405f58"
+  },
+  {
+    "title": "Warp\u2019s new system is an out-of-the-box software factory for AI development",
+    "normalized": "warp's new system is an out-of-the-box software factory for ai development",
+    "content_hash": "c5f85329ad5f3a35a4e68ead3b3436bc"
+  },
+  {
+    "title": "Apple\u2019s new macOS update reportedly contains a video of AirPods with a camera",
+    "normalized": "apple's new macos update reportedly contains a video of airpods with a camera",
+    "content_hash": "787ad0b2c92fa0d5bcdc51b0d7d04df5"
+  },
+  {
+    "title": "Daniel Ek\u2019s body-scanning startup Neko Health\u00a0opens first US office, in New York",
+    "normalized": "daniel ek's body-scanning startup neko health opens first us office, in new york",
+    "content_hash": "4e539412c6e6dedcf5727dab7366e7e2"
+  },
+  {
+    "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+    "normalized": "einride strikes deal to add 500 tesla semis to its fleet",
+    "content_hash": "ec8ed7bafb6cf5280c5a3b770a9ce960"
+  },
+  {
+    "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+    "normalized": "microsoft copilot personal flaws could let one click exfiltrate data from connected apps",
+    "content_hash": "cb7e141e47e2ff62b8ff1ec1ced19061"
+  },
+  {
+    "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+    "normalized": "twinloot abuses sharepoint and teams to steal credentials and move across networks",
+    "content_hash": "4adc49ea7b2e4a63f900ecc186416994"
+  },
+  {
+    "title": "SteelSeries\u2019 comfy wireless gaming headset is nearly half off",
+    "normalized": "steelseries' comfy wireless gaming headset is nearly half off",
+    "content_hash": "48ec2b931d04d722ee4c46b40a8eda66"
+  },
+  {
+    "title": "Robin Williams\u2019 Instagram account brought back to fight \u2018AI abuse\u2019",
+    "normalized": "robin williams' instagram account brought back to fight 'ai abuse'",
+    "content_hash": "374f4eded672dadf8a9d25339d38b36d"
+  },
+  {
+    "title": "Samsung\u2019s Galaxy Buds 3 Pro are almost half off today",
+    "normalized": "samsung's galaxy buds 3 pro are almost half off today",
+    "content_hash": "c98fdba4bafe1c36e0318691f243fad6"
   }
 ]
