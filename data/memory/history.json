@@ -1,130 +1,5 @@
 [
   {
-    "title": "AI detectors are creating a new era of distrust",
-    "normalized": "ai detectors are creating a new era of distrust",
-    "content_hash": "0399e351893d4f996b0bed090fa53006"
-  },
-  {
-    "title": "70% of AI revenue comes from OpenAI and Anthropic",
-    "normalized": "70% of ai revenue comes from openai and anthropic",
-    "content_hash": "95c135b697e1bedf829cd57b3516f3fd"
-  },
-  {
-    "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
-    "normalized": "model genome: fingerprinting whether an llm was trained from scratch or derived",
-    "content_hash": "815a4d3d2d35e6d04762d63dd7035b07"
-  },
-  {
-    "title": "Lessons from Reducing My Coding Agent's LLM API Costs",
-    "normalized": "lessons from reducing my coding agent's llm api costs",
-    "content_hash": "be57bd72ab9c2e9419197d2a96195fbf"
-  },
-  {
-    "title": "Show HN: Aidress \u2013 LangChain integration for cross-agent discovery and trust",
-    "normalized": "show hn: aidress - langchain integration for cross-agent discovery and trust",
-    "content_hash": "2efe084645243bc3d044d10f7f6ede9a"
-  },
-  {
-    "title": "Today\u2019s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-    "normalized": "today's the last day to get up to $400 off your techcrunch disrupt 2026 ticket",
-    "content_hash": "f4a00ae66a93c2bacc13abf4730ef96c"
-  },
-  {
-    "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-    "normalized": "trump administration has spent nearly $4b to cancel offshore wind farms",
-    "content_hash": "bde018fe106a4dc2a9c852ce98069bb5"
-  },
-  {
-    "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-    "normalized": "host your own piece of disrupt: apply to run a side event at techcrunch disrupt 2026",
-    "content_hash": "8c1ae5a055afd34ea2ec42f3e295732d"
-  },
-  {
-    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "normalized": "new mexico court orders meta to pay additional $567m in child safety case",
-    "content_hash": "df1a76586911efe0de0ca77e0c55c2c2"
-  },
-  {
-    "title": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
-    "normalized": "4 best compression boots: therabody, hyperice, and more (2026)",
-    "content_hash": "8bb3fba27d35944510685824f719e35a"
-  },
-  {
-    "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How",
-    "normalized": "meetily lets you transcribe and summarize meetings without a subscription--here's how",
-    "content_hash": "a510a3bc6047c1a3618ab917859b9ab4"
-  },
-  {
-    "title": "8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)",
-    "normalized": "8 best workout headphones & earbuds: beats, bose, apple (2026)",
-    "content_hash": "3dcc1041968df8a993841e5b11fce8b9"
-  },
-  {
-    "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-    "normalized": "these ai barons are ready to give away their fortunes",
-    "content_hash": "3658eec04c7772cf1c279261dac32121"
-  },
-  {
-    "title": "Census Proposal Would Stop Counting Undocumented Immigrants\u2014and Ignore Race and Sexual Orientation",
-    "normalized": "census proposal would stop counting undocumented immigrants--and ignore race and sexual orientation",
-    "content_hash": "282596ec23fdc9b39f2c829be5ac95bf"
-  },
-  {
-    "title": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
-    "normalized": "the excellent hp omnibook 5 is $550 off its retail price today",
-    "content_hash": "ef6cef3dadfe0c077186cd4b04dbc7ef"
-  },
-  {
-    "title": "Flock\u2019s Plans for Rideshare Dashcams and Coaching Police, Revealed",
-    "normalized": "flock's plans for rideshare dashcams and coaching police, revealed",
-    "content_hash": "024148900adc1553ec18481fb2e1299c"
-  },
-  {
-    "title": "Sensitive Info Goes Into \u2018No Reply\u2019 Emails Constantly. This Guy Sees It All",
-    "normalized": "sensitive info goes into 'no reply' emails constantly. this guy sees it all",
-    "content_hash": "194904340c466fdb01b9a4277bedf435"
-  },
-  {
-    "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
-    "normalized": "hairmax laserband 82 comfortflex review: putting down new roots",
-    "content_hash": "6f81833379c90aa45529c4887493e763"
-  },
-  {
-    "title": "Scientists Used AI to Create 16 New Viruses",
-    "normalized": "scientists used ai to create 16 new viruses",
-    "content_hash": "0fbc5e9be84daf2292c3480e70979183"
-  },
-  {
-    "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-    "normalized": "atlassian rovo can be tricked into sending jira and confluence data to attackers",
-    "content_hash": "19cb64e831609dd2ad61f14906c40d61"
-  },
-  {
-    "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-    "normalized": "new css attacks can break webmail defenses to steal passwords and tokens",
-    "content_hash": "90fda86056c2153071c10ee9e24ae68e"
-  },
-  {
-    "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-    "normalized": "metabase zero-day exploited in wild allows admin access without authentication",
-    "content_hash": "30555969916d9a302444d0388bb21d26"
-  },
-  {
-    "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-    "normalized": "n-able issues n-central hotfix 2 as attackers reach managed systems and persist",
-    "content_hash": "ba3a6f2c30773a79caddfa6764940648"
-  },
-  {
-    "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-    "normalized": "nearly 800 malicious npm packages deliver cross-platform rat and infostealer",
-    "content_hash": "98bd8fea006c0e52c5b80119cbc90bc5"
-  },
-  {
-    "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-    "normalized": "clickfix attacks deliver macos stealer that can drain crypto wallets",
-    "content_hash": "84e9fe79cd8d0bed3fe29e757a83ff9b"
-  },
-  {
     "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "normalized": "embattled hedge fund situational awareness invests $400m in chip startup source foundry",
     "content_hash": "5edf4e16d65763015bd433b9b95b0005"
@@ -2498,5 +2373,130 @@
     "title": "Samsung\u2019s Galaxy Buds 3 Pro are almost half off today",
     "normalized": "samsung's galaxy buds 3 pro are almost half off today",
     "content_hash": "c98fdba4bafe1c36e0318691f243fad6"
+  },
+  {
+    "title": "OpenAI says announcement it would buy Irish teenager's startup was a 'joke'",
+    "normalized": "openai says announcement it would buy irish teenager's startup was a 'joke'",
+    "content_hash": "7d2f555335849f952635ad700a4ebcc5"
+  },
+  {
+    "title": "Artificial Analysis: LLM search API providers",
+    "normalized": "artificial analysis: llm search api providers",
+    "content_hash": "f7ce61c9ebbc3a01231f27228d027116"
+  },
+  {
+    "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+    "normalized": "openai makes chatgpt less 'human' for teens in new safety update",
+    "content_hash": "a37607402e990c019187fa9efe84af4b"
+  },
+  {
+    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+    "normalized": "gxp-agent: process-dag topology for reliable clinical trial programming with llm agents",
+    "content_hash": "e4ec9636f26840889d2cf30ab41a7980"
+  },
+  {
+    "title": "AI isn\u2019t close to curing cancer. This startup says it knows what it will take.",
+    "normalized": "ai isn't close to curing cancer. this startup says it knows what it will take.",
+    "content_hash": "58a96b3b43d5aec078ee52966d407498"
+  },
+  {
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "normalized": "relativity networks raises $22 million to bring a faster kind of fiber to data centers",
+    "content_hash": "17acd16afd30a8f8e4c6c73f7b06027c"
+  },
+  {
+    "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+    "normalized": "microsoft links 30+ rotating domains to macsync stealer infrastructure",
+    "content_hash": "54afbb0515c9e5af07cb4626e4a68ba3"
+  },
+  {
+    "title": "Sider 6.0",
+    "normalized": "sider 6.0",
+    "content_hash": "139d5c34890fa6ce4e286c9d8f97042e"
+  },
+  {
+    "title": "ChatGPT for Teens",
+    "normalized": "chatgpt for teens",
+    "content_hash": "1a78ced3dddd83dda72bb3401bc8f8ff"
+  },
+  {
+    "title": "Amazon\u2019s drones will soon deliver to nearly 500 US cities and towns",
+    "normalized": "amazon's drones will soon deliver to nearly 500 us cities and towns",
+    "content_hash": "24427e1bb80f3681ce3fc3572256dd30"
+  },
+  {
+    "title": "The everyday tech I use to track my corgi",
+    "normalized": "the everyday tech i use to track my corgi",
+    "content_hash": "f439834eeeb291d1c265e9179484c5d6"
+  },
+  {
+    "title": "Apple squashes EU beef with new App Store rules",
+    "normalized": "apple squashes eu beef with new app store rules",
+    "content_hash": "1d411e0902826e6968ab75a9fefbc457"
+  },
+  {
+    "title": "Tesla is finally launching the Cybercab \u2014 let\u2019s hope it\u2019s ready",
+    "normalized": "tesla is finally launching the cybercab -- let's hope it's ready",
+    "content_hash": "d4606900a72b992ab883986f6f25a590"
+  },
+  {
+    "title": "OpenAI slows model training to bolster security after Hugging Face hack",
+    "normalized": "openai slows model training to bolster security after hugging face hack",
+    "content_hash": "a97add70e4d6da2bc22be67db13021fb"
+  },
+  {
+    "title": "Anthropic Posts First Profitable Quarter in Frontier AI",
+    "normalized": "anthropic posts first profitable quarter in frontier ai",
+    "content_hash": "42b715d9389c90022425d312a9e95e33"
+  },
+  {
+    "title": "Giving LLM the schema docs made its wrong SQL answers more plausible, not rarer",
+    "normalized": "giving llm the schema docs made its wrong sql answers more plausible, not rarer",
+    "content_hash": "7e58d362ec304d5834f691406415e29e"
+  },
+  {
+    "title": "Show HN: Knownbase, an MCP server for persistent AI agent memory",
+    "normalized": "show hn: knownbase, an mcp server for persistent ai agent memory",
+    "content_hash": "744e2723e26335fcc762e3adb8e3a26e"
+  },
+  {
+    "title": "Show HN: Cairn \u2013 self-hosted Shape Up tool with a code-aware PM agent",
+    "normalized": "show hn: cairn - self-hosted shape up tool with a code-aware pm agent",
+    "content_hash": "476b85b649575b7e80315ec9f18da087"
+  },
+  {
+    "title": "OpenAI Is Taking Its Ad Business to 31 New European Markets",
+    "normalized": "openai is taking its ad business to 31 new european markets",
+    "content_hash": "f11a73ce3d6ab37286e8d1751fbf0641"
+  },
+  {
+    "title": "Show HN: Veyra - Self evolving AI agent",
+    "normalized": "show hn: veyra - self evolving ai agent",
+    "content_hash": "94c6d458be9bb187c1b9166bd212ca7b"
+  },
+  {
+    "title": "BYOKs for an LLM with a Brain",
+    "normalized": "byoks for an llm with a brain",
+    "content_hash": "1cb9c0c091a5b49ffd1554166fca05bc"
+  },
+  {
+    "title": "Show HN: PlugClaw \u2013 Private AI agent hardware for any phone or PC",
+    "normalized": "show hn: plugclaw - private ai agent hardware for any phone or pc",
+    "content_hash": "ed391210c28893aac224a5e3338997fb"
+  },
+  {
+    "title": "Show HN: Memanto Is a Memory Agent",
+    "normalized": "show hn: memanto is a memory agent",
+    "content_hash": "d4110844d594f66195928f21dced72c5"
+  },
+  {
+    "title": "SERP Lens \u2013 an AI agent that does SEO work in a real browser",
+    "normalized": "serp lens - an ai agent that does seo work in a real browser",
+    "content_hash": "6bd7a448e40cae272d24553c8e4e6e8a"
+  },
+  {
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "normalized": "how nvidia scales expertise with chatgpt work",
+    "content_hash": "dfe9d6f551bdeb176554e136adf6d0d9"
   }
 ]
