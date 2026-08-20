@@ -1,130 +1,5 @@
 [
   {
-    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "normalized": "discovered materials is playing ai whack-a-mole to hunt cooler chips",
-    "content_hash": "ac71870b251424a5d9345c3fd7a3e49c"
-  },
-  {
-    "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-    "normalized": "openai's next ai model astra shows cyber performance strong enough to trigger pause",
-    "content_hash": "bc78af37820d182fefad742ddbeef09e"
-  },
-  {
-    "title": "The first rival Android app store just arrived in the US Play Store",
-    "normalized": "the first rival android app store just arrived in the us play store",
-    "content_hash": "cbbff68fb715c955a68012c584ceaa8e"
-  },
-  {
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "normalized": "how avatarin built a 24/7 retail agent with gpt-realtime",
-    "content_hash": "90d57b8e1db5bb2746b34ca24ddbd1f8"
-  },
-  {
-    "title": "These startups are chasing the next big thing in LLMs",
-    "normalized": "these startups are chasing the next big thing in llms",
-    "content_hash": "da837d414c4b4bfd5e965315a0a0caed"
-  },
-  {
-    "title": "Google Play adds Venmo as a payment option",
-    "normalized": "google play adds venmo as a payment option",
-    "content_hash": "0f06f124a3cbf35c7878a69163e36b73"
-  },
-  {
-    "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-    "normalized": "solidity pro vs code extensions steal crypto wallets, api keys, and credentials",
-    "content_hash": "dc40a23e360e7a5df55d7de125429a76"
-  },
-  {
-    "title": "Ford\u2019s new AI assistant can check your fuel levels and tire pressure",
-    "normalized": "ford's new ai assistant can check your fuel levels and tire pressure",
-    "content_hash": "e95d9d76ad54fb058cea34fa2c38395a"
-  },
-  {
-    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-    "normalized": "docker sandboxes - disposable, isolated sandboxes for ai agents",
-    "content_hash": "e06feddfaaa6fdbead088ed7dfacbe04"
-  },
-  {
-    "title": "Meta's new open-weight model targets local agentic AI",
-    "normalized": "meta's new open-weight model targets local agentic ai",
-    "content_hash": "1b44535e3e267b1ceb8303c7ac0f1182"
-  },
-  {
-    "title": "Show HN: Taalas-style on-chip LLM weights on a $250 AMD FPGA (60k tok/s)",
-    "normalized": "show hn: taalas-style on-chip llm weights on a $250 amd fpga (60k tok/s)",
-    "content_hash": "2d0021b53133ce0c7145bdab22e0f618"
-  },
-  {
-    "title": "OpenAI tightens controls on its new model over cybersecurity risks",
-    "normalized": "openai tightens controls on its new model over cybersecurity risks",
-    "content_hash": "7c1ddb6c9f2e760a743a890d565843dd"
-  },
-  {
-    "title": "The OpenAI and Hugging Face breach story told from the perspective of the AI",
-    "normalized": "the openai and hugging face breach story told from the perspective of the ai",
-    "content_hash": "58be17b875a476f108b33ca255ecc72e"
-  },
-  {
-    "title": "Meta releases a 30B agent model that fits in ~17GB",
-    "normalized": "meta releases a 30b agent model that fits in ~17gb",
-    "content_hash": "9cff2b80cff4676f870497d82496d5a2"
-  },
-  {
-    "title": "Did Apple Search engine bot enter the security LLM fuzzing gauntlet",
-    "normalized": "did apple search engine bot enter the security llm fuzzing gauntlet",
-    "content_hash": "191164a7594541ef1a8cbfbc81f054f2"
-  },
-  {
-    "title": "Prime Agent: A Self-Improving RLM Agent",
-    "normalized": "prime agent: a self-improving rlm agent",
-    "content_hash": "54ea8f869a8ebc4d2833a39810ee2be4"
-  },
-  {
-    "title": "We Build an Autonomous SRE Agent for Kubernetes Deployments",
-    "normalized": "we build an autonomous sre agent for kubernetes deployments",
-    "content_hash": "5f716bbec2a2dab9716ed65579f39812"
-  },
-  {
-    "title": "Kimi K3 Sandbox Escape Exposes Weak Links in Agent Testing",
-    "normalized": "kimi k3 sandbox escape exposes weak links in agent testing",
-    "content_hash": "db98541639498c89c8ef63bbf57b676a"
-  },
-  {
-    "title": "Escaping the LLM Coding Rat Race",
-    "normalized": "escaping the llm coding rat race",
-    "content_hash": "e7948ad46616d7d281f7e8527a96b9a7"
-  },
-  {
-    "title": "Show HN: Memcode AI goes open source with Claude Code inspired coding agent",
-    "normalized": "show hn: memcode ai goes open source with claude code inspired coding agent",
-    "content_hash": "8030968a901cf8d818823d003e9afbcd"
-  },
-  {
-    "title": "Show HN: Ask your coding agent to subtitle, translate, and clip video (FFmpeg)",
-    "normalized": "show hn: ask your coding agent to subtitle, translate, and clip video (ffmpeg)",
-    "content_hash": "28bff26a6f3941ef41af855a0215e02c"
-  },
-  {
-    "title": "Multi-Agent Coach Adversarial Eval. Passed Designed Traps and Basics Failed",
-    "normalized": "multi-agent coach adversarial eval. passed designed traps and basics failed",
-    "content_hash": "3478489d14cf3efdf358e03fdb17a937"
-  },
-  {
-    "title": "Show HN: SynapsCLI \u2013 lightweight agent runtime in Rust, control an agent swarm",
-    "normalized": "show hn: synapscli - lightweight agent runtime in rust, control an agent swarm",
-    "content_hash": "e2422af78190c5da5a7a7708f91feb2e"
-  },
-  {
-    "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
-    "normalized": "webgrader: training llms for web development with self-evolving programmatic grader",
-    "content_hash": "e33c07274654d830e0524e95fc442a1a"
-  },
-  {
-    "title": "Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation",
-    "normalized": "shape your feed: an llm-based agentic system for conversational recommendation",
-    "content_hash": "0bcaaacfa62e9c0352a8a69d4de4ca15"
-  },
-  {
     "title": "Show HN: Keen Code \u2013 an agentic-engineered coding agent",
     "normalized": "show hn: keen code - an agentic-engineered coding agent",
     "content_hash": "717aad0b6dac890dcec807b922429cb7"
@@ -2498,5 +2373,130 @@
     "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
     "normalized": "phishing 3.0: the fight moves to agent versus agent",
     "content_hash": "f6960867b0cda95a7bc35638c117f4c4"
+  },
+  {
+    "title": "The Arduino UNO Q is an almost perfect Hermes Agent host",
+    "normalized": "the arduino uno q is an almost perfect hermes agent host",
+    "content_hash": "09bc8ad2525a066327d2eb067e35fc6f"
+  },
+  {
+    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "normalized": "binance now lets ai agents trade, but keeping them in check is largely up to users",
+    "content_hash": "dc28c7ca1580c8d8e22776b5ba6f7734"
+  },
+  {
+    "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
+    "normalized": "launch hn: onecli (yc s26) - oss sandboxed agent harness for teams",
+    "content_hash": "0f34d2890a5704e09fe6c74cb20176d1"
+  },
+  {
+    "title": "Slack is launching collaborative vibe-coding channels",
+    "normalized": "slack is launching collaborative vibe-coding channels",
+    "content_hash": "3bbed03a2b68369abcf6088a78cf4173"
+  },
+  {
+    "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
+    "normalized": "ai agent suggested installing a malware package. engineer almost took its advice",
+    "content_hash": "07d1975f406f14a2eb19ec5872560127"
+  },
+  {
+    "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+    "normalized": "large language models in mental health: a systematic review of applications, innovations, and ethical challenges",
+    "content_hash": "a9f787dbe6fcd5b8c3df99bb9ded90a8"
+  },
+  {
+    "title": "Meta AI\u2019s new Mac app wants you to talk to your apps",
+    "normalized": "meta ai's new mac app wants you to talk to your apps",
+    "content_hash": "851dbb2ea8b86b3a346fd10c12bd5219"
+  },
+  {
+    "title": "Meta glasses are a workplace menace",
+    "normalized": "meta glasses are a workplace menace",
+    "content_hash": "89183f002c4d199cec4eb0ebbf957ce6"
+  },
+  {
+    "title": "The piano that taught my cat to play for her supper",
+    "normalized": "the piano that taught my cat to play for her supper",
+    "content_hash": "4e629370ae881cb9f6394f4104e4dfda"
+  },
+  {
+    "title": "The Audi S6 Sportback E-tron proves that sedans still matter",
+    "normalized": "the audi s6 sportback e-tron proves that sedans still matter",
+    "content_hash": "af276c3baa02177ec52e73e244d7f90e"
+  },
+  {
+    "title": "Sennheiser\u2019s new Momentum 5 earbuds feature easily replaceable batteries",
+    "normalized": "sennheiser's new momentum 5 earbuds feature easily replaceable batteries",
+    "content_hash": "1e4b966f27afc6b013294e7cd4d41a8e"
+  },
+  {
+    "title": "LG\u2019s new OLED breakthrough can boost display lifespans",
+    "normalized": "lg's new oled breakthrough can boost display lifespans",
+    "content_hash": "baddbdd5f943e906e0954d754b8f851b"
+  },
+  {
+    "title": "Does giving a camera wings dodge the FCC\u2019s drone ban?",
+    "normalized": "does giving a camera wings dodge the fcc's drone ban?",
+    "content_hash": "de42a5d9422c11e224f7c77ff10e3ef7"
+  },
+  {
+    "title": "Google Gemini is getting a dedicated student hub",
+    "normalized": "google gemini is getting a dedicated student hub",
+    "content_hash": "8393cb86b6c6e3ab404a7643b2e93b5e"
+  },
+  {
+    "title": "AI didn't erase the junior engineer's value, it increased it it",
+    "normalized": "ai didn't erase the junior engineer's value, it increased it it",
+    "content_hash": "5fb626f81e30194dc9518451da5a40eb"
+  },
+  {
+    "title": "The Agent Loop Has Always Been There",
+    "normalized": "the agent loop has always been there",
+    "content_hash": "060e1d05f092d313aec54b6de2505836"
+  },
+  {
+    "title": "Use your favorite coding agent with any model",
+    "normalized": "use your favorite coding agent with any model",
+    "content_hash": "fd7702f66de3ac45800287cd6476e1ec"
+  },
+  {
+    "title": "India Country Brief: The Anthropic Economic Index",
+    "normalized": "india country brief: the anthropic economic index",
+    "content_hash": "a48a922009301daf66f7aa345ba7c8c0"
+  },
+  {
+    "title": "Show HN: Do-over, undo for AI agent shell commands",
+    "normalized": "show hn: do-over, undo for ai agent shell commands",
+    "content_hash": "980ff7d375912f0613df6255292c4cdb"
+  },
+  {
+    "title": "LLM Reasoning Traces Are Not Audit Records",
+    "normalized": "llm reasoning traces are not audit records",
+    "content_hash": "ea1f69f04b83ca7e1154757571b325aa"
+  },
+  {
+    "title": "Misconfigured Admin System Prompts Can Invert an LLM's Safety Layer",
+    "normalized": "misconfigured admin system prompts can invert an llm's safety layer",
+    "content_hash": "4ca01f5be938f60e8dc9981faefff687"
+  },
+  {
+    "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
+    "normalized": "round hill music sues suno and anthropic for $1b over ai training data",
+    "content_hash": "bc03aaf162f514f5767a2b237a0de45a"
+  },
+  {
+    "title": "Collaborative Human Agent Protocol (CHAP)",
+    "normalized": "collaborative human agent protocol (chap)",
+    "content_hash": "27f29cc50f80103759fd28a7190e84fb"
+  },
+  {
+    "title": "Vibe-Kanban-Alternative \u2013 Classic AI agent Kanban with mem0 persistent memory",
+    "normalized": "vibe-kanban-alternative - classic ai agent kanban with mem0 persistent memory",
+    "content_hash": "065cefa76c8c0915843129c98d6eb045"
+  },
+  {
+    "title": "Did OpenAI's AI hack Hugging Face? An evidence audit",
+    "normalized": "did openai's ai hack hugging face? an evidence audit",
+    "content_hash": "a511cad153b787dcd292fb62d597876a"
   }
 ]
