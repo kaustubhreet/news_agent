@@ -1,130 +1,5 @@
 [
   {
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "normalized": "embattled hedge fund situational awareness invests $400m in chip startup source foundry",
-    "content_hash": "5edf4e16d65763015bd433b9b95b0005"
-  },
-  {
-    "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-    "normalized": "israeli startup was linked to rogue ai hacks at openai, anthropic and meta",
-    "content_hash": "3917abfadca6fc74573d79b35185f4d9"
-  },
-  {
-    "title": "The AI safety test is becoming a safety risk",
-    "normalized": "the ai safety test is becoming a safety risk",
-    "content_hash": "dba5d0d3794a6135d95aae57e076deba"
-  },
-  {
-    "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
-    "normalized": "show hn: pacific slate: a self-hosted, model-agnostic multi-agent ai assistant",
-    "content_hash": "70d7a3ed5a02d7f5718794b3af488f2a"
-  },
-  {
-    "title": "Devs to Anthropic, OpenAI, Cursor, and friends Make security and privacy default",
-    "normalized": "devs to anthropic, openai, cursor, and friends make security and privacy default",
-    "content_hash": "efb69f1c2348482fed86a923b371ccc6"
-  },
-  {
-    "title": "gpt-5.6-sol agent harness in 17 lines PHP",
-    "normalized": "gpt-5.6-sol agent harness in 17 lines php",
-    "content_hash": "e28125d6e736ca0bd956a95bc65a2f1e"
-  },
-  {
-    "title": "What Happened: OpenAI and Hugging Face",
-    "normalized": "what happened: openai and hugging face",
-    "content_hash": "cf216a2a0e1e6625e895f5ecdd01545d"
-  },
-  {
-    "title": "Captaining your AI: new human-agent UX paradigm",
-    "normalized": "captaining your ai: new human-agent ux paradigm",
-    "content_hash": "5722f9f785b6d4e757d5cfef4fd186aa"
-  },
-  {
-    "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
-    "normalized": "anthropic is turning claude code's auto mode on by default",
-    "content_hash": "37c1ed5c72a9385849fe9e0fc05edc5d"
-  },
-  {
-    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber\u2019s AV empire",
-    "normalized": "techcrunch mobility: zoox prepares for launch and uber's av empire",
-    "content_hash": "3c911f510b025dbe2c964a8778be490b"
-  },
-  {
-    "title": "This\u00a0former\u00a0notorious red-light district\u00a0is now\u00a0one of the world\u2019s top AI hubs",
-    "normalized": "this former notorious red-light district is now one of the world's top ai hubs",
-    "content_hash": "1db874685c8fde8cb6896f0f54b5d2e6"
-  },
-  {
-    "title": "49ers coach says his Tesla was on Autopilot when he crashed",
-    "normalized": "49ers coach says his tesla was on autopilot when he crashed",
-    "content_hash": "117add9149081f8b26fb6de54464e0ee"
-  },
-  {
-    "title": "Dropbox is a PC builder\u2019s best friend",
-    "normalized": "dropbox is a pc builder's best friend",
-    "content_hash": "ace230a037ef2b62a9758cbd8d3a44a5"
-  },
-  {
-    "title": "Human vs. AI \u2013 Diff-based line-level provenance for text under agentic editing",
-    "normalized": "human vs. ai - diff-based line-level provenance for text under agentic editing",
-    "content_hash": "1088c51678562ba39a9c489ca04e477d"
-  },
-  {
-    "title": "Testing Anthropic's RSI Claims",
-    "normalized": "testing anthropic's rsi claims",
-    "content_hash": "88f576f441e9cace0de0cae4be827280"
-  },
-  {
-    "title": "AI Agent Qubitz",
-    "normalized": "ai agent qubitz",
-    "content_hash": "6a340228f60631d5cdcce653ddfc5e75"
-  },
-  {
-    "title": "The OpenAI and Hugging Face incident, explained in simple terms",
-    "normalized": "the openai and hugging face incident, explained in simple terms",
-    "content_hash": "ac32574f1253899f7a8e14eae6c263d1"
-  },
-  {
-    "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-    "normalized": "an openai strategist says ai labs should rival government power",
-    "content_hash": "84811e0a61e3e0ea9d5851e5c1edf144"
-  },
-  {
-    "title": "Adversarial LLM Reversal for hermes-agent",
-    "normalized": "adversarial llm reversal for hermes-agent",
-    "content_hash": "f8d0161b0f110bcb6f99b8b0dfb341fb"
-  },
-  {
-    "title": "Show HN: Job Seeker \u2013 AI agent skills for job searching",
-    "normalized": "show hn: job seeker - ai agent skills for job searching",
-    "content_hash": "c491913a1a3625f6d3be508d8ff5503e"
-  },
-  {
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "normalized": "accelerating scientific discovery with chatgpt for academic researchers",
-    "content_hash": "7d22669e217f6a6c5c70b851893ded4d"
-  },
-  {
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "normalized": "how gpt-5.6 fuses frontier intelligence with frontier efficiency",
-    "content_hash": "75797208210aa6b83ff8ce8231087651"
-  },
-  {
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "normalized": "historian jill lepore says silicon valley misreads science fiction and undermines democracy",
-    "content_hash": "06d8e910f1dda6167c3508b678492a85"
-  },
-  {
-    "title": "This \u2018adversarial\u2019 pattern can prevent surveillance cameras from detecting you",
-    "normalized": "this 'adversarial' pattern can prevent surveillance cameras from detecting you",
-    "content_hash": "b9d8752958490aacfff9c8d4b656e0a1"
-  },
-  {
-    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-    "normalized": "new wordpress pre-auth xss could lead to php code execution - patch asap",
-    "content_hash": "65231f7ee7a4bcada546cebccd9517c9"
-  },
-  {
     "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
     "normalized": "discovered materials is playing ai whack-a-mole to hunt cooler chips",
     "content_hash": "ac71870b251424a5d9345c3fd7a3e49c"
@@ -2498,5 +2373,130 @@
     "title": "How NVIDIA scales expertise with ChatGPT Work",
     "normalized": "how nvidia scales expertise with chatgpt work",
     "content_hash": "dfe9d6f551bdeb176554e136adf6d0d9"
+  },
+  {
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "normalized": "cognition ceo denies report that spacex tried to acquire the startup",
+    "content_hash": "1862f2b2df4a67e7adf2e822fa2718d3"
+  },
+  {
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "normalized": "openai seeks to one-up anthropic with new customer privacy protections",
+    "content_hash": "eb2e9ac9906e1d82e2f0f83ee7906040"
+  },
+  {
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "normalized": "google packs search and gemini with new ai study tools",
+    "content_hash": "051843021608400dbff9d010f83c6477"
+  },
+  {
+    "title": "OpenAI hit the brakes. Now what?",
+    "normalized": "openai hit the brakes. now what?",
+    "content_hash": "4696c5536b577a4510c4a5be275970dd"
+  },
+  {
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "normalized": "venturebeat names rob strechay as its first lead analyst, expanding its enterprise ai research push",
+    "content_hash": "280c1bda2c76b45920aa89c5c4c22c15"
+  },
+  {
+    "title": "Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",
+    "normalized": "stripe didn't really buy openrouter because of the 'singularity'",
+    "content_hash": "b714247f55fd2140324c252cc07dd27c"
+  },
+  {
+    "title": "Rillet raises $100M Series C at $1B valuation \u2014 2 years after emerging from stealth",
+    "normalized": "rillet raises $100m series c at $1b valuation -- 2 years after emerging from stealth",
+    "content_hash": "77a56e29a5c9c6c93fdb6b8b67b2b927"
+  },
+  {
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "normalized": "researchers say openai revoked their access to limited cyber program",
+    "content_hash": "b12d30caa5bef4451865d7f95efc7427"
+  },
+  {
+    "title": "Meet the startup helping Wall\u00a0Street put\u00a0a price on AI compute",
+    "normalized": "meet the startup helping wall street put a price on ai compute",
+    "content_hash": "f032cfd2e5eb435e743e76ab1aeae5b9"
+  },
+  {
+    "title": "Grab an iPad Air M4 for its lowest price since the June increase",
+    "normalized": "grab an ipad air m4 for its lowest price since the june increase",
+    "content_hash": "a4a97d105ca07cbe8d3ce13e4f56ef2d"
+  },
+  {
+    "title": "Veeda AI Raises $90M+ Seed Backed by Khosla and Radical to Build World Models for Physical AI",
+    "normalized": "veeda ai raises $90m+ seed backed by khosla and radical to build world models for physical ai",
+    "content_hash": "4ae313ba555d44dd09595b851f6b3d81"
+  },
+  {
+    "title": "Waymo\u2019s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+    "normalized": "waymo's cheaper, next-gen robotaxi is now open to all riders in these three cities",
+    "content_hash": "46047de429f8cf66f4ab9bbd5a5f95a5"
+  },
+  {
+    "title": "Travis Kalanick kicks off another round of VC bashing: \u20181% are helpful\u2019",
+    "normalized": "travis kalanick kicks off another round of vc bashing: '1% are helpful'",
+    "content_hash": "47a0bf9e7539737ac671519b5d5b82b4"
+  },
+  {
+    "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+    "normalized": "gambling on the little league world series? sports bettors have gone too far",
+    "content_hash": "8b2148df6cbf7785df9b93faec1c29ae"
+  },
+  {
+    "title": "AI was supposed to win people over by now \u2014 it hasn\u2019t",
+    "normalized": "ai was supposed to win people over by now -- it hasn't",
+    "content_hash": "e39f9a4ad017e1d5113ae2a9c655687a"
+  },
+  {
+    "title": "Time\u2019s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "normalized": "time's running out! save $300 on your techcrunch disrupt 2026 pass until august 21",
+    "content_hash": "ad9cce860cf790c7e94365ed809682df"
+  },
+  {
+    "title": "TerraPower\u2019s nuclear reactor has a secret weapon for powering AI data centers",
+    "normalized": "terrapower's nuclear reactor has a secret weapon for powering ai data centers",
+    "content_hash": "5cc7e5cc5376c6e34373bb58ba1b82d2"
+  },
+  {
+    "title": "Rivian spinout Also raises another $150M",
+    "normalized": "rivian spinout also raises another $150m",
+    "content_hash": "e459b625fc3e0a001dc8618795a80c83"
+  },
+  {
+    "title": "Sachin Bansal\u2019s fintech Navi raises first outside capital with $100M Prosus investment",
+    "normalized": "sachin bansal's fintech navi raises first outside capital with $100m prosus investment",
+    "content_hash": "ee90353b054ec038dae013a0b9998e2d"
+  },
+  {
+    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+    "normalized": "amazon makes its ai-powered alexa+ free on fire tv, no prime required",
+    "content_hash": "a112077744d8fc5fd8dc2f5c6dd87922"
+  },
+  {
+    "title": "Amazon\u2019s Prime Air is taking off in nearly 500 US cities",
+    "normalized": "amazon's prime air is taking off in nearly 500 us cities",
+    "content_hash": "01f28604eb06689ca3c8afb7a34ace78"
+  },
+  {
+    "title": "Coders Say They Already Found Workarounds to Claude\u2019s Invisible Watermarks",
+    "normalized": "coders say they already found workarounds to claude's invisible watermarks",
+    "content_hash": "f87a38edd7789fd55f165e901c722a32"
+  },
+  {
+    "title": "Google Pixel Watch 5 Review: More Health, More AI",
+    "normalized": "google pixel watch 5 review: more health, more ai",
+    "content_hash": "b151a8733eccf7dfc50e7f85c6f2b3e1"
+  },
+  {
+    "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+    "normalized": "openai pauses frontier rl training as it tightens defenses against unsafe ai behavior",
+    "content_hash": "4e7acc82bb1600930baf46ada40be524"
+  },
+  {
+    "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+    "normalized": "phishing 3.0: the fight moves to agent versus agent",
+    "content_hash": "f6960867b0cda95a7bc35638c117f4c4"
   }
 ]
