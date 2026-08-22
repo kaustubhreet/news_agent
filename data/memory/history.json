@@ -1,130 +1,5 @@
 [
   {
-    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-    "normalized": "of course the chatgpt dog cancer vaccine spawned a startup",
-    "content_hash": "33c9f6dfe5a83793bf62b9d5a47f0a90"
-  },
-  {
-    "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
-    "normalized": "ai code-testing startup blacksmith's valuation jumps almost 10x in less than a year",
-    "content_hash": "989c5bfc2a9ef9640b5b3cf767cd854e"
-  },
-  {
-    "title": "India\u2019s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
-    "normalized": "india's yulu raises $93m as quick-commerce boom fuels e-bike demand",
-    "content_hash": "a1fc2cfbb92f7c5857ea5ad3b1300539"
-  },
-  {
-    "title": "Grok is now an AI \u2018teammate\u2019 you can assign work",
-    "normalized": "grok is now an ai 'teammate' you can assign work",
-    "content_hash": "380a27dfa144a9e72def110f564c2609"
-  },
-  {
-    "title": "Congressional Letter to Sam Altman demanding HuggingFace incident transparency [pdf]",
-    "normalized": "congressional letter to sam altman demanding huggingface incident transparency [pdf]",
-    "content_hash": "818393d84d51e9cb9fe5139cad4b18ec"
-  },
-  {
-    "title": "OpenAI releases ChatGPT/Codex desktop app for Linux",
-    "normalized": "openai releases chatgpt/codex desktop app for linux",
-    "content_hash": "a487e81ffcac0785c7502cbce86a3afd"
-  },
-  {
-    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
-    "normalized": "nvidia ai releases nemotron 3.5 lightning: a 30b open moe with 3b active parameters, and nemo switchyard model router",
-    "content_hash": "5d4b2a31a6cb8c84dc525872f40f8bf9"
-  },
-  {
-    "title": "Reservoir raises $8M to make water heaters that people \u2014 and the grid \u2014 will actually want",
-    "normalized": "reservoir raises $8m to make water heaters that people -- and the grid -- will actually want",
-    "content_hash": "a4b40d9197321b013b450c9e19972af7"
-  },
-  {
-    "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-    "normalized": "the job-interview tattoo guy everyone got mad at finally explains himself",
-    "content_hash": "03acbd7d3b9e768c6d0fdad2198d6f42"
-  },
-  {
-    "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-    "normalized": "oh lord, ai reporters are actually breaking big news",
-    "content_hash": "bd57faf9689c09d36cf595e7a9658116"
-  },
-  {
-    "title": "FEMA's \u2018Shadow Administrator\u2019 Was Paid by a DOGE Member's Startup for Months",
-    "normalized": "fema's 'shadow administrator' was paid by a doge member's startup for months",
-    "content_hash": "afa060f8af40cc2687c5fbbe3baa757b"
-  },
-  {
-    "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-    "normalized": "malicious litellm releases tied to trivy hack may have exposed 2,100+ organizations",
-    "content_hash": "d0d07f13938a1c100cad0fbed24e278d"
-  },
-  {
-    "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-    "normalized": "shieldbreak zero-day poc claims microsoft defender patch bypass with system access",
-    "content_hash": "e155c9d045800e27e3d66c3b8c3b0f67"
-  },
-  {
-    "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-    "normalized": "sandworm-linked uac-0145 uses fake job interviews to push vpn that can run commands",
-    "content_hash": "92e7d082c0ae10b7334738f311042092"
-  },
-  {
-    "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-    "normalized": "deadlock ransomware uses polygon smart contracts to make extortion infra harder to disrupt",
-    "content_hash": "e53cc2378271d65ba2c0459ee9fa33f7"
-  },
-  {
-    "title": "LaraCopilot",
-    "normalized": "laracopilot",
-    "content_hash": "76c83987ec7615c89433292a51d93872"
-  },
-  {
-    "title": "Honor\u2019s Robot Phone is better than a gimbal in a phone has any right to be",
-    "normalized": "honor's robot phone is better than a gimbal in a phone has any right to be",
-    "content_hash": "9976bd52e8fd62bda2718b8346366dd2"
-  },
-  {
-    "title": "An FCC filing points to new Sonos headphones coming soon",
-    "normalized": "an fcc filing points to new sonos headphones coming soon",
-    "content_hash": "d249abaa5bdc941b6570f058d3f8bc56"
-  },
-  {
-    "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
-    "normalized": "launch hn: discovered materials (yc p26) - ai agents to discover new materials",
-    "content_hash": "9beddb62f6ab5c5c4b0232fcfd0161c8"
-  },
-  {
-    "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
-    "normalized": "openai's head of ethics leaves less than a year after joining",
-    "content_hash": "5a1021b7a1ac79ff1502c4ec899e8a88"
-  },
-  {
-    "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-    "normalized": "nvidia nemotron 3.5 lightning and nemo switchyard",
-    "content_hash": "1d248fedbe746bd0581e84b8eeb36f33"
-  },
-  {
-    "title": "I built a personal AI agent in Swift on top of what macOS ships",
-    "normalized": "i built a personal ai agent in swift on top of what macos ships",
-    "content_hash": "f6cdef1f2daa57de57020b5ad607c8e6"
-  },
-  {
-    "title": "Never Trust Your AI Agent's Own Sandbox",
-    "normalized": "never trust your ai agent's own sandbox",
-    "content_hash": "0704df0d27811c2f1a35333ad9c41392"
-  },
-  {
-    "title": "The case for disaggregated LLM serving",
-    "normalized": "the case for disaggregated llm serving",
-    "content_hash": "b875299e4f30d94049176d2fa4dbc326"
-  },
-  {
-    "title": "How do you decide that an agent's output is good enough to stop iterating?",
-    "normalized": "how do you decide that an agent's output is good enough to stop iterating?",
-    "content_hash": "87ccd5f890ff16aff07c4973ed83f356"
-  },
-  {
     "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
     "normalized": "openai-backed thrive holdings raises $2b to bring ai to the enterprise",
     "content_hash": "11a450920b19664e1dc8ccd134b55330"
@@ -2498,5 +2373,130 @@
     "title": "Apple is laying off staffers working on the Vision Pro and Siri",
     "normalized": "apple is laying off staffers working on the vision pro and siri",
     "content_hash": "8a87f45095eff2dfe032c305db76e4d0"
+  },
+  {
+    "title": "Michael Polansky is training an AI model on skin that\u2019s still alive",
+    "normalized": "michael polansky is training an ai model on skin that's still alive",
+    "content_hash": "632c667b6329865e3e5668c5034093da"
+  },
+  {
+    "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+    "normalized": "japanese space tech startup letara expands beyond satellite thrusters with $16m",
+    "content_hash": "e29262113171e30905dca32469897d89"
+  },
+  {
+    "title": "Two great new repairable gadgets",
+    "normalized": "two great new repairable gadgets",
+    "content_hash": "0ace6c75b8ae0597bc8af9eda2e9854a"
+  },
+  {
+    "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
+    "normalized": "$100 best buy gift cards will be $60 at stores saturday",
+    "content_hash": "067d1e6fcd1261bcbb9c8d80361e313a"
+  },
+  {
+    "title": "Walmart is finally adding Apple Pay and Google Pay",
+    "normalized": "walmart is finally adding apple pay and google pay",
+    "content_hash": "f82a544cbe4b54993507223b131500ca"
+  },
+  {
+    "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
+    "normalized": "microsoft and discord subpoenaed over gta vi gameplay leaks",
+    "content_hash": "41f081779527738a5cb4b067a9abd950"
+  },
+  {
+    "title": "Pixel 11 gets in on the digicam trend",
+    "normalized": "pixel 11 gets in on the digicam trend",
+    "content_hash": "7fd4afe5b1abcee28dc4b0481d3514d0"
+  },
+  {
+    "title": "LiteLLM (YC W23) Is Hiring \u2013 Rust / Performance Engineers",
+    "normalized": "litellm (yc w23) is hiring - rust / performance engineers",
+    "content_hash": "25ebbd514e6c076893043a0bf7dde1f8"
+  },
+  {
+    "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+    "normalized": "agentic data operations platform (adop): data engineering into hours",
+    "content_hash": "bb3074a1c0056334494b587db1cb9d9b"
+  },
+  {
+    "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
+    "normalized": "introducing cross-region inference for openai gpt-5.6 models on amazon bedrock",
+    "content_hash": "5eba2a938bc643091f412192fc4d2664"
+  },
+  {
+    "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
+    "normalized": "ai's recursive self-improvement might not come so quickly after all",
+    "content_hash": "412b48e56fea50c99822105e70137aeb"
+  },
+  {
+    "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
+    "normalized": "meet sam (sovereign agent mesh): a zero-config, zero-trust p2p network for ai agents",
+    "content_hash": "c029f311952fc0e7e2bd119ce5f9434c"
+  },
+  {
+    "title": "Graph Engineering Isn\u2019t About More Connections \u2014 It\u2019s About Which Ones Get Used",
+    "normalized": "graph engineering isn't about more connections -- it's about which ones get used",
+    "content_hash": "8745b1236c8f984c145bd47944654ae1"
+  },
+  {
+    "title": "Jayant Swamy, Chief Enterprise Architect at Genpact \u2013 Interview Series",
+    "normalized": "jayant swamy, chief enterprise architect at genpact - interview series",
+    "content_hash": "5f98017b701b943743d1ba6a1a3dd01f"
+  },
+  {
+    "title": "Google DeepMind Extends 15 Years of Game AI Research Into EVE Online",
+    "normalized": "google deepmind extends 15 years of game ai research into eve online",
+    "content_hash": "25ce04866b9e34763fe8d1701534a096"
+  },
+  {
+    "title": "Redefining Authority in the C-Suite: What Fostering a Relationship with AI Actually Requires",
+    "normalized": "redefining authority in the c-suite: what fostering a relationship with ai actually requires",
+    "content_hash": "149ca703b3932ce7dacb1bb932207b3a"
+  },
+  {
+    "title": "OpenAI Closes on Anthropic in Ramp\u2019s Business Spending Data",
+    "normalized": "openai closes on anthropic in ramp's business spending data",
+    "content_hash": "7f75857fa5d4cb9d266413089d8be6c6"
+  },
+  {
+    "title": "TikTok reaches $400M settlement over children\u2019s privacy lawsuit",
+    "normalized": "tiktok reaches $400m settlement over children's privacy lawsuit",
+    "content_hash": "7664b8c49b78e2f3cebba828e62f0a7b"
+  },
+  {
+    "title": "Tesla\u2019s solar roof is dead \u2014 here\u2019s what went wrong",
+    "normalized": "tesla's solar roof is dead -- here's what went wrong",
+    "content_hash": "8da4e92e39f7350224558c9310a8de07"
+  },
+  {
+    "title": "Waymo hands over documents in NHTSA\u2019s child collision probe",
+    "normalized": "waymo hands over documents in nhtsa's child collision probe",
+    "content_hash": "7639db8fc3708611944e1d7379b07177"
+  },
+  {
+    "title": "US government lab is probing Chinese lidar for security vulnerabilities",
+    "normalized": "us government lab is probing chinese lidar for security vulnerabilities",
+    "content_hash": "11d4ae8b0e26b8ee577205daf2a31349"
+  },
+  {
+    "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
+    "normalized": "oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
+    "content_hash": "88314142dc7b3612928b9b6c91af17d8"
+  },
+  {
+    "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
+    "normalized": "tesla recalls 3 million cars as part of china-wide push to stop hidden door handles",
+    "content_hash": "2f2dff5a3e6da22dd9ec8d6dbc111113"
+  },
+  {
+    "title": "Your Expired Visa Card Could Be \u2018Zombified\u2019 to Make Contactless Payments",
+    "normalized": "your expired visa card could be 'zombified' to make contactless payments",
+    "content_hash": "dbfa5bb51112a8898658a379a6452d87"
+  },
+  {
+    "title": "The Unlikely Place at the Center of China\u2019s AI Boom",
+    "normalized": "the unlikely place at the center of china's ai boom",
+    "content_hash": "8820c98e8189161a803d42ffae97ff40"
   }
 ]
