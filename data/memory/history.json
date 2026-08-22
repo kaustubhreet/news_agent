@@ -1,130 +1,5 @@
 [
   {
-    "title": "ChatGPT and Gemini both just passed 1 billion users",
-    "normalized": "chatgpt and gemini both just passed 1 billion users",
-    "content_hash": "e700b8b42ef3489ffc72d448d64b9860"
-  },
-  {
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "normalized": "openai launches chatgpt desktop app for linux",
-    "content_hash": "fc0e7502c7e9696fe7c935c7e7f01ab3"
-  },
-  {
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "normalized": "general catalyst leads $1.1b round into 2-month-old river ai",
-    "content_hash": "7bf975d72dafd6ed8fb8ff8e23372efe"
-  },
-  {
-    "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was \u2018cookie stuffing\u2019 for months",
-    "normalized": "phoebe gates and sophia kianni reportedly knew phia was 'cookie stuffing' for months",
-    "content_hash": "d7ebc2bda137622eeae6b13b2b4e07b2"
-  },
-  {
-    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-    "normalized": "accel closes oversubscribed $550m india fund within weeks, 19 months after its last",
-    "content_hash": "92246fd1e762c69e4728252a990bb5bd"
-  },
-  {
-    "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019",
-    "normalized": "brad lightcap, openai's longtime coo, is leaving to 'start something new'",
-    "content_hash": "bf4c25dba02750fcb9d93926413a7c57"
-  },
-  {
-    "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-    "normalized": "researchers disclose ai-assisted sharepoint exploit chain reaching unauthenticated rce",
-    "content_hash": "4945862c237a5c62ab02b9c717d39331"
-  },
-  {
-    "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-    "normalized": "openai launches gpt-5.6-cyber with reduced safeguards for exploit development",
-    "content_hash": "e2f651edde0af65052467caa9df162ab"
-  },
-  {
-    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-    "normalized": "saber denies replacing rideshare stimulator's writers with chatgpt",
-    "content_hash": "eddf42f584be70a0fd9a25f5a6b8dc95"
-  },
-  {
-    "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
-    "normalized": "xbox elite 3 prototype pad leaks with tiny built-in screen",
-    "content_hash": "364927792cf60feaab60b93fcabd6549"
-  },
-  {
-    "title": "Google\u2019s free streaming service now lets you pick shows and movies to watch",
-    "normalized": "google's free streaming service now lets you pick shows and movies to watch",
-    "content_hash": "81a67b24fe71bd14ff9cc8161157c121"
-  },
-  {
-    "title": "Another OpenAI executive takes off",
-    "normalized": "another openai executive takes off",
-    "content_hash": "0c536f54000fdfae04e800bbd7bf124a"
-  },
-  {
-    "title": "The budget-friendly Pixel Buds 2a are even cheaper right now",
-    "normalized": "the budget-friendly pixel buds 2a are even cheaper right now",
-    "content_hash": "c91f04d0253a7cdf7c8a0c22016a4a13"
-  },
-  {
-    "title": "Google\u2019s upcoming Pixel phones are for the fans, even if its launch event isn\u2019t",
-    "normalized": "google's upcoming pixel phones are for the fans, even if its launch event isn't",
-    "content_hash": "11304d4098a6f6953a1b5ef44662fabd"
-  },
-  {
-    "title": "OpenAI Daybreak Cyber Defense Models Land on Amazon Bedrock",
-    "normalized": "openai daybreak cyber defense models land on amazon bedrock",
-    "content_hash": "d0ef27225163b44b34bb68634acd85d1"
-  },
-  {
-    "title": "River AI Raises $1.1B Out of Stealth to Rebuild the Stack for Personal AI",
-    "normalized": "river ai raises $1.1b out of stealth to rebuild the stack for personal ai",
-    "content_hash": "575f20a753933ffee020b7876cefe230"
-  },
-  {
-    "title": "FBI says cybercriminals are hacking into victims\u2019 online accounts to steal their intimate pictures",
-    "normalized": "fbi says cybercriminals are hacking into victims' online accounts to steal their intimate pictures",
-    "content_hash": "4b2b00e51c2e9f34c8b0b471a920278b"
-  },
-  {
-    "title": "Google\u2019s Gemini app surges to 1 billion users",
-    "normalized": "google's gemini app surges to 1 billion users",
-    "content_hash": "ee82e02d4c9a74d702500922fcd83572"
-  },
-  {
-    "title": "Bluesky\u2019s active user base is shrinking as its focus expands beyond the app",
-    "normalized": "bluesky's active user base is shrinking as its focus expands beyond the app",
-    "content_hash": "3edd9068c907cf72bdefd1c1dce8d946"
-  },
-  {
-    "title": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems",
-    "normalized": "an unreleased anthropic model made progress on one of math's biggest unsolved problems",
-    "content_hash": "def5e8e18af66da1bf3b640fbcb672bc"
-  },
-  {
-    "title": "Joby Aviation builds out defense business with $500M acquisition",
-    "normalized": "joby aviation builds out defense business with $500m acquisition",
-    "content_hash": "64c8590081420d3051d0c44e803aed3b"
-  },
-  {
-    "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
-    "normalized": "delta investigating after someone set up fake wi-fi network mid-flight",
-    "content_hash": "bcff866fec9074d108c7bb5be810e12e"
-  },
-  {
-    "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once \u2014 he\u2019ll\u00a0explain why at Disrupt 2026",
-    "normalized": "rivian ceo rj scaringe is betting on evs, robots, and autonomy all at once -- he'll explain why at disrupt 2026",
-    "content_hash": "fb2146a548a5a5c5fb28b47ddc8858a2"
-  },
-  {
-    "title": "Kyoto Fusioneering starts work on key fusion power plant device",
-    "normalized": "kyoto fusioneering starts work on key fusion power plant device",
-    "content_hash": "75fa8fe718830b26548e41b9541102a8"
-  },
-  {
-    "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
-    "normalized": "spotify will label 'ai persona' profiles and exclude their music from recommendations",
-    "content_hash": "acb531af1cbc66c95009aa5b63518103"
-  },
-  {
     "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
     "normalized": "of course the chatgpt dog cancer vaccine spawned a startup",
     "content_hash": "33c9f6dfe5a83793bf62b9d5a47f0a90"
@@ -2498,5 +2373,130 @@
     "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
     "normalized": "asana cleared 5 years of engineering work in 2 weeks with codex",
     "content_hash": "2d98ecfca9117688566cb8cbfcf5114e"
+  },
+  {
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "normalized": "nvidia just showed that the harness, not the ai model, is now the real hero",
+    "content_hash": "8a91395c2b6291181c3c2d652ea842c2"
+  },
+  {
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "normalized": "nvidia partners with data center developer cloverleaf",
+    "content_hash": "6278eeab37cc9a9be113c6792e2f1e76"
+  },
+  {
+    "title": "Where Security Fits in an AI Agent Stack",
+    "normalized": "where security fits in an ai agent stack",
+    "content_hash": "0d67b1ffd850952925f2ccca1ebfd3d3"
+  },
+  {
+    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+    "normalized": "how ai accounting startup rillet raised $100m and became a unicorn in 48 hours",
+    "content_hash": "c78dd4759c3b2aab370e2e3aa2fb97a5"
+  },
+  {
+    "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
+    "normalized": "private equity firm apollo confirms data breach amid hacking wave targeting financial giants",
+    "content_hash": "00f3b8f97a64dd0310d2843294eb2b5c"
+  },
+  {
+    "title": "Replacing 223-node agent graph with a single OSS LLM",
+    "normalized": "replacing 223-node agent graph with a single oss llm",
+    "content_hash": "428383f05352e2bef62943e001746ba6"
+  },
+  {
+    "title": "The OpenAI-HuggingFace Incident Timeline",
+    "normalized": "the openai-huggingface incident timeline",
+    "content_hash": "546b0ea8f849e073ff24db9513de4ce3"
+  },
+  {
+    "title": "OpenAI: We're dropping API and credit pricing of GPT-5.6 Sol by over 20%",
+    "normalized": "openai: we're dropping api and credit pricing of gpt-5.6 sol by over 20%",
+    "content_hash": "405e37e7787e9fd2f114d9797c4bc4e0"
+  },
+  {
+    "title": "What Happened: OpenAI and HuggingFace",
+    "normalized": "what happened: openai and huggingface",
+    "content_hash": "c142781f23e5ff3903f6ecbe9b19f848"
+  },
+  {
+    "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+    "normalized": "show hn: proliferate- open-source, self-hostable codex for any coding agent",
+    "content_hash": "0a5ff6731e28e579af3515607b0da367"
+  },
+  {
+    "title": "NVIDIA Takes Minority Stake in Cloverleaf Infrastructure",
+    "normalized": "nvidia takes minority stake in cloverleaf infrastructure",
+    "content_hash": "a10677f7579a34e7700cab9268ba70dc"
+  },
+  {
+    "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
+    "normalized": "anthropic's opus 4.6 is a smut-machine",
+    "content_hash": "4df25ea676d31c57e98c46ea9f3bf844"
+  },
+  {
+    "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+    "normalized": "apple is reportedly cutting hundreds of jobs from siri, vision pro teams",
+    "content_hash": "7bb01d3d3ddec6a00f2cc73fa6b939c4"
+  },
+  {
+    "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+    "normalized": "the $225 pebble time 2 is a refreshingly fun smartwatch",
+    "content_hash": "55e4ec49e9e139450a30da2aa63b4a61"
+  },
+  {
+    "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+    "normalized": "last chance: save up to $300 on your techcrunch disrupt 2026 ticket today",
+    "content_hash": "aa91d15083a0edf357a73dbcab4112c1"
+  },
+  {
+    "title": "Why is the DOJ investigating Andreessen Horowitz\u2019s board seats?",
+    "normalized": "why is the doj investigating andreessen horowitz's board seats?",
+    "content_hash": "82a7f636ed19b832bc46ddcf30591301"
+  },
+  {
+    "title": "Walmart to finally start accepting Apple Pay and Google Pay",
+    "normalized": "walmart to finally start accepting apple pay and google pay",
+    "content_hash": "67ee6bc3b918d82de2f06e36da95dcb2"
+  },
+  {
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "normalized": "starcloud raises $250 million for orbital data centers as launch options dry up",
+    "content_hash": "0ea79ced432ef41f87060816f38d5981"
+  },
+  {
+    "title": "Senator asks US government watchdog to review how feds use hacking tools",
+    "normalized": "senator asks us government watchdog to review how feds use hacking tools",
+    "content_hash": "98c7b69378577dfb6e53c2f0c361acef"
+  },
+  {
+    "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+    "normalized": "14 trojanized npm packages drop redc2 4.0 linux backdoor with ai-assisted c2",
+    "content_hash": "0b24d5cdcab9ce5000b75f73742ce4eb"
+  },
+  {
+    "title": "Child safety experts are skeptical of OpenAI's ChatGPT for Teens",
+    "normalized": "child safety experts are skeptical of openai's chatgpt for teens",
+    "content_hash": "18cd95166181d17e9560803bca541b18"
+  },
+  {
+    "title": "HoverAir\u2019s transforming modular drone has already been halted in the US",
+    "normalized": "hoverair's transforming modular drone has already been halted in the us",
+    "content_hash": "2c5439d2d829763574da1c0d195ebd5c"
+  },
+  {
+    "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+    "normalized": "tiktok will pay $400 million to settle doj child privacy lawsuit",
+    "content_hash": "ad9be05e7b0786b0e8b012dbcd43145f"
+  },
+  {
+    "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
+    "normalized": "over 1 million people have clicked linkedin's ai slop button",
+    "content_hash": "d6d8ef379898d87de91bd26a6b69c0ab"
+  },
+  {
+    "title": "Apple is laying off staffers working on the Vision Pro and Siri",
+    "normalized": "apple is laying off staffers working on the vision pro and siri",
+    "content_hash": "8a87f45095eff2dfe032c305db76e4d0"
   }
 ]
