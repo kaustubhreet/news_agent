@@ -1,130 +1,5 @@
 [
   {
-    "title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
-    "normalized": "launch hn: bullet (yc s26) - a faster coding agent",
-    "content_hash": "16e0b15bc6fd067b26e2081d43bc6a98"
-  },
-  {
-    "title": "We put llms.txt on 83 websites. In 12 weeks OpenAI's crawler read it 7 times",
-    "normalized": "we put llms.txt on 83 websites. in 12 weeks openai's crawler read it 7 times",
-    "content_hash": "1b877143bef050d0404ffeb2b7acc620"
-  },
-  {
-    "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-    "normalized": "anthropic in talks to buy world model ai startup decart for $6b",
-    "content_hash": "39e8c5f8d3b77c44395d63d7d9015370"
-  },
-  {
-    "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
-    "normalized": "llms in process diagram engineering: from optimal pfds to validated p&ids",
-    "content_hash": "0d8c31e213a2f24283b93a973ba0e2df"
-  },
-  {
-    "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
-    "normalized": "facebook officially rolls out its stand-alone creator studio app with ai tools for creators",
-    "content_hash": "74ed197635a2b0611837b7e52b88ce95"
-  },
-  {
-    "title": "Silkroad Innovation Hub\u2019s Road to Battlefield competition continues",
-    "normalized": "silkroad innovation hub's road to battlefield competition continues",
-    "content_hash": "1a091ee80c5538129f4044e3a25d4f73"
-  },
-  {
-    "title": "Google\u2019s Quick Share adds a tap-to-share mode",
-    "normalized": "google's quick share adds a tap-to-share mode",
-    "content_hash": "d75481ccead374eea5864f18f2bec780"
-  },
-  {
-    "title": "Rogue AI Agents Aren\u2019t Evil. They\u2019re Just Eager to Please",
-    "normalized": "rogue ai agents aren't evil. they're just eager to please",
-    "content_hash": "64dc5b2d0059c614c24cafb302db9ea8"
-  },
-  {
-    "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
-    "normalized": "pixel 11 event live blog: let's watch trevor noah introduce google's new phones",
-    "content_hash": "ffe6d6703f401a7c2b16805e9b7e35ed"
-  },
-  {
-    "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
-    "normalized": "this 8bitdo mechanical keyboard has an extra keypad and is 30 percent off",
-    "content_hash": "093c71239f0546e1e06618309f0f48f2"
-  },
-  {
-    "title": "Cats and dogs are missing meals after a popular smart feeder went down",
-    "normalized": "cats and dogs are missing meals after a popular smart feeder went down",
-    "content_hash": "feebcbd6029040bc7b48a9e92b226553"
-  },
-  {
-    "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
-    "normalized": "it looks like apple's iphone 18 really will skip the fall launch this year",
-    "content_hash": "e132ddf7a4676848d7085d059c727a16"
-  },
-  {
-    "title": "Google\u2019s Pixel 11 phone preorders come with up to $350 in gift cards",
-    "normalized": "google's pixel 11 phone preorders come with up to $350 in gift cards",
-    "content_hash": "b4ac0640e891adbffd8cd4fea6f2413c"
-  },
-  {
-    "title": "Twitch streamers can now opt out from training Amazon\u2019s AI",
-    "normalized": "twitch streamers can now opt out from training amazon's ai",
-    "content_hash": "3e49acda90f00219cdf1156b0d968b36"
-  },
-  {
-    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-    "normalized": "someone is running mass vulnerability scans, spoofing ai bots like claudebot",
-    "content_hash": "f98765d3026792053356e319a5d8a880"
-  },
-  {
-    "title": "Show HN: RBEK \u2013 governed execution for AI agent",
-    "normalized": "show hn: rbek - governed execution for ai agent",
-    "content_hash": "a66d1c4abab7f555d558341695899ca9"
-  },
-  {
-    "title": "Lossless codec for AI agent messages \u2013 36% fewer tokens, overhead counted",
-    "normalized": "lossless codec for ai agent messages - 36% fewer tokens, overhead counted",
-    "content_hash": "7f558ae7c548bed9e9db3af634266bc1"
-  },
-  {
-    "title": "Show HN: Agent Memory Leaderboard \u2013 first public results for AI memory systems",
-    "normalized": "show hn: agent memory leaderboard - first public results for ai memory systems",
-    "content_hash": "875ebce92b14920c0c6068deadd11724"
-  },
-  {
-    "title": "Show HN: I'm tired replying my social media visitors, I let AI agent handle it",
-    "normalized": "show hn: i'm tired replying my social media visitors, i let ai agent handle it",
-    "content_hash": "d5d8e0c0f4bb511dbff93c4578d3eacf"
-  },
-  {
-    "title": "Use Dreams to create memories your AI agent can access",
-    "normalized": "use dreams to create memories your ai agent can access",
-    "content_hash": "e27b74433386d54880f6e8a733653c31"
-  },
-  {
-    "title": "DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead",
-    "normalized": "dllm: minimal, clean coding agent built directly on llama.cpp without overhead",
-    "content_hash": "a140a1d81d1d87976f94f676ba048869"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "normalized": "how ringcentral builds ai-native work from engineering to ops",
-    "content_hash": "cb2f4ebdb302ba03f86ddfc2968ddbb9"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "normalized": "testing ads in chatgpt",
-    "content_hash": "949a1fcab65b45a3475f032739c5187a"
-  },
-  {
-    "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock",
-    "normalized": "accelerate cyber defense with openai and aws: daybreak red & daybreak blue now available to eligible customers on amazon bedrock",
-    "content_hash": "8aa909db07c4f32a656787325656c6b0"
-  },
-  {
-    "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-    "normalized": "dynamic governance of multi-llm agent systems for collaborative conversational outcomes",
-    "content_hash": "c5b51c7780d8a17fdd60ac8d5351bc72"
-  },
-  {
     "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
     "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
     "content_hash": "da0fb803a3702f3abd12611d409173e2"
@@ -2498,5 +2373,130 @@
     "title": "The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood",
     "normalized": "the patrick clancy conspiracy theories are rooted in the harsh realities of motherhood",
     "content_hash": "6b7507cb21ca5c8cbb79ba5f08041620"
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "normalized": "from assistance to execution: how enterprises put ai to work",
+    "content_hash": "54e93b50c91f9d9387610cb2f44af0bb"
+  },
+  {
+    "title": "Two years after launch, Walmart\u2019s Flipkart is closing in on India\u2019s quick-commerce leaders",
+    "normalized": "two years after launch, walmart's flipkart is closing in on india's quick-commerce leaders",
+    "content_hash": "1d1a9c885941e39c3af3668e43bdbd8b"
+  },
+  {
+    "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
+    "normalized": "evidence over anecdotes: running a/b tests on ai agent tooling",
+    "content_hash": "d777a44e3cf6bf295414b58a6dedda0b"
+  },
+  {
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "normalized": "anthropic's best ai model struggles to attract users as cheaper tools thrive",
+    "content_hash": "b39f1c9d0ce9a1226c648e74dd63da47"
+  },
+  {
+    "title": "Topagent.lol \u2013 an AI agent leaderboard ranked purely by who paid most",
+    "normalized": "topagent.lol - an ai agent leaderboard ranked purely by who paid most",
+    "content_hash": "9260176ddf359f8c26aabcdfe46938d3"
+  },
+  {
+    "title": "Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents",
+    "normalized": "credit without ground truth: auditing step-level credit assignment in llm agents",
+    "content_hash": "c0771ad5e670c5ce9f65b1641b97047c"
+  },
+  {
+    "title": "India capable of becoming global shipbuilding hub: Rajnath Singh in Kolkata",
+    "normalized": "india capable of becoming global shipbuilding hub: rajnath singh in kolkata",
+    "content_hash": "c2123d7a78e9ef90b4b641643956919a"
+  },
+  {
+    "title": "\u2018Impressed by their energy &amp; ambition\u2019: PM Modi meets India\u2019s space startups on National Space Day",
+    "normalized": "'impressed by their energy & ambition': pm modi meets india's space startups on national space day",
+    "content_hash": "b19868db75705c22c4d18014abb7e0a1"
+  },
+  {
+    "title": "7 Basic iPhone Tricks I Built With iOS 27\u2019s Revamped Shortcuts App",
+    "normalized": "7 basic iphone tricks i built with ios 27's revamped shortcuts app",
+    "content_hash": "8d7a970f3950f14231fb9ff37991e966"
+  },
+  {
+    "title": "Is Expensive Bottled Water Actually Better for You?",
+    "normalized": "is expensive bottled water actually better for you?",
+    "content_hash": "1c97cb7c96d0c447033b47072e7db9a5"
+  },
+  {
+    "title": "Best Early Tech Labor Day Sales I\u2019d Shop Myself (2026): AirTags, Dyson, and More",
+    "normalized": "best early tech labor day sales i'd shop myself (2026): airtags, dyson, and more",
+    "content_hash": "53452f374f7d7583a342ae9613d68ca9"
+  },
+  {
+    "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+    "normalized": "tiktok agrees to $400 million settlement in u.s. child privacy lawsuit",
+    "content_hash": "76df5c966ba529d53a82808931df0a59"
+  },
+  {
+    "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+    "normalized": "microsoft defender's own driver can be weaponized to delete security software at boot",
+    "content_hash": "60735b1916d8dd3bc635237138743b2e"
+  },
+  {
+    "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+    "normalized": "android car malware spreads through built-in updaters for ad fraud, proxy botnet",
+    "content_hash": "c19180bdc075384fba5ea265d2a96041"
+  },
+  {
+    "title": "Wazuh and AI For Enhanced SOC Workflows",
+    "normalized": "wazuh and ai for enhanced soc workflows",
+    "content_hash": "9f83269213b597358762d9759f342ed0"
+  },
+  {
+    "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+    "normalized": "gitlab cve-2026-19478 comes under active exploitation within days of disclosure",
+    "content_hash": "53bb5171807cf6bf86cf0f4ea3ffb0be"
+  },
+  {
+    "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
+    "normalized": "microsoft patches severe entra id flaw (cvss 10.0) allowing remote code execution",
+    "content_hash": "6ad7734b4298a013c0672a670a964e90"
+  },
+  {
+    "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+    "normalized": "rust supply chain attack puts build-time malware in crates with 245 million downloads",
+    "content_hash": "a46ee221570b84f34fb8041c52e5d37a"
+  },
+  {
+    "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+    "normalized": "suspected russian hackers abuse google oauth and whatsapp linking to hijack accounts",
+    "content_hash": "9c401298ef2afad95ac9d0d7c371a477"
+  },
+  {
+    "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
+    "normalized": "threatsday: gogs 10.0 rce, n8n workflow-to-rce, $10m reward, glm-5.3 ai exploit, and more",
+    "content_hash": "e483ffc0fea9677a81ca3d8e3c5069d3"
+  },
+  {
+    "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+    "normalized": "ai-generated exploit scripts target siemens s7 plcs in u.s. critical infrastructure",
+    "content_hash": "5c91337267ba5c0d6a1bcdf6389e0a95"
+  },
+  {
+    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+    "normalized": "new cryptographic context injection attack could let web pages steal grok chat data",
+    "content_hash": "aaa727f39b1a98a05b88b900745e294e"
+  },
+  {
+    "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+    "normalized": "critical netscaler flaw can bypass authentication on certain gateway and aaa servers",
+    "content_hash": "47c300dd150a88c718fcc9e828aa457f"
+  },
+  {
+    "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+    "normalized": "cdn tsunami attack abuses http/3 translation for up to 350x dos amplification",
+    "content_hash": "b2930a8a02a6d97ad70e4abae3c0d9df"
+  },
+  {
+    "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+    "normalized": "manic android malware exfiltrates data from offline phones via nearby infected devices",
+    "content_hash": "c25572808c516a1f9daa650dc6334a60"
   }
 ]
