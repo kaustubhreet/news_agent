@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "normalized": "openai-backed thrive holdings raises $2b to bring ai to the enterprise",
-    "content_hash": "11a450920b19664e1dc8ccd134b55330"
-  },
-  {
-    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-    "normalized": "lovable confirms new $13.3b valuation, raises another $400m",
-    "content_hash": "7ab72f838b6b533131ff205713a120a8"
-  },
-  {
-    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "normalized": "openai, anthropic, google api flaw let weaker ai models decode stronger models' reasoning",
-    "content_hash": "5289bfc71f01b68f52b38a5a2a4ddfb8"
-  },
-  {
-    "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
-    "normalized": "some claude users are mad that anthropic's new watermarks will catch them using it at their jobs, classes",
-    "content_hash": "b93a9ad5bafd5b3939630534bebe6c0a"
-  },
-  {
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "normalized": "ai coding startup cognition reportedly already in talks to raise at $40b valuation",
-    "content_hash": "177c91a7552792e75db3697821d163df"
-  },
-  {
-    "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-    "normalized": "form energy raises $750m to build more 100-hour batteries for the grid",
-    "content_hash": "e9bede9204ccaf715b2b6db963d9d82b"
-  },
-  {
-    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-    "normalized": "how a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-    "content_hash": "52691386347001454a67fcb7fe4a6534"
-  },
-  {
-    "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-    "normalized": "after microsoft threatened legal action, a security researcher publishes a new windows zero-day bug",
-    "content_hash": "481adf05bf8c3f8ef50a4965957b2b6a"
-  },
-  {
-    "title": "Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "normalized": "everything announced at made by google '26: pixel 11, pixel watch 5, pixel tag, and tons of gemini features",
-    "content_hash": "e01f1766051bf209c13a0aa37ee43495"
-  },
-  {
-    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-    "normalized": "lazarus exploits windows zero-day to gain system access and deploy backdoor",
-    "content_hash": "cce2cb1f7436ceb12fc26adcd6790434"
-  },
-  {
-    "title": "How Google\u2019s new Pixel 11 phones compare to last year\u2019s models",
-    "normalized": "how google's new pixel 11 phones compare to last year's models",
-    "content_hash": "c74c44402884aab9ed3091550ad3ff62"
-  },
-  {
-    "title": "ICE wants to give agents electrified gloves that shock people into compliance",
-    "normalized": "ice wants to give agents electrified gloves that shock people into compliance",
-    "content_hash": "044fbe8dfbb9a6db90c9f1f576870d5d"
-  },
-  {
-    "title": "A simple fix for LLM tail latency",
-    "normalized": "a simple fix for llm tail latency",
-    "content_hash": "47d2e4cbd9e3447ef790abef3257785e"
-  },
-  {
-    "title": "OpenAI-realtime-toolkit: voice agents for React Native",
-    "normalized": "openai-realtime-toolkit: voice agents for react native",
-    "content_hash": "5a46b243c6994d348977882959210bd4"
-  },
-  {
-    "title": "Show HN: An idle desktop incremental game driven by coding-agent",
-    "normalized": "show hn: an idle desktop incremental game driven by coding-agent",
-    "content_hash": "44db0cb68246f02927160c292b04b7e6"
-  },
-  {
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "normalized": "from assistance to execution: how enterprises put ai to work",
-    "content_hash": "54e93b50c91f9d9387610cb2f44af0bb"
-  },
-  {
-    "title": "Skan AI Raises $63M Series C to Build a Context Layer for Enterprise AI Agents",
-    "normalized": "skan ai raises $63m series c to build a context layer for enterprise ai agents",
-    "content_hash": "d6dc8e8d99dab3701b85cca1dc6a841c"
-  },
-  {
-    "title": "AI nuclear power firm Fermi finally has a new CEO",
-    "normalized": "ai nuclear power firm fermi finally has a new ceo",
-    "content_hash": "4f50b541d59fd492262d6b1962e52444"
-  },
-  {
-    "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
-    "normalized": "amazon will train on twitch streamers' content by default, unless they opt out",
-    "content_hash": "86b527539f2d9b3402a206123101422d"
-  },
-  {
-    "title": "Grubhub\u2019s $24M FTC settlement is finally reaching diners and drivers",
-    "normalized": "grubhub's $24m ftc settlement is finally reaching diners and drivers",
-    "content_hash": "42eb90ba8891c05c2e8fc0b9ff0ad638"
-  },
-  {
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "normalized": "as ai safety concerns mount, three pioneers make the case for staying open",
-    "content_hash": "9e16821314e113a88e3a006c39aa3ff1"
-  },
-  {
-    "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-    "normalized": "uber freight reportedly investigating after hacking group claims data breach",
-    "content_hash": "0a05a8c63189a91cee2fe499a78a79c4"
-  },
-  {
-    "title": "Mesh, Automattic\u2019s CRM for everyone, comes to Android",
-    "normalized": "mesh, automattic's crm for everyone, comes to android",
-    "content_hash": "9a48a3b7a69f6c3faf01f83453c77657"
-  },
-  {
-    "title": "Why Stream\u00a0ring-maker Sandbar says the future of AI wearables is voice",
-    "normalized": "why stream ring-maker sandbar says the future of ai wearables is voice",
-    "content_hash": "803daa49b58ffcdf5817818a348e0e4c"
-  },
-  {
-    "title": "Tesla wants to build a $10B solar factory in Texas",
-    "normalized": "tesla wants to build a $10b solar factory in texas",
-    "content_hash": "887ddb9a5267c26bdced535d5f6b4a7f"
-  },
-  {
     "title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
     "normalized": "launch hn: bullet (yc s26) - a faster coding agent",
     "content_hash": "16e0b15bc6fd067b26e2081d43bc6a98"
@@ -2498,5 +2373,130 @@
     "title": "The Unlikely Place at the Center of China\u2019s AI Boom",
     "normalized": "the unlikely place at the center of china's ai boom",
     "content_hash": "8820c98e8189161a803d42ffae97ff40"
+  },
+  {
+    "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
+    "normalized": "inherent, founded by deepmind alumni, says its ai 'teammate' just outperformed anthropic and openai at replicating research",
+    "content_hash": "7ca892474852059f7a334d3a336b1f8c"
+  },
+  {
+    "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
+    "normalized": "harvard's $699 startup bootcamp offers ai avatars of its instructors",
+    "content_hash": "f896a70d3a75689bb7dc43485607ddce"
+  },
+  {
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "normalized": "openai says california should strengthen its ai safety bill",
+    "content_hash": "ed69b96d5cd5e233765d0c52d9bc19e5"
+  },
+  {
+    "title": "Pixel 11 Pro XL review: Snappier cameras can\u2019t hide an iterative upgrade",
+    "normalized": "pixel 11 pro xl review: snappier cameras can't hide an iterative upgrade",
+    "content_hash": "0466a2abf4833e780f088d7deeac9710"
+  },
+  {
+    "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
+    "normalized": "model genome: fingerprinting whether an llm was trained from scratch or derived",
+    "content_hash": "815a4d3d2d35e6d04762d63dd7035b07"
+  },
+  {
+    "title": "Study Finds Frontier AI Labs Have Few Plans to Contain Rogue Models",
+    "normalized": "study finds frontier ai labs have few plans to contain rogue models",
+    "content_hash": "eb145de1e6a70631693ce8530a9a9199"
+  },
+  {
+    "title": "Will the DOJ\u2019s investigation into a16z spook other VCs?",
+    "normalized": "will the doj's investigation into a16z spook other vcs?",
+    "content_hash": "eee4e0545ddfcd40d3591780edb85696"
+  },
+  {
+    "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
+    "normalized": "frontier ai labs still won't say how they'd contain a rogue model",
+    "content_hash": "28b3805ce9292db94372feb1fc615999"
+  },
+  {
+    "title": "US battery startups have found a lifeline in defense",
+    "normalized": "us battery startups have found a lifeline in defense",
+    "content_hash": "a7f7f3731ff22448f4f56b63c04ef3e7"
+  },
+  {
+    "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+    "normalized": "amazon just hiked the prices for echo, fire tv, and kindle products by up to 60 percent",
+    "content_hash": "fff77ba7cd4f7e06e21d0d4d201409ec"
+  },
+  {
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "normalized": "show hn: ozbrain, a shared brain for knowledge between agents and your team",
+    "content_hash": "b51959ddb6ca97d35a9089f4be60f1b8"
+  },
+  {
+    "title": "Show HN: A2G (Agent to Agent) Marketplace \u2013 Beta Test",
+    "normalized": "show hn: a2g (agent to agent) marketplace - beta test",
+    "content_hash": "44723da72b54fadc7366b361ea0185e0"
+  },
+  {
+    "title": "Follow live the open training of a 535B (23B activated) LLM",
+    "normalized": "follow live the open training of a 535b (23b activated) llm",
+    "content_hash": "10ce785976ea4502e2e6f51e12f64eeb"
+  },
+  {
+    "title": "Contra Anthropic: AI is not 'structurally' centralizing",
+    "normalized": "contra anthropic: ai is not 'structurally' centralizing",
+    "content_hash": "df67fb46a471c37b9b360303aece96cc"
+  },
+  {
+    "title": "Cottontail, Electrobun 2.0, and Why I Decided to Jian-Yang Anthropic",
+    "normalized": "cottontail, electrobun 2.0, and why i decided to jian-yang anthropic",
+    "content_hash": "f62aa06e87c3bfe0b2a845cd854a9836"
+  },
+  {
+    "title": "Can an AI agent serve at a Foreign Office?",
+    "normalized": "can an ai agent serve at a foreign office?",
+    "content_hash": "3e2edd0bcf0d3534d4909195d3c8c5ac"
+  },
+  {
+    "title": "The Instant team joins OpenAI",
+    "normalized": "the instant team joins openai",
+    "content_hash": "6887e54a34629c4bb7986274549187ab"
+  },
+  {
+    "title": "Show HN: Git workflow as an AI-agent skill",
+    "normalized": "show hn: git workflow as an ai-agent skill",
+    "content_hash": "e5f33b92dd9cdedf7065e607267dd635"
+  },
+  {
+    "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+    "normalized": "anthropic ipo filing will show ai backlash as a risk factor, sources say",
+    "content_hash": "cb2d398184fbd3d860cad8603f24c299"
+  },
+  {
+    "title": "Decoding AI\u2019s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+    "normalized": "decoding ai's open-source course maps three ways to run an agent loop and the provider economics behind each",
+    "content_hash": "8862f0b6384952f9e830253e0b4c152d"
+  },
+  {
+    "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+    "normalized": "saily ultra esim premum plan review: packed with perks",
+    "content_hash": "bb7ac32f07df63d5d46328c4a92fca3b"
+  },
+  {
+    "title": "Tesla\u2019s Door Handles Lead to Its Biggest Recall Yet",
+    "normalized": "tesla's door handles lead to its biggest recall yet",
+    "content_hash": "657a3c3cd5f9ebf978d91987b0a83d11"
+  },
+  {
+    "title": "Meta\u2019s Big Reckoning Is Here",
+    "normalized": "meta's big reckoning is here",
+    "content_hash": "9e53ac60cc826a4c5a2aee17ed73e392"
+  },
+  {
+    "title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+    "normalized": "i tried the best robotic pool cleaners of 2026: beatbot, igarden, dreame",
+    "content_hash": "294629b61c9a7f8172ffec7193263c66"
+  },
+  {
+    "title": "The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood",
+    "normalized": "the patrick clancy conspiracy theories are rooted in the harsh realities of motherhood",
+    "content_hash": "6b7507cb21ca5c8cbb79ba5f08041620"
   }
 ]
