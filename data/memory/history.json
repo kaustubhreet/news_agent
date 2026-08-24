@@ -1,130 +1,5 @@
 [
   {
-    "title": "The MSI Claw EX is the most important handheld since Steam Deck \u2014 I still wouldn\u2019t buy one",
-    "normalized": "the msi claw ex is the most important handheld since steam deck -- i still wouldn't buy one",
-    "content_hash": "a4ae5fc838fe343581bb8411e767ad89"
-  },
-  {
-    "title": "Help build a monument to that \u2018sad little bitch\u2019 Elon Musk",
-    "normalized": "help build a monument to that 'sad little bitch' elon musk",
-    "content_hash": "e879549f6128217ce2dea9d795a253fa"
-  },
-  {
-    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-    "normalized": "how organizations use ai: evidence from chatgpt [pdf]",
-    "content_hash": "af945d2208ac918e406a2849fc3d8dc3"
-  },
-  {
-    "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
-    "normalized": "$\\varepsilon$-memevo: adaptive cross-task memory transfer for llm program evolution",
-    "content_hash": "b36fb697e3b8d4c9833f19931b72947d"
-  },
-  {
-    "title": "CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution",
-    "normalized": "cake: compiler-agent co-design for frontier kernel evolution",
-    "content_hash": "85ed4b95f9b1a30b9b999c79c9fe7be0"
-  },
-  {
-    "title": "The Shift from AI Capability to AI Control",
-    "normalized": "the shift from ai capability to ai control",
-    "content_hash": "1f529152814e6f3e11f9bd12439c2d36"
-  },
-  {
-    "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-    "normalized": "uber and pony.ai plan to bring 2,000 robotaxis to europe",
-    "content_hash": "e58963866192e5c88266b0cd67580a99"
-  },
-  {
-    "title": "Who really needs a cocktail robot?",
-    "normalized": "who really needs a cocktail robot?",
-    "content_hash": "cd94255800709a613141f98aba68b54b"
-  },
-  {
-    "title": "Gemini 3.7 Flash",
-    "normalized": "gemini 3.7 flash",
-    "content_hash": "344b1116bc701c3ad9db0b5f786ab794"
-  },
-  {
-    "title": "Apple trained its own AI model for China with help from Alibaba",
-    "normalized": "apple trained its own ai model for china with help from alibaba",
-    "content_hash": "b0d518f441ebcdd8bd21c2656cdd0768"
-  },
-  {
-    "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-    "normalized": "trump declares 100 percent tariffs on many drones and all aircraft parts",
-    "content_hash": "9403b2fd9442930aac362970d782735a"
-  },
-  {
-    "title": "\u2018That is not acceptable\u2019: Judge orders Google to make rival app store installs easier",
-    "normalized": "'that is not acceptable': judge orders google to make rival app store installs easier",
-    "content_hash": "b900b15713b21ff66f222eda9b108f7e"
-  },
-  {
-    "title": "The fight over Flock and other ALPRs",
-    "normalized": "the fight over flock and other alprs",
-    "content_hash": "9d4c4d33155c88cc459f11d00572faaa"
-  },
-  {
-    "title": "Microsoft\u2019s Clippy-like Mico character is no longer the face of Copilot",
-    "normalized": "microsoft's clippy-like mico character is no longer the face of copilot",
-    "content_hash": "3779dda17c88cb51bb30b7bc985d12d5"
-  },
-  {
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "normalized": "previewing ultrafast mode: gpt-5.6 sol at up to 14x the speed",
-    "content_hash": "2f06adeb0b19da8b61483e09085c62b7"
-  },
-  {
-    "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
-    "normalized": "amazon quick for microsoft 365: agentic ai where you work",
-    "content_hash": "31794cd0ae0a40ed006a8030bb5cfe33"
-  },
-  {
-    "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-    "normalized": "agreement is not alignment: divergent moral grounds in human and llm ethical judgments",
-    "content_hash": "f521500f3650d4a5470a1f13e3264b38"
-  },
-  {
-    "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-    "normalized": "multi-agent scheduling with llm-assisted contract net negotiation for stream processing in mobile edge computing",
-    "content_hash": "aa3f34c91cc85b2b50d5407de8db49df"
-  },
-  {
-    "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
-    "normalized": "research assistant: astrazeneca's agentic system for r&d",
-    "content_hash": "45f30663f993fca080fc7b0da026c62e"
-  },
-  {
-    "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
-    "normalized": "reasoning jury: multi-model consensus for evaluating reasoning traces",
-    "content_hash": "d4467ab3d62778973bc5baba6f14b81b"
-  },
-  {
-    "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
-    "normalized": "steerbench-work: a benchmark for agent steering at action boundaries",
-    "content_hash": "2bf1f5f835640fd117ffb2061ca1270e"
-  },
-  {
-    "title": "Designing AI Pipelines for Decision-Ready ITSM Intelligence",
-    "normalized": "designing ai pipelines for decision-ready itsm intelligence",
-    "content_hash": "83a23426847135707498fcc41b6ea5a7"
-  },
-  {
-    "title": "Multi-AUV Ad-hoc network-based Target Tracking: A Value Gradient Guidance Multi-Agent Diffusion Reinforcement Learning Approach",
-    "normalized": "multi-auv ad-hoc network-based target tracking: a value gradient guidance multi-agent diffusion reinforcement learning approach",
-    "content_hash": "f3d6d65ba712157e4bc1f439d6f7bab2"
-  },
-  {
-    "title": "Scaling Automatic Research Agents via World Models",
-    "normalized": "scaling automatic research agents via world models",
-    "content_hash": "ee5fe495e699549ee56cb304043ac8e2"
-  },
-  {
-    "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
-    "normalized": "here's why ai agents lie and cheat to reach their goals",
-    "content_hash": "26b5f665f6c8b9a2a9e0837a39a6abda"
-  },
-  {
     "title": "Show HN: Embassia \u2013 LLM Search Console \u2013 Web crawlers talk to your site's agent",
     "normalized": "show hn: embassia - llm search console - web crawlers talk to your site's agent",
     "content_hash": "f915c56c719a32bc4243815ad8f86900"
@@ -2498,5 +2373,130 @@
     "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
     "normalized": "cloudflare workers spectre attack leaks jwt from co-located worker at 12 bits/second",
     "content_hash": "9fa1993bb70ba0b23a8fd40a41fc6181"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "normalized": "claude code costs up to $200 a month. goose does the same thing for free.",
+    "content_hash": "65248b0266dc1f08a04a2e243e5e13e8"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "normalized": "salesforce rolls out new slackbot ai agent as it battles microsoft and google in workplace ai",
+    "content_hash": "37f7465d43119228a5340488494c5cd0"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
+    "normalized": "anthropic launches cowork, a claude desktop agent that works in your files -- no coding required",
+    "content_hash": "9b4ec2bb172ef63f1cfc32c6f3255ae3"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "normalized": "listen labs raises $69m after viral billboard hiring stunt to scale ai customer interviews",
+    "content_hash": "b38a14630ce16f4da4c5b72d4109ed41"
+  },
+  {
+    "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+    "normalized": "primeagentorchestrator: memory-primed agent spawning for personal ai infrastructure",
+    "content_hash": "d44aed1709376a517bc3b732e7380373"
+  },
+  {
+    "title": "Evaluating Skills, Not Just Agents: Agentic Continuous Evaluation of Skills",
+    "normalized": "evaluating skills, not just agents: agentic continuous evaluation of skills",
+    "content_hash": "933f922cd55fc67a27ad38233c4ded9f"
+  },
+  {
+    "title": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
+    "normalized": "taiwan reportedly indicted nvidia employees for exporting prohibited ai servers to china",
+    "content_hash": "4813293019fb1685ce35efc0d5ea8c50"
+  },
+  {
+    "title": "De-Googled GrapheneOS is coming to Motorola\u2019s foldables next year",
+    "normalized": "de-googled grapheneos is coming to motorola's foldables next year",
+    "content_hash": "63f3e27e3c15f9e7871b392205b68a16"
+  },
+  {
+    "title": "The builder\u2019s guide to GPT\u20115.6",
+    "normalized": "the builder's guide to gpt\u20115.6",
+    "content_hash": "01563cd4d80bd92a14d33a5e4cd6ca95"
+  },
+  {
+    "title": "Terminal Agents: A Survey of AI Agents in Command-Line Environments",
+    "normalized": "terminal agents: a survey of ai agents in command-line environments",
+    "content_hash": "30574a6b11136083ce4fc8b0a4ce95b3"
+  },
+  {
+    "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
+    "normalized": "volumetric radiology ai in the era of multimodal large language models",
+    "content_hash": "fbda7c0496f158a679819590336a0255"
+  },
+  {
+    "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+    "normalized": "operation quicsilver targets myanmar government and it with quicagent backdoor",
+    "content_hash": "7ceed91cba1dc46eac8e7ebd063a3117"
+  },
+  {
+    "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+    "normalized": "the outsized shadow: why 5% of ai users are your biggest security risk",
+    "content_hash": "36441c745aa731ea9166a239cfdb63b0"
+  },
+  {
+    "title": "Antigravity Remote Control",
+    "normalized": "antigravity remote control",
+    "content_hash": "ef4262973d71f1d84ba4c481c31ec3e4"
+  },
+  {
+    "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
+    "normalized": "humanoid robots smash usain bolt's 100-meter record",
+    "content_hash": "ab3126f9f6f8c08562a2a7b53412e1b2"
+  },
+  {
+    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+    "normalized": "sdad: spec-driven agentic development for the ai-native sdlc",
+    "content_hash": "dcb5d0ee618b67d6fa358b7f928de917"
+  },
+  {
+    "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+    "normalized": "a survey on foundations and frontiers of multimodal agentic frameworks: techniques and applications",
+    "content_hash": "68b6fa8df7e2f1512de9e9566d1c7763"
+  },
+  {
+    "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+    "normalized": "representation affects retrieval: a case study of skill discovery and routing in a multimodal agent harness",
+    "content_hash": "cef40b998e41f822d81811a31480860c"
+  },
+  {
+    "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+    "normalized": "nexus: depth-adaptive kv-cache splicing and retrieval-decoupled tool routing for agentic llms on unified memory",
+    "content_hash": "c5f79c15fd97ff5af863faa86fd16765"
+  },
+  {
+    "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
+    "normalized": "statesight: benchmarking latent spatial-state reconstruction in vision-language models",
+    "content_hash": "38a5fd7b0b9da017ff85f8355dd7289c"
+  },
+  {
+    "title": "FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning",
+    "normalized": "fl-maestro: multi-agent llm orchestration for resource-constrained federated learning",
+    "content_hash": "883cdba919286a323b229a8d5ee0847f"
+  },
+  {
+    "title": "Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning",
+    "normalized": "consilience: conformally calibrated communication control for hidden-profile multi-agent reasoning",
+    "content_hash": "e23925e30acd6a0bc5fab77f727ed0ee"
+  },
+  {
+    "title": "Dual-Cache Latent Space Communication between Heterogeneous Language Models",
+    "normalized": "dual-cache latent space communication between heterogeneous language models",
+    "content_hash": "3142c6037e7c1d8802af8397549b17c8"
+  },
+  {
+    "title": "BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers",
+    "normalized": "bf1: a causal dyadic sparse-attention retrofit for efficient long-context transformers",
+    "content_hash": "aeb9d48d7d4fc0c9f2a434555aa3f1cb"
+  },
+  {
+    "title": "Metag: A dataset to build agentic meta-reviewing capabilities",
+    "normalized": "metag: a dataset to build agentic meta-reviewing capabilities",
+    "content_hash": "11b9bc0a4719d833d2cf8908107a6a4c"
   }
 ]
