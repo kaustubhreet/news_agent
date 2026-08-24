@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-    "normalized": "nous research's nouscoder-14b is an open-source coding model landing right in the claude code moment",
-    "content_hash": "da0fb803a3702f3abd12611d409173e2"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "normalized": "claude code costs up to $200 a month. goose does the same thing for free.",
-    "content_hash": "65248b0266dc1f08a04a2e243e5e13e8"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "normalized": "salesforce rolls out new slackbot ai agent as it battles microsoft and google in workplace ai",
-    "content_hash": "37f7465d43119228a5340488494c5cd0"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
-    "normalized": "anthropic launches cowork, a claude desktop agent that works in your files -- no coding required",
-    "content_hash": "9b4ec2bb172ef63f1cfc32c6f3255ae3"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "normalized": "listen labs raises $69m after viral billboard hiring stunt to scale ai customer interviews",
-    "content_hash": "b38a14630ce16f4da4c5b72d4109ed41"
-  },
-  {
-    "title": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "normalized": "openai introduces 'ultrafast,' a new mode that makes gpt-5.6 sol work at 14x the speed",
-    "content_hash": "623866356fd88b3da1057a8947114c0b"
-  },
-  {
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "normalized": "anthropic set ai agents loose on the same task. they started a turf war.",
-    "content_hash": "7a4cd3abb31967597960dd2222ff999f"
-  },
-  {
-    "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
-    "normalized": "nvidia's new $500b plan is risky but brilliant, especially for aging gpus",
-    "content_hash": "3626a7c48c1ee335e42189b7dab3ce83"
-  },
-  {
-    "title": "Show HN: Taurus Agents, my take on multi-agent hierarchies",
-    "normalized": "show hn: taurus agents, my take on multi-agent hierarchies",
-    "content_hash": "d135d7ec7f32fb44b38d3b6d6cb63093"
-  },
-  {
-    "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-    "normalized": "investors sue selena gomez alleging fraud tied to her mental health startup",
-    "content_hash": "9bed76211e6815753820873c4cc00665"
-  },
-  {
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "normalized": "ibm partners with openai to bolster enterprise ai push",
-    "content_hash": "ab958439818674aca959fea0c5f28fe2"
-  },
-  {
-    "title": "OpenAI hires new CRO as executive shake-up continues",
-    "normalized": "openai hires new cro as executive shake-up continues",
-    "content_hash": "d939fb8b21eba5caa27e77c79ca4e599"
-  },
-  {
-    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-    "normalized": "microsoft kills off unsuccessful ai features while merging its separate copilot apps",
-    "content_hash": "326ec21cb180f85f7cce1960675b7ec6"
-  },
-  {
-    "title": "The Safety Reckoning Inside OpenAI",
-    "normalized": "the safety reckoning inside openai",
-    "content_hash": "27fcd5a3db9c5ad37360f1e13d0b9634"
-  },
-  {
-    "title": "OpenAI is losing its second executive this week",
-    "normalized": "openai is losing its second executive this week",
-    "content_hash": "a89d9a2be674eddb0cdad15bce3c32ed"
-  },
-  {
-    "title": "OpenAI launches Computer History to track macOS activity as memory timeline",
-    "normalized": "openai launches computer history to track macos activity as memory timeline",
-    "content_hash": "95f905febb3ff2f44a7d9f65a7ec53d5"
-  },
-  {
-    "title": "Agents on Rails: The LLM Benchmark Project",
-    "normalized": "agents on rails: the llm benchmark project",
-    "content_hash": "2dc84a1cbc72d0038c3bf5e7ce72e13e"
-  },
-  {
-    "title": "New model BDH-CQ costs $0.007 per task 11x less than OpenAI Luna even w 80% off",
-    "normalized": "new model bdh-cq costs $0.007 per task 11x less than openai luna even w 80% off",
-    "content_hash": "9883d6ea6c6494ed41e73da8bc06c162"
-  },
-  {
-    "title": "The builder\u2019s guide to GPT\u20115.6",
-    "normalized": "the builder's guide to gpt\u20115.6",
-    "content_hash": "01563cd4d80bd92a14d33a5e4cd6ca95"
-  },
-  {
-    "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-    "normalized": "google ai just released gemini 3.7 flash: a coding and agent model at $0.75/1m input tokens",
-    "content_hash": "b2f0dd8bc9e71b36e622ac51d2977180"
-  },
-  {
-    "title": "How to Utilize OKF Efficiently to Enable Knowledge Exchange Among LLMs",
-    "normalized": "how to utilize okf efficiently to enable knowledge exchange among llms",
-    "content_hash": "acde0255002c783692f6da5bca285a95"
-  },
-  {
-    "title": "Cerebras Runs OpenAI\u2019s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier",
-    "normalized": "cerebras runs openai's gpt-5.6 sol at 750 tokens per second in new ultrafast tier",
-    "content_hash": "4e02bf19ce29bdffaba8e0326e4c9353"
-  },
-  {
-    "title": "Flock says its new tool will help identify police abuse, but hasn\u2019t explained how it works",
-    "normalized": "flock says its new tool will help identify police abuse, but hasn't explained how it works",
-    "content_hash": "7558684d042fc155f2f17211d2768210"
-  },
-  {
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "normalized": "writer introduces new ai model and upgraded harness to contain token costs",
-    "content_hash": "024c9585fd2cdc851d427e285ccc3bae"
-  },
-  {
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "normalized": "databricks wanted to raise $1b, investors wanted $15b. it settled on $5b at a $190b valuation.",
-    "content_hash": "3ec89d4a4d3302c1ec3e685b6317053e"
-  },
-  {
     "title": "The MSI Claw EX is the most important handheld since Steam Deck \u2014 I still wouldn\u2019t buy one",
     "normalized": "the msi claw ex is the most important handheld since steam deck -- i still wouldn't buy one",
     "content_hash": "a4ae5fc838fe343581bb8411e767ad89"
@@ -2498,5 +2373,130 @@
     "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
     "normalized": "manic android malware exfiltrates data from offline phones via nearby infected devices",
     "content_hash": "c25572808c516a1f9daa650dc6334a60"
+  },
+  {
+    "title": "Prism Reviewer \u2013 Multi-agent AI code reviewer built with LangGraph and LiteLLM",
+    "normalized": "prism reviewer - multi-agent ai code reviewer built with langgraph and litellm",
+    "content_hash": "ec2623c304739f54eef97a4bf6d73732"
+  },
+  {
+    "title": "Who\u2019s behind the new \u2018stealth model\u2019 Ox Alpha?",
+    "normalized": "who's behind the new 'stealth model' ox alpha?",
+    "content_hash": "46ad4732e8b27b053dd80da7917219fa"
+  },
+  {
+    "title": "TechCrunch Mobility: The custom chip driving Waymo\u2019s robotaxi ambitions",
+    "normalized": "techcrunch mobility: the custom chip driving waymo's robotaxi ambitions",
+    "content_hash": "0efbbe3ff5f2e01f004a5997b04af71f"
+  },
+  {
+    "title": "Is it legal to train AI models on copyrighted books? It\u2019s complicated",
+    "normalized": "is it legal to train ai models on copyrighted books? it's complicated",
+    "content_hash": "c65d1975041c5d2e639cfedff40bbf93"
+  },
+  {
+    "title": "GTA VI: all the news on Rockstar\u2019s next entry in the Grand Theft Auto series",
+    "normalized": "gta vi: all the news on rockstar's next entry in the grand theft auto series",
+    "content_hash": "05464441467a96e0027ce9ac9890c645"
+  },
+  {
+    "title": "We\u2019re All Going to the World\u2019s Fair is an intimate coming-of-age horror film",
+    "normalized": "we're all going to the world's fair is an intimate coming-of-age horror film",
+    "content_hash": "fd1ca51fb040aa739f99a6a6950e3136"
+  },
+  {
+    "title": "AI Chip Architectures",
+    "normalized": "ai chip architectures",
+    "content_hash": "16eecc22ee2be6b9f9353082e9a882b9"
+  },
+  {
+    "title": "Google Workspace thinks my domain is an email provider (2025)",
+    "normalized": "google workspace thinks my domain is an email provider (2025)",
+    "content_hash": "01675a570431d395ed785b9a2f16dde1"
+  },
+  {
+    "title": "My agent.md to improve LLM-assisted code quality",
+    "normalized": "my agent.md to improve llm-assisted code quality",
+    "content_hash": "0399aa655a163273d8a63d44ea5d1611"
+  },
+  {
+    "title": "AI and Infrastructure Engineering",
+    "normalized": "ai and infrastructure engineering",
+    "content_hash": "90020cbc72789d90f08103d451c53f5a"
+  },
+  {
+    "title": "NanoGPT Speedrun Frontier",
+    "normalized": "nanogpt speedrun frontier",
+    "content_hash": "c3651cd2769b38df29fce214a5d379f8"
+  },
+  {
+    "title": "I Shouldn't Need an LLM to Explain My LLM",
+    "normalized": "i shouldn't need an llm to explain my llm",
+    "content_hash": "65c26b4797a17bffcf5c34f336fba503"
+  },
+  {
+    "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
+    "normalized": "openai leader warns of threat of 'persistent' ai cyber-attacks",
+    "content_hash": "6344a0b048d232babcb9a1dfaa8886ae"
+  },
+  {
+    "title": "Running a 10-tier SQLite agent mesh on Termux without thermal throttling",
+    "normalized": "running a 10-tier sqlite agent mesh on termux without thermal throttling",
+    "content_hash": "97f95daed7851cbd4bac329380c3c56a"
+  },
+  {
+    "title": "Daimon \u2013 Local Privacy LLM",
+    "normalized": "daimon - local privacy llm",
+    "content_hash": "b2091885671465f51d221d5845b15a79"
+  },
+  {
+    "title": "The Web-Search Latency Your Agent Pays",
+    "normalized": "the web-search latency your agent pays",
+    "content_hash": "18efef9d981d6bb41a7d683c97d54b08"
+  },
+  {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "normalized": "how ringcentral builds ai-native work from engineering to ops",
+    "content_hash": "cb2f4ebdb302ba03f86ddfc2968ddbb9"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "normalized": "testing ads in chatgpt",
+    "content_hash": "949a1fcab65b45a3475f032739c5187a"
+  },
+  {
+    "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+    "normalized": "uber faces fine of nearly $1b over automated driver suspensions",
+    "content_hash": "2646dca7906c582b72ccfc7266184325"
+  },
+  {
+    "title": "Flock CEO calls for \u2018compromise\u2019 as surveillance company faces growing backlash",
+    "normalized": "flock ceo calls for 'compromise' as surveillance company faces growing backlash",
+    "content_hash": "ea6c549a70453b189dbd4452077673d3"
+  },
+  {
+    "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+    "normalized": "nasa ait-gui flaws could let unauthenticated attackers issue spacecraft commands",
+    "content_hash": "bfc575a10380af6fbd2a1a391d97a4f6"
+  },
+  {
+    "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+    "normalized": "toxicpanda 2.0 and golddigger expand android banking attacks with on-device fraud",
+    "content_hash": "baac59f8bf34a17c3a3a23abd392f42b"
+  },
+  {
+    "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+    "normalized": "40 malicious firefox extensions pose as web3 products to steal wallet secrets",
+    "content_hash": "86a4f5d706f7c9add001c42286b09bcb"
+  },
+  {
+    "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+    "normalized": "elementor pro flaw could let unauthenticated attackers upload php and execute code",
+    "content_hash": "ff5d45785c1db539ffdab2a20e52ce29"
+  },
+  {
+    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+    "normalized": "cloudflare workers spectre attack leaks jwt from co-located worker at 12 bits/second",
+    "content_hash": "9fa1993bb70ba0b23a8fd40a41fc6181"
   }
 ]
