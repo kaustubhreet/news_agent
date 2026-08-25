@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: Embassia \u2013 LLM Search Console \u2013 Web crawlers talk to your site's agent",
-    "normalized": "show hn: embassia - llm search console - web crawlers talk to your site's agent",
-    "content_hash": "f915c56c719a32bc4243815ad8f86900"
-  },
-  {
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "normalized": "google will now allow users to remove visible watermark from its ai generations",
-    "content_hash": "cfb5ff08d3db577e3512a61c0ea592c5"
-  },
-  {
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "normalized": "kog is going deeper to squeeze more inference out of gpus",
-    "content_hash": "3a9518a7d3b41c5a44c8d64f29b53a66"
-  },
-  {
-    "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
-    "normalized": "the x-files creator chris carter wanted to make a more horrific movie",
-    "content_hash": "5054380ed8c89436f978b149b9771661"
-  },
-  {
-    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "normalized": "you can now turn off google gemini's visible watermarks",
-    "content_hash": "7a61ff7249ddded91577659cafaea3ec"
-  },
-  {
-    "title": "The MSI Claw EX is the most important PC handheld since Steam Deck \u2014 I still wouldn\u2019t buy one",
-    "normalized": "the msi claw ex is the most important pc handheld since steam deck -- i still wouldn't buy one",
-    "content_hash": "d86a41af5ff72f3e8ae443c9c3fa6da4"
-  },
-  {
-    "title": "Show HN: Captain, AI Travel Agent",
-    "normalized": "show hn: captain, ai travel agent",
-    "content_hash": "a6fb6067b73a68b0b32821d765350354"
-  },
-  {
-    "title": "Show HN: Agentic Ship \u2013 open-source Lovable alternative that runs on your agent",
-    "normalized": "show hn: agentic ship - open-source lovable alternative that runs on your agent",
-    "content_hash": "da699bb21e12b7d1e84adf8544609443"
-  },
-  {
-    "title": "Self-driving trucks are officially testing on California highways",
-    "normalized": "self-driving trucks are officially testing on california highways",
-    "content_hash": "08e1d8eefe725dec449da969ce24b5e0"
-  },
-  {
-    "title": "Thrive\u2019s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-    "normalized": "thrive's joshua kushner chides silicon valley vcs over ai euphoria",
-    "content_hash": "1e15a28110e476a975eaf770bb933671"
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
-    "normalized": "does mark zuckerberg really believe ai is 'for everyone'?",
-    "content_hash": "3721b399b04d4a39fd9788ded45fbdf8"
-  },
-  {
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "normalized": "hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "content_hash": "2ddc86ea5d0c8c7ecbf0474fb588e6d3"
-  },
-  {
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "normalized": "openai and anthropic in price war as chinese ai rivals gain ground",
-    "content_hash": "77f16eea581d95d08566d52dcdcadd3f"
-  },
-  {
-    "title": "Samsung has new Galaxy headphones in the works",
-    "normalized": "samsung has new galaxy headphones in the works",
-    "content_hash": "2abcf85c9dd91fb1a7e7758350790bd6"
-  },
-  {
-    "title": "Lamborghini\u2019s flagship Revuelto levels up with SV trim",
-    "normalized": "lamborghini's flagship revuelto levels up with sv trim",
-    "content_hash": "4a0844a734cdbc9181dfcd1c8676a819"
-  },
-  {
-    "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
-    "normalized": "google's best new camera feature is only for the pixel 11 series",
-    "content_hash": "3fa6174b27d7a93355cd009b3a687506"
-  },
-  {
-    "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
-    "normalized": "2025 goty clair obscur: expedition 33 is down to $33",
-    "content_hash": "f5230db147574c4b7e699f227bfdf945"
-  },
-  {
-    "title": "Google is making private AI practical with homomorphic encryption",
-    "normalized": "google is making private ai practical with homomorphic encryption",
-    "content_hash": "b6945d93fb021d14fd3f1585530d2d6c"
-  },
-  {
-    "title": "Baking a Model: A Metaphor for LLM Training",
-    "normalized": "baking a model: a metaphor for llm training",
-    "content_hash": "58af56d5e7a32873c236a7791157c14d"
-  },
-  {
-    "title": "Flownie \u2013 Open and Visual Data Workflow Platform with AI Agent Assistance",
-    "normalized": "flownie - open and visual data workflow platform with ai agent assistance",
-    "content_hash": "41c271716d7406513042a4c07ec9daa5"
-  },
-  {
-    "title": "Talos AI Agent Super Secure",
-    "normalized": "talos ai agent super secure",
-    "content_hash": "35f46a6096963cde2b1dc371ae5353ba"
-  },
-  {
-    "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-    "normalized": "openai talent exodus raises 'huge red flag' ahead of ipo",
-    "content_hash": "276ba502d68207863960ef14bcb64614"
-  },
-  {
-    "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
-    "normalized": "fmr openai exec fidji simo discusses pots battle and plan to cure it with ai",
-    "content_hash": "f891aa63567f75ae16be9177471f9fcb"
-  },
-  {
-    "title": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
-    "normalized": "llm web search benchmarks: more searches beat a better search engine",
-    "content_hash": "4f085f3b6c6565f7426dc181a5a55890"
-  },
-  {
-    "title": "Map: Tracking OpenAI's Leadership Exodus",
-    "normalized": "map: tracking openai's leadership exodus",
-    "content_hash": "33aac4ab078989f63932617b1aabb3c8"
-  },
-  {
     "title": "Nvidia Downsizes Plans for $250B Guarantee of OpenAI Data Center",
     "normalized": "nvidia downsizes plans for $250b guarantee of openai data center",
     "content_hash": "096859742741af99156272a194c87c09"
@@ -2498,5 +2373,130 @@
     "title": "Metag: A dataset to build agentic meta-reviewing capabilities",
     "normalized": "metag: a dataset to build agentic meta-reviewing capabilities",
     "content_hash": "11b9bc0a4719d833d2cf8908107a6a4c"
+  },
+  {
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "normalized": "openai is building ai agents for everything. will everyone use them?",
+    "content_hash": "5dbee4f2621af75333ab5ed1eb8496a9"
+  },
+  {
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "normalized": "valor, point72 back general intuition at $6b valuation as ai startup pushes into robotics",
+    "content_hash": "1f72c0aeecd66a8aa7c965de496db321"
+  },
+  {
+    "title": "Alabama launches investigation into OpenAI\u2019s hack of Hugging Face",
+    "normalized": "alabama launches investigation into openai's hack of hugging face",
+    "content_hash": "ba53fc2e1a8ed34f24dd4b2de7995bbd"
+  },
+  {
+    "title": "US nutrition startup Berry Street merges with India\u2019s Healthify as GLP-1 trends upwards",
+    "normalized": "us nutrition startup berry street merges with india's healthify as glp-1 trends upwards",
+    "content_hash": "2d8aab69843f3725f1f24968331ddfe2"
+  },
+  {
+    "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+    "normalized": "lenovo confirms legion go issues after gamers report bricked devices",
+    "content_hash": "ac328b1a4c66c6657a23073eb09b3f1d"
+  },
+  {
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "normalized": "openai: gpt 5.6 sol price reduction (until at least nov 21)",
+    "content_hash": "91accdc9c02ad15044451e3eefb074dc"
+  },
+  {
+    "title": "SpaceXAI Puts NVIDIA\u2019s Vera CPU at the Center of Gigawatt-Scale Buildout",
+    "normalized": "spacexai puts nvidia's vera cpu at the center of gigawatt-scale buildout",
+    "content_hash": "08af647c635ca46ea7723942817e734e"
+  },
+  {
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "normalized": "situational awareness, star ai hedge fund that nearly imploded, now being probed by the sec",
+    "content_hash": "8d52c4c3463197e11d48601fc11c8316"
+  },
+  {
+    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there\u2019s still space",
+    "normalized": "showcase your startup at techcrunch disrupt 2026 and book an exhibit table while there's still space",
+    "content_hash": "8afd08bbd5b41ca9675a8acbbeaf30ba"
+  },
+  {
+    "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
+    "normalized": "instinct's powerful ai assistant is raising privacy and security concerns",
+    "content_hash": "dde44caf64591011d98f05cd4d906bdd"
+  },
+  {
+    "title": "Brake problems in GM EVs draw greater federal scrutiny",
+    "normalized": "brake problems in gm evs draw greater federal scrutiny",
+    "content_hash": "a6b8818a1606409ee68c4a20bd1bf811"
+  },
+  {
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "normalized": "hugging face reportedly in talks to be acquired for $13b",
+    "content_hash": "8f2fbc7e0e3dfe13dd705084fbfb976b"
+  },
+  {
+    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "normalized": "nvidia senior manager linked to supermicro scheme smuggling ai servers to china",
+    "content_hash": "16fd0694a57c7afef19365328ec80362"
+  },
+  {
+    "title": "How to cancel your ChatGPT subscription (and why you might want to)",
+    "normalized": "how to cancel your chatgpt subscription (and why you might want to)",
+    "content_hash": "be6a75fa6ca5c5b4559550b4dc09f60e"
+  },
+  {
+    "title": "The cat-and-mouse game over 3D-printed guns has begun",
+    "normalized": "the cat-and-mouse game over 3d-printed guns has begun",
+    "content_hash": "4a7e86912fbd28bb8621de4df77ecb7a"
+  },
+  {
+    "title": "Robotaxis are real now \u2014 so is the pushback",
+    "normalized": "robotaxis are real now -- so is the pushback",
+    "content_hash": "6dce488130528977864d06c276075b8e"
+  },
+  {
+    "title": "The Witcher 4 developers target a 2028 release",
+    "normalized": "the witcher 4 developers target a 2028 release",
+    "content_hash": "316a20d1926a4b40f524f0d114f42022"
+  },
+  {
+    "title": "Apple\u2019s four-pack of second-gen AirTags is $20 off",
+    "normalized": "apple's four-pack of second-gen airtags is $20 off",
+    "content_hash": "7a9e69ed51303b693b163253db0ef661"
+  },
+  {
+    "title": "How GoFundMe became America\u2019s backup plan",
+    "normalized": "how gofundme became america's backup plan",
+    "content_hash": "9be14fe562088f30d21be4c02563c4aa"
+  },
+  {
+    "title": "Netflix reportedly considers opening its app to other streamers",
+    "normalized": "netflix reportedly considers opening its app to other streamers",
+    "content_hash": "15003dbb21e935ee05b686c098e928f5"
+  },
+  {
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "normalized": "autostep (yc p26) is hiring ai/fullstack engineers and a chief of staff",
+    "content_hash": "5ead3c96845642a84eb3b0b00a297ddb"
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "normalized": "previewing ultrafast mode: gpt-5.6 sol at up to 14x the speed",
+    "content_hash": "2f06adeb0b19da8b61483e09085c62b7"
+  },
+  {
+    "title": "Learning Exact NVIDIA SASS Encoders with $\\mathbb{F}_2$ Linear Algebra",
+    "normalized": "learning exact nvidia sass encoders with $\\mathbb{f}_2$ linear algebra",
+    "content_hash": "2098be89849227e2b2ad9ae54cd9d22b"
+  },
+  {
+    "title": "OpenAI Brings GPT-5.6 Model Family to AWS\u2019s Kiro",
+    "normalized": "openai brings gpt-5.6 model family to aws's kiro",
+    "content_hash": "1fb2bbc16e57db2b4f1463a776194026"
+  },
+  {
+    "title": "Lancium and NVIDIA Partner to Deploy Gigawatt-Scale AI Factories",
+    "normalized": "lancium and nvidia partner to deploy gigawatt-scale ai factories",
+    "content_hash": "935878152d6d2845b75da97123c7003c"
   }
 ]
