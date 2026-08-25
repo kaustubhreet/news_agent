@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nvidia Downsizes Plans for $250B Guarantee of OpenAI Data Center",
-    "normalized": "nvidia downsizes plans for $250b guarantee of openai data center",
-    "content_hash": "096859742741af99156272a194c87c09"
-  },
-  {
-    "title": "OpenAI updates its Privacy Policy to include ads",
-    "normalized": "openai updates its privacy policy to include ads",
-    "content_hash": "855c95e3c66f99f8638be6328efbd609"
-  },
-  {
-    "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
-    "normalized": "choosing the right database for ai agents: llm generated sql",
-    "content_hash": "14b65289a6ff3201776e000c5246d1d1"
-  },
-  {
-    "title": "The Commons \u2013 experiments in inherited knowledge and errors between LLM agents",
-    "normalized": "the commons - experiments in inherited knowledge and errors between llm agents",
-    "content_hash": "0fc87bce453bd4c30c39bbf3debe5763"
-  },
-  {
-    "title": "When housing is unaffordable, this artist\u2019s device makes pedaling harder",
-    "normalized": "when housing is unaffordable, this artist's device makes pedaling harder",
-    "content_hash": "8f5479aa9ce8885409dcef7abb72e519"
-  },
-  {
-    "title": "Debian has begun voting on the future of AI/LLM contributions",
-    "normalized": "debian has begun voting on the future of ai/llm contributions",
-    "content_hash": "93d27637438c924d52b67e8e5ad66493"
-  },
-  {
-    "title": "Show HN: Agent-shell \u2013 vendor-neutral chat with AI agents in Emacs",
-    "normalized": "show hn: agent-shell - vendor-neutral chat with ai agents in emacs",
-    "content_hash": "db6d2c6f9138dea26fffa732b15ecf00"
-  },
-  {
-    "title": "OpenAI slows release of Astra model citing cyber capabilities",
-    "normalized": "openai slows release of astra model citing cyber capabilities",
-    "content_hash": "020403cc77a4f9f901bf274e512f77da"
-  },
-  {
-    "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
-    "normalized": "anthropic sees ai risks rising, no plan to release stronger \"model 2\"",
-    "content_hash": "c99e8ba3ead8d5a262db76ba468cfd83"
-  },
-  {
-    "title": "OpenAI rolling out ads for Europe later this month",
-    "normalized": "openai rolling out ads for europe later this month",
-    "content_hash": "bf89bbade137cb3e01937844440bffc3"
-  },
-  {
-    "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
-    "normalized": "openai upheaval mounts as sam altman readies ipo push",
-    "content_hash": "2e7de38a324588f0aaf465d81451fa6c"
-  },
-  {
-    "title": "Ask HN: Could Anthropic's watermark be much simpler than we think?",
-    "normalized": "ask hn: could anthropic's watermark be much simpler than we think?",
-    "content_hash": "feb2b247dc05e0cbd3ffd36df4d91f51"
-  },
-  {
-    "title": "Show HN: WMTrace \u2013 See how LLM text watermarks work (Anthropic just adopted one)",
-    "normalized": "show hn: wmtrace - see how llm text watermarks work (anthropic just adopted one)",
-    "content_hash": "5d834e8203f3163a38969599e47c243e"
-  },
-  {
-    "title": "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging",
-    "normalized": "openai ditches recall-style screenshot surveillance for friendly keylogging",
-    "content_hash": "75f48bd941fbe05a8236e2d7c9bfc276"
-  },
-  {
-    "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
-    "normalized": "building agentic workflows with sagemaker ai and bedrock agentcore",
-    "content_hash": "eb080b5745ba03912b0b8742ef1299ee"
-  },
-  {
-    "title": "Waiting at the gates: Gautamnagar\u2019s long struggle for a rail underpass",
-    "normalized": "waiting at the gates: gautamnagar's long struggle for a rail underpass",
-    "content_hash": "efeff4668ee42d0d805cd4050fd56602"
-  },
-  {
-    "title": "OpenAI Tells Investors Enterprise Revenue Has Overtaken Its ChatGPT Consumer Business",
-    "normalized": "openai tells investors enterprise revenue has overtaken its chatgpt consumer business",
-    "content_hash": "ca0511da403166ebcba726ef187ef6d6"
-  },
-  {
-    "title": "Anthropic Explains the Mechanics of Claude\u2019s Text Watermark",
-    "normalized": "anthropic explains the mechanics of claude's text watermark",
-    "content_hash": "eb8b03885b0259d3841c8bd17ffda662"
-  },
-  {
-    "title": "LG to Unveil Next-Gen Bipedal Humanoid Robot Built on NVIDIA Isaac GR00T",
-    "normalized": "lg to unveil next-gen bipedal humanoid robot built on nvidia isaac gr00t",
-    "content_hash": "0bd8d5df7fcc93975c0b7ef3065f6964"
-  },
-  {
-    "title": "OpenAI\u2019s Computer History Turns Mac Activity Into ChatGPT Memory",
-    "normalized": "openai's computer history turns mac activity into chatgpt memory",
-    "content_hash": "507b2d7d277ec2f643fd681d9aedb12b"
-  },
-  {
-    "title": "Amazon Quick Arrives Inside Word, Excel, PowerPoint, and Outlook",
-    "normalized": "amazon quick arrives inside word, excel, powerpoint, and outlook",
-    "content_hash": "6ba4f356c7c863306cdec41d0ebc4762"
-  },
-  {
-    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-    "normalized": "talks to sell paypal to stripe and advent are heating up",
-    "content_hash": "e5ff860fcbb174a584bcc4cee34da302"
-  },
-  {
-    "title": "What we know about the alleged Iranian hacks on US water utilities",
-    "normalized": "what we know about the alleged iranian hacks on us water utilities",
-    "content_hash": "6ac994890ffb6c4bbd68c71f34961bf8"
-  },
-  {
-    "title": "Read-it-later app Pocket shut down \u2014 here are the best alternatives",
-    "normalized": "read-it-later app pocket shut down -- here are the best alternatives",
-    "content_hash": "bf4a435782bfb08876fbe7153e9acc74"
-  },
-  {
-    "title": "Unforgetful is a new reminders app for people who can\u2019t stop hitting snooze",
-    "normalized": "unforgetful is a new reminders app for people who can't stop hitting snooze",
-    "content_hash": "c358290e7d60d532deb4e440fe21ce97"
-  },
-  {
     "title": "SpaceX officially closes its Cursor acquisition",
     "normalized": "spacex officially closes its cursor acquisition",
     "content_hash": "5414da71fe1d109a580e31ad3a590b45"
@@ -2498,5 +2373,130 @@
     "title": "Lancium and NVIDIA Partner to Deploy Gigawatt-Scale AI Factories",
     "normalized": "lancium and nvidia partner to deploy gigawatt-scale ai factories",
     "content_hash": "935878152d6d2845b75da97123c7003c"
+  },
+  {
+    "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
+    "normalized": "'the world seems to be ready': an interview with openai head of product thibault sottiaux",
+    "content_hash": "41d67640f978e44422ea29362b9cbeab"
+  },
+  {
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "normalized": "openai subpoenaed by alabama ag over hugging face hack",
+    "content_hash": "161249dca6a7273a6e747a1c329e8b03"
+  },
+  {
+    "title": "Nemotron 3.5 Lightning-Omni: I gave NVIDIA's agent model eyes and ears",
+    "normalized": "nemotron 3.5 lightning-omni: i gave nvidia's agent model eyes and ears",
+    "content_hash": "f45d6acc6ae4397d3731d6d56d775fd8"
+  },
+  {
+    "title": "India\u2019s Airbound bags $37M to take on trucks with rocket-like drones",
+    "normalized": "india's airbound bags $37m to take on trucks with rocket-like drones",
+    "content_hash": "893854001c6e953a9273b0948de581ad"
+  },
+  {
+    "title": "We built a structured entity graph for an AI agent. Then we removed most of it",
+    "normalized": "we built a structured entity graph for an ai agent. then we removed most of it",
+    "content_hash": "6c48a9cef79596d7aabdb765cb51a811"
+  },
+  {
+    "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
+    "normalized": "xiaomi, ai cube prototype: multi-chip local llm powerhouse",
+    "content_hash": "7a4f18ad8f4659bdf44f49966be4fcf3"
+  },
+  {
+    "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+    "normalized": "spirit airlines wants to sell its data to google. former flight attendants are freaked out",
+    "content_hash": "8b7d1c7792925169428dd9c959ddc39b"
+  },
+  {
+    "title": "Android is getting its own weird dots to cure car sickness",
+    "normalized": "android is getting its own weird dots to cure car sickness",
+    "content_hash": "a7e34b3ae0388d540a007302ec336acb"
+  },
+  {
+    "title": "Run manual QA test cases in a real browser with an AI agent",
+    "normalized": "run manual qa test cases in a real browser with an ai agent",
+    "content_hash": "e5749731fabc730ad7c160021cfc3ae5"
+  },
+  {
+    "title": "Show HN: Unlose \u2013 Windows VSS snapshots before your AI agent deletes your files",
+    "normalized": "show hn: unlose - windows vss snapshots before your ai agent deletes your files",
+    "content_hash": "daa49779ab1e38d1f0ba00e6a98b3d88"
+  },
+  {
+    "title": "Show HN: SkillPreflight \u2013 score AI agent skills before installing them",
+    "normalized": "show hn: skillpreflight - score ai agent skills before installing them",
+    "content_hash": "66b87e4441f0f47cb41114008e236793"
+  },
+  {
+    "title": "SHOW HN: a CLI that runs 15 prompt-injection attacks against your LLM",
+    "normalized": "show hn: a cli that runs 15 prompt-injection attacks against your llm",
+    "content_hash": "1214ccc8209a673c4a23470423e67827"
+  },
+  {
+    "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
+    "normalized": "abby steele: an offline ai personality powered by a local llm and chess engine",
+    "content_hash": "8a4e9f83706f1154d6b0ae3ded56f28d"
+  },
+  {
+    "title": "Show HN: A minimal implementation of LLM output watermarking",
+    "normalized": "show hn: a minimal implementation of llm output watermarking",
+    "content_hash": "ff92da06ca6195bdd5100cd8d43e5ae2"
+  },
+  {
+    "title": "I built an agent-skill that turns your texts into diagrams and BI-visuals",
+    "normalized": "i built an agent-skill that turns your texts into diagrams and bi-visuals",
+    "content_hash": "b40aa13645ea9e8ebb69104722339636"
+  },
+  {
+    "title": "What languages are agent skills written in?",
+    "normalized": "what languages are agent skills written in?",
+    "content_hash": "250ef207e0fb74e24fe540f04671424e"
+  },
+  {
+    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+    "normalized": "kvboost: chunk-level key-value cache reuse with deviation-guided recomputation for efficient large language model inference",
+    "content_hash": "0b368bd0ff6e7ec902cf8fe61146256d"
+  },
+  {
+    "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+    "normalized": "litreview arena: evaluating literature review agents with battle-style peer review platform",
+    "content_hash": "a2c5b2cf64b898cafee143c5ae513bab"
+  },
+  {
+    "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+    "normalized": "schemarouter: field-aware tool routing for efficient heterogeneous agentic rag",
+    "content_hash": "63f55224e620002b7a7642fd96898ae0"
+  },
+  {
+    "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
+    "normalized": "spyre-accelerated retrieval-augmented generation on ibm linuxone: a cloud-native architecture for secure, high-throughput enterprise ai inference",
+    "content_hash": "2203e88c5b76e6f10a228df20b2067d0"
+  },
+  {
+    "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
+    "normalized": "hate speech classification in roman urdu: a comparative study on parameter efficient fine-tuning and prompt engineering",
+    "content_hash": "9b3150db9a048c8f35cfca43c609716b"
+  },
+  {
+    "title": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
+    "normalized": "agentic ai for safety-critical multi-drone systems: challenges and opportunities",
+    "content_hash": "3aa2ad40d0f6162e3b98ab4e2d0b5be4"
+  },
+  {
+    "title": "K-Bench: measuring model performance on real scientific agent requests",
+    "normalized": "k-bench: measuring model performance on real scientific agent requests",
+    "content_hash": "232b42ef7fd3811bf6488ff521cb6c98"
+  },
+  {
+    "title": "Multiverse Computing\u2019s 4-Bit Healing Beats Full-Precision Model",
+    "normalized": "multiverse computing's 4-bit healing beats full-precision model",
+    "content_hash": "20447619c3722efc69bad28df5e371c8"
+  },
+  {
+    "title": "Taiwan Indicts Nine Over AI Server Exports to China",
+    "normalized": "taiwan indicts nine over ai server exports to china",
+    "content_hash": "e7b31579c22955cffc4ed3d63b6180c3"
   }
 ]
