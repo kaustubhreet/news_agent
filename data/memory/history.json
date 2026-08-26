@@ -1,130 +1,5 @@
 [
   {
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "normalized": "spacex officially closes its cursor acquisition",
-    "content_hash": "5414da71fe1d109a580e31ad3a590b45"
-  },
-  {
-    "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
-    "normalized": "anthropic shares more details about how claude's new watermarks will work",
-    "content_hash": "b057d9b1261eea4d4dbdd96c7372f607"
-  },
-  {
-    "title": "Every fusion startup that has raised over $100M",
-    "normalized": "every fusion startup that has raised over $100m",
-    "content_hash": "e5dd9e8bd47df593fc83850d758c9050"
-  },
-  {
-    "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
-    "normalized": "sentinel scan: an authorized llm red-team audit, run by an ai agent",
-    "content_hash": "db6f841e4226121d69e1c8376fd9d83b"
-  },
-  {
-    "title": "Kimi Work attaches raw agent sessions to feedback reports",
-    "normalized": "kimi work attaches raw agent sessions to feedback reports",
-    "content_hash": "4d34a5639cd2e6503225500091da9122"
-  },
-  {
-    "title": "Show HN: Jovethra \u2013 prepaid OpenAI-compatible API with hard usage limits",
-    "normalized": "show hn: jovethra - prepaid openai-compatible api with hard usage limits",
-    "content_hash": "0b83cd252eae875b8cdbdaae824f11a0"
-  },
-  {
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "normalized": "woman claims her stepfather used grok to transform childhood photo into explicit imagery",
-    "content_hash": "619e4a31beabc7a9ba932ffd33ac05e0"
-  },
-  {
-    "title": "How to tell if your AI platforms\u2019 accounts have been hacked",
-    "normalized": "how to tell if your ai platforms' accounts have been hacked",
-    "content_hash": "3c988d5a3f39c652f2bcac0eed58f97a"
-  },
-  {
-    "title": "Have a laugh at AI\u2019s expense by roleplaying as a chatbot",
-    "normalized": "have a laugh at ai's expense by roleplaying as a chatbot",
-    "content_hash": "9088869307bf14ef509f2422e2aa0425"
-  },
-  {
-    "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
-    "normalized": "don't overlook elektron's budget electronic music instruments",
-    "content_hash": "0ed54cc8746216858496cb27a43846f7"
-  },
-  {
-    "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
-    "normalized": "star wars: ahsoka season 2 and starfighter get teased at d23",
-    "content_hash": "e4a87a549b4b14118ba961deea306053"
-  },
-  {
-    "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
-    "normalized": "disney d23 2026: everything announced for star wars, marvel, and more",
-    "content_hash": "7e4d24adf5bf5fda7703f14485d2674f"
-  },
-  {
-    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-    "normalized": "voltair (yc w26) is hiring a test flight engineer",
-    "content_hash": "161ef5f4f0dfe0d5a2349ec5b6bdf424"
-  },
-  {
-    "title": "Anthropic shares details about how Claude's new watermarks will work",
-    "normalized": "anthropic shares details about how claude's new watermarks will work",
-    "content_hash": "6351ff026036f560cd6e694b174e3fd6"
-  },
-  {
-    "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
-    "normalized": "temporalstore: a disruptive open-source engine managing your llm memory",
-    "content_hash": "27e623b6e6d5bd43f5a78bedf86fc548"
-  },
-  {
-    "title": "Job titles of the future: Space travel agent",
-    "normalized": "job titles of the future: space travel agent",
-    "content_hash": "a868a5957e979fd3dd6565e2d24b6dce"
-  },
-  {
-    "title": "Show HN: Bento Term \u2013 native tmux client with agent states and voice input",
-    "normalized": "show hn: bento term - native tmux client with agent states and voice input",
-    "content_hash": "106e2446adf2b589efa2faf8bc734bc1"
-  },
-  {
-    "title": "Show HN: Velorn \u2013 an open-source desktop video editor with MCP agent control",
-    "normalized": "show hn: velorn - an open-source desktop video editor with mcp agent control",
-    "content_hash": "162a6153f54728f6d110d0d6a148e97f"
-  },
-  {
-    "title": "Ask HN: What agent skills are necessary?",
-    "normalized": "ask hn: what agent skills are necessary?",
-    "content_hash": "9232595eccae52ef0fc3e0d467170ac1"
-  },
-  {
-    "title": "Show HN: I built a spatial node canvas to fix LLM context drift",
-    "normalized": "show hn: i built a spatial node canvas to fix llm context drift",
-    "content_hash": "c20a609d645c8a4bd0a8eb86e7b2ef96"
-  },
-  {
-    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-    "normalized": "empowering india's next generation of innovators with atl saathi",
-    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
-  },
-  {
-    "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
-    "normalized": "spacexai releases grok 4.6: a 500k-context frontier model tuned for long-running agents, coding, and knowledge work",
-    "content_hash": "e7026cd694b9a916b67a7a0820c272a4"
-  },
-  {
-    "title": "Anthropic Documents AI Agents That Kill Rivals and Evade Their Monitors",
-    "normalized": "anthropic documents ai agents that kill rivals and evade their monitors",
-    "content_hash": "30e7e8a84d7ae491f550969a4090f387"
-  },
-  {
-    "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-    "normalized": "apple proposes to take a 15% cut of purchases made outside the app store",
-    "content_hash": "7655754e72341cbe560a5be728db8d1f"
-  },
-  {
-    "title": "US courts will start publishing how often the government uses spyware",
-    "normalized": "us courts will start publishing how often the government uses spyware",
-    "content_hash": "bd36597eb9a57cc23526f5f4b484a823"
-  },
-  {
     "title": "Rogue AI aren\u2019t science fiction anymore",
     "normalized": "rogue ai aren't science fiction anymore",
     "content_hash": "f49616f912066b09b05b08f2da4cfb9f"
@@ -2498,5 +2373,130 @@
     "title": "Taiwan Indicts Nine Over AI Server Exports to China",
     "normalized": "taiwan indicts nine over ai server exports to china",
     "content_hash": "e7b31579c22955cffc4ed3d63b6180c3"
+  },
+  {
+    "title": "OpenAI's 700W Jalape\u00f1o ASIC outpaces 1,400W Nvidia flagship GPU",
+    "normalized": "openai's 700w jalape\u00f1o asic outpaces 1,400w nvidia flagship gpu",
+    "content_hash": "038db8e89c842ea340f528a9439c04db"
+  },
+  {
+    "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
+    "normalized": "openai's jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
+    "content_hash": "dad50345b4da537e59c8aeafa133e2ba"
+  },
+  {
+    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+    "normalized": "self-driving truck startup gatik raises $200m following pepsico deal",
+    "content_hash": "2c6f9a7a8e0494181cc37c4479de8d39"
+  },
+  {
+    "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+    "normalized": "a malicious webpage could poison your local ai model behind nvidia nemoclaw",
+    "content_hash": "d2f33d4e0cfef0b25119aa2dbce0e633"
+  },
+  {
+    "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+    "normalized": "openai jalape\u00f1o: better than nvidia blackwell",
+    "content_hash": "07756a4ae0d1abc2001e2f8a7dce3430"
+  },
+  {
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "normalized": "robotics startup generalist reaches $3b valuation, sources say",
+    "content_hash": "ec237181c7cc5b00356f79d3b226729f"
+  },
+  {
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "normalized": "openai loses a top data center exec, as stream of high-profile departures continues",
+    "content_hash": "b404c1cfc5ff15ef5a849498f64283a4"
+  },
+  {
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "normalized": "stability ai, maker of image generator stable diffusion, raises $76 million in fresh funding",
+    "content_hash": "8831234251857efd959e961431eaabcf"
+  },
+  {
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "normalized": "claude cowork finally remembers what you told the app in chat",
+    "content_hash": "d5da15a635872a8ec858dfb1739cbe2a"
+  },
+  {
+    "title": "Dreame\u2019s dream of a rocket-powered car is dead",
+    "normalized": "dreame's dream of a rocket-powered car is dead",
+    "content_hash": "96ec3a4b12c1d0cc2832c00376ecd985"
+  },
+  {
+    "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
+    "normalized": "take a look at microsoft's new 25th anniversary halo accessories",
+    "content_hash": "cca48cda730bdc3d69227be6cbf0a9c3"
+  },
+  {
+    "title": "Show HN: Agent Purge \u2013 Scrub any mention of anything agent related",
+    "normalized": "show hn: agent purge - scrub any mention of anything agent related",
+    "content_hash": "32dca5285f8654de80d8a67c23e31a5b"
+  },
+  {
+    "title": "Anthropic and OpenAI will have most of compute by 2028 [video]",
+    "normalized": "anthropic and openai will have most of compute by 2028 [video]",
+    "content_hash": "8a7fd34d00eec66f6419016fa908416a"
+  },
+  {
+    "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
+    "normalized": "cross-vendor byte-identical inference for a 72b llm (amd mi300x vs. nvidia h100)",
+    "content_hash": "96d7d671d85814ed466abc178960247c"
+  },
+  {
+    "title": "Instagram\u2019s \u2018First Draft\u2019 feature aims to make editing Reels less tedious",
+    "normalized": "instagram's 'first draft' feature aims to make editing reels less tedious",
+    "content_hash": "772d5e1cd45238994aea23e78bb0e5cc"
+  },
+  {
+    "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+    "normalized": "tonight marks your last chance to save up to $300 on a techcrunch disrupt 2026 pass",
+    "content_hash": "cd85617c96a55c6a54f0f59709a39f20"
+  },
+  {
+    "title": "Pacific Fusion\u2019s next fusion machine could clear a key hurdle to commercial power",
+    "normalized": "pacific fusion's next fusion machine could clear a key hurdle to commercial power",
+    "content_hash": "82534747d0f92dccbd1d449fe8b141a3"
+  },
+  {
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "normalized": "gamma acquires accel-backed design startup lica",
+    "content_hash": "28352d5062cb72266ccee7918eeae356"
+  },
+  {
+    "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+    "normalized": "apple rescues hide my email feature from the privacy scrap heap",
+    "content_hash": "705f085c9fbb92ce00d3f94c9f03994c"
+  },
+  {
+    "title": "Apple debuts its \u2018most powerful chip ever\u2019 in M5 Ultra and M6",
+    "normalized": "apple debuts its 'most powerful chip ever' in m5 ultra and m6",
+    "content_hash": "9103579fda5528f6df5727c15c3dfc22"
+  },
+  {
+    "title": "Apple\u2019s latest Mac Mini runs on a new M6 chip, and starts at $899",
+    "normalized": "apple's latest mac mini runs on a new m6 chip, and starts at $899",
+    "content_hash": "6a3c0637d0361b56cb5ff50a24ecf93b"
+  },
+  {
+    "title": "Andy Dunn\u2019s startup Pie becomes less of an events app and more of a social network",
+    "normalized": "andy dunn's startup pie becomes less of an events app and more of a social network",
+    "content_hash": "9333c298c66021bfaecfa2eb91a2f401"
+  },
+  {
+    "title": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
+    "normalized": "apple mac mini m6 and mac studio m5 ultra: specs, price, release date",
+    "content_hash": "9b9353889854d5f89c3a34acebc77787"
+  },
+  {
+    "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+    "normalized": "mirage2fa surge hits 4,500 us and eu companies, abusing microsoft 365 login flows",
+    "content_hash": "0b5e4a472f03d8917c7ee7c592d8f40b"
+  },
+  {
+    "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
+    "normalized": "nvidia senior manager tied to ex-supermicro staff's ai smuggling scheme",
+    "content_hash": "72949783ad1dd1f88cadc12138f07f68"
   }
 ]
