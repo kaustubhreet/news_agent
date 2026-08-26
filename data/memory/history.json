@@ -1,130 +1,5 @@
 [
   {
-    "title": "Rogue AI aren\u2019t science fiction anymore",
-    "normalized": "rogue ai aren't science fiction anymore",
-    "content_hash": "f49616f912066b09b05b08f2da4cfb9f"
-  },
-  {
-    "title": "Polaroid\u2019s tiny instant camera is $72 and includes a free pack of film",
-    "normalized": "polaroid's tiny instant camera is $72 and includes a free pack of film",
-    "content_hash": "dc3c046d9d8fade92c7b8773562d0835"
-  },
-  {
-    "title": "An AI agent can burn 100\u00d7 the tokens of a chat turn",
-    "normalized": "an ai agent can burn 100\u00d7 the tokens of a chat turn",
-    "content_hash": "c758a5d024b5b55b47bc4fa368813a70"
-  },
-  {
-    "title": "HN: HomeBrain \u2013 Your private local cloud, agent wired into everything",
-    "normalized": "hn: homebrain - your private local cloud, agent wired into everything",
-    "content_hash": "31dbb70af803558346795c11a38f27b1"
-  },
-  {
-    "title": "AI Agent Insurance Products: The New Wave",
-    "normalized": "ai agent insurance products: the new wave",
-    "content_hash": "f0e02f25f1116070aabf63bb31d8a6eb"
-  },
-  {
-    "title": "Tokencompress A sub-2ms Go CLI and MCP sidecar that prunes AI agent tool context",
-    "normalized": "tokencompress a sub-2ms go cli and mcp sidecar that prunes ai agent tool context",
-    "content_hash": "a7fc4c1cfc1b51ec5bbd76254a501910"
-  },
-  {
-    "title": "TrueStar \u2013 AI moderated expert interviews and multi-agent deep research",
-    "normalized": "truestar - ai moderated expert interviews and multi-agent deep research",
-    "content_hash": "d27f7d4b064471615b63bd4693f0bf11"
-  },
-  {
-    "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
-    "normalized": "privibe - llm cli local first+privacy focus+llama.cpp cache branch + qwen3.x",
-    "content_hash": "6569a2231014df35f4189e5505a14dfa"
-  },
-  {
-    "title": "Someone Finally Fixed Installing Apps on a Mac",
-    "normalized": "someone finally fixed installing apps on a mac",
-    "content_hash": "961c2eac80550731d3b8afb980ed8ee2"
-  },
-  {
-    "title": "TerraMow V1000 Review: Show Your Lawn Some Love",
-    "normalized": "terramow v1000 review: show your lawn some love",
-    "content_hash": "ee2eeffc005d9d70725f97efc8950591"
-  },
-  {
-    "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-    "normalized": "the best cat water fountains of 2026: petlibro, petkit, oneisall",
-    "content_hash": "83423bb61288914cb733773cd2016cdd"
-  },
-  {
-    "title": "Puerto Rico Is Rationing Water. It Could\u2019ve Avoided It by Harvesting Rainwater",
-    "normalized": "puerto rico is rationing water. it could've avoided it by harvesting rainwater",
-    "content_hash": "48542b64ed931f90cad651553871fef7"
-  },
-  {
-    "title": "Amazon Can Use Your Twitch Content to Train Its AI\u2014Unless You Opt Out",
-    "normalized": "amazon can use your twitch content to train its ai--unless you opt out",
-    "content_hash": "943164ccd4848309ca961bc18b7b29bc"
-  },
-  {
-    "title": "Google Workspace Promo Codes: 14% Off for August 2026",
-    "normalized": "google workspace promo codes: 14% off for august 2026",
-    "content_hash": "5d327bdca63595a515e8b960ff335a44"
-  },
-  {
-    "title": "Tech Visionary Says the Big AI Labs Don\u2019t Get What People Want",
-    "normalized": "tech visionary says the big ai labs don't get what people want",
-    "content_hash": "7d58447f38e02de17d0acab64afd0451"
-  },
-  {
-    "title": "FTC Strikes Deals to Ignore Unlawful Credit Discrimination",
-    "normalized": "ftc strikes deals to ignore unlawful credit discrimination",
-    "content_hash": "39d1f414e548afa26b15d44189f810ce"
-  },
-  {
-    "title": "These \u2018Masturbation Consultants\u2019 Were Hired to Pleasure Themselves With AI",
-    "normalized": "these 'masturbation consultants' were hired to pleasure themselves with ai",
-    "content_hash": "7bcd807c2b1aa2c4f1e409e668c202e2"
-  },
-  {
-    "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-    "normalized": "attackers exploit sharepoint authentication bypass after public poc release",
-    "content_hash": "6a088f76b9cae9639f67c83d1dab5270"
-  },
-  {
-    "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-    "normalized": "737 chrome vpn extensions caught routing traffic through proxies. check if you have one",
-    "content_hash": "88c31d9962444790972c63b1aa441e40"
-  },
-  {
-    "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-    "normalized": "adobe patches three cvss 10.0 coldfusion and campaign classic flaws",
-    "content_hash": "14bd50177d8a21d28e74668d25a7374b"
-  },
-  {
-    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-    "normalized": "attackers exploit vmware vcenter vulnerability to gain persistent remote access",
-    "content_hash": "8089a814bb906360e9d3627b2f381f64"
-  },
-  {
-    "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-    "normalized": "microsoft patches 398 flaws including a windows driver zero-day under active attack",
-    "content_hash": "b99fab05988c60f9a0e924c29c195278"
-  },
-  {
-    "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-    "normalized": "kimwolf v7 android botnet makes http/2 ddos traffic look like legitimate browsing",
-    "content_hash": "87712bb09242ed5e5985d7222560a4a5"
-  },
-  {
-    "title": "Anthropic is watermarking text generated by Claude to comply with EU law",
-    "normalized": "anthropic is watermarking text generated by claude to comply with eu law",
-    "content_hash": "99e00145a18a51e09775a04d69b48f13"
-  },
-  {
-    "title": "SpaceX has officially acquired AI coding startup Cursor",
-    "normalized": "spacex has officially acquired ai coding startup cursor",
-    "content_hash": "3142bd85cbd011bf965722514ca1a31f"
-  },
-  {
     "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
     "normalized": "nvidia dramatically reduces amount of openai infra financing it may guarantee",
     "content_hash": "0f80ad90d2f581448af1765bf35cb99b"
@@ -2498,5 +2373,130 @@
     "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
     "normalized": "nvidia senior manager tied to ex-supermicro staff's ai smuggling scheme",
     "content_hash": "72949783ad1dd1f88cadc12138f07f68"
+  },
+  {
+    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+    "normalized": "hearing tech startup legato emerges from stealth with $12m and a peek at its ai hearing glasses",
+    "content_hash": "0ebb8d9abb8d7a42fd0650a30be02638"
+  },
+  {
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "normalized": "runable hits $21m to bet ai agents can go from building businesses to growing them",
+    "content_hash": "1c69291d0ee385350d06c634c4b21c24"
+  },
+  {
+    "title": "Ventures Platform goes bigger \u2014 and broader \u2014 with its second Africa fund",
+    "normalized": "ventures platform goes bigger -- and broader -- with its second africa fund",
+    "content_hash": "b05beb38e7a0ef7e70b4c3909c21b111"
+  },
+  {
+    "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "normalized": "india's ringg gets backing from peak xv as it pushes voice ai past the phone call",
+    "content_hash": "8cfc30fb77e6639b67a864074ba5d777"
+  },
+  {
+    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+    "normalized": "openai loses a top data center exec as stream of high-profile departures continues",
+    "content_hash": "9a10f6fda8ae338e811daa9cbb480735"
+  },
+  {
+    "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+    "normalized": "openai bans russian chatgpt accounts used to run influence operation",
+    "content_hash": "26dad49a0432b0c48705a3e853ba9cf9"
+  },
+  {
+    "title": "Bill Gates is deeply worried about AI, and he\u2019s no longer staying quiet",
+    "normalized": "bill gates is deeply worried about ai, and he's no longer staying quiet",
+    "content_hash": "65fc5bef1f3100cebdf2495e062335e7"
+  },
+  {
+    "title": "Ikea\u2019s Xbox collection includes a giant thumbstick stool",
+    "normalized": "ikea's xbox collection includes a giant thumbstick stool",
+    "content_hash": "74ed43e4b8536d09540f087b1b66aba8"
+  },
+  {
+    "title": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
+    "normalized": "serving masked diffusion llms: characterization and design principles from real hardware",
+    "content_hash": "d883b452fd9e299f56d83038fcf03c94"
+  },
+  {
+    "title": "Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention",
+    "normalized": "minima-kv: retention-preserving kv cache compression with mixed-format paged attention",
+    "content_hash": "2a267ea34de107a90cb62c3aa0fde07d"
+  },
+  {
+    "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+    "normalized": "claude opus 4.6 bypasses gym booking limit, cancels other users' reservations in tests",
+    "content_hash": "73bf26ab85b533545423c3361804adfe"
+  },
+  {
+    "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+    "normalized": "fake apple support ai calls target stolen-device owners for passcodes and 2fa codes",
+    "content_hash": "48471d4d9aa6ae4f48a0c3e627b78645"
+  },
+  {
+    "title": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
+    "normalized": "rockstar finally responds to 'heartbreaking' gta 6 leaks",
+    "content_hash": "e97c2e6216aa1f85eb2026d99807e9d5"
+  },
+  {
+    "title": "At just $8, you owe it to yourself to grab Inscryption",
+    "normalized": "at just $8, you owe it to yourself to grab inscryption",
+    "content_hash": "d4f5235a4bcbef6e6beb9c7ef91ad89b"
+  },
+  {
+    "title": "The Witcher 3 is getting a remaster",
+    "normalized": "the witcher 3 is getting a remaster",
+    "content_hash": "8af883d0b1e990fd494a627444b4cc71"
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "normalized": "the full stack behind abundant intelligence",
+    "content_hash": "eca3c0898e8b3d82fc76cceb5c3ffb1f"
+  },
+  {
+    "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+    "normalized": "jalape\u00f1o's first results show industry-leading speed and efficiency in ai inference",
+    "content_hash": "4bb80884e78be64afd05861439d4a5c4"
+  },
+  {
+    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+    "normalized": "empowering india's next generation of innovators with atl saathi",
+    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
+  },
+  {
+    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+    "normalized": "render: controlling reader-facing evidence in llm memory evaluation",
+    "content_hash": "c7a2e417742959e64d390a2fdcfc837f"
+  },
+  {
+    "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+    "normalized": "llm agents perform controlled experiments using simulation models",
+    "content_hash": "a9e284d5aa4d84cc79c224a31a21de8f"
+  },
+  {
+    "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+    "normalized": "trace: transition-aware residual control for multi-objective materials discovery",
+    "content_hash": "d018ec5a4d9b2b0006728ea580c5c9a8"
+  },
+  {
+    "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
+    "normalized": "automata from agent traces: failure and next-step prediction",
+    "content_hash": "6303ab926d73b1a35c7370a3fb15fb26"
+  },
+  {
+    "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
+    "normalized": "agentroom: concurrent multi-agent coding in a crdt-backed shared workspace",
+    "content_hash": "6e2b6cfc27a9b8ef54d6410f087e7758"
+  },
+  {
+    "title": "Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search",
+    "normalized": "generating biomedical fact-checking reports with rl-enhanced agentic search",
+    "content_hash": "c6101c157f9389ed28b90766ed152967"
+  },
+  {
+    "title": "Exploit More, Explore Smarter for Budget-Constrained Agentic Search",
+    "normalized": "exploit more, explore smarter for budget-constrained agentic search",
+    "content_hash": "cf89fc70fd010ebd39258a05a212947e"
   }
 ]
