@@ -1,130 +1,5 @@
 [
   {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
-    "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
-  },
-  {
-    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-    "normalized": "anthropic explains how claude's invisible text watermarks will work",
-    "content_hash": "db244564d67be42ddc51bf75d5164011"
-  },
-  {
-    "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
-    "normalized": "chrome devtools technique enables authenticated session hijacking in live windows browsers",
-    "content_hash": "7946882f3fca5a8a037e45a5cefe57aa"
-  },
-  {
-    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-    "normalized": "gpt 5.6 sol is the best \"vision\" model openai ever released",
-    "content_hash": "ab0db8448115e125bd94d1fd25cf7a0c"
-  },
-  {
-    "title": "Show HN: RAX Compute Gateway \u2013 One API for OpenAI, Anthropic, and Gemini",
-    "normalized": "show hn: rax compute gateway - one api for openai, anthropic, and gemini",
-    "content_hash": "afd4d2cb30d8b3a8a670b8cf0e6fe6e4"
-  },
-  {
-    "title": "Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required",
-    "normalized": "don't claim benchmark-oriented optimization improves general coding capability -- diverse evaluation is required",
-    "content_hash": "3437b35d161d29beb33d64fa3fce59de"
-  },
-  {
-    "title": "From BERT to Frontier Agents: Eight Years of Language-Model Progress, the Collapse of the Capability-Cost Curve, and the Rise of Task-Targeted Models",
-    "normalized": "from bert to frontier agents: eight years of language-model progress, the collapse of the capability-cost curve, and the rise of task-targeted models",
-    "content_hash": "dc4031e0747f21b6d78de7b3d054d5a8"
-  },
-  {
-    "title": "CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps",
-    "normalized": "ctm360 uncovers over 3,000 recruitment phishing urls using browser-in-the-browser (bitb) credential traps",
-    "content_hash": "195e6598137f1795979fceb91c7f6b13"
-  },
-  {
-    "title": "New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure",
-    "normalized": "new patchcord backdoor targets afghan telecom and indian critical infrastructure",
-    "content_hash": "03d7e8f7fc6fe6755b4541a0b35bd2d7"
-  },
-  {
-    "title": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
-    "normalized": "whisker's ai-powered litter robot thinks my cats swapped bodies",
-    "content_hash": "2fb7da2d3266de4dbd460f6e950cee56"
-  },
-  {
-    "title": "Amazon is trying to crush class action suits before they get started",
-    "normalized": "amazon is trying to crush class action suits before they get started",
-    "content_hash": "617afa2f27c81fcdb3ad54d3da2c04ec"
-  },
-  {
-    "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-    "normalized": "stripe will reportedly acquire openrouter for $7b+",
-    "content_hash": "54233cbb3602b7b5e0153d4643d1ffa2"
-  },
-  {
-    "title": "MathCode, Mathematical Coding Agent",
-    "normalized": "mathcode, mathematical coding agent",
-    "content_hash": "7f1f081c018bb0090599be7c1c7ea4a3"
-  },
-  {
-    "title": "What happens when an AI agent stops being a disposable session?",
-    "normalized": "what happens when an ai agent stops being a disposable session?",
-    "content_hash": "f8873bd32f3fa8f97da713c9cb173108"
-  },
-  {
-    "title": "What the OpenAI/Hugging Face Hack Tells Us About AI Danger",
-    "normalized": "what the openai/hugging face hack tells us about ai danger",
-    "content_hash": "e2641b423ddbc673469fb862461d0142"
-  },
-  {
-    "title": "Programmatic memory for long-horizon LLM agents",
-    "normalized": "programmatic memory for long-horizon llm agents",
-    "content_hash": "a4d8ff17949cdb7d11fe8fa7be475988"
-  },
-  {
-    "title": "Anthropic becomes the 'Apple of AI': Most revenue despite being most expensive",
-    "normalized": "anthropic becomes the 'apple of ai': most revenue despite being most expensive",
-    "content_hash": "ba9cffc43dcc60d8f5e15f71df23e209"
-  },
-  {
-    "title": "The null result in OpenAI's enterprise AI paper",
-    "normalized": "the null result in openai's enterprise ai paper",
-    "content_hash": "eead1ceb280bb6f3bca90190f1629f8b"
-  },
-  {
-    "title": "OpenAI-Compatible API Quickstart in Python, JavaScript, and PowerShell",
-    "normalized": "openai-compatible api quickstart in python, javascript, and powershell",
-    "content_hash": "1516445707b099f2ba9e2608a217f883"
-  },
-  {
-    "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
-    "normalized": "agentao: a governed local-first runtime for tool-using llm agents",
-    "content_hash": "3241d07ab397d4224e6996c4ef854dc6"
-  },
-  {
-    "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
-    "normalized": "measuring cross-task behavioral consistency in language model agents",
-    "content_hash": "e41ca155dcf0e9512561e0544ace3e3e"
-  },
-  {
-    "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
-    "normalized": "evaluating agentic learning harness capabilities without labels via the scaling hypothesis",
-    "content_hash": "46844f4832f2999f10c3f5b9b7ee76f5"
-  },
-  {
-    "title": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
-    "normalized": "semplan: benchmarking structured semantic planning for llm-based queries over enterprise data",
-    "content_hash": "af5757370750fbce06410efb172b57f0"
-  },
-  {
-    "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
-    "normalized": "second thought: reasoning in parallel as llm agents act and observe",
-    "content_hash": "0ec254cd0938abed28488c792c0d3eaf"
-  },
-  {
-    "title": "There\u2019s a New Link Between Gut Health and Alzheimer\u2019s Disease",
-    "normalized": "there's a new link between gut health and alzheimer's disease",
-    "content_hash": "a60c9e7c99bbab83eb9f23134bc8d701"
-  },
-  {
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "normalized": "nvidia investing $1.5b in softbank data center developer behind openai project",
     "content_hash": "2fa8589a8917989a87e2701332db2a3b"
@@ -2498,5 +2373,130 @@
     "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
     "normalized": "novacookies campaigns abuse genuine docusign notifications to steal microsoft 365 sessions",
     "content_hash": "3fedb8a3caba5fe989472167bc6a7bed"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "normalized": "openai, anthropic, google, and 100 other companies call for action to defend against rogue ai",
+    "content_hash": "b02118e81ef3b82423b8d08c294887b1"
+  },
+  {
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "normalized": "barret zoph, the thinking machines co-founder ousted before joining openai, is now at google",
+    "content_hash": "84537533457e74d25627085092fceea8"
+  },
+  {
+    "title": "This former PG&E engineer is building a \u2018Google Maps for the underground\u2019",
+    "normalized": "this former pg&e engineer is building a 'google maps for the underground'",
+    "content_hash": "399f9f109f0419f6ee1c250f7dfce2e5"
+  },
+  {
+    "title": "Here\u2019s all the times AI has gone rogue and hacked other companies",
+    "normalized": "here's all the times ai has gone rogue and hacked other companies",
+    "content_hash": "7842f00cd03b629868fe4b22775ad131"
+  },
+  {
+    "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
+    "normalized": "openai to start showing ads on chatgpt's free and go tiers in india",
+    "content_hash": "9c384a5f048c776ad2d01d1ad02792ed"
+  },
+  {
+    "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
+    "normalized": "google's ai mode can now track flight prices, help book hotels, and more",
+    "content_hash": "40259496dfe1888e5b4a9f1d27e185a2"
+  },
+  {
+    "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
+    "normalized": "jensen huang says nvidia achieved agi, again -- not that it matters",
+    "content_hash": "d1f1499ef1bd0c2c239684b61f749d4f"
+  },
+  {
+    "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+    "normalized": "nvidia starts pac as ai chip maker builds dc influence force",
+    "content_hash": "e9a524484ea6f52ab4e5f8addc2b2bd5"
+  },
+  {
+    "title": "Ask Google: The Nvidia-HuggingFace Deal",
+    "normalized": "ask google: the nvidia-huggingface deal",
+    "content_hash": "4d9ed76012f668a473cfd6dc3bec19b3"
+  },
+  {
+    "title": "Show HN: Telem \u2013 Route agent web search across providers and inspect the traces",
+    "normalized": "show hn: telem - route agent web search across providers and inspect the traces",
+    "content_hash": "0b8f2b9d7dd44b98b660e07125145600"
+  },
+  {
+    "title": "Google\u2019s new Fitbit Air brings Pok\u00e9mon Sleep to your wrist",
+    "normalized": "google's new fitbit air brings pok\u00e9mon sleep to your wrist",
+    "content_hash": "541ad7175cbce849feda1902036509d6"
+  },
+  {
+    "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+    "normalized": "fashion startup atorie raises $9.5m to bring consumers luxury goods without the markup",
+    "content_hash": "192818464c435219e79c18664d030f7b"
+  },
+  {
+    "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
+    "normalized": "australian police arrest two over teampcp hacks targeting mercor, openai, and others",
+    "content_hash": "0cad9c9193c9741ad237e36f426322cc"
+  },
+  {
+    "title": "AI\u2019s memory crunch is coming for Android apps",
+    "normalized": "ai's memory crunch is coming for android apps",
+    "content_hash": "03e8b742ec217b8623490252434f92e0"
+  },
+  {
+    "title": "Plaud\u2019s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "normalized": "plaud's new earphones come with an esim-enabled case for talking to ai agents",
+    "content_hash": "140ea3ceb165b75a7602385e4e165806"
+  },
+  {
+    "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+    "normalized": "this is how anthropic thinks ai agents should navigate the physical world",
+    "content_hash": "e6161079498dd062a01605993355e15b"
+  },
+  {
+    "title": "OpenAI Is Developing a \u2018Persistent\u2019 AI Agent",
+    "normalized": "openai is developing a 'persistent' ai agent",
+    "content_hash": "0f8e351f5b5f524fdcc4648aeb27f43d"
+  },
+  {
+    "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+    "normalized": "openai says reward hacking drove ai agents to exploit zero-days and breach hugging face",
+    "content_hash": "fef8c4a5dedd2bd722e0a72ccf03a41d"
+  },
+  {
+    "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+    "normalized": "new gputhor rowhammer defeats ecc on nvidia rtx a6000 to gain host root access",
+    "content_hash": "acc856bb191cce0e810114e60bc1268b"
+  },
+  {
+    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+    "normalized": "how openai let a mob of llm agents game a test and ransack hugging face",
+    "content_hash": "0e969e5fbeaf5a0fd6298ec80560faee"
+  },
+  {
+    "title": "Google\u2019s AI note-taking app now allows you to interact with books",
+    "normalized": "google's ai note-taking app now allows you to interact with books",
+    "content_hash": "e3b82196528a1a7d8d6dc090f949b1f2"
+  },
+  {
+    "title": "Google launches Pok\u00e9mon Sleep special-edition Fitbit Air",
+    "normalized": "google launches pok\u00e9mon sleep special-edition fitbit air",
+    "content_hash": "4cba5c67b2c4545ca04d3e277d3664eb"
+  },
+  {
+    "title": "OpenAI, Anthropic issue dire cyber threat warning",
+    "normalized": "openai, anthropic issue dire cyber threat warning",
+    "content_hash": "30dd63bb0096abb7c4cbab42943e42f5"
+  },
+  {
+    "title": "Why do OpenAI's GPT-2 weights beat mine? Part four: digging into dropout",
+    "normalized": "why do openai's gpt-2 weights beat mine? part four: digging into dropout",
+    "content_hash": "0c702de2c3ab0c2ef675ccef4457703d"
+  },
+  {
+    "title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
+    "normalized": "introducing openai models on amazon bedrock for in-country inferencing in india",
+    "content_hash": "9f474e7b3f5af0d161d2bb22d871938b"
   }
 ]
