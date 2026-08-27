@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-    "normalized": "nvidia dramatically reduces amount of openai infra financing it may guarantee",
-    "content_hash": "0f80ad90d2f581448af1765bf35cb99b"
-  },
-  {
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "normalized": "stripe will reportedly acquire ai gateway startup openrouter for $7b+",
-    "content_hash": "fa108acb34785c9d6d0ad31a61c63098"
-  },
-  {
-    "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
-    "normalized": "anthropic ceo says ai backlash is 'fundamentally a crisis of trust'",
-    "content_hash": "6f5074d3c2dcc831144127213fa775d0"
-  },
-  {
-    "title": "OpenAI reportedly disbanded its preparedness team",
-    "normalized": "openai reportedly disbanded its preparedness team",
-    "content_hash": "89db2b798bb0458eca825296f9f1cb90"
-  },
-  {
-    "title": "ChatGPT\u2019s Computer History tracks your clicks and keystrokes",
-    "normalized": "chatgpt's computer history tracks your clicks and keystrokes",
-    "content_hash": "1982b916c03e8203f3be657c677f970e"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-    "normalized": "google just redesigned the search box for the first time in 25 years -- here's why it matters more than you think.",
-    "content_hash": "6d664fc288d99f6d67b77e4b21334d39"
-  },
-  {
-    "title": "Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future",
-    "normalized": "why people aren't buying mark zuckerberg's ai future",
-    "content_hash": "d9fa546986d639125e240c4ccb40ab15"
-  },
-  {
-    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-    "normalized": "techcrunch mobility: the shifting flight path of electric air taxis",
-    "content_hash": "b9787db978bbafc60ce98471615d4156"
-  },
-  {
-    "title": "Amazon is trying to crush class-action suits before they get started",
-    "normalized": "amazon is trying to crush class-action suits before they get started",
-    "content_hash": "dd93d14a237a90ddebfda38e895ecdbb"
-  },
-  {
-    "title": "The CLI your AI agent drives to manage your knowledge graph",
-    "normalized": "the cli your ai agent drives to manage your knowledge graph",
-    "content_hash": "067d8cfa7df23ee5a6a2a8a77d3b9f2e"
-  },
-  {
-    "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-    "normalized": "anthropic ceo says the way for ai to win over the public is to cure cancer",
-    "content_hash": "db82525149e4df51296bbd738d45ec4d"
-  },
-  {
-    "title": "Legbar \u2013 live AI agent sessions beside GitHub CI, in one terminal",
-    "normalized": "legbar - live ai agent sessions beside github ci, in one terminal",
-    "content_hash": "167b6a39ff8af4c2a1d640284ad9a62f"
-  },
-  {
-    "title": "12-Factor Agents \u2013 Principles for building reliable LLM applications",
-    "normalized": "12-factor agents - principles for building reliable llm applications",
-    "content_hash": "eabc2ad1b8f1dda00e370ab08f6fe99d"
-  },
-  {
-    "title": "Show HN: Agent6 \u2013 coding agent with jailed commands and editable state machines",
-    "normalized": "show hn: agent6 - coding agent with jailed commands and editable state machines",
-    "content_hash": "cf39a2ce38df69399a42d712719f80b8"
-  },
-  {
-    "title": "AgentShield \u2013 Offline Rust security scanner for AI agent tools and MCP (<50ms)",
-    "normalized": "agentshield - offline rust security scanner for ai agent tools and mcp (<50ms)",
-    "content_hash": "85343d412a03eecd09a027a44674332a"
-  },
-  {
-    "title": "Show HN: Rungraph \u2013 See your AI coding-agent runs as a graph",
-    "normalized": "show hn: rungraph - see your ai coding-agent runs as a graph",
-    "content_hash": "3b68baab632316ae165fffbb3ba87400"
-  },
-  {
-    "title": "If your agent commits a crime, who is responsible?",
-    "normalized": "if your agent commits a crime, who is responsible?",
-    "content_hash": "b44e1907154843feb5d06d509cb5dae8"
-  },
-  {
-    "title": "HarnessRouter Community Edition",
-    "normalized": "harnessrouter community edition",
-    "content_hash": "ee2709d67a457387edea9a493f46419f"
-  },
-  {
-    "title": "Chert",
-    "normalized": "chert",
-    "content_hash": "a8fdc322fb25e0287ba30106d3b61635"
-  },
-  {
-    "title": "Inferock Bench",
-    "normalized": "inferock bench",
-    "content_hash": "3e37ebfdfecf56fde7ed1c4f6fef123d"
-  },
-  {
-    "title": "nenspace",
-    "normalized": "nenspace",
-    "content_hash": "8af57df34fcfa171da6ada3bc42bf110"
-  },
-  {
-    "title": "Freebuff",
-    "normalized": "freebuff",
-    "content_hash": "bbee15a4ff0e1a07704222cfa6984840"
-  },
-  {
-    "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
-    "normalized": "open mike eagle and kenny segal crafted a hip hop breakup masterpiece",
-    "content_hash": "07d31f20e4c4706e0594053acad887c2"
-  },
-  {
-    "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
-    "normalized": "matt groening lets slip that simpsons: hit & run might be making a comeback",
-    "content_hash": "05307c7cc7b5ad86a6a82188c8c45e34"
-  },
-  {
-    "title": "Switched on Pop\u2019s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
-    "normalized": "switched on pop's nate sloan and charlie harding love fresh vegetables and guitar pedals",
-    "content_hash": "8bf678e3b99474b4eed6f451480e75ac"
-  },
-  {
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
     "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
@@ -2498,5 +2373,130 @@
     "title": "Exploit More, Explore Smarter for Budget-Constrained Agentic Search",
     "normalized": "exploit more, explore smarter for budget-constrained agentic search",
     "content_hash": "cf89fc70fd010ebd39258a05a212947e"
+  },
+  {
+    "title": "Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",
+    "normalized": "amazon just tripled its order of nvidia chips over 'surging demand'",
+    "content_hash": "f37866ec29552772b187fbc4c235db84"
+  },
+  {
+    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "normalized": "nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "content_hash": "c95410cc9722ff83e305ef4422dd4df5"
+  },
+  {
+    "title": "OpenAI\u2019s rogue AI model incident was worse than we thought",
+    "normalized": "openai's rogue ai model incident was worse than we thought",
+    "content_hash": "28fdd73c5494ce8089fdecd19e0eace9"
+  },
+  {
+    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "normalized": "viral ai startup instinct has raised $350 million at a $2.5 billion valuation",
+    "content_hash": "c009d6ae628473094f1ecb7079dbf422"
+  },
+  {
+    "title": "Google\u2019s Gemini has a branding problem, and so does the rest of AI",
+    "normalized": "google's gemini has a branding problem, and so does the rest of ai",
+    "content_hash": "c31a6a80c9adccebf829ff39be89c4a9"
+  },
+  {
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "normalized": "openai releases its official report on the hugging face breach",
+    "content_hash": "ec977636a36d3254cd4d52c93b446263"
+  },
+  {
+    "title": "What\u2019s\u00a0driving Sweden\u2019s startup boom, from Lovable to\u00a0Legora",
+    "normalized": "what's driving sweden's startup boom, from lovable to legora",
+    "content_hash": "9cc1423b8ffde1285c6990b1a6935738"
+  },
+  {
+    "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
+    "normalized": "radar makes podcasts searchable -- and usable by ai agents",
+    "content_hash": "f123c55604d74bfe5419455fe47cae87"
+  },
+  {
+    "title": "What We Still Don\u2019t Know About OpenAI\u2019s Hugging Face Hack",
+    "normalized": "what we still don't know about openai's hugging face hack",
+    "content_hash": "7164c4e58eb6966f32da479d9018f90b"
+  },
+  {
+    "title": "Google\u2019s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "normalized": "google's new ai transcription edits out your 'ums' and 'ahs'",
+    "content_hash": "b00ea4fa48231720c70e91891c37595f"
+  },
+  {
+    "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+    "normalized": "evaluate any agent framework with amazon bedrock agentcore evaluations",
+    "content_hash": "ca3615e585a9ecbeaa41264dd95e327d"
+  },
+  {
+    "title": "MacroAgent: Regularity-Aware Macro Legalization with LLM-Agent-Designed Contour Algorithms",
+    "normalized": "macroagent: regularity-aware macro legalization with llm-agent-designed contour algorithms",
+    "content_hash": "88a79873e741427cdcc1d66efc9bf133"
+  },
+  {
+    "title": "Understanding the Energy Scaling of Large Language Model Inference Across Context Lengths and Attention Architectures",
+    "normalized": "understanding the energy scaling of large language model inference across context lengths and attention architectures",
+    "content_hash": "153ee268b6031b4ffdc48d3344d9b8a9"
+  },
+  {
+    "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
+    "normalized": "what would have to be true for agentic coding to replace junior engineers",
+    "content_hash": "5dec7e1d6f4706382d404e761efff1b6"
+  },
+  {
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "normalized": "anthropic continues compute-gobbling streak in $45b deal with nscale",
+    "content_hash": "5362ac2957bf4d5dc3f707fc4a0b95c7"
+  },
+  {
+    "title": "How do we explain OpenAI\u2019s executive exodus?",
+    "normalized": "how do we explain openai's executive exodus?",
+    "content_hash": "73185169aa05bfc0597c67e452490fab"
+  },
+  {
+    "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+    "normalized": "flipboard acquires graze, the feed builder working to monetize the open social web",
+    "content_hash": "5579172bd757b8d4d19f17f8d2ded6db"
+  },
+  {
+    "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+    "normalized": "us seizes domains of chinese botnet used to hack nasa, justice department, and the senate",
+    "content_hash": "e4e44cde6a0cb1f85361d1a3c1a27527"
+  },
+  {
+    "title": "Capital F closes $17M debut fund with goal to back the future of the \u2018female economy\u2019",
+    "normalized": "capital f closes $17m debut fund with goal to back the future of the 'female economy'",
+    "content_hash": "c67feac1e21eb6b40f9c62d6d5754929"
+  },
+  {
+    "title": "Apple is holding its iPhone launch event on September 9",
+    "normalized": "apple is holding its iphone launch event on september 9",
+    "content_hash": "cbe722142352514746457a624da94af0"
+  },
+  {
+    "title": "Meta agrees to sweeping changes to restrict kids\u2019 access to its apps as part of settlement with states",
+    "normalized": "meta agrees to sweeping changes to restrict kids' access to its apps as part of settlement with states",
+    "content_hash": "3e0e3112845b18872747fe87da1a03a0"
+  },
+  {
+    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "normalized": "ex-meta scientists want to bring visual ai to the factory floor",
+    "content_hash": "3a1192194026ae5775a40f7260345168"
+  },
+  {
+    "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
+    "normalized": "bill gates wants to see a robot tax and 'human reserved' jobs to mitigate harms from ai",
+    "content_hash": "cefdc17503eacd01219e2d16bf353377"
+  },
+  {
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "normalized": "surprise: z.ai is the ai lab behind the mysterious ox alpha model",
+    "content_hash": "0cbae1a00e318809196bf96dfbddae53"
+  },
+  {
+    "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+    "normalized": "novacookies campaigns abuse genuine docusign notifications to steal microsoft 365 sessions",
+    "content_hash": "3fedb8a3caba5fe989472167bc6a7bed"
   }
 ]
