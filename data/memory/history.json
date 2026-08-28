@@ -1,130 +1,5 @@
 [
   {
-    "title": "ChatGPT is getting a dedicated mode for teens",
-    "normalized": "chatgpt is getting a dedicated mode for teens",
-    "content_hash": "01c1cc88b5b29fe55c5aeb517eed47be"
-  },
-  {
-    "title": "Show HN: Zeroparams, a coding agent with zero parameters because it's just me",
-    "normalized": "show hn: zeroparams, a coding agent with zero parameters because it's just me",
-    "content_hash": "45dbc87ff2908250b8ff0102327ed12d"
-  },
-  {
-    "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
-    "normalized": "ogx: an open-source, vendor-neutral generative ai application server",
-    "content_hash": "42f14151a7c827a1042bc81b8295f3bc"
-  },
-  {
-    "title": "Do LLM Agents Negotiate Rationally? A Mechanism-Design Framework for Verifiable Multi-Agent Interaction over A2A/MCP",
-    "normalized": "do llm agents negotiate rationally? a mechanism-design framework for verifiable multi-agent interaction over a2a/mcp",
-    "content_hash": "8b7fb44af69bbf62de1598b19a831b49"
-  },
-  {
-    "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
-    "normalized": "detroit startup grounded raises $5m to customize electric and gas-powered vans",
-    "content_hash": "fc3f0824fd156336e19f6fbaa222df2a"
-  },
-  {
-    "title": "My parrot ate my keyboard",
-    "normalized": "my parrot ate my keyboard",
-    "content_hash": "03966a29032a34b4e6d2a35c00897011"
-  },
-  {
-    "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
-    "normalized": "skill: self-correcting knowledge-guided iterative large language model agent for logic optimization",
-    "content_hash": "16bc1554014e241d41a06a81fb1a7d34"
-  },
-  {
-    "title": "The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines",
-    "normalized": "the hallucination snowball: modeling error propagation as state transitions in multi-agent llm pipelines",
-    "content_hash": "e56e75665cd65dc9e8ea974599fe8f2a"
-  },
-  {
-    "title": "We still don\u2019t know how people are really using AI",
-    "normalized": "we still don't know how people are really using ai",
-    "content_hash": "45780892186c3369ab7ff248cdac65ed"
-  },
-  {
-    "title": "Reach Capital raises $265M Fund V to back AI founders building to \u2018expand human potential\u2019",
-    "normalized": "reach capital raises $265m fund v to back ai founders building to 'expand human potential'",
-    "content_hash": "ed28f0d4ca77d95fec714d7b7f60562c"
-  },
-  {
-    "title": "Fairphone is launching its latest repairable phone in the US too",
-    "normalized": "fairphone is launching its latest repairable phone in the us too",
-    "content_hash": "613990aa8ba27b86b531a5c49dad427b"
-  },
-  {
-    "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
-    "normalized": "one attacker has scraped both salesforce and servicenow portals since 2025",
-    "content_hash": "62140525fed97959d90a0078e656c423"
-  },
-  {
-    "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-    "normalized": "unisoc volte video call exploit chain can give attackers full android kernel access",
-    "content_hash": "f1f0a8132a6a068dcf398dd2613655b9"
-  },
-  {
-    "title": "ChatGPT's stricter teen mode starts rolling out today",
-    "normalized": "chatgpt's stricter teen mode starts rolling out today",
-    "content_hash": "17b1a87be3ae0831c8bbf5e9ffc4f13c"
-  },
-  {
-    "title": "Google&#8217;s Pet Memory forgot who my cats are",
-    "normalized": "google's pet memory forgot who my cats are",
-    "content_hash": "3ebe8e91700526596dd7cbda9fc70579"
-  },
-  {
-    "title": "The Verge Guide to Pets",
-    "normalized": "the verge guide to pets",
-    "content_hash": "d75d434ac37cd3efa8b10fc1a4cfc19e"
-  },
-  {
-    "title": "Oops! My cat is an iPad kid",
-    "normalized": "oops! my cat is an ipad kid",
-    "content_hash": "ba0c3a025587221e207d6db647d6e317"
-  },
-  {
-    "title": "Fairphone\u2019s latest repairable phone is going on sale in the US",
-    "normalized": "fairphone's latest repairable phone is going on sale in the us",
-    "content_hash": "87c9ef60d8f0c6ef7c0f2c3427c8d4c1"
-  },
-  {
-    "title": "Elon Musk made flying even worse so Palantir could profit",
-    "normalized": "elon musk made flying even worse so palantir could profit",
-    "content_hash": "feda95e1180434aa0b044f7e1e4f2f53"
-  },
-  {
-    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-    "normalized": "apple's camera-equipped airpods appear in leaked video",
-    "content_hash": "87223ad4e1aa7d30df79ff1d7112660b"
-  },
-  {
-    "title": "Reddit\u2019s AI is turning posts into podcasts and short videos",
-    "normalized": "reddit's ai is turning posts into podcasts and short videos",
-    "content_hash": "34bc3439fa593db4a7af59953c40a67a"
-  },
-  {
-    "title": "Google buys crashed airline Spirit's data at auction, because AI",
-    "normalized": "google buys crashed airline spirit's data at auction, because ai",
-    "content_hash": "f9a2c40c8a257a4e012712f52827658c"
-  },
-  {
-    "title": "OpenAI Model Spec",
-    "normalized": "openai model spec",
-    "content_hash": "84cfadbaaba1ce89516418188a5dd17b"
-  },
-  {
-    "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
-    "normalized": "mind viruses: self-propagating ideas in multi-agent llm systems",
-    "content_hash": "2a4426703fdf623b17dc27320cd61319"
-  },
-  {
-    "title": "Show HN: AnyCreature. making 3D creature by agent. harness by 3D assets pipeline",
-    "normalized": "show hn: anycreature. making 3d creature by agent. harness by 3d assets pipeline",
-    "content_hash": "e7e2e7833b7f807572849fded2a7061c"
-  },
-  {
     "title": "OpenAI launches a safer ChatGPT for teens \u2014 years after teens started using it",
     "normalized": "openai launches a safer chatgpt for teens -- years after teens started using it",
     "content_hash": "bee18a2ec94faf135c3317d6eabdeec5"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI, Google and dozens of other companies publish open letter calling for collective action on cyber defense",
     "normalized": "openai, google and dozens of other companies publish open letter calling for collective action on cyber defense",
     "content_hash": "0ec21a604059de5bf0a3e070c462a8bb"
+  },
+  {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "normalized": "neocloud lambda secures $1b in debt to buy more chips",
+    "content_hash": "4a0185b107329024f957550b737aab23"
+  },
+  {
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "normalized": "meta executive leaves for openai as the social media giant faces growing scrutiny in india",
+    "content_hash": "75aaa05f36c55ed9cbda2e4102c39011"
+  },
+  {
+    "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+    "normalized": "dlss 5 leaked and modders are putting nvidia's ai effects on everything",
+    "content_hash": "9bc984c4dad5fcc8568841ffc100653e"
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "normalized": "an anthropic researcher just gave us a peek at self-improving ai",
+    "content_hash": "b8fc079cd8483da6a29387a606381e68"
+  },
+  {
+    "title": "Open-weight AI companies are the Valley\u2019s hottest acquisition targets",
+    "normalized": "open-weight ai companies are the valley's hottest acquisition targets",
+    "content_hash": "9745315a5ac987ca48878e0d93a29c3b"
+  },
+  {
+    "title": "Friend-focused photo-sharing app Retro snags $21M",
+    "normalized": "friend-focused photo-sharing app retro snags $21m",
+    "content_hash": "8db5cf76beed8e4f45860aa1068a9a3c"
+  },
+  {
+    "title": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
+    "normalized": "anthropic gets its first court win over the pentagon's supply-chain risk label",
+    "content_hash": "78f52a4bd78d0cf6cceaf0d0b4b451e6"
+  },
+  {
+    "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+    "normalized": "as electric two-wheelers gain a foothold, belgian startup any bets on cargo space",
+    "content_hash": "fe668389de5963e561f45b681976442d"
+  },
+  {
+    "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+    "normalized": "19 chrome and edge extensions found with wallet-stealing and crypto-draining code",
+    "content_hash": "eb90ed4f512b288ebe1d7896b59ec69f"
+  },
+  {
+    "title": "Investing in multi-agent AI safety research",
+    "normalized": "investing in multi-agent ai safety research",
+    "content_hash": "f15755133eca743d3794b7838c5bb1fa"
+  },
+  {
+    "title": "Brave\u2019s browser one-ups Chrome with its new support for email aliases",
+    "normalized": "brave's browser one-ups chrome with its new support for email aliases",
+    "content_hash": "54296e004134af08c1a09389818c2354"
+  },
+  {
+    "title": "How Sweden built one of Europe\u2019s hottest startup ecosystems",
+    "normalized": "how sweden built one of europe's hottest startup ecosystems",
+    "content_hash": "1c67d1380dc43b96391cf2291eb4037e"
+  },
+  {
+    "title": "More Americans oppose police license plate cameras than support them: survey",
+    "normalized": "more americans oppose police license plate cameras than support them: survey",
+    "content_hash": "bb3f967c90eb4c6d9dd6771790c13bfe"
+  },
+  {
+    "title": "Apple TV is raising its subscription prices again",
+    "normalized": "apple tv is raising its subscription prices again",
+    "content_hash": "7c58a815a3ad5f0fcdaa125fb98772ae"
+  },
+  {
+    "title": "a16z creates a $1.1B \u2018Machine Age\u2019 fund to \u2018accelerate the physical buildout of AI\u2019",
+    "normalized": "a16z creates a $1.1b 'machine age' fund to 'accelerate the physical buildout of ai'",
+    "content_hash": "ca15b5e107d24661d6e24ae347f2f9a8"
+  },
+  {
+    "title": "Microsoft Teams Has Become a Haven for Scammers in China",
+    "normalized": "microsoft teams has become a haven for scammers in china",
+    "content_hash": "3fc8e00a5daf1922a752b72fc6dca07d"
+  },
+  {
+    "title": "Trump\u2019s EPA wants to let data centers hide their air pollution",
+    "normalized": "trump's epa wants to let data centers hide their air pollution",
+    "content_hash": "85f5c1710185549c454d419a2cff8d56"
+  },
+  {
+    "title": "The iPhone Fold could make concerts even worse",
+    "normalized": "the iphone fold could make concerts even worse",
+    "content_hash": "cd5be39ea99ee69eff34b21c7411eb63"
+  },
+  {
+    "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
+    "normalized": "apple tv now costs $14.99 a month after its fourth price hike in four years",
+    "content_hash": "27d76f0e8fff5afa6871856fced07e35"
+  },
+  {
+    "title": "The biggest video game of all time looks like a movie",
+    "normalized": "the biggest video game of all time looks like a movie",
+    "content_hash": "fce1a018df6590e04663655728f586bb"
+  },
+  {
+    "title": "Meta addresses \u2018pervert glasses\u2019 reputation with a privacy fix and a new marketing campaign",
+    "normalized": "meta addresses 'pervert glasses' reputation with a privacy fix and a new marketing campaign",
+    "content_hash": "5f391462700955a7f5fc44028553f496"
+  },
+  {
+    "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+    "normalized": "show hn: conduct, open-source guardrails for llm and mcp tool calls",
+    "content_hash": "c9d61de6b694953b6b6bf95e4e0f4464"
+  },
+  {
+    "title": "Supporting Thailand\u2019s next generation of AI startups",
+    "normalized": "supporting thailand's next generation of ai startups",
+    "content_hash": "a45269107de8aa3fc2a815831bc9f2fc"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "normalized": "learning never stops: how ai makes learning continuous",
+    "content_hash": "8d5404709980b9e62064330fe7b7447a"
+  },
+  {
+    "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+    "normalized": "standalone llm and a pre-specified agentic pipeline for explaining icu mortality predictions: a feasibility study on the eicu demo dataset",
+    "content_hash": "d72b0ec6685682bddab8a21a32033a52"
   }
 ]
