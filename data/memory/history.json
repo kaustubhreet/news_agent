@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI launches a safer ChatGPT for teens \u2014 years after teens started using it",
-    "normalized": "openai launches a safer chatgpt for teens -- years after teens started using it",
-    "content_hash": "bee18a2ec94faf135c3317d6eabdeec5"
-  },
-  {
-    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-    "normalized": "openai overhauls safety protocols after its ai agents went rogue",
-    "content_hash": "212c1d3c0af74d057a0a1f76e9507868"
-  },
-  {
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "normalized": "openai institutes new safeguards after hugging face breach",
-    "content_hash": "84546b165f4b2fe6364af19c05300d59"
-  },
-  {
-    "title": "Etched\u2019s valuation doubles to $21B in a month",
-    "normalized": "etched's valuation doubles to $21b in a month",
-    "content_hash": "35c33bb08f9c3987672c22b4cc8fdb74"
-  },
-  {
-    "title": "Perplexity\u2019s free AI offer left it with millions more users in India",
-    "normalized": "perplexity's free ai offer left it with millions more users in india",
-    "content_hash": "134a16a0e997d5fea4235e8dec0b49c3"
-  },
-  {
-    "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-    "normalized": "ai \"mind viruses\" can spread between agents through persistent prompt files",
-    "content_hash": "dc26d72b1ae983d35de5b6c3e80f1979"
-  },
-  {
-    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-    "normalized": "openai lays out new security changes after its ai hacked hugging face",
-    "content_hash": "807f673e7aeab98d40c77377ed9b1da9"
-  },
-  {
-    "title": "OpenAI's Second-Quarter Sales Show Tepid Growth Compared with Anthropic",
-    "normalized": "openai's second-quarter sales show tepid growth compared with anthropic",
-    "content_hash": "d47e3a30d74ac07bd61db2c35e9af829"
-  },
-  {
-    "title": "OpenAI Overhauls Safety Protocols, Pauses Training Runs After Rogue Agents",
-    "normalized": "openai overhauls safety protocols, pauses training runs after rogue agents",
-    "content_hash": "3fa26988130935e7c402192ef5eaa205"
-  },
-  {
-    "title": "OpenAI built a safer ChatGPT, just not for you",
-    "normalized": "openai built a safer chatgpt, just not for you",
-    "content_hash": "e55929d91ace676ee51d5cac140985eb"
-  },
-  {
-    "title": "What Parents Need to Know About OpenAI's New ChatGPT for Teens",
-    "normalized": "what parents need to know about openai's new chatgpt for teens",
-    "content_hash": "4b2a0a68bc21cf92b30605be514bc687"
-  },
-  {
-    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "normalized": "cursor capitalizes on github frustration, launches rival hosting platform",
-    "content_hash": "a9b83a63f98f10176a04c49aa2770945"
-  },
-  {
-    "title": "TikTok explores peer-to-peer payments via DMs, report says",
-    "normalized": "tiktok explores peer-to-peer payments via dms, report says",
-    "content_hash": "c2f7262a4fa30a120de820e81712167d"
-  },
-  {
-    "title": "Why Apple\u2019s camera-equipped AirPods may not be the \u2018pervert pods\u2019 consumers fear",
-    "normalized": "why apple's camera-equipped airpods may not be the 'pervert pods' consumers fear",
-    "content_hash": "aa917c7ba52b75f3775aafa470dcde3e"
-  },
-  {
-    "title": "Peacock is raising prices across all of its streaming plans",
-    "normalized": "peacock is raising prices across all of its streaming plans",
-    "content_hash": "564336b805672fc8d88a5b409edf0537"
-  },
-  {
-    "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-    "normalized": "anthro energy breaks ground on factory that could pave the road to solid-state batteries",
-    "content_hash": "8c9ba2fe893e4743636a2d12c9405f58"
-  },
-  {
-    "title": "Warp\u2019s new system is an out-of-the-box software factory for AI development",
-    "normalized": "warp's new system is an out-of-the-box software factory for ai development",
-    "content_hash": "c5f85329ad5f3a35a4e68ead3b3436bc"
-  },
-  {
-    "title": "Apple\u2019s new macOS update reportedly contains a video of AirPods with a camera",
-    "normalized": "apple's new macos update reportedly contains a video of airpods with a camera",
-    "content_hash": "787ad0b2c92fa0d5bcdc51b0d7d04df5"
-  },
-  {
-    "title": "Daniel Ek\u2019s body-scanning startup Neko Health\u00a0opens first US office, in New York",
-    "normalized": "daniel ek's body-scanning startup neko health opens first us office, in new york",
-    "content_hash": "4e539412c6e6dedcf5727dab7366e7e2"
-  },
-  {
-    "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
-    "normalized": "einride strikes deal to add 500 tesla semis to its fleet",
-    "content_hash": "ec8ed7bafb6cf5280c5a3b770a9ce960"
-  },
-  {
-    "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-    "normalized": "microsoft copilot personal flaws could let one click exfiltrate data from connected apps",
-    "content_hash": "cb7e141e47e2ff62b8ff1ec1ced19061"
-  },
-  {
-    "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-    "normalized": "twinloot abuses sharepoint and teams to steal credentials and move across networks",
-    "content_hash": "4adc49ea7b2e4a63f900ecc186416994"
-  },
-  {
-    "title": "SteelSeries\u2019 comfy wireless gaming headset is nearly half off",
-    "normalized": "steelseries' comfy wireless gaming headset is nearly half off",
-    "content_hash": "48ec2b931d04d722ee4c46b40a8eda66"
-  },
-  {
-    "title": "Robin Williams\u2019 Instagram account brought back to fight \u2018AI abuse\u2019",
-    "normalized": "robin williams' instagram account brought back to fight 'ai abuse'",
-    "content_hash": "374f4eded672dadf8a9d25339d38b36d"
-  },
-  {
-    "title": "Samsung\u2019s Galaxy Buds 3 Pro are almost half off today",
-    "normalized": "samsung's galaxy buds 3 pro are almost half off today",
-    "content_hash": "c98fdba4bafe1c36e0318691f243fad6"
-  },
-  {
     "title": "OpenAI says announcement it would buy Irish teenager's startup was a 'joke'",
     "normalized": "openai says announcement it would buy irish teenager's startup was a 'joke'",
     "content_hash": "7d2f555335849f952635ad700a4ebcc5"
@@ -2498,5 +2373,130 @@
     "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
     "normalized": "standalone llm and a pre-specified agentic pipeline for explaining icu mortality predictions: a feasibility study on the eicu demo dataset",
     "content_hash": "d72b0ec6685682bddab8a21a32033a52"
+  },
+  {
+    "title": "Google further buries search results under AI mode",
+    "normalized": "google further buries search results under ai mode",
+    "content_hash": "6914fc1c461461bd504db9488a1cb64e"
+  },
+  {
+    "title": "We still don\u2019t know how people are really using AI",
+    "normalized": "we still don't know how people are really using ai",
+    "content_hash": "45780892186c3369ab7ff248cdac65ed"
+  },
+  {
+    "title": "Is the best way to watch a movie on a pair of sunglasses?",
+    "normalized": "is the best way to watch a movie on a pair of sunglasses?",
+    "content_hash": "cdef2c6a3272110551174d43bb594150"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
+    "normalized": "nvidia ceo jensen huang took a call from donald trump in the middle of an all-hands",
+    "content_hash": "d399ef208b756735fc1a31443b772cb7"
+  },
+  {
+    "title": "Xbox CEO calls Project Helix a \u2018family of devices\u2019",
+    "normalized": "xbox ceo calls project helix a 'family of devices'",
+    "content_hash": "ec4d3e831f5da3f8e68e3fc79f1235f1"
+  },
+  {
+    "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+    "normalized": "picasso: an ai-enabled design framework for autonomous optimization of silicon photonic devices",
+    "content_hash": "435225682b79ef550c7a17e374f1b31a"
+  },
+  {
+    "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+    "normalized": "cifqa: a deterministic tool-grounded multi-agent llm framework for financial query answering",
+    "content_hash": "b42fee566644d0ff2397041b2255b110"
+  },
+  {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "normalized": "the inside story on why openai agents hacked hugging face",
+    "content_hash": "c3376547db979696ba447ed5a9994670"
+  },
+  {
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "normalized": "orchestration is the new challenge for cx in the age of ai agents",
+    "content_hash": "76df85aa7bc43c6bffee0a9f84a529be"
+  },
+  {
+    "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
+    "normalized": "google ai releases gemini 3.5 transcribe: a speech-to-text model reporting 2.6% average wer across 85+ languages",
+    "content_hash": "a2a0fb3741759fb7549a5fd013183440"
+  },
+  {
+    "title": "UNCCD concludes COP17 with new drought resilience and land restoration initiatives",
+    "normalized": "unccd concludes cop17 with new drought resilience and land restoration initiatives",
+    "content_hash": "8e5d4132115b0b06d69b2b292fdfad1c"
+  },
+  {
+    "title": "Anthropic Reports Claude Agents Mitigated Ten Alignment Failures",
+    "normalized": "anthropic reports claude agents mitigated ten alignment failures",
+    "content_hash": "c01ef0116ad1030f9eb730c0a2ae304e"
+  },
+  {
+    "title": "Blue Owl Funds Lead $2.4B AI Factory Equipment Financing for IREN",
+    "normalized": "blue owl funds lead $2.4b ai factory equipment financing for iren",
+    "content_hash": "d21fc6e820bfe8e424aabc504ef5bf01"
+  },
+  {
+    "title": "NVIDIA Posts $96.2B Quarter as Data Center Revenue Hits $89B",
+    "normalized": "nvidia posts $96.2b quarter as data center revenue hits $89b",
+    "content_hash": "a48448d2f24a620bcc02645712e1725a"
+  },
+  {
+    "title": "Chinese automakers are following Tesla\u2019s bet that robots are the next big profit machine",
+    "normalized": "chinese automakers are following tesla's bet that robots are the next big profit machine",
+    "content_hash": "e12766d9bc83fd73d8e03d7a2f5e80e9"
+  },
+  {
+    "title": "Bluesky adds an \u2018algorithmic opt-out\u2019 feature for those who don\u2019t want to go viral",
+    "normalized": "bluesky adds an 'algorithmic opt-out' feature for those who don't want to go viral",
+    "content_hash": "c247f827ce5c7e2248122ebc566b9986"
+  },
+  {
+    "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+    "normalized": "youtube now lets creators tag amazon products and earn commissions from purchases",
+    "content_hash": "f826a07c0b30341b81722f6f0f4b6ebc"
+  },
+  {
+    "title": "Milo Yiannopoulos Detained by ICE in Louisiana",
+    "normalized": "milo yiannopoulos detained by ice in louisiana",
+    "content_hash": "fa537d8284d224b13665acd7ff602265"
+  },
+  {
+    "title": "AI Has Human Doctors Asking: What\u2019s Left for Us?",
+    "normalized": "ai has human doctors asking: what's left for us?",
+    "content_hash": "38f09efaba9a67693470454a3becdb7b"
+  },
+  {
+    "title": "The 31 Best Deals From the REI Labor Day Sale",
+    "normalized": "the 31 best deals from the rei labor day sale",
+    "content_hash": "6367930fced9df5a31e08e31aadaba8f"
+  },
+  {
+    "title": "He Scraped All of Their Art for AI. Now He\u2019s Collaborating on a Tool to Help Them",
+    "normalized": "he scraped all of their art for ai. now he's collaborating on a tool to help them",
+    "content_hash": "a5d7e78ae24ec2b524141ff0426027b1"
+  },
+  {
+    "title": "The Easiest Ways to Share Anything Between Android and iOS",
+    "normalized": "the easiest ways to share anything between android and ios",
+    "content_hash": "ea8a205d0d754f5a0fb8f824667781aa"
+  },
+  {
+    "title": "XGIMI Vibe One Battery-Powered Projector Review (2026)",
+    "normalized": "xgimi vibe one battery-powered projector review (2026)",
+    "content_hash": "74847bd5907d7fce2a2a35eb3f0bb5d8"
+  },
+  {
+    "title": "There Are So Many Conspiracy Theories About Dolly Parton and Vaccines",
+    "normalized": "there are so many conspiracy theories about dolly parton and vaccines",
+    "content_hash": "512d0c77e1a5c6f3b6266be00adf9ab9"
+  },
+  {
+    "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+    "normalized": "berlin refuses to pay hackers who stole data from the city's state network",
+    "content_hash": "64079fe7e124ac0357d2a070b852d350"
   }
 ]
