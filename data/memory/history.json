@@ -1,130 +1,5 @@
 [
   {
-    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "normalized": "cognition ceo denies report that spacex tried to acquire the startup",
-    "content_hash": "1862f2b2df4a67e7adf2e822fa2718d3"
-  },
-  {
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "normalized": "openai seeks to one-up anthropic with new customer privacy protections",
-    "content_hash": "eb2e9ac9906e1d82e2f0f83ee7906040"
-  },
-  {
-    "title": "Google packs Search and Gemini with new AI study tools",
-    "normalized": "google packs search and gemini with new ai study tools",
-    "content_hash": "051843021608400dbff9d010f83c6477"
-  },
-  {
-    "title": "OpenAI hit the brakes. Now what?",
-    "normalized": "openai hit the brakes. now what?",
-    "content_hash": "4696c5536b577a4510c4a5be275970dd"
-  },
-  {
-    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-    "normalized": "venturebeat names rob strechay as its first lead analyst, expanding its enterprise ai research push",
-    "content_hash": "280c1bda2c76b45920aa89c5c4c22c15"
-  },
-  {
-    "title": "Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",
-    "normalized": "stripe didn't really buy openrouter because of the 'singularity'",
-    "content_hash": "b714247f55fd2140324c252cc07dd27c"
-  },
-  {
-    "title": "Rillet raises $100M Series C at $1B valuation \u2014 2 years after emerging from stealth",
-    "normalized": "rillet raises $100m series c at $1b valuation -- 2 years after emerging from stealth",
-    "content_hash": "77a56e29a5c9c6c93fdb6b8b67b2b927"
-  },
-  {
-    "title": "Researchers say OpenAI revoked their access to limited cyber program",
-    "normalized": "researchers say openai revoked their access to limited cyber program",
-    "content_hash": "b12d30caa5bef4451865d7f95efc7427"
-  },
-  {
-    "title": "Meet the startup helping Wall\u00a0Street put\u00a0a price on AI compute",
-    "normalized": "meet the startup helping wall street put a price on ai compute",
-    "content_hash": "f032cfd2e5eb435e743e76ab1aeae5b9"
-  },
-  {
-    "title": "Grab an iPad Air M4 for its lowest price since the June increase",
-    "normalized": "grab an ipad air m4 for its lowest price since the june increase",
-    "content_hash": "a4a97d105ca07cbe8d3ce13e4f56ef2d"
-  },
-  {
-    "title": "Veeda AI Raises $90M+ Seed Backed by Khosla and Radical to Build World Models for Physical AI",
-    "normalized": "veeda ai raises $90m+ seed backed by khosla and radical to build world models for physical ai",
-    "content_hash": "4ae313ba555d44dd09595b851f6b3d81"
-  },
-  {
-    "title": "Waymo\u2019s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-    "normalized": "waymo's cheaper, next-gen robotaxi is now open to all riders in these three cities",
-    "content_hash": "46047de429f8cf66f4ab9bbd5a5f95a5"
-  },
-  {
-    "title": "Travis Kalanick kicks off another round of VC bashing: \u20181% are helpful\u2019",
-    "normalized": "travis kalanick kicks off another round of vc bashing: '1% are helpful'",
-    "content_hash": "47a0bf9e7539737ac671519b5d5b82b4"
-  },
-  {
-    "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
-    "normalized": "gambling on the little league world series? sports bettors have gone too far",
-    "content_hash": "8b2148df6cbf7785df9b93faec1c29ae"
-  },
-  {
-    "title": "AI was supposed to win people over by now \u2014 it hasn\u2019t",
-    "normalized": "ai was supposed to win people over by now -- it hasn't",
-    "content_hash": "e39f9a4ad017e1d5113ae2a9c655687a"
-  },
-  {
-    "title": "Time\u2019s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
-    "normalized": "time's running out! save $300 on your techcrunch disrupt 2026 pass until august 21",
-    "content_hash": "ad9cce860cf790c7e94365ed809682df"
-  },
-  {
-    "title": "TerraPower\u2019s nuclear reactor has a secret weapon for powering AI data centers",
-    "normalized": "terrapower's nuclear reactor has a secret weapon for powering ai data centers",
-    "content_hash": "5cc7e5cc5376c6e34373bb58ba1b82d2"
-  },
-  {
-    "title": "Rivian spinout Also raises another $150M",
-    "normalized": "rivian spinout also raises another $150m",
-    "content_hash": "e459b625fc3e0a001dc8618795a80c83"
-  },
-  {
-    "title": "Sachin Bansal\u2019s fintech Navi raises first outside capital with $100M Prosus investment",
-    "normalized": "sachin bansal's fintech navi raises first outside capital with $100m prosus investment",
-    "content_hash": "ee90353b054ec038dae013a0b9998e2d"
-  },
-  {
-    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-    "normalized": "amazon makes its ai-powered alexa+ free on fire tv, no prime required",
-    "content_hash": "a112077744d8fc5fd8dc2f5c6dd87922"
-  },
-  {
-    "title": "Amazon\u2019s Prime Air is taking off in nearly 500 US cities",
-    "normalized": "amazon's prime air is taking off in nearly 500 us cities",
-    "content_hash": "01f28604eb06689ca3c8afb7a34ace78"
-  },
-  {
-    "title": "Coders Say They Already Found Workarounds to Claude\u2019s Invisible Watermarks",
-    "normalized": "coders say they already found workarounds to claude's invisible watermarks",
-    "content_hash": "f87a38edd7789fd55f165e901c722a32"
-  },
-  {
-    "title": "Google Pixel Watch 5 Review: More Health, More AI",
-    "normalized": "google pixel watch 5 review: more health, more ai",
-    "content_hash": "b151a8733eccf7dfc50e7f85c6f2b3e1"
-  },
-  {
-    "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-    "normalized": "openai pauses frontier rl training as it tightens defenses against unsafe ai behavior",
-    "content_hash": "4e7acc82bb1600930baf46ada40be524"
-  },
-  {
-    "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-    "normalized": "phishing 3.0: the fight moves to agent versus agent",
-    "content_hash": "f6960867b0cda95a7bc35638c117f4c4"
-  },
-  {
     "title": "The Arduino UNO Q is an almost perfect Hermes Agent host",
     "normalized": "the arduino uno q is an almost perfect hermes agent host",
     "content_hash": "09bc8ad2525a066327d2eb067e35fc6f"
@@ -2498,5 +2373,130 @@
     "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
     "normalized": "threatsday: 296k iot botnet, 100+ water systems targeted, sharepoint rce chain + 27 new stories",
     "content_hash": "696ded8bb8c763c3f5b988824d07a8e9"
+  },
+  {
+    "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalape\u00f1o",
+    "normalized": "redesigning the inference chip: from nvidia gpu's flaws to openai jalape\u00f1o",
+    "content_hash": "fbf68c14c0a22a4788398fdf9806b904"
+  },
+  {
+    "title": "The Rise and Fall of Agent Civilizations",
+    "normalized": "the rise and fall of agent civilizations",
+    "content_hash": "47e56689a5f03ea88e118f607ca70445"
+  },
+  {
+    "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
+    "normalized": "sony music, warner sue anthropic, alleging a \"brazen campaign\" of intellectual property theft",
+    "content_hash": "abd452d801cc32415c6a5cc45d7ed6d8"
+  },
+  {
+    "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
+    "normalized": "\"we're not doing 30 bets a year\": vijay pande on betting small after running $4 billion at a16z",
+    "content_hash": "f1326116fcd5df16232cd1c6e54a40ba"
+  },
+  {
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "normalized": "sony music and warner chappell are suing anthropic",
+    "content_hash": "144493baddc9cf62057d390d19146c5a"
+  },
+  {
+    "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
+    "normalized": "will it be anthropic or x ai after cursor getting no access to openai?",
+    "content_hash": "c335ba33ae9f0e5832c892b6c92c5249"
+  },
+  {
+    "title": "First outputs from GPT-6 \"Astra\" model from OpenAI",
+    "normalized": "first outputs from gpt-6 \"astra\" model from openai",
+    "content_hash": "97215c5b6254c453b19e58aae4a30249"
+  },
+  {
+    "title": "At TechBBQ, Europe\u2019s AI conversations kept coming back to: Who\u2019s actually in control?",
+    "normalized": "at techbbq, europe's ai conversations kept coming back to: who's actually in control?",
+    "content_hash": "9a40de8c2780a6b637bf179eca8bfcbb"
+  },
+  {
+    "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+    "normalized": "vicariously hike the appalachian in the gorgeous a trail tale",
+    "content_hash": "bb6e540bb4a6b2319840af1d35abc154"
+  },
+  {
+    "title": "Alt-right troll Milo Yiannopoulos has been deported",
+    "normalized": "alt-right troll milo yiannopoulos has been deported",
+    "content_hash": "7b4fc4e6c1d02cad198fed3ce3fdf56a"
+  },
+  {
+    "title": "Domain-Driven Agents",
+    "normalized": "domain-driven agents",
+    "content_hash": "71a1b0a1e2520c2a25e875669d084aba"
+  },
+  {
+    "title": "Speech to text in a crowded room with the OpenAI Realtime API",
+    "normalized": "speech to text in a crowded room with the openai realtime api",
+    "content_hash": "32102f5491d8584c728fb199d1cfa661"
+  },
+  {
+    "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual",
+    "normalized": "sony music, warner sue anthropic, alleging a \"brazen campaign\" of intellectual",
+    "content_hash": "5b6b32f1b3f01188a0b131f9780fcee3"
+  },
+  {
+    "title": "Will financing bottleneck AI compute? An Anthropic case study",
+    "normalized": "will financing bottleneck ai compute? an anthropic case study",
+    "content_hash": "8d4bd5dfcbf0b61a4cf2130ba3b2db47"
+  },
+  {
+    "title": "Subs, the cloud native agent harness",
+    "normalized": "subs, the cloud native agent harness",
+    "content_hash": "9164acb538bfc821f01a75da0861a1b1"
+  },
+  {
+    "title": "Judge blocks Pentagon blacklist of Anthropic as a supply-chain risk",
+    "normalized": "judge blocks pentagon blacklist of anthropic as a supply-chain risk",
+    "content_hash": "f69f40720bda35f97e688387aede512c"
+  },
+  {
+    "title": "A local scrubber for text you're about to send to an LLM",
+    "normalized": "a local scrubber for text you're about to send to an llm",
+    "content_hash": "d94a51d949ee0a7507a55214a7660a68"
+  },
+  {
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "normalized": "how nvidia scales expertise with chatgpt work",
+    "content_hash": "dfe9d6f551bdeb176554e136adf6d0d9"
+  },
+  {
+    "title": "Hollywood celebs are getting into microdrama apps",
+    "normalized": "hollywood celebs are getting into microdrama apps",
+    "content_hash": "13fa79fb37c62f64496a86c9628e8e0b"
+  },
+  {
+    "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+    "normalized": "learn how to build security operations ready for ai-powered attacks",
+    "content_hash": "4202e290ce2bc8516c3fb9fe0f1a6316"
+  },
+  {
+    "title": "What the Data Says About AI in Security Operations in 2026",
+    "normalized": "what the data says about ai in security operations in 2026",
+    "content_hash": "9f2f46b16967b3d2f9498bd62671ba60"
+  },
+  {
+    "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+    "normalized": "spark rat targets cambodia, abuses vulnerable opswat driver to disable security tools",
+    "content_hash": "128f30b536684b107cff39e1434c8b7f"
+  },
+  {
+    "title": "AI industry says Trump plans to tax chips in the \u201csingle dumbest way imaginable\u201d",
+    "normalized": "ai industry says trump plans to tax chips in the \"single dumbest way imaginable\"",
+    "content_hash": "4ed8c37eb8ec6211a490080ff01c953a"
+  },
+  {
+    "title": "Sony and Warner sue Anthropic for 'blatant violation' of copyright law",
+    "normalized": "sony and warner sue anthropic for 'blatant violation' of copyright law",
+    "content_hash": "cdd77a04a883dda344dcfe401ebb63c2"
+  },
+  {
+    "title": "Staats",
+    "normalized": "staats",
+    "content_hash": "326fd6372bfccce89bc0ba45ff616b6c"
   }
 ]
