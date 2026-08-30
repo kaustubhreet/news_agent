@@ -1,130 +1,5 @@
 [
   {
-    "title": "The Arduino UNO Q is an almost perfect Hermes Agent host",
-    "normalized": "the arduino uno q is an almost perfect hermes agent host",
-    "content_hash": "09bc8ad2525a066327d2eb067e35fc6f"
-  },
-  {
-    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "normalized": "binance now lets ai agents trade, but keeping them in check is largely up to users",
-    "content_hash": "dc28c7ca1580c8d8e22776b5ba6f7734"
-  },
-  {
-    "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
-    "normalized": "launch hn: onecli (yc s26) - oss sandboxed agent harness for teams",
-    "content_hash": "0f34d2890a5704e09fe6c74cb20176d1"
-  },
-  {
-    "title": "Slack is launching collaborative vibe-coding channels",
-    "normalized": "slack is launching collaborative vibe-coding channels",
-    "content_hash": "3bbed03a2b68369abcf6088a78cf4173"
-  },
-  {
-    "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
-    "normalized": "ai agent suggested installing a malware package. engineer almost took its advice",
-    "content_hash": "07d1975f406f14a2eb19ec5872560127"
-  },
-  {
-    "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-    "normalized": "large language models in mental health: a systematic review of applications, innovations, and ethical challenges",
-    "content_hash": "a9f787dbe6fcd5b8c3df99bb9ded90a8"
-  },
-  {
-    "title": "Meta AI\u2019s new Mac app wants you to talk to your apps",
-    "normalized": "meta ai's new mac app wants you to talk to your apps",
-    "content_hash": "851dbb2ea8b86b3a346fd10c12bd5219"
-  },
-  {
-    "title": "Meta glasses are a workplace menace",
-    "normalized": "meta glasses are a workplace menace",
-    "content_hash": "89183f002c4d199cec4eb0ebbf957ce6"
-  },
-  {
-    "title": "The piano that taught my cat to play for her supper",
-    "normalized": "the piano that taught my cat to play for her supper",
-    "content_hash": "4e629370ae881cb9f6394f4104e4dfda"
-  },
-  {
-    "title": "The Audi S6 Sportback E-tron proves that sedans still matter",
-    "normalized": "the audi s6 sportback e-tron proves that sedans still matter",
-    "content_hash": "af276c3baa02177ec52e73e244d7f90e"
-  },
-  {
-    "title": "Sennheiser\u2019s new Momentum 5 earbuds feature easily replaceable batteries",
-    "normalized": "sennheiser's new momentum 5 earbuds feature easily replaceable batteries",
-    "content_hash": "1e4b966f27afc6b013294e7cd4d41a8e"
-  },
-  {
-    "title": "LG\u2019s new OLED breakthrough can boost display lifespans",
-    "normalized": "lg's new oled breakthrough can boost display lifespans",
-    "content_hash": "baddbdd5f943e906e0954d754b8f851b"
-  },
-  {
-    "title": "Does giving a camera wings dodge the FCC\u2019s drone ban?",
-    "normalized": "does giving a camera wings dodge the fcc's drone ban?",
-    "content_hash": "de42a5d9422c11e224f7c77ff10e3ef7"
-  },
-  {
-    "title": "Google Gemini is getting a dedicated student hub",
-    "normalized": "google gemini is getting a dedicated student hub",
-    "content_hash": "8393cb86b6c6e3ab404a7643b2e93b5e"
-  },
-  {
-    "title": "AI didn't erase the junior engineer's value, it increased it it",
-    "normalized": "ai didn't erase the junior engineer's value, it increased it it",
-    "content_hash": "5fb626f81e30194dc9518451da5a40eb"
-  },
-  {
-    "title": "The Agent Loop Has Always Been There",
-    "normalized": "the agent loop has always been there",
-    "content_hash": "060e1d05f092d313aec54b6de2505836"
-  },
-  {
-    "title": "Use your favorite coding agent with any model",
-    "normalized": "use your favorite coding agent with any model",
-    "content_hash": "fd7702f66de3ac45800287cd6476e1ec"
-  },
-  {
-    "title": "India Country Brief: The Anthropic Economic Index",
-    "normalized": "india country brief: the anthropic economic index",
-    "content_hash": "a48a922009301daf66f7aa345ba7c8c0"
-  },
-  {
-    "title": "Show HN: Do-over, undo for AI agent shell commands",
-    "normalized": "show hn: do-over, undo for ai agent shell commands",
-    "content_hash": "980ff7d375912f0613df6255292c4cdb"
-  },
-  {
-    "title": "LLM Reasoning Traces Are Not Audit Records",
-    "normalized": "llm reasoning traces are not audit records",
-    "content_hash": "ea1f69f04b83ca7e1154757571b325aa"
-  },
-  {
-    "title": "Misconfigured Admin System Prompts Can Invert an LLM's Safety Layer",
-    "normalized": "misconfigured admin system prompts can invert an llm's safety layer",
-    "content_hash": "4ca01f5be938f60e8dc9981faefff687"
-  },
-  {
-    "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
-    "normalized": "round hill music sues suno and anthropic for $1b over ai training data",
-    "content_hash": "bc03aaf162f514f5767a2b237a0de45a"
-  },
-  {
-    "title": "Collaborative Human Agent Protocol (CHAP)",
-    "normalized": "collaborative human agent protocol (chap)",
-    "content_hash": "27f29cc50f80103759fd28a7190e84fb"
-  },
-  {
-    "title": "Vibe-Kanban-Alternative \u2013 Classic AI agent Kanban with mem0 persistent memory",
-    "normalized": "vibe-kanban-alternative - classic ai agent kanban with mem0 persistent memory",
-    "content_hash": "065cefa76c8c0915843129c98d6eb045"
-  },
-  {
-    "title": "Did OpenAI's AI hack Hugging Face? An evidence audit",
-    "normalized": "did openai's ai hack hugging face? an evidence audit",
-    "content_hash": "a511cad153b787dcd292fb62d597876a"
-  },
-  {
     "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
     "normalized": "openai is gaining on anthropic with business users, new data indicates",
     "content_hash": "2a571a124dc38a598eb4478cb731a040"
@@ -2498,5 +2373,130 @@
     "title": "Staats",
     "normalized": "staats",
     "content_hash": "326fd6372bfccce89bc0ba45ff616b6c"
+  },
+  {
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "normalized": "venturebeat names rob strechay as its first lead analyst, expanding its enterprise ai research push",
+    "content_hash": "280c1bda2c76b45920aa89c5c4c22c15"
+  },
+  {
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "normalized": "texas governor abbott blocks funding for more flock cameras",
+    "content_hash": "82d942c8154e1bd3d3c024b6e3f870de"
+  },
+  {
+    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+    "normalized": "sony music publishing and warner chappell are suing anthropic",
+    "content_hash": "b447a337009af2951f942dda8d6e17bf"
+  },
+  {
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "normalized": "caterpillar is bringing to ai deployment what it learned from automating mining",
+    "content_hash": "7ec80d3d5389878d700c8e7765e020dd"
+  },
+  {
+    "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+    "normalized": "terminalfix uses fake cloudflare captchas to deploy reverse-tunnel backdoor",
+    "content_hash": "14b33ca4f0aecfa2157179296534b0da"
+  },
+  {
+    "title": "oMLX",
+    "normalized": "omlx",
+    "content_hash": "5f65e63c9ec4aab816cbe50e3d3b4005"
+  },
+  {
+    "title": "Chess.com launched a poker site and is planning even more classic games",
+    "normalized": "chess.com launched a poker site and is planning even more classic games",
+    "content_hash": "cba56bd6856a44dd6d73aa4716ff9eec"
+  },
+  {
+    "title": "China\u2019s robots race ahead",
+    "normalized": "china's robots race ahead",
+    "content_hash": "ce4430aa8ffb6b2afcb758a5a7afe61d"
+  },
+  {
+    "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
+    "normalized": "anthropic opens a research preview of the model hardware standard (mhs): a shared specification for ai agents to safely operate physical devices",
+    "content_hash": "8c2f4df21c6612e24f6a7c1772b97f18"
+  },
+  {
+    "title": "Maritime",
+    "normalized": "maritime",
+    "content_hash": "8a8d722e65a9f84cabb0481482b13a8c"
+  },
+  {
+    "title": "Superagent",
+    "normalized": "superagent",
+    "content_hash": "fb9976552c2491659fc4cafb4569e82a"
+  },
+  {
+    "title": "Two new small, powerful Macs",
+    "normalized": "two new small, powerful macs",
+    "content_hash": "7564c61732aab4645795c3f73a7cdd47"
+  },
+  {
+    "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+    "normalized": "distraction-free writing gadget byok is adding custom extensions",
+    "content_hash": "679aca52619dfd3964d8b1dcc7f6de7a"
+  },
+  {
+    "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+    "normalized": "welcome to night vale cocreator joseph fink learned storytelling from grim fandango",
+    "content_hash": "b9c21f8f9d7131bee2a7919a73c0906a"
+  },
+  {
+    "title": "The Galaxy Z Flip 8 is at its best when there\u2019s friction",
+    "normalized": "the galaxy z flip 8 is at its best when there's friction",
+    "content_hash": "02021d7ae190242d43b492fe3ad0fbdc"
+  },
+  {
+    "title": "No AI Fridays",
+    "normalized": "no ai fridays",
+    "content_hash": "4a6eaebf740a1aa9d5394e804d82014b"
+  },
+  {
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "normalized": "longest straight line paths on water or land on the earth (2018)",
+    "content_hash": "cf10b744c9ef7dff4c553fc94f27c5fa"
+  },
+  {
+    "title": "What my dad taught me about AI coding in the 90s",
+    "normalized": "what my dad taught me about ai coding in the 90s",
+    "content_hash": "0f7fa0aff81cbd2f0c3114897091aec9"
+  },
+  {
+    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+    "normalized": "claude session url appended to commit messages and pr descriptions by default",
+    "content_hash": "f6acc304cdd70b56ebcd6d936ce696fd"
+  },
+  {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "normalized": "better answers, broader thinking: what students gain from chatgpt and critical-thinking training",
+    "content_hash": "f193e4672096a3b36ac25db3b955810f"
+  },
+  {
+    "title": "Expanding OpenAI\u2019s presence in Brazil",
+    "normalized": "expanding openai's presence in brazil",
+    "content_hash": "69978a4c2f61f916e2bb4813a4bf6094"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "normalized": "bringing chatgpt for teachers to more u.s. school districts",
+    "content_hash": "6dee1d8a4bbb60c0dbfe26a2b21e6d65"
+  },
+  {
+    "title": "The Hugging Face incident and the road ahead",
+    "normalized": "the hugging face incident and the road ahead",
+    "content_hash": "21b0253a240cdbd888367b89e5b8163b"
+  },
+  {
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "normalized": "how loveholidays is making everyone a builder with codex",
+    "content_hash": "c65c4b26f4ca99fede80e9b0b0431e1e"
+  },
+  {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "normalized": "disrupting a new covert influence campaign from russia",
+    "content_hash": "df73fe0021b31f5f374a45d56b717112"
   }
 ]
