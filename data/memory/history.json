@@ -1,130 +1,5 @@
 [
   {
-    "title": "Codex Codex as a platform: build on the open agent harness",
-    "normalized": "codex codex as a platform: build on the open agent harness",
-    "content_hash": "963525bb0e2a4fea937d79fd16939aac"
-  },
-  {
-    "title": "Show HN: Bulwark Gateway \u2013 fail-closed security proxy for LLM agents",
-    "normalized": "show hn: bulwark gateway - fail-closed security proxy for llm agents",
-    "content_hash": "2bcccf46be101ec86ed58b4918dcce85"
-  },
-  {
-    "title": "Codex as a platform: build on the open agent harness",
-    "normalized": "codex as a platform: build on the open agent harness",
-    "content_hash": "54e452d972bac4e7b5160b1981bb7be1"
-  },
-  {
-    "title": "Gisting: Compressing LLM Agent context to \u2191 throughput and \u2193 cost",
-    "normalized": "gisting: compressing llm agent context to \u2191 throughput and \u2193 cost",
-    "content_hash": "35b0a264d3c6d98cae7e51dcdf62124c"
-  },
-  {
-    "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
-    "normalized": "air traffic control using large language models: prompt engineering, architecture, and evaluation",
-    "content_hash": "0f5778eefb66d2bb9cf7e6f192ac21cd"
-  },
-  {
-    "title": "Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents",
-    "normalized": "towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of ai agents",
-    "content_hash": "00065ee44d0e31fd13f0efb087d0c225"
-  },
-  {
-    "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
-    "normalized": "microsoft entra id flaw (cvss 10.0) exploited in wild, allows remote code execution",
-    "content_hash": "310ed54a84af1509eb9b3a5d5a95cad5"
-  },
-  {
-    "title": "ChatGPT on Mac can now read and respond to Apple iMessages",
-    "normalized": "chatgpt on mac can now read and respond to apple imessages",
-    "content_hash": "9a1f3370e397e52357cb7591b5b0b44f"
-  },
-  {
-    "title": "Antigravity IDE Extensions",
-    "normalized": "antigravity ide extensions",
-    "content_hash": "b54ada4d1108f31c894d6c453467b2a4"
-  },
-  {
-    "title": "Tesla sunsets its Solar Roof tiles",
-    "normalized": "tesla sunsets its solar roof tiles",
-    "content_hash": "fcf8d556090a221a4f72c4e24ed5bd2a"
-  },
-  {
-    "title": "My cats hate each other, but this automatic feeder is helping",
-    "normalized": "my cats hate each other, but this automatic feeder is helping",
-    "content_hash": "762de7e1e5927d78353fc19c537b0824"
-  },
-  {
-    "title": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
-    "normalized": "australia says roblox hasn't fixed its child predator problem",
-    "content_hash": "75fb8ac3fe9946720e0e42949bb11693"
-  },
-  {
-    "title": "OpenAI reaches 20M Codex users, credits all accounts with banked resets",
-    "normalized": "openai reaches 20m codex users, credits all accounts with banked resets",
-    "content_hash": "854d1bd1f828be178a3bd1b7e93cb06e"
-  },
-  {
-    "title": "OpenAI is becoming a surveillance company",
-    "normalized": "openai is becoming a surveillance company",
-    "content_hash": "5f73ffbb5927919c84bc89ade65aeb6f"
-  },
-  {
-    "title": "Watch a 535B parameter (23B active) LLM get trained live",
-    "normalized": "watch a 535b parameter (23b active) llm get trained live",
-    "content_hash": "dac499bfe93b16bda809b5b7c8240bc4"
-  },
-  {
-    "title": "Nouswise Review: AI Research Agent and Thinking Partner",
-    "normalized": "nouswise review: ai research agent and thinking partner",
-    "content_hash": "3ea4150a5f546b8762391933f59876e3"
-  },
-  {
-    "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
-    "normalized": "anthropic plans to change data retention policy for advanced ai",
-    "content_hash": "94ba951dd2e39a7cae258b46342b98d1"
-  },
-  {
-    "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
-    "normalized": "bounded agents: delegation security for multi-agent ai systems",
-    "content_hash": "9a1073da83a0674c523e41bfc6ee5f4c"
-  },
-  {
-    "title": "The LLM rewrote the email after I approved it",
-    "normalized": "the llm rewrote the email after i approved it",
-    "content_hash": "1b6f4a8ebe2f1572d0d207fca1826667"
-  },
-  {
-    "title": "OpenAI Is Backing Away from Reddit as Reddit Tries to Become OpenAI?",
-    "normalized": "openai is backing away from reddit as reddit tries to become openai?",
-    "content_hash": "d3798b928212881e7ed1f8e185440d77"
-  },
-  {
-    "title": "Show HN: An autonomous AI agent running one project for two months in public",
-    "normalized": "show hn: an autonomous ai agent running one project for two months in public",
-    "content_hash": "73acf3594cbbfe35e5ce6a2f7cf328d4"
-  },
-  {
-    "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
-    "normalized": "i benched frontier ai llm models on politics, ethics, and personality traits",
-    "content_hash": "4c476db95d9525daa5c75ebe87caffca"
-  },
-  {
-    "title": "Show HN: Pigame \u2013 pi+LLM plays black-box browser games via observe/move tools",
-    "normalized": "show hn: pigame - pi+llm plays black-box browser games via observe/move tools",
-    "content_hash": "fa489fc8b0bc24e2d88a1c752503ff3c"
-  },
-  {
-    "title": "Show HN: luoluoAI \u2013 OpenAI-compatible and Claude Messages API gateway",
-    "normalized": "show hn: luoluoai - openai-compatible and claude messages api gateway",
-    "content_hash": "dec41b06d8d8abbb1566756640c5ceb4"
-  },
-  {
-    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-    "normalized": "asana cleared 5 years of engineering work in 2 weeks with codex",
-    "content_hash": "2d98ecfca9117688566cb8cbfcf5114e"
-  },
-  {
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "normalized": "nvidia just showed that the harness, not the ai model, is now the real hero",
     "content_hash": "8a91395c2b6291181c3c2d652ea842c2"
@@ -2498,5 +2373,130 @@
     "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
     "normalized": "european commission revives push for encryption backdoors in protecteu strategy",
     "content_hash": "e7dd7a57346a9ac8905b81eedc1b5579"
+  },
+  {
+    "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
+    "normalized": "nvidia's $3.5b mediatek bet reveals its plan for tackling big tech's ai chip buildout",
+    "content_hash": "d4bb8b120b97b693b0a9497b9b4152da"
+  },
+  {
+    "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
+    "normalized": "ryan breslow is raising up to $27m in pay-to-play bridge funding to save bolt",
+    "content_hash": "28e606e8b45469d2d4a19edb12b1c004"
+  },
+  {
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "normalized": "chatgpt to face tougher regulation in the eu",
+    "content_hash": "804b8d8cf573f9db60b55c1dad0d2dc9"
+  },
+  {
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "normalized": "clipto uses ai to search terabytes of video and is now valued at $250m",
+    "content_hash": "7f80e00869b808aff1481de346917599"
+  },
+  {
+    "title": "Sony Music, Warner sue Anthropic, alleging a \u2018brazen campaign\u2019 of intellectual property theft",
+    "normalized": "sony music, warner sue anthropic, alleging a 'brazen campaign' of intellectual property theft",
+    "content_hash": "8f3933a82fd050fb7be305b7cd6ca453"
+  },
+  {
+    "title": "\u2018We\u2019re not doing 30 bets a year\u2019: Vijay Pande on betting small after running $4B at a16z",
+    "normalized": "'we're not doing 30 bets a year': vijay pande on betting small after running $4b at a16z",
+    "content_hash": "c5c5d73b40c4cff5f65b700d2d270a43"
+  },
+  {
+    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+    "normalized": "securing claude code: the new compliance api, local visibility, and identity governance",
+    "content_hash": "20708e4ba7a028ba92a09a392da78d87"
+  },
+  {
+    "title": "Show HN: Turn repeated coding-agent corrections into rules/skills",
+    "normalized": "show hn: turn repeated coding-agent corrections into rules/skills",
+    "content_hash": "5a763877bb8d46daf810d8ff5987c24a"
+  },
+  {
+    "title": "OpenAI Expands ChatGPT Ads Self-Service Access to India and Europe",
+    "normalized": "openai expands chatgpt ads self-service access to india and europe",
+    "content_hash": "9a56a5cd8f1f15c65901f8728479d866"
+  },
+  {
+    "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+    "normalized": "hackers claim millions of patient records stolen during data breach at healthcare giant mckesson",
+    "content_hash": "a77c2b68a6e355f4ee5a4435aa443557"
+  },
+  {
+    "title": "Tim Cook\u2019s parting message: Apple is in the hands of a product builder",
+    "normalized": "tim cook's parting message: apple is in the hands of a product builder",
+    "content_hash": "317eb161147b46124aba28dfe13ddd75"
+  },
+  {
+    "title": "How AI could make it harder for governments to use hacking tools",
+    "normalized": "how ai could make it harder for governments to use hacking tools",
+    "content_hash": "09b993f23fcef6902363051e337da29e"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    "normalized": "\u26a1 weekly recap: chinese spy proxy, ai agents go off-task, router backdoors and more",
+    "content_hash": "1177b750ecfed0c35c305daf03ce8556"
+  },
+  {
+    "title": "Markiplier is now GoPro\u2019s biggest shareholder",
+    "normalized": "markiplier is now gopro's biggest shareholder",
+    "content_hash": "c8a4cff2cbdbedae0d302629bb244120"
+  },
+  {
+    "title": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
+    "normalized": "read tim cook's final message to apple staff as ceo",
+    "content_hash": "b2bc8cecabe4149121b68df310808332"
+  },
+  {
+    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "normalized": "debian won't ban ai code from its linux distribution",
+    "content_hash": "35a95349c02726185139602e303e7e3e"
+  },
+  {
+    "title": "New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
+    "normalized": "new york governor to 3d-printed gun leader: 'tell cody i will get ahead of him'",
+    "content_hash": "a5be53960790c4b9a857f57d98e4b04b"
+  },
+  {
+    "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
+    "normalized": "new york governor kathy hochul thinks ai should be 'less evil'",
+    "content_hash": "87fe469754ff332de810773cc9023896"
+  },
+  {
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "normalized": "instagram cracks down on ai accounts pretending to be human",
+    "content_hash": "1b7f5dc750f834cd20372907173d3087"
+  },
+  {
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "normalized": "weave (yc w25) is hiring ml, ai, product, & design engineers",
+    "content_hash": "9a3ddf2cdbdb3faef602cba18a7441aa"
+  },
+  {
+    "title": "Anthropic legal fight with Pentagon shows shifting politics of AI",
+    "normalized": "anthropic legal fight with pentagon shows shifting politics of ai",
+    "content_hash": "ae4fc352f6ddbe5b237164e882c197a2"
+  },
+  {
+    "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
+    "normalized": "apple is suddenly an ai infra stock as openai buys 10k+ macs",
+    "content_hash": "86de4ee93fff3d3a2671b222fe6ebfc5"
+  },
+  {
+    "title": "Are We at War with AI Agent \"Civilizations\"?",
+    "normalized": "are we at war with ai agent \"civilizations\"?",
+    "content_hash": "d04cbeb4f7b5ebdeaba2555215230a32"
+  },
+  {
+    "title": "OpenAI hack shows emergent AI risks",
+    "normalized": "openai hack shows emergent ai risks",
+    "content_hash": "df4bcf5f434af2fb56fa275a04a2348a"
+  },
+  {
+    "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
+    "normalized": "openai to cut off ai models for spacex-owned cursor, escalating feud with musk",
+    "content_hash": "30d0d357b74e2bef7e34a6cdbc5f59b4"
   }
 ]
