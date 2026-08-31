@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "normalized": "openai is gaining on anthropic with business users, new data indicates",
-    "content_hash": "2a571a124dc38a598eb4478cb731a040"
-  },
-  {
-    "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
-    "normalized": "is ai spend on openai or anthropic starting to eat into your runway?",
-    "content_hash": "6abbcca913083d07857b81c5013ba915"
-  },
-  {
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "normalized": "ai data startup micro1 reaches $500m gross run rate amid ai training boom",
-    "content_hash": "a034b08c7b79ba36fa735dad30902627"
-  },
-  {
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "normalized": "google gives publishers a new way to fight ai-driven traffic losses",
-    "content_hash": "e8904dde9e34a7eb882d11870e91b135"
-  },
-  {
-    "title": "A third of web pages published since ChatGPT\u2019s launch show signs of AI authorship, study finds",
-    "normalized": "a third of web pages published since chatgpt's launch show signs of ai authorship, study finds",
-    "content_hash": "304a47174981aab889fb4b2f31864d19"
-  },
-  {
-    "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-    "normalized": "why \"shady ai\" is security's next big governance problem",
-    "content_hash": "8bb9d9bea9c05e7f7dbbc4ce3d86caf4"
-  },
-  {
-    "title": "Google Discover is getting an AI chatbot-tuned feed",
-    "normalized": "google discover is getting an ai chatbot-tuned feed",
-    "content_hash": "139892d345107d9b826c08d9bede1811"
-  },
-  {
-    "title": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
-    "normalized": "framework says it's addressing a bios update that bricked some of its older laptops",
-    "content_hash": "ee0eb443cee835b1c6931b13cc4cd4c9"
-  },
-  {
-    "title": "It\u2019s Greg Brockman\u2019s OpenAI now",
-    "normalized": "it's greg brockman's openai now",
-    "content_hash": "444b66bbb736884185c06e64df3b8d53"
-  },
-  {
-    "title": "We replaced our 223-node agent graph with a single open-source LLM",
-    "normalized": "we replaced our 223-node agent graph with a single open-source llm",
-    "content_hash": "71dc6b77be3bbf2b22b47981201dd141"
-  },
-  {
-    "title": "OpenCyvis: An open-source AI phone agent that runs your own LLM",
-    "normalized": "opencyvis: an open-source ai phone agent that runs your own llm",
-    "content_hash": "d8768abfa563e5ff0415b78cd9b96920"
-  },
-  {
-    "title": "OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face",
-    "normalized": "openai's rogue ai agent hacked more than just hugging face",
-    "content_hash": "b9daf7c0ba390fefc2f9623432051d65"
-  },
-  {
-    "title": "ChatGPT Plugin Reads and Sends Apple Messages on Apple Silicon Macs",
-    "normalized": "chatgpt plugin reads and sends apple messages on apple silicon macs",
-    "content_hash": "5a716a9b5454e1f302e4cf7ae66beac4"
-  },
-  {
-    "title": "Learn what VCs actually want, from a founder who\u2019s raised $1B",
-    "normalized": "learn what vcs actually want, from a founder who's raised $1b",
-    "content_hash": "20a00fa2d0f1165cf9cf674317b7907f"
-  },
-  {
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "normalized": "chatgpt can now send texts for you with new apple messages plug-in",
-    "content_hash": "0576b5ce3769b30e53f9e93b1d7eccc3"
-  },
-  {
-    "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-    "normalized": "someone targeted security researchers using a fake crypto conference as a lure",
-    "content_hash": "4191db60ce69d0307e399ced200e0d62"
-  },
-  {
-    "title": "Runlayer, Rippling drop lawsuits \u2014 but the brouhaha is still a cautionary tale for founders",
-    "normalized": "runlayer, rippling drop lawsuits -- but the brouhaha is still a cautionary tale for founders",
-    "content_hash": "a60f75cb80128e8c3362947b08864280"
-  },
-  {
-    "title": "Linkdaze\u2019s smart calendar is built to run a household, not just track a schedule",
-    "normalized": "linkdaze's smart calendar is built to run a household, not just track a schedule",
-    "content_hash": "ecc62e991687c90135dc70fc3fb47285"
-  },
-  {
-    "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-    "normalized": "early cerebras investor adit singh joins mayfield as infrastructure partner",
-    "content_hash": "e7cefcde4caeb5d585569346ff7ed047"
-  },
-  {
-    "title": "Ramp launches its own AI model router, called Router",
-    "normalized": "ramp launches its own ai model router, called router",
-    "content_hash": "1abbd0bdc0588093c29972ab4045c3cc"
-  },
-  {
-    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "normalized": "meta brings pocket, an app that lets you vibe-code and share games, to us users",
-    "content_hash": "788f6f7b18390b492aa663b3ad210d5a"
-  },
-  {
-    "title": "Google Pixel 11 Review: Minor Upgrade",
-    "normalized": "google pixel 11 review: minor upgrade",
-    "content_hash": "a2c2742eaffa43080ecb37fb9247a67d"
-  },
-  {
-    "title": "Riot is ending development on its League of Legends fighting game",
-    "normalized": "riot is ending development on its league of legends fighting game",
-    "content_hash": "240cf57b9a930e3df10dcfb1a1b8ce47"
-  },
-  {
-    "title": "The Genesis GV90 blows the bloody doors off what\u2019s possible in EV design",
-    "normalized": "the genesis gv90 blows the bloody doors off what's possible in ev design",
-    "content_hash": "a31f1750bf2e334b8d6b212a58ce09eb"
-  },
-  {
-    "title": "Mark Zuckerberg bought an Irish castle",
-    "normalized": "mark zuckerberg bought an irish castle",
-    "content_hash": "73b349ca048aec5f02eb588efc467329"
-  },
-  {
     "title": "Codex Codex as a platform: build on the open agent harness",
     "normalized": "codex codex as a platform: build on the open agent harness",
     "content_hash": "963525bb0e2a4fea937d79fd16939aac"
@@ -2498,5 +2373,130 @@
     "title": "Disrupting a new covert influence campaign from Russia",
     "normalized": "disrupting a new covert influence campaign from russia",
     "content_hash": "df73fe0021b31f5f374a45d56b717112"
+  },
+  {
+    "title": "Liux\u2019s Big microcar bets on sustainability to take on Chinese rivals",
+    "normalized": "liux's big microcar bets on sustainability to take on chinese rivals",
+    "content_hash": "eea1a0ae179a9fc36e63fd58fa8d6452"
+  },
+  {
+    "title": "Six Agent Harness Capabilities for Higher Model Performance",
+    "normalized": "six agent harness capabilities for higher model performance",
+    "content_hash": "84a36a81720f822f23394a2ea2cc2fff"
+  },
+  {
+    "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
+    "normalized": "google ai introduces envharness: a programmable layer that turns static agent environments into adaptive training worlds",
+    "content_hash": "1ef1407b8c5f53c5d0ee99f404e49ec1"
+  },
+  {
+    "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+    "normalized": "grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+    "content_hash": "ddfcab736f4f4326a58b44d9563519c2"
+  },
+  {
+    "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+    "normalized": "techcrunch mobility: the hidden human cost of robotaxis",
+    "content_hash": "5e8a00a47c91ea5c5eb1a576002f55de"
+  },
+  {
+    "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+    "normalized": "enormous 12tb steam leak includes abandoned half-life 2: episode 3 assets",
+    "content_hash": "22d70f1ba1625a21f28f6b1540ec6b5e"
+  },
+  {
+    "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+    "normalized": "the nancy grace roman space telescope launches to study dark matter and dark energy",
+    "content_hash": "e405c3d125b1cda66785c64cedc68f88"
+  },
+  {
+    "title": "HermOS \u2013 a local-first AI agent IDE",
+    "normalized": "hermos - a local-first ai agent ide",
+    "content_hash": "8587f304143c8c3695ed47c2c502b983"
+  },
+  {
+    "title": "Static Evaluation of Model Switching in LLM Agents Scores the Wrong World",
+    "normalized": "static evaluation of model switching in llm agents scores the wrong world",
+    "content_hash": "1403015ff1fd94095d018a4eb70f3dde"
+  },
+  {
+    "title": "OpenAI ends it partnership with Cursor",
+    "normalized": "openai ends it partnership with cursor",
+    "content_hash": "0df0179c5040e4bb4468f1a634e41a37"
+  },
+  {
+    "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
+    "normalized": "openai acquires mac minis, mac studios for ai training",
+    "content_hash": "2dc11c28f4079dad838f6a6b343c0813"
+  },
+  {
+    "title": "Data Exfil: OpenAI polices private chats exfiltrated through Codex Memories",
+    "normalized": "data exfil: openai polices private chats exfiltrated through codex memories",
+    "content_hash": "c96a7414858cecb4a0281310e957ac69"
+  },
+  {
+    "title": "Security scanner for AI agents, MCP servers and agent skills",
+    "normalized": "security scanner for ai agents, mcp servers and agent skills",
+    "content_hash": "83a4218b7884946125e9f3f38f58e757"
+  },
+  {
+    "title": "What agent skills are made of: programming languages",
+    "normalized": "what agent skills are made of: programming languages",
+    "content_hash": "0044335fce13afe9a47adb47b819b6fa"
+  },
+  {
+    "title": "Scaling Domain Data Repetition in LLM Pretraining",
+    "normalized": "scaling domain data repetition in llm pretraining",
+    "content_hash": "16546d685f17bf8c21278b5e37ec79c7"
+  },
+  {
+    "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
+    "normalized": "lowest-latency inference apis for voice and realtime agents: a time to first token ttft-first benchmark",
+    "content_hash": "eb1e47fe87aa10b6d88605a0b8fb879a"
+  },
+  {
+    "title": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
+    "normalized": "musk's faster path to more gas turbines comes with pollution problem",
+    "content_hash": "2317c83ee9240153595e466ddfdc9693"
+  },
+  {
+    "title": "Google Maps Now Shows \u2018Lake America\u2019 Instead of Lake Ontario",
+    "normalized": "google maps now shows 'lake america' instead of lake ontario",
+    "content_hash": "f1b5d84b778165c5b02a77f4e4a046ff"
+  },
+  {
+    "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+    "normalized": "professor murder rides the subway is a forgotten slice of dance punk perfection",
+    "content_hash": "7901e33e90d194bc6a90cf0d62431df4"
+  },
+  {
+    "title": "Understanding ChatGPT Work",
+    "normalized": "understanding chatgpt work",
+    "content_hash": "7c15e4eceb5ce10ae2a89f77d505a4a5"
+  },
+  {
+    "title": "Haiku R1/beta6 has been released",
+    "normalized": "haiku r1/beta6 has been released",
+    "content_hash": "fa02e28f5d5c307ca32a0e90e17a288e"
+  },
+  {
+    "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
+    "normalized": "commercially available bike generators are not sustainable (2011)",
+    "content_hash": "ada72c956a5a016f7fdb035c59f8e8e1"
+  },
+  {
+    "title": "Startup Anti-Patterns",
+    "normalized": "startup anti-patterns",
+    "content_hash": "5aa2acf07bbca56b5c3f467d8f207ef9"
+  },
+  {
+    "title": "Electric rain can eat through metal",
+    "normalized": "electric rain can eat through metal",
+    "content_hash": "6affcece70482f86c390d586d8709441"
+  },
+  {
+    "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+    "normalized": "european commission revives push for encryption backdoors in protecteu strategy",
+    "content_hash": "e7dd7a57346a9ac8905b81eedc1b5579"
   }
 ]
