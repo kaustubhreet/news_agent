@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "normalized": "nvidia just showed that the harness, not the ai model, is now the real hero",
-    "content_hash": "8a91395c2b6291181c3c2d652ea842c2"
-  },
-  {
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "normalized": "nvidia partners with data center developer cloverleaf",
-    "content_hash": "6278eeab37cc9a9be113c6792e2f1e76"
-  },
-  {
-    "title": "Where Security Fits in an AI Agent Stack",
-    "normalized": "where security fits in an ai agent stack",
-    "content_hash": "0d67b1ffd850952925f2ccca1ebfd3d3"
-  },
-  {
-    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-    "normalized": "how ai accounting startup rillet raised $100m and became a unicorn in 48 hours",
-    "content_hash": "c78dd4759c3b2aab370e2e3aa2fb97a5"
-  },
-  {
-    "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
-    "normalized": "private equity firm apollo confirms data breach amid hacking wave targeting financial giants",
-    "content_hash": "00f3b8f97a64dd0310d2843294eb2b5c"
-  },
-  {
-    "title": "Replacing 223-node agent graph with a single OSS LLM",
-    "normalized": "replacing 223-node agent graph with a single oss llm",
-    "content_hash": "428383f05352e2bef62943e001746ba6"
-  },
-  {
-    "title": "The OpenAI-HuggingFace Incident Timeline",
-    "normalized": "the openai-huggingface incident timeline",
-    "content_hash": "546b0ea8f849e073ff24db9513de4ce3"
-  },
-  {
-    "title": "OpenAI: We're dropping API and credit pricing of GPT-5.6 Sol by over 20%",
-    "normalized": "openai: we're dropping api and credit pricing of gpt-5.6 sol by over 20%",
-    "content_hash": "405e37e7787e9fd2f114d9797c4bc4e0"
-  },
-  {
-    "title": "What Happened: OpenAI and HuggingFace",
-    "normalized": "what happened: openai and huggingface",
-    "content_hash": "c142781f23e5ff3903f6ecbe9b19f848"
-  },
-  {
-    "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-    "normalized": "show hn: proliferate- open-source, self-hostable codex for any coding agent",
-    "content_hash": "0a5ff6731e28e579af3515607b0da367"
-  },
-  {
-    "title": "NVIDIA Takes Minority Stake in Cloverleaf Infrastructure",
-    "normalized": "nvidia takes minority stake in cloverleaf infrastructure",
-    "content_hash": "a10677f7579a34e7700cab9268ba70dc"
-  },
-  {
-    "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
-    "normalized": "anthropic's opus 4.6 is a smut-machine",
-    "content_hash": "4df25ea676d31c57e98c46ea9f3bf844"
-  },
-  {
-    "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-    "normalized": "apple is reportedly cutting hundreds of jobs from siri, vision pro teams",
-    "content_hash": "7bb01d3d3ddec6a00f2cc73fa6b939c4"
-  },
-  {
-    "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
-    "normalized": "the $225 pebble time 2 is a refreshingly fun smartwatch",
-    "content_hash": "55e4ec49e9e139450a30da2aa63b4a61"
-  },
-  {
-    "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-    "normalized": "last chance: save up to $300 on your techcrunch disrupt 2026 ticket today",
-    "content_hash": "aa91d15083a0edf357a73dbcab4112c1"
-  },
-  {
-    "title": "Why is the DOJ investigating Andreessen Horowitz\u2019s board seats?",
-    "normalized": "why is the doj investigating andreessen horowitz's board seats?",
-    "content_hash": "82a7f636ed19b832bc46ddcf30591301"
-  },
-  {
-    "title": "Walmart to finally start accepting Apple Pay and Google Pay",
-    "normalized": "walmart to finally start accepting apple pay and google pay",
-    "content_hash": "67ee6bc3b918d82de2f06e36da95dcb2"
-  },
-  {
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "normalized": "starcloud raises $250 million for orbital data centers as launch options dry up",
-    "content_hash": "0ea79ced432ef41f87060816f38d5981"
-  },
-  {
-    "title": "Senator asks US government watchdog to review how feds use hacking tools",
-    "normalized": "senator asks us government watchdog to review how feds use hacking tools",
-    "content_hash": "98c7b69378577dfb6e53c2f0c361acef"
-  },
-  {
-    "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-    "normalized": "14 trojanized npm packages drop redc2 4.0 linux backdoor with ai-assisted c2",
-    "content_hash": "0b24d5cdcab9ce5000b75f73742ce4eb"
-  },
-  {
-    "title": "Child safety experts are skeptical of OpenAI's ChatGPT for Teens",
-    "normalized": "child safety experts are skeptical of openai's chatgpt for teens",
-    "content_hash": "18cd95166181d17e9560803bca541b18"
-  },
-  {
-    "title": "HoverAir\u2019s transforming modular drone has already been halted in the US",
-    "normalized": "hoverair's transforming modular drone has already been halted in the us",
-    "content_hash": "2c5439d2d829763574da1c0d195ebd5c"
-  },
-  {
-    "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-    "normalized": "tiktok will pay $400 million to settle doj child privacy lawsuit",
-    "content_hash": "ad9be05e7b0786b0e8b012dbcd43145f"
-  },
-  {
-    "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
-    "normalized": "over 1 million people have clicked linkedin's ai slop button",
-    "content_hash": "d6d8ef379898d87de91bd26a6b69c0ab"
-  },
-  {
-    "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-    "normalized": "apple is laying off staffers working on the vision pro and siri",
-    "content_hash": "8a87f45095eff2dfe032c305db76e4d0"
-  },
-  {
     "title": "Michael Polansky is training an AI model on skin that\u2019s still alive",
     "normalized": "michael polansky is training an ai model on skin that's still alive",
     "content_hash": "632c667b6329865e3e5668c5034093da"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
     "normalized": "openai to cut off ai models for spacex-owned cursor, escalating feud with musk",
     "content_hash": "30d0d357b74e2bef7e34a6cdbc5f59b4"
+  },
+  {
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "normalized": "the pentagon now has its own version of chatgpt and grok",
+    "content_hash": "10d9777be904b1d261b85c3d58c0013c"
+  },
+  {
+    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+    "normalized": "lachy groom backs indian startup aiming to keep aircraft aloft for a year",
+    "content_hash": "e1eb457151c15395776e506560001c07"
+  },
+  {
+    "title": "Anthropic signs $35B cloud deal backed by Nvidia",
+    "normalized": "anthropic signs $35b cloud deal backed by nvidia",
+    "content_hash": "a00fa43f79d95ed89264a8ebf4eed2c1"
+  },
+  {
+    "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+    "normalized": "apple shares 'shocking evidence' against former employee accused of stealing company data for openai",
+    "content_hash": "6cc61f65d2fcb44692f057f0c00de8ec"
+  },
+  {
+    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.\u2019s investment fund",
+    "normalized": "polymarket reportedly raises $300 million from donald trump jr.'s investment fund",
+    "content_hash": "732fcb87f6fa55274abc8c96bedc2a08"
+  },
+  {
+    "title": "Microsoft tests fix for latest hours-long Outlook outage",
+    "normalized": "microsoft tests fix for latest hours-long outlook outage",
+    "content_hash": "ac3cb9d22636d6cc4cd33ab040501cf2"
+  },
+  {
+    "title": "The Google TV Streamer now costs $50 more",
+    "normalized": "the google tv streamer now costs $50 more",
+    "content_hash": "dd86d73a0654bfec927faeec0183884a"
+  },
+  {
+    "title": "JMGO\u2019s very bright all-in-one projector looks ideal for gamers and sports",
+    "normalized": "jmgo's very bright all-in-one projector looks ideal for gamers and sports",
+    "content_hash": "c6fc2658cf6c69bd194f6e16506b0678"
+  },
+  {
+    "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
+    "normalized": "launch hn: almanac (yc s26) - ai that knows your company",
+    "content_hash": "b16a40a94be435c263d547cac49f67a5"
+  },
+  {
+    "title": "Show HN: Open Agent Forum \u2013 a signed public square for agents",
+    "normalized": "show hn: open agent forum - a signed public square for agents",
+    "content_hash": "868d363fb8a8f85784669aab5026703d"
+  },
+  {
+    "title": "OpenAI and Anthropic are ruining San Francisco",
+    "normalized": "openai and anthropic are ruining san francisco",
+    "content_hash": "f7b8be89435b3dc7750d420854378436"
+  },
+  {
+    "title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil",
+    "normalized": "department of war launches openai's chatgpt mil on genai.mil",
+    "content_hash": "245e3d9c239dc20586a98a96ae2650e7"
+  },
+  {
+    "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+    "normalized": "a16z brings growth fund to $8.5b days after launching new $1.1b fund",
+    "content_hash": "58034fb02b8117792bb747343dde5151"
+  },
+  {
+    "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+    "normalized": "a group funded by andreessen, horowitz, and brockman plans data center ads to sway midterms",
+    "content_hash": "b02a8cf821f3d6030ed0d8bf2e2075c9"
+  },
+  {
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "normalized": "instagram puts new limits on undisclosed ai profiles",
+    "content_hash": "fd8d33bd7d1cb5c23740c191ea4bb3d4"
+  },
+  {
+    "title": "Kalshi bans George Santos for life over State of the Union bets",
+    "normalized": "kalshi bans george santos for life over state of the union bets",
+    "content_hash": "fc71fb1e63eb24509ab1a1cab35e8259"
+  },
+  {
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
+    "normalized": "harvard law dropout raises $6m for blue voice to build a 'harvey for police officers'",
+    "content_hash": "ac0affc2fefb7f622c1badc39fea463a"
+  },
+  {
+    "title": "FTC lawsuit alleges Amazon has been \u2018secretly and systematically\u2019 overcharging for ads",
+    "normalized": "ftc lawsuit alleges amazon has been 'secretly and systematically' overcharging for ads",
+    "content_hash": "2e265e8897213ba3e9dde1c7621a8fda"
+  },
+  {
+    "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
+    "normalized": "openai to cut off ai models for spacex-owned cursor",
+    "content_hash": "f68bcf358de0fba85e319aa222d3e837"
+  },
+  {
+    "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
+    "normalized": "apple says openai is destroying evidence in trade secrets case",
+    "content_hash": "d96f9d970ac0953b9fda0ec9f8417aff"
+  },
+  {
+    "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+    "normalized": "apple reveals 'shocking evidence' from ex-employee's macbook in openai suit",
+    "content_hash": "a0e4951259ee72e7b2ed9cf24311f859"
+  },
+  {
+    "title": "Run local embedder for 0.24% of the OpenAI price",
+    "normalized": "run local embedder for 0.24% of the openai price",
+    "content_hash": "35e116be7a2dd92a0205fcb38e0afe41"
+  },
+  {
+    "title": "Anthropic's LLM Watermarking",
+    "normalized": "anthropic's llm watermarking",
+    "content_hash": "aea7b1ddbc4843d386d289e3e9a3a48c"
+  },
+  {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "normalized": "polimill builds japan's next-generation public ai infrastructure",
+    "content_hash": "47ad5a6e7e0a1da5c4ff9bc9ff1271e5"
+  },
+  {
+    "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+    "normalized": "fedehr-agents: federated agentic optimization for automated ehr modeling",
+    "content_hash": "b0883c63c2be52b88a01ab768be8da39"
   }
 ]
