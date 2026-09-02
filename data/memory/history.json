@@ -1,130 +1,5 @@
 [
   {
-    "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
-    "normalized": "inherent, founded by deepmind alumni, says its ai 'teammate' just outperformed anthropic and openai at replicating research",
-    "content_hash": "7ca892474852059f7a334d3a336b1f8c"
-  },
-  {
-    "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
-    "normalized": "harvard's $699 startup bootcamp offers ai avatars of its instructors",
-    "content_hash": "f896a70d3a75689bb7dc43485607ddce"
-  },
-  {
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "normalized": "openai says california should strengthen its ai safety bill",
-    "content_hash": "ed69b96d5cd5e233765d0c52d9bc19e5"
-  },
-  {
-    "title": "Pixel 11 Pro XL review: Snappier cameras can\u2019t hide an iterative upgrade",
-    "normalized": "pixel 11 pro xl review: snappier cameras can't hide an iterative upgrade",
-    "content_hash": "0466a2abf4833e780f088d7deeac9710"
-  },
-  {
-    "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
-    "normalized": "model genome: fingerprinting whether an llm was trained from scratch or derived",
-    "content_hash": "815a4d3d2d35e6d04762d63dd7035b07"
-  },
-  {
-    "title": "Study Finds Frontier AI Labs Have Few Plans to Contain Rogue Models",
-    "normalized": "study finds frontier ai labs have few plans to contain rogue models",
-    "content_hash": "eb145de1e6a70631693ce8530a9a9199"
-  },
-  {
-    "title": "Will the DOJ\u2019s investigation into a16z spook other VCs?",
-    "normalized": "will the doj's investigation into a16z spook other vcs?",
-    "content_hash": "eee4e0545ddfcd40d3591780edb85696"
-  },
-  {
-    "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
-    "normalized": "frontier ai labs still won't say how they'd contain a rogue model",
-    "content_hash": "28b3805ce9292db94372feb1fc615999"
-  },
-  {
-    "title": "US battery startups have found a lifeline in defense",
-    "normalized": "us battery startups have found a lifeline in defense",
-    "content_hash": "a7f7f3731ff22448f4f56b63c04ef3e7"
-  },
-  {
-    "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-    "normalized": "amazon just hiked the prices for echo, fire tv, and kindle products by up to 60 percent",
-    "content_hash": "fff77ba7cd4f7e06e21d0d4d201409ec"
-  },
-  {
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "normalized": "show hn: ozbrain, a shared brain for knowledge between agents and your team",
-    "content_hash": "b51959ddb6ca97d35a9089f4be60f1b8"
-  },
-  {
-    "title": "Show HN: A2G (Agent to Agent) Marketplace \u2013 Beta Test",
-    "normalized": "show hn: a2g (agent to agent) marketplace - beta test",
-    "content_hash": "44723da72b54fadc7366b361ea0185e0"
-  },
-  {
-    "title": "Follow live the open training of a 535B (23B activated) LLM",
-    "normalized": "follow live the open training of a 535b (23b activated) llm",
-    "content_hash": "10ce785976ea4502e2e6f51e12f64eeb"
-  },
-  {
-    "title": "Contra Anthropic: AI is not 'structurally' centralizing",
-    "normalized": "contra anthropic: ai is not 'structurally' centralizing",
-    "content_hash": "df67fb46a471c37b9b360303aece96cc"
-  },
-  {
-    "title": "Cottontail, Electrobun 2.0, and Why I Decided to Jian-Yang Anthropic",
-    "normalized": "cottontail, electrobun 2.0, and why i decided to jian-yang anthropic",
-    "content_hash": "f62aa06e87c3bfe0b2a845cd854a9836"
-  },
-  {
-    "title": "Can an AI agent serve at a Foreign Office?",
-    "normalized": "can an ai agent serve at a foreign office?",
-    "content_hash": "3e2edd0bcf0d3534d4909195d3c8c5ac"
-  },
-  {
-    "title": "The Instant team joins OpenAI",
-    "normalized": "the instant team joins openai",
-    "content_hash": "6887e54a34629c4bb7986274549187ab"
-  },
-  {
-    "title": "Show HN: Git workflow as an AI-agent skill",
-    "normalized": "show hn: git workflow as an ai-agent skill",
-    "content_hash": "e5f33b92dd9cdedf7065e607267dd635"
-  },
-  {
-    "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-    "normalized": "anthropic ipo filing will show ai backlash as a risk factor, sources say",
-    "content_hash": "cb2d398184fbd3d860cad8603f24c299"
-  },
-  {
-    "title": "Decoding AI\u2019s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-    "normalized": "decoding ai's open-source course maps three ways to run an agent loop and the provider economics behind each",
-    "content_hash": "8862f0b6384952f9e830253e0b4c152d"
-  },
-  {
-    "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
-    "normalized": "saily ultra esim premum plan review: packed with perks",
-    "content_hash": "bb7ac32f07df63d5d46328c4a92fca3b"
-  },
-  {
-    "title": "Tesla\u2019s Door Handles Lead to Its Biggest Recall Yet",
-    "normalized": "tesla's door handles lead to its biggest recall yet",
-    "content_hash": "657a3c3cd5f9ebf978d91987b0a83d11"
-  },
-  {
-    "title": "Meta\u2019s Big Reckoning Is Here",
-    "normalized": "meta's big reckoning is here",
-    "content_hash": "9e53ac60cc826a4c5a2aee17ed73e392"
-  },
-  {
-    "title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
-    "normalized": "i tried the best robotic pool cleaners of 2026: beatbot, igarden, dreame",
-    "content_hash": "294629b61c9a7f8172ffec7193263c66"
-  },
-  {
-    "title": "The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood",
-    "normalized": "the patrick clancy conspiracy theories are rooted in the harsh realities of motherhood",
-    "content_hash": "6b7507cb21ca5c8cbb79ba5f08041620"
-  },
-  {
     "title": "From assistance to execution: How enterprises put AI to work",
     "normalized": "from assistance to execution: how enterprises put ai to work",
     "content_hash": "54e93b50c91f9d9387610cb2f44af0bb"
@@ -2498,5 +2373,130 @@
     "title": "Indian consulate in UAE issues warning over biometric fraud targeting nationals",
     "normalized": "indian consulate in uae issues warning over biometric fraud targeting nationals",
     "content_hash": "935ac6f72a3b6df3e2ae1938cda9c440"
+  },
+  {
+    "title": "OpenAI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
+    "normalized": "openai's astra model is on the way -- and very good at breaking into computer systems",
+    "content_hash": "bb41f920f0208d1d47787123f80b5077"
+  },
+  {
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "normalized": "chatgpt health adds epic integration for clinicians to import patient data",
+    "content_hash": "e91e14c155d8bad6ac0b2fccb7e7a999"
+  },
+  {
+    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "normalized": "anthropic launches claude fable 5.1 and says it's up to 45 percent cheaper for agentic work",
+    "content_hash": "4e05383c999a4b57db30aa5a07f41a1d"
+  },
+  {
+    "title": "AfterQuery reportedly becomes Y Combinator\u2019s fastest-ever unicorn, now valued at $3.2B",
+    "normalized": "afterquery reportedly becomes y combinator's fastest-ever unicorn, now valued at $3.2b",
+    "content_hash": "bfa2a89c62bfd74179abd71d0461fdd6"
+  },
+  {
+    "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
+    "normalized": "google's answer to canva is an ai tool where you prompt instead of design",
+    "content_hash": "50b1619d7329f270fff11a8e32d7aec5"
+  },
+  {
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "normalized": "sequoia-incubated empirik launches with $21m to predict outages before they happen",
+    "content_hash": "4863ad6f4fa48c8d42bcb8daab8b9bb1"
+  },
+  {
+    "title": "Google needs Hollywood more than the studios need AI",
+    "normalized": "google needs hollywood more than the studios need ai",
+    "content_hash": "8a54ad7b0e07bcedb71d9340d8ca92e9"
+  },
+  {
+    "title": "OpenAI delayed its new model\u2019s development after the Hugging Face hack",
+    "normalized": "openai delayed its new model's development after the hugging face hack",
+    "content_hash": "674cc77807bdad6e7b41513160c638e4"
+  },
+  {
+    "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "normalized": "the rise of ai 'civilizations' and the fall of corporate responsibility",
+    "content_hash": "b571380ab497df998de58869cacc600e"
+  },
+  {
+    "title": "Apple accuses OpenAI of destroying evidence",
+    "normalized": "apple accuses openai of destroying evidence",
+    "content_hash": "81795ca555721d0054fef8a9c23a7167"
+  },
+  {
+    "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
+    "normalized": "anthropic releases claude fable 5.1 and claude mythos 5.1: 52.6% on terminal-bench-science and 75% cheaper cache reads",
+    "content_hash": "1f3eeb52777f90ead86551d74429246f"
+  },
+  {
+    "title": "Reliance\u2019s JioHotstar takes its streaming empire global \u2014 without sports",
+    "normalized": "reliance's jiohotstar takes its streaming empire global -- without sports",
+    "content_hash": "df414ea5967a5f32381550c9d59289a3"
+  },
+  {
+    "title": "Apple follows Google in adopting Trump\u2019s \u2018Lake America\u2019 name",
+    "normalized": "apple follows google in adopting trump's 'lake america' name",
+    "content_hash": "46e951823f0c0fe622687b67cc87a6ac"
+  },
+  {
+    "title": "Google\u2019s Android update tackles motion sickness, accessibility, and more",
+    "normalized": "google's android update tackles motion sickness, accessibility, and more",
+    "content_hash": "699b8bd6dd1a8206761caee7fe575b66"
+  },
+  {
+    "title": "X says attackers are targeting user accounts after the launch of X Money",
+    "normalized": "x says attackers are targeting user accounts after the launch of x money",
+    "content_hash": "2fb2fd4e7087943dde8299a418a33038"
+  },
+  {
+    "title": "Anthropic\u2019s new Fable release is cheaper, less restrictive",
+    "normalized": "anthropic's new fable release is cheaper, less restrictive",
+    "content_hash": "3db88001dfbe76dd5a944b7739ed9bb5"
+  },
+  {
+    "title": "Who is John Ternus, the new Apple CEO?",
+    "normalized": "who is john ternus, the new apple ceo?",
+    "content_hash": "467f03c59d0f56058de5f52aacbbbe94"
+  },
+  {
+    "title": "Waymo goes on offense ahead of Tesla\u2019s Cybercab launch",
+    "normalized": "waymo goes on offense ahead of tesla's cybercab launch",
+    "content_hash": "094996cebca35eee42e7af190ca6e815"
+  },
+  {
+    "title": "GoPro to be acquired for $285M, will remain a public company",
+    "normalized": "gopro to be acquired for $285m, will remain a public company",
+    "content_hash": "000c926aec1c47b74770b9d00136dbd8"
+  },
+  {
+    "title": "OpenAI Is About to Release Its First AI Model With \u2018Critical\u2019 Cyber Abilities",
+    "normalized": "openai is about to release its first ai model with 'critical' cyber abilities",
+    "content_hash": "3cbadfbef64d9e6e403446e8e880b67a"
+  },
+  {
+    "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+    "normalized": "breeze comet executes hundreds of fraudulent transactions via brazilian payment systems",
+    "content_hash": "71093d650a90fb82a555764619d51914"
+  },
+  {
+    "title": "Apple Maps follows Google in renaming Lake Ontario",
+    "normalized": "apple maps follows google in renaming lake ontario",
+    "content_hash": "1d81fb169d4d961bf5afc7e35f50ecce"
+  },
+  {
+    "title": "Tim Cook did alright by the environment \u2014 but AI could upend his climate legacy",
+    "normalized": "tim cook did alright by the environment -- but ai could upend his climate legacy",
+    "content_hash": "ad0c23673b14043044cb788f4e723b2b"
+  },
+  {
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "normalized": "how law firm gilbert + tobin governs and scales ai with openai",
+    "content_hash": "08a924a9a800321ab75ce0d51066c9dc"
+  },
+  {
+    "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+    "normalized": "from theory to delivery: how atos upskilled 400 engineers in agentic ai",
+    "content_hash": "6e1d037a5bdd2625c683e1b285f987fd"
   }
 ]
