@@ -1,130 +1,5 @@
 [
   {
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "normalized": "from assistance to execution: how enterprises put ai to work",
-    "content_hash": "54e93b50c91f9d9387610cb2f44af0bb"
-  },
-  {
-    "title": "Two years after launch, Walmart\u2019s Flipkart is closing in on India\u2019s quick-commerce leaders",
-    "normalized": "two years after launch, walmart's flipkart is closing in on india's quick-commerce leaders",
-    "content_hash": "1d1a9c885941e39c3af3668e43bdbd8b"
-  },
-  {
-    "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
-    "normalized": "evidence over anecdotes: running a/b tests on ai agent tooling",
-    "content_hash": "d777a44e3cf6bf295414b58a6dedda0b"
-  },
-  {
-    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-    "normalized": "anthropic's best ai model struggles to attract users as cheaper tools thrive",
-    "content_hash": "b39f1c9d0ce9a1226c648e74dd63da47"
-  },
-  {
-    "title": "Topagent.lol \u2013 an AI agent leaderboard ranked purely by who paid most",
-    "normalized": "topagent.lol - an ai agent leaderboard ranked purely by who paid most",
-    "content_hash": "9260176ddf359f8c26aabcdfe46938d3"
-  },
-  {
-    "title": "Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents",
-    "normalized": "credit without ground truth: auditing step-level credit assignment in llm agents",
-    "content_hash": "c0771ad5e670c5ce9f65b1641b97047c"
-  },
-  {
-    "title": "India capable of becoming global shipbuilding hub: Rajnath Singh in Kolkata",
-    "normalized": "india capable of becoming global shipbuilding hub: rajnath singh in kolkata",
-    "content_hash": "c2123d7a78e9ef90b4b641643956919a"
-  },
-  {
-    "title": "\u2018Impressed by their energy &amp; ambition\u2019: PM Modi meets India\u2019s space startups on National Space Day",
-    "normalized": "'impressed by their energy & ambition': pm modi meets india's space startups on national space day",
-    "content_hash": "b19868db75705c22c4d18014abb7e0a1"
-  },
-  {
-    "title": "7 Basic iPhone Tricks I Built With iOS 27\u2019s Revamped Shortcuts App",
-    "normalized": "7 basic iphone tricks i built with ios 27's revamped shortcuts app",
-    "content_hash": "8d7a970f3950f14231fb9ff37991e966"
-  },
-  {
-    "title": "Is Expensive Bottled Water Actually Better for You?",
-    "normalized": "is expensive bottled water actually better for you?",
-    "content_hash": "1c97cb7c96d0c447033b47072e7db9a5"
-  },
-  {
-    "title": "Best Early Tech Labor Day Sales I\u2019d Shop Myself (2026): AirTags, Dyson, and More",
-    "normalized": "best early tech labor day sales i'd shop myself (2026): airtags, dyson, and more",
-    "content_hash": "53452f374f7d7583a342ae9613d68ca9"
-  },
-  {
-    "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-    "normalized": "tiktok agrees to $400 million settlement in u.s. child privacy lawsuit",
-    "content_hash": "76df5c966ba529d53a82808931df0a59"
-  },
-  {
-    "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-    "normalized": "microsoft defender's own driver can be weaponized to delete security software at boot",
-    "content_hash": "60735b1916d8dd3bc635237138743b2e"
-  },
-  {
-    "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-    "normalized": "android car malware spreads through built-in updaters for ad fraud, proxy botnet",
-    "content_hash": "c19180bdc075384fba5ea265d2a96041"
-  },
-  {
-    "title": "Wazuh and AI For Enhanced SOC Workflows",
-    "normalized": "wazuh and ai for enhanced soc workflows",
-    "content_hash": "9f83269213b597358762d9759f342ed0"
-  },
-  {
-    "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-    "normalized": "gitlab cve-2026-19478 comes under active exploitation within days of disclosure",
-    "content_hash": "53bb5171807cf6bf86cf0f4ea3ffb0be"
-  },
-  {
-    "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-    "normalized": "microsoft patches severe entra id flaw (cvss 10.0) allowing remote code execution",
-    "content_hash": "6ad7734b4298a013c0672a670a964e90"
-  },
-  {
-    "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-    "normalized": "rust supply chain attack puts build-time malware in crates with 245 million downloads",
-    "content_hash": "a46ee221570b84f34fb8041c52e5d37a"
-  },
-  {
-    "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-    "normalized": "suspected russian hackers abuse google oauth and whatsapp linking to hijack accounts",
-    "content_hash": "9c401298ef2afad95ac9d0d7c371a477"
-  },
-  {
-    "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
-    "normalized": "threatsday: gogs 10.0 rce, n8n workflow-to-rce, $10m reward, glm-5.3 ai exploit, and more",
-    "content_hash": "e483ffc0fea9677a81ca3d8e3c5069d3"
-  },
-  {
-    "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-    "normalized": "ai-generated exploit scripts target siemens s7 plcs in u.s. critical infrastructure",
-    "content_hash": "5c91337267ba5c0d6a1bcdf6389e0a95"
-  },
-  {
-    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-    "normalized": "new cryptographic context injection attack could let web pages steal grok chat data",
-    "content_hash": "aaa727f39b1a98a05b88b900745e294e"
-  },
-  {
-    "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-    "normalized": "critical netscaler flaw can bypass authentication on certain gateway and aaa servers",
-    "content_hash": "47c300dd150a88c718fcc9e828aa457f"
-  },
-  {
-    "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-    "normalized": "cdn tsunami attack abuses http/3 translation for up to 350x dos amplification",
-    "content_hash": "b2930a8a02a6d97ad70e4abae3c0d9df"
-  },
-  {
-    "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
-    "normalized": "manic android malware exfiltrates data from offline phones via nearby infected devices",
-    "content_hash": "c25572808c516a1f9daa650dc6334a60"
-  },
-  {
     "title": "Prism Reviewer \u2013 Multi-agent AI code reviewer built with LangGraph and LiteLLM",
     "normalized": "prism reviewer - multi-agent ai code reviewer built with langgraph and litellm",
     "content_hash": "ec2623c304739f54eef97a4bf6d73732"
@@ -2498,5 +2373,130 @@
     "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
     "normalized": "from theory to delivery: how atos upskilled 400 engineers in agentic ai",
     "content_hash": "6e1d037a5bdd2625c683e1b285f987fd"
+  },
+  {
+    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "normalized": "adobe acquires indian market intelligence startup rilo",
+    "content_hash": "6d090bc13574b5ba578d5058ca8a699d"
+  },
+  {
+    "title": "Acer Introduces Compact SFF RTX Spark Desktop for Local Agentic AI",
+    "normalized": "acer introduces compact sff rtx spark desktop for local agentic ai",
+    "content_hash": "97eb401a15f9fb41f2141fac3a408d4c"
+  },
+  {
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "normalized": "hiddenlayer nabs $100m as enterprises rush to secure their ai deployments",
+    "content_hash": "eeb7e8876eb9a99e89da4d62f187221e"
+  },
+  {
+    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "normalized": "openai faces 30 more lawsuits tied to tumbler ridge shooting",
+    "content_hash": "ab3319a45adfcea8bd568b565fc8bea8"
+  },
+  {
+    "title": "OpenAI accused of \u2018aiding and abetting\u2019 Tumbler Ridge mass shooting in dozens of new lawsuits",
+    "normalized": "openai accused of 'aiding and abetting' tumbler ridge mass shooting in dozens of new lawsuits",
+    "content_hash": "44d84294aa5226adbee1b70c55ba65cd"
+  },
+  {
+    "title": "Tado\u2019s new thermostat is designed as a Nest killer",
+    "normalized": "tado's new thermostat is designed as a nest killer",
+    "content_hash": "8710c268c5227d0383ff703c9274fcc2"
+  },
+  {
+    "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+    "normalized": "six curl cves after openai and anthropic came back with zero",
+    "content_hash": "57c64a37b8681adf86e311be183e8741"
+  },
+  {
+    "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+    "normalized": "long-horizon state tracking in llms: executing md5 through a deep sequence of dependent tool calls",
+    "content_hash": "eb6681908a00604214bbe7cf9c70c35a"
+  },
+  {
+    "title": "HiddenLayer Raises $100M Series B to Expand AI Agent Security Platform",
+    "normalized": "hiddenlayer raises $100m series b to expand ai agent security platform",
+    "content_hash": "e9ac8f3687df9f7221bc716a7a9e1eab"
+  },
+  {
+    "title": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
+    "normalized": "psa: amazon's shopping ai can now tell you if that message is a scam",
+    "content_hash": "ee47d5dd2b25fbf352e02dcbd19b496c"
+  },
+  {
+    "title": "Adobe is making its tools available in Slack",
+    "normalized": "adobe is making its tools available in slack",
+    "content_hash": "0841178b8316c7155d7aeb1e42eeec99"
+  },
+  {
+    "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+    "normalized": "malicious .git configs can make claude, codex, cursor, and other ai agents run attacker code",
+    "content_hash": "866a0f604999c7290cf8993293fce16f"
+  },
+  {
+    "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+    "normalized": "researchers use claude to port pre-auth rce exploit from one plc model to another",
+    "content_hash": "dda8fec29dfaa591fe9bd844c0b852ca"
+  },
+  {
+    "title": "Acer shows off its AI desktop future with the RTX Spark design",
+    "normalized": "acer shows off its ai desktop future with the rtx spark design",
+    "content_hash": "db6bfa6650c2f6b50814495dad156d84"
+  },
+  {
+    "title": "Belkin\u2019s kid-friendly wireless headphones are 25 percent off",
+    "normalized": "belkin's kid-friendly wireless headphones are 25 percent off",
+    "content_hash": "971aa3ad742d467b69f0fa9b5f97c38c"
+  },
+  {
+    "title": "NYC bans AI use for students until they reach high school",
+    "normalized": "nyc bans ai use for students until they reach high school",
+    "content_hash": "e27312e7299b4c494d05ee5163327826"
+  },
+  {
+    "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+    "normalized": "openagentflow: enabling system-wide safety boundaries for heterogeneous ai agent fleets",
+    "content_hash": "be794ff8cf37c80ca8dcdd7a569b8285"
+  },
+  {
+    "title": "ReDeck: Step-Level Render-Grounded Refinement for Document-to-Slide Generation",
+    "normalized": "redeck: step-level render-grounded refinement for document-to-slide generation",
+    "content_hash": "dc4f1b0f8772f905ff32ae132bc1e6cf"
+  },
+  {
+    "title": "Learning What to Retain: Gated-Memory Routing for Efficient Collaboration in Multi-Agent LLM Systems",
+    "normalized": "learning what to retain: gated-memory routing for efficient collaboration in multi-agent llm systems",
+    "content_hash": "863b02b3b250a23b444ba6feb4b1f83d"
+  },
+  {
+    "title": "Invalidation Contracts for Cross-Episode Agent Memory",
+    "normalized": "invalidation contracts for cross-episode agent memory",
+    "content_hash": "dfdca2a6143591dccfa95c3413d957bb"
+  },
+  {
+    "title": "Good Memory Has ECC: Evaluating the Memory of Vision-Language Models Beyond Accuracy",
+    "normalized": "good memory has ecc: evaluating the memory of vision-language models beyond accuracy",
+    "content_hash": "8c0e37bfcfdcd0bc085c0a746c7c2893"
+  },
+  {
+    "title": "QTEA: Ternary LLMs with Sparse Residual Salient Weight and By-Column Optimization",
+    "normalized": "qtea: ternary llms with sparse residual salient weight and by-column optimization",
+    "content_hash": "4308d42f519df1372a034bc828a76a5e"
+  },
+  {
+    "title": "Catch Emerges From Stealth With $5M Seed to Build an Autonomous AI Executive Assistant",
+    "normalized": "catch emerges from stealth with $5m seed to build an autonomous ai executive assistant",
+    "content_hash": "5469958773075893b74350db1a45e27a"
+  },
+  {
+    "title": "OpenAI Connects Epic Health Records and Public Data to ChatGPT",
+    "normalized": "openai connects epic health records and public data to chatgpt",
+    "content_hash": "3f49e92827c78dcab5ffcefe25bee00d"
+  },
+  {
+    "title": "Norway considers ban on camera-enabled wearable \u2018pervert glasses\u2019",
+    "normalized": "norway considers ban on camera-enabled wearable 'pervert glasses'",
+    "content_hash": "69e90943fd3798847c5a67ca2f1f408f"
   }
 ]
