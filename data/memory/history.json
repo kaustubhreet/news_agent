@@ -1,130 +1,5 @@
 [
   {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "normalized": "claude code costs up to $200 a month. goose does the same thing for free.",
-    "content_hash": "65248b0266dc1f08a04a2e243e5e13e8"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "normalized": "salesforce rolls out new slackbot ai agent as it battles microsoft and google in workplace ai",
-    "content_hash": "37f7465d43119228a5340488494c5cd0"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
-    "normalized": "anthropic launches cowork, a claude desktop agent that works in your files -- no coding required",
-    "content_hash": "9b4ec2bb172ef63f1cfc32c6f3255ae3"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "normalized": "listen labs raises $69m after viral billboard hiring stunt to scale ai customer interviews",
-    "content_hash": "b38a14630ce16f4da4c5b72d4109ed41"
-  },
-  {
-    "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-    "normalized": "primeagentorchestrator: memory-primed agent spawning for personal ai infrastructure",
-    "content_hash": "d44aed1709376a517bc3b732e7380373"
-  },
-  {
-    "title": "Evaluating Skills, Not Just Agents: Agentic Continuous Evaluation of Skills",
-    "normalized": "evaluating skills, not just agents: agentic continuous evaluation of skills",
-    "content_hash": "933f922cd55fc67a27ad38233c4ded9f"
-  },
-  {
-    "title": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
-    "normalized": "taiwan reportedly indicted nvidia employees for exporting prohibited ai servers to china",
-    "content_hash": "4813293019fb1685ce35efc0d5ea8c50"
-  },
-  {
-    "title": "De-Googled GrapheneOS is coming to Motorola\u2019s foldables next year",
-    "normalized": "de-googled grapheneos is coming to motorola's foldables next year",
-    "content_hash": "63f3e27e3c15f9e7871b392205b68a16"
-  },
-  {
-    "title": "The builder\u2019s guide to GPT\u20115.6",
-    "normalized": "the builder's guide to gpt\u20115.6",
-    "content_hash": "01563cd4d80bd92a14d33a5e4cd6ca95"
-  },
-  {
-    "title": "Terminal Agents: A Survey of AI Agents in Command-Line Environments",
-    "normalized": "terminal agents: a survey of ai agents in command-line environments",
-    "content_hash": "30574a6b11136083ce4fc8b0a4ce95b3"
-  },
-  {
-    "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
-    "normalized": "volumetric radiology ai in the era of multimodal large language models",
-    "content_hash": "fbda7c0496f158a679819590336a0255"
-  },
-  {
-    "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-    "normalized": "operation quicsilver targets myanmar government and it with quicagent backdoor",
-    "content_hash": "7ceed91cba1dc46eac8e7ebd063a3117"
-  },
-  {
-    "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
-    "normalized": "the outsized shadow: why 5% of ai users are your biggest security risk",
-    "content_hash": "36441c745aa731ea9166a239cfdb63b0"
-  },
-  {
-    "title": "Antigravity Remote Control",
-    "normalized": "antigravity remote control",
-    "content_hash": "ef4262973d71f1d84ba4c481c31ec3e4"
-  },
-  {
-    "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
-    "normalized": "humanoid robots smash usain bolt's 100-meter record",
-    "content_hash": "ab3126f9f6f8c08562a2a7b53412e1b2"
-  },
-  {
-    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-    "normalized": "sdad: spec-driven agentic development for the ai-native sdlc",
-    "content_hash": "dcb5d0ee618b67d6fa358b7f928de917"
-  },
-  {
-    "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
-    "normalized": "a survey on foundations and frontiers of multimodal agentic frameworks: techniques and applications",
-    "content_hash": "68b6fa8df7e2f1512de9e9566d1c7763"
-  },
-  {
-    "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
-    "normalized": "representation affects retrieval: a case study of skill discovery and routing in a multimodal agent harness",
-    "content_hash": "cef40b998e41f822d81811a31480860c"
-  },
-  {
-    "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
-    "normalized": "nexus: depth-adaptive kv-cache splicing and retrieval-decoupled tool routing for agentic llms on unified memory",
-    "content_hash": "c5f79c15fd97ff5af863faa86fd16765"
-  },
-  {
-    "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
-    "normalized": "statesight: benchmarking latent spatial-state reconstruction in vision-language models",
-    "content_hash": "38a5fd7b0b9da017ff85f8355dd7289c"
-  },
-  {
-    "title": "FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning",
-    "normalized": "fl-maestro: multi-agent llm orchestration for resource-constrained federated learning",
-    "content_hash": "883cdba919286a323b229a8d5ee0847f"
-  },
-  {
-    "title": "Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning",
-    "normalized": "consilience: conformally calibrated communication control for hidden-profile multi-agent reasoning",
-    "content_hash": "e23925e30acd6a0bc5fab77f727ed0ee"
-  },
-  {
-    "title": "Dual-Cache Latent Space Communication between Heterogeneous Language Models",
-    "normalized": "dual-cache latent space communication between heterogeneous language models",
-    "content_hash": "3142c6037e7c1d8802af8397549b17c8"
-  },
-  {
-    "title": "BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers",
-    "normalized": "bf1: a causal dyadic sparse-attention retrofit for efficient long-context transformers",
-    "content_hash": "aeb9d48d7d4fc0c9f2a434555aa3f1cb"
-  },
-  {
-    "title": "Metag: A dataset to build agentic meta-reviewing capabilities",
-    "normalized": "metag: a dataset to build agentic meta-reviewing capabilities",
-    "content_hash": "11b9bc0a4719d833d2cf8908107a6a4c"
-  },
-  {
     "title": "OpenAI is building AI agents for everything. Will everyone use them?",
     "normalized": "openai is building ai agents for everything. will everyone use them?",
     "content_hash": "5dbee4f2621af75333ab5ed1eb8496a9"
@@ -2498,5 +2373,130 @@
     "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
     "normalized": "the logical end point of ai job interviews is two bots talking to each other",
     "content_hash": "72bbec1989baa8491f2da169bb6d90d3"
+  },
+  {
+    "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+    "normalized": "nvidia's hugging face acquisition is a $12.9 billion bet on open-source ai",
+    "content_hash": "08ee4d329c88a84a234036a1d659ef1d"
+  },
+  {
+    "title": "Nvidia is buying Hugging Face for almost $13 billion",
+    "normalized": "nvidia is buying hugging face for almost $13 billion",
+    "content_hash": "b571130e67ab9745b3bf3be6734bff10"
+  },
+  {
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "normalized": "nvidia confirms it will buy hugging face for $12.9 billion",
+    "content_hash": "48c3164f2f79cbbbcb47ea88981f059d"
+  },
+  {
+    "title": "Nvidia RTX Spark \u2018Superchip\u2019: The First AI PCs Are Here",
+    "normalized": "nvidia rtx spark 'superchip': the first ai pcs are here",
+    "content_hash": "fad808cf69e99e1022b6cb6874b4c314"
+  },
+  {
+    "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
+    "normalized": "google's latest ai weather model gives you no excuse to forget your umbrella",
+    "content_hash": "942d16352fa631aabd32d72e966a945d"
+  },
+  {
+    "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+    "normalized": "microsoft discloses azure revenue as part of major financial reporting changes",
+    "content_hash": "fb53b75e6620ddfbb10932b39e625723"
+  },
+  {
+    "title": "Here\u2019s the first 4K 120Hz UST projector with optical lens shift",
+    "normalized": "here's the first 4k 120hz ust projector with optical lens shift",
+    "content_hash": "7680e9f7185caa78f8fe73ba379186b2"
+  },
+  {
+    "title": "Belkin\u2019s first trackers come ready to attach to your gear.",
+    "normalized": "belkin's first trackers come ready to attach to your gear.",
+    "content_hash": "071fcc813154a3934f6b4d2efbb7e8c5"
+  },
+  {
+    "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+    "normalized": "belkin introduces its first longer-lasting semi-solid-state power banks",
+    "content_hash": "775795b08c3466b228dff01ab8fb2261"
+  },
+  {
+    "title": "Anker\u2019s Soundcore is bringing its incredible call quality to more headphones",
+    "normalized": "anker's soundcore is bringing its incredible call quality to more headphones",
+    "content_hash": "64f500addac0a4b50a1aaa09e5df82c4"
+  },
+  {
+    "title": "When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor",
+    "normalized": "when agents implement systems: a case study in defects, detection, and evaluation rigor",
+    "content_hash": "e149910fbefa2b9b7b6b1c4cc2ffca6f"
+  },
+  {
+    "title": "NVIDIA Signs Definitive Agreement to Acquire Hugging Face for $12.9B",
+    "normalized": "nvidia signs definitive agreement to acquire hugging face for $12.9b",
+    "content_hash": "402141c6cfae8519bf74997f33e31f45"
+  },
+  {
+    "title": "Amazon\u2019s Zoox expands its robotaxi service to Las Vegas airport",
+    "normalized": "amazon's zoox expands its robotaxi service to las vegas airport",
+    "content_hash": "b1be0c823aab9bc02bf398e8460763bd"
+  },
+  {
+    "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+    "normalized": "fake software installers disable windows update and weaken microsoft defender",
+    "content_hash": "fb503194b7a671ccdd019936bfaeef4e"
+  },
+  {
+    "title": "NVIDIA is buying Hugging Face for $12.93 billion",
+    "normalized": "nvidia is buying hugging face for $12.93 billion",
+    "content_hash": "43027ba66e5da525abc408a665f87e53"
+  },
+  {
+    "title": "DJI\u2019s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy",
+    "normalized": "dji's new robovac can climb obstacles, vacuum quietly, and claims much improved privacy",
+    "content_hash": "2e1ed67fce6c2fd4c26f10868b4b9269"
+  },
+  {
+    "title": "Nvidia to Acquire Hugging Face",
+    "normalized": "nvidia to acquire hugging face",
+    "content_hash": "079b08dfd8edfd8b766d7953a45d3911"
+  },
+  {
+    "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
+    "normalized": "accessing openai models on amazon bedrock from australia with global cross-region inference",
+    "content_hash": "7d7cce0df5245817025c7e6a92295005"
+  },
+  {
+    "title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
+    "normalized": "trinity: agentic ai-powered transition planning for students with disabilities",
+    "content_hash": "805456f5f00f5fee30edd6bb3bbcfa22"
+  },
+  {
+    "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+    "normalized": "belief-calibrated optimization: an explicit world model for agentic optimization",
+    "content_hash": "d39ba95cc423c2d36a45ff50dec59a93"
+  },
+  {
+    "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+    "normalized": "epistemic sybil resistance: multiplying ai agents without multiplying evidence",
+    "content_hash": "2022a0013c26ecfc73c28258b1e6ad06"
+  },
+  {
+    "title": "Benchmarking Language Models for Statistical Problem Formulation",
+    "normalized": "benchmarking language models for statistical problem formulation",
+    "content_hash": "f103dbac44f6aae591dc14091fa048b8"
+  },
+  {
+    "title": "ToolGate: An Executable Acceptance Pipeline for Tool-Dependent Scientific Benchmark Construction",
+    "normalized": "toolgate: an executable acceptance pipeline for tool-dependent scientific benchmark construction",
+    "content_hash": "a347c38f12cbd86add6d00c7ff633181"
+  },
+  {
+    "title": "Beyond Outcome Gaps: Process-Aware Fairness Diagnosis for LLM-based Multi-Agent Decision Systems",
+    "normalized": "beyond outcome gaps: process-aware fairness diagnosis for llm-based multi-agent decision systems",
+    "content_hash": "09fa003c980c4c5362da4166b410f262"
+  },
+  {
+    "title": "MASkills: Continual Skills Optimization for Multi-Agent LLM Systems",
+    "normalized": "maskills: continual skills optimization for multi-agent llm systems",
+    "content_hash": "d30af16476b3a6882d2c1a908f407ba1"
   }
 ]
