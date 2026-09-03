@@ -1,130 +1,5 @@
 [
   {
-    "title": "Prism Reviewer \u2013 Multi-agent AI code reviewer built with LangGraph and LiteLLM",
-    "normalized": "prism reviewer - multi-agent ai code reviewer built with langgraph and litellm",
-    "content_hash": "ec2623c304739f54eef97a4bf6d73732"
-  },
-  {
-    "title": "Who\u2019s behind the new \u2018stealth model\u2019 Ox Alpha?",
-    "normalized": "who's behind the new 'stealth model' ox alpha?",
-    "content_hash": "46ad4732e8b27b053dd80da7917219fa"
-  },
-  {
-    "title": "TechCrunch Mobility: The custom chip driving Waymo\u2019s robotaxi ambitions",
-    "normalized": "techcrunch mobility: the custom chip driving waymo's robotaxi ambitions",
-    "content_hash": "0efbbe3ff5f2e01f004a5997b04af71f"
-  },
-  {
-    "title": "Is it legal to train AI models on copyrighted books? It\u2019s complicated",
-    "normalized": "is it legal to train ai models on copyrighted books? it's complicated",
-    "content_hash": "c65d1975041c5d2e639cfedff40bbf93"
-  },
-  {
-    "title": "GTA VI: all the news on Rockstar\u2019s next entry in the Grand Theft Auto series",
-    "normalized": "gta vi: all the news on rockstar's next entry in the grand theft auto series",
-    "content_hash": "05464441467a96e0027ce9ac9890c645"
-  },
-  {
-    "title": "We\u2019re All Going to the World\u2019s Fair is an intimate coming-of-age horror film",
-    "normalized": "we're all going to the world's fair is an intimate coming-of-age horror film",
-    "content_hash": "fd1ca51fb040aa739f99a6a6950e3136"
-  },
-  {
-    "title": "AI Chip Architectures",
-    "normalized": "ai chip architectures",
-    "content_hash": "16eecc22ee2be6b9f9353082e9a882b9"
-  },
-  {
-    "title": "Google Workspace thinks my domain is an email provider (2025)",
-    "normalized": "google workspace thinks my domain is an email provider (2025)",
-    "content_hash": "01675a570431d395ed785b9a2f16dde1"
-  },
-  {
-    "title": "My agent.md to improve LLM-assisted code quality",
-    "normalized": "my agent.md to improve llm-assisted code quality",
-    "content_hash": "0399aa655a163273d8a63d44ea5d1611"
-  },
-  {
-    "title": "AI and Infrastructure Engineering",
-    "normalized": "ai and infrastructure engineering",
-    "content_hash": "90020cbc72789d90f08103d451c53f5a"
-  },
-  {
-    "title": "NanoGPT Speedrun Frontier",
-    "normalized": "nanogpt speedrun frontier",
-    "content_hash": "c3651cd2769b38df29fce214a5d379f8"
-  },
-  {
-    "title": "I Shouldn't Need an LLM to Explain My LLM",
-    "normalized": "i shouldn't need an llm to explain my llm",
-    "content_hash": "65c26b4797a17bffcf5c34f336fba503"
-  },
-  {
-    "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
-    "normalized": "openai leader warns of threat of 'persistent' ai cyber-attacks",
-    "content_hash": "6344a0b048d232babcb9a1dfaa8886ae"
-  },
-  {
-    "title": "Running a 10-tier SQLite agent mesh on Termux without thermal throttling",
-    "normalized": "running a 10-tier sqlite agent mesh on termux without thermal throttling",
-    "content_hash": "97f95daed7851cbd4bac329380c3c56a"
-  },
-  {
-    "title": "Daimon \u2013 Local Privacy LLM",
-    "normalized": "daimon - local privacy llm",
-    "content_hash": "b2091885671465f51d221d5845b15a79"
-  },
-  {
-    "title": "The Web-Search Latency Your Agent Pays",
-    "normalized": "the web-search latency your agent pays",
-    "content_hash": "18efef9d981d6bb41a7d683c97d54b08"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "normalized": "how ringcentral builds ai-native work from engineering to ops",
-    "content_hash": "cb2f4ebdb302ba03f86ddfc2968ddbb9"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "normalized": "testing ads in chatgpt",
-    "content_hash": "949a1fcab65b45a3475f032739c5187a"
-  },
-  {
-    "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-    "normalized": "uber faces fine of nearly $1b over automated driver suspensions",
-    "content_hash": "2646dca7906c582b72ccfc7266184325"
-  },
-  {
-    "title": "Flock CEO calls for \u2018compromise\u2019 as surveillance company faces growing backlash",
-    "normalized": "flock ceo calls for 'compromise' as surveillance company faces growing backlash",
-    "content_hash": "ea6c549a70453b189dbd4452077673d3"
-  },
-  {
-    "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-    "normalized": "nasa ait-gui flaws could let unauthenticated attackers issue spacecraft commands",
-    "content_hash": "bfc575a10380af6fbd2a1a391d97a4f6"
-  },
-  {
-    "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-    "normalized": "toxicpanda 2.0 and golddigger expand android banking attacks with on-device fraud",
-    "content_hash": "baac59f8bf34a17c3a3a23abd392f42b"
-  },
-  {
-    "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-    "normalized": "40 malicious firefox extensions pose as web3 products to steal wallet secrets",
-    "content_hash": "86a4f5d706f7c9add001c42286b09bcb"
-  },
-  {
-    "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-    "normalized": "elementor pro flaw could let unauthenticated attackers upload php and execute code",
-    "content_hash": "ff5d45785c1db539ffdab2a20e52ce29"
-  },
-  {
-    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-    "normalized": "cloudflare workers spectre attack leaks jwt from co-located worker at 12 bits/second",
-    "content_hash": "9fa1993bb70ba0b23a8fd40a41fc6181"
-  },
-  {
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
     "normalized": "claude code costs up to $200 a month. goose does the same thing for free.",
     "content_hash": "65248b0266dc1f08a04a2e243e5e13e8"
@@ -2498,5 +2373,130 @@
     "title": "Norway considers ban on camera-enabled wearable \u2018pervert glasses\u2019",
     "normalized": "norway considers ban on camera-enabled wearable 'pervert glasses'",
     "content_hash": "69e90943fd3798847c5a67ca2f1f408f"
+  },
+  {
+    "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
+    "normalized": "meet switchyard: a rust proxy and library that routes and translates llm traffic across openai and anthropic apis",
+    "content_hash": "d26a67d3ced83dbf20b4eac2764ad481"
+  },
+  {
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "normalized": "palo alto networks paid $500m for thrive-backed console, sources say",
+    "content_hash": "de9467f17fa8a6106cd10cabe44e1c49"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "normalized": "techcrunch disrupt 2026's new real world ai stage features nvidia, robots, and extinct animals",
+    "content_hash": "7720e6a4258f9045e9abf6fd8f96a781"
+  },
+  {
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "normalized": "us government sides with openai on issue of training llms on copyrighted material",
+    "content_hash": "a8d106d168ec2f04593380cf3a169c15"
+  },
+  {
+    "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+    "normalized": "google, anthropic, and openai unveil cyber ai models, safeguards, and access programs",
+    "content_hash": "0a3f4503705b12b6def337399c2a9fc9"
+  },
+  {
+    "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+    "normalized": "researchers fear safety disaster ahead of openai's astra release",
+    "content_hash": "0cd7cf13e5f8c0c66166219021b95072"
+  },
+  {
+    "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+    "normalized": "co-designing ai models using speculative decoding for faster llm inference",
+    "content_hash": "46ce4b390bf0404fea055c64080100f7"
+  },
+  {
+    "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+    "normalized": "google spared from ad-business breakup, but judge orders changes to how it operates",
+    "content_hash": "09ddfdf8cfaa78e26d75d4d9232e97e9"
+  },
+  {
+    "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+    "normalized": "openai's new reasoning technique alarms ai safety experts",
+    "content_hash": "4d60d269267dcd959e284777a1ac5032"
+  },
+  {
+    "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
+    "normalized": "pangram's max spero on why ai detection is harder than 'real or fake'",
+    "content_hash": "53444964f2bb1f5ea34e97ec5216ec9c"
+  },
+  {
+    "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+    "normalized": "enhanced geothermal notches another win as google buys 400 mw from fervo",
+    "content_hash": "414bb2b28f12d3ee9d2505f8eb7dbebf"
+  },
+  {
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "normalized": "wonderful more than doubles its valuation to $5b in under 6 months",
+    "content_hash": "cad9da612670961a55ecd48591caa178"
+  },
+  {
+    "title": "India\u2019s richest man now wants to turn aging computers into AI-ready PCs",
+    "normalized": "india's richest man now wants to turn aging computers into ai-ready pcs",
+    "content_hash": "e7681fd700820ffd9456975ba47901fd"
+  },
+  {
+    "title": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
+    "normalized": "google says its new gemini 3.8 flash model 'works harder' but might cost more",
+    "content_hash": "0962ec07412da40a61567f0587ce99cd"
+  },
+  {
+    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+    "normalized": "the trump administration is supporting openai in the nyt copyright lawsuit",
+    "content_hash": "eca872398dd60041685917fcb027d206"
+  },
+  {
+    "title": "Google is sending MrBeast into the wilderness, armed with AI",
+    "normalized": "google is sending mrbeast into the wilderness, armed with ai",
+    "content_hash": "9e63c642c61599487366493c804accb6"
+  },
+  {
+    "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
+    "normalized": "us gov sides with openai on issue of training llms on copyrighted material",
+    "content_hash": "7c8a4e8a05a3e9295abeb7cfd84302b2"
+  },
+  {
+    "title": "OpenAI Tells House Democrats It Is Building Automated Shutdown Capability",
+    "normalized": "openai tells house democrats it is building automated shutdown capability",
+    "content_hash": "09c40a9af0e2258b452092a7c24f9c33"
+  },
+  {
+    "title": "iPronics Raises $125M Series B to Scale Optical Networking for AI Data Centers",
+    "normalized": "ipronics raises $125m series b to scale optical networking for ai data centers",
+    "content_hash": "cafb44eaffa84406008796dcbac22ef2"
+  },
+  {
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "normalized": "the builders stage brings practical strategies for scaling startups to techcrunch disrupt 2026",
+    "content_hash": "2079705687bb9ddceba5152d8050ec50"
+  },
+  {
+    "title": "It sure looks like hackers breached a major ID card verification service",
+    "normalized": "it sure looks like hackers breached a major id card verification service",
+    "content_hash": "a86a254882bff9207f11f9070c8c7089"
+  },
+  {
+    "title": "Meta Pushes Its New AI Agent on Employees\u2014but Eases Off on Tokenmaxxing",
+    "normalized": "meta pushes its new ai agent on employees--but eases off on tokenmaxxing",
+    "content_hash": "4ff9e27d4cd4dba1971ba87bc76ffd6b"
+  },
+  {
+    "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "normalized": "trump administration sides with openai in new york times copyright lawsuit",
+    "content_hash": "50ba43def63649db730fb48949290e86"
+  },
+  {
+    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+    "normalized": "these russian mathematicians taught ai models how to talk to each other without using words",
+    "content_hash": "c374aa645e3b7a21c2844a07bf4b9a63"
+  },
+  {
+    "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+    "normalized": "the logical end point of ai job interviews is two bots talking to each other",
+    "content_hash": "72bbec1989baa8491f2da169bb6d90d3"
   }
 ]
