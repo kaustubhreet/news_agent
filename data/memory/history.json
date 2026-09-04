@@ -1,130 +1,5 @@
 [
   {
-    "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
-    "normalized": "'the world seems to be ready': an interview with openai head of product thibault sottiaux",
-    "content_hash": "41d67640f978e44422ea29362b9cbeab"
-  },
-  {
-    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-    "normalized": "openai subpoenaed by alabama ag over hugging face hack",
-    "content_hash": "161249dca6a7273a6e747a1c329e8b03"
-  },
-  {
-    "title": "Nemotron 3.5 Lightning-Omni: I gave NVIDIA's agent model eyes and ears",
-    "normalized": "nemotron 3.5 lightning-omni: i gave nvidia's agent model eyes and ears",
-    "content_hash": "f45d6acc6ae4397d3731d6d56d775fd8"
-  },
-  {
-    "title": "India\u2019s Airbound bags $37M to take on trucks with rocket-like drones",
-    "normalized": "india's airbound bags $37m to take on trucks with rocket-like drones",
-    "content_hash": "893854001c6e953a9273b0948de581ad"
-  },
-  {
-    "title": "We built a structured entity graph for an AI agent. Then we removed most of it",
-    "normalized": "we built a structured entity graph for an ai agent. then we removed most of it",
-    "content_hash": "6c48a9cef79596d7aabdb765cb51a811"
-  },
-  {
-    "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
-    "normalized": "xiaomi, ai cube prototype: multi-chip local llm powerhouse",
-    "content_hash": "7a4f18ad8f4659bdf44f49966be4fcf3"
-  },
-  {
-    "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-    "normalized": "spirit airlines wants to sell its data to google. former flight attendants are freaked out",
-    "content_hash": "8b7d1c7792925169428dd9c959ddc39b"
-  },
-  {
-    "title": "Android is getting its own weird dots to cure car sickness",
-    "normalized": "android is getting its own weird dots to cure car sickness",
-    "content_hash": "a7e34b3ae0388d540a007302ec336acb"
-  },
-  {
-    "title": "Run manual QA test cases in a real browser with an AI agent",
-    "normalized": "run manual qa test cases in a real browser with an ai agent",
-    "content_hash": "e5749731fabc730ad7c160021cfc3ae5"
-  },
-  {
-    "title": "Show HN: Unlose \u2013 Windows VSS snapshots before your AI agent deletes your files",
-    "normalized": "show hn: unlose - windows vss snapshots before your ai agent deletes your files",
-    "content_hash": "daa49779ab1e38d1f0ba00e6a98b3d88"
-  },
-  {
-    "title": "Show HN: SkillPreflight \u2013 score AI agent skills before installing them",
-    "normalized": "show hn: skillpreflight - score ai agent skills before installing them",
-    "content_hash": "66b87e4441f0f47cb41114008e236793"
-  },
-  {
-    "title": "SHOW HN: a CLI that runs 15 prompt-injection attacks against your LLM",
-    "normalized": "show hn: a cli that runs 15 prompt-injection attacks against your llm",
-    "content_hash": "1214ccc8209a673c4a23470423e67827"
-  },
-  {
-    "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
-    "normalized": "abby steele: an offline ai personality powered by a local llm and chess engine",
-    "content_hash": "8a4e9f83706f1154d6b0ae3ded56f28d"
-  },
-  {
-    "title": "Show HN: A minimal implementation of LLM output watermarking",
-    "normalized": "show hn: a minimal implementation of llm output watermarking",
-    "content_hash": "ff92da06ca6195bdd5100cd8d43e5ae2"
-  },
-  {
-    "title": "I built an agent-skill that turns your texts into diagrams and BI-visuals",
-    "normalized": "i built an agent-skill that turns your texts into diagrams and bi-visuals",
-    "content_hash": "b40aa13645ea9e8ebb69104722339636"
-  },
-  {
-    "title": "What languages are agent skills written in?",
-    "normalized": "what languages are agent skills written in?",
-    "content_hash": "250ef207e0fb74e24fe540f04671424e"
-  },
-  {
-    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-    "normalized": "kvboost: chunk-level key-value cache reuse with deviation-guided recomputation for efficient large language model inference",
-    "content_hash": "0b368bd0ff6e7ec902cf8fe61146256d"
-  },
-  {
-    "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
-    "normalized": "litreview arena: evaluating literature review agents with battle-style peer review platform",
-    "content_hash": "a2c5b2cf64b898cafee143c5ae513bab"
-  },
-  {
-    "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
-    "normalized": "schemarouter: field-aware tool routing for efficient heterogeneous agentic rag",
-    "content_hash": "63f55224e620002b7a7642fd96898ae0"
-  },
-  {
-    "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
-    "normalized": "spyre-accelerated retrieval-augmented generation on ibm linuxone: a cloud-native architecture for secure, high-throughput enterprise ai inference",
-    "content_hash": "2203e88c5b76e6f10a228df20b2067d0"
-  },
-  {
-    "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
-    "normalized": "hate speech classification in roman urdu: a comparative study on parameter efficient fine-tuning and prompt engineering",
-    "content_hash": "9b3150db9a048c8f35cfca43c609716b"
-  },
-  {
-    "title": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
-    "normalized": "agentic ai for safety-critical multi-drone systems: challenges and opportunities",
-    "content_hash": "3aa2ad40d0f6162e3b98ab4e2d0b5be4"
-  },
-  {
-    "title": "K-Bench: measuring model performance on real scientific agent requests",
-    "normalized": "k-bench: measuring model performance on real scientific agent requests",
-    "content_hash": "232b42ef7fd3811bf6488ff521cb6c98"
-  },
-  {
-    "title": "Multiverse Computing\u2019s 4-Bit Healing Beats Full-Precision Model",
-    "normalized": "multiverse computing's 4-bit healing beats full-precision model",
-    "content_hash": "20447619c3722efc69bad28df5e371c8"
-  },
-  {
-    "title": "Taiwan Indicts Nine Over AI Server Exports to China",
-    "normalized": "taiwan indicts nine over ai server exports to china",
-    "content_hash": "e7b31579c22955cffc4ed3d63b6180c3"
-  },
-  {
     "title": "OpenAI's 700W Jalape\u00f1o ASIC outpaces 1,400W Nvidia flagship GPU",
     "normalized": "openai's 700w jalape\u00f1o asic outpaces 1,400w nvidia flagship gpu",
     "content_hash": "038db8e89c842ea340f528a9439c04db"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI Releases GPT-6 Astra, Its First Model Rated Critical for Cybersecurity",
     "normalized": "openai releases gpt-6 astra, its first model rated critical for cybersecurity",
     "content_hash": "3af17adac3579022782b7da58472ef09"
+  },
+  {
+    "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+    "normalized": "gpt-6 astra scores 100% on exploitbench as openai blocks poc exploit requests",
+    "content_hash": "7da36e49ee8e146ca287bba0ad1afeef"
+  },
+  {
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "normalized": "rogue openai agents appear to have organized another attack using a german wiki",
+    "content_hash": "8c25a87fa029739ebd0272d31cb0467f"
+  },
+  {
+    "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
+    "normalized": "google's gemini spark can now manage your google photos library",
+    "content_hash": "6934edcb9494f3a0e027c2d2e49072e8"
+  },
+  {
+    "title": "Alienware\u2019s refurbished 16 Aurora is almost $200 off at Woot",
+    "normalized": "alienware's refurbished 16 aurora is almost $200 off at woot",
+    "content_hash": "874bd81a2b17e1f92c0f41d0f67d142d"
+  },
+  {
+    "title": "Discovery of a new OpenAI agent message board",
+    "normalized": "discovery of a new openai agent message board",
+    "content_hash": "d9abaa7071af5e936bd050a887e72f35"
+  },
+  {
+    "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+    "normalized": "a prompt-engineering approach to develop scalable, flexible, and real-time hybrid micro-level personalization in a general purpose ai teaching assistant",
+    "content_hash": "2945c9ff5c4bdba65446fc7e500f8e44"
+  },
+  {
+    "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+    "normalized": "duplexspeechbench-ifeval: evaluating implicit instruction following in full-duplex voice agents",
+    "content_hash": "200d5cedc84290f97cf1d02ec06614d6"
+  },
+  {
+    "title": "Nvidia\u2019s AI Sector Equity Stakes Grow, SEC Filing Shows",
+    "normalized": "nvidia's ai sector equity stakes grow, sec filing shows",
+    "content_hash": "3f86e6e887087ea56bdc4687f6e7433f"
+  },
+  {
+    "title": "Nvidia Connects Home Computers Into One AI Inference Cluster With PAIR",
+    "normalized": "nvidia connects home computers into one ai inference cluster with pair",
+    "content_hash": "ec6734f6aa2078fc67767a67c186b9fe"
+  },
+  {
+    "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+    "normalized": "krafton doubles down on india with another $250m bet beyond gaming",
+    "content_hash": "d65eaa2dde765be0573d58eb268df0e6"
+  },
+  {
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "normalized": "the sameness problem behind those unappetizing ai-generated menus",
+    "content_hash": "3fff87e67f2996cfe3938f2f819004a8"
+  },
+  {
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "normalized": "crusoe reportedly raises $3b at a $30b valuation",
+    "content_hash": "0a2fabe7332daaff59af19afc610d3ad"
+  },
+  {
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "normalized": "accel reportedly in talks to lead $1b round for thinking machines at $40b valuation",
+    "content_hash": "a87aa2be18049b6d181f5882da7adb75"
+  },
+  {
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "normalized": "abliteration.ai is making a business out of removing ai guardrails",
+    "content_hash": "ef65c7bc1168908da3a54ac20a6fd895"
+  },
+  {
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "normalized": "ollie is betting its focus on privacy can help it win the ai assistant race",
+    "content_hash": "d2a19c389d0d5c7e8a9e43c905468066"
+  },
+  {
+    "title": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
+    "normalized": "ice wants to know everyone who bought a certain green beanie from rei in the last 2 years",
+    "content_hash": "6f6e0a11ed4c9cc39cba02c8ab6816a8"
+  },
+  {
+    "title": "Rogue OpenAI agents took over a German coding forum in a previously undisclosed hijacking",
+    "normalized": "rogue openai agents took over a german coding forum in a previously undisclosed hijacking",
+    "content_hash": "bff8d53752c2c81ce6d4b2995adba2f9"
+  },
+  {
+    "title": "Ugreen's new smart home ecosystem is built around local AI hubs",
+    "normalized": "ugreen's new smart home ecosystem is built around local ai hubs",
+    "content_hash": "ae48f6439b6fb1ad1ba3d9f2b3017156"
+  },
+  {
+    "title": "GPT-6 Astra",
+    "normalized": "gpt-6 astra",
+    "content_hash": "4651d72987a6007d13da7c7f4676adb3"
+  },
+  {
+    "title": "Google Gemini 3.8 Flash and Cyber",
+    "normalized": "google gemini 3.8 flash and cyber",
+    "content_hash": "59494771f1f222f0d1f8eb961cb0d015"
+  },
+  {
+    "title": "Tesla Cybercab is barely on the road and it\u2019s already under investigation",
+    "normalized": "tesla cybercab is barely on the road and it's already under investigation",
+    "content_hash": "cc2a66c29e2b595aa13cbb38a4cb5ee8"
+  },
+  {
+    "title": "Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming",
+    "normalized": "xbox app is coming to tcl tvs just as microsoft rolls out pay-as-you-go cloud gaming",
+    "content_hash": "6fe7234fafb5b1ccf29736f87686ee68"
+  },
+  {
+    "title": "iRobot unveils the Roomba Duo",
+    "normalized": "irobot unveils the roomba duo",
+    "content_hash": "b72981e7eec81ca506c91da45ef3f098"
+  },
+  {
+    "title": "Bluetti launches \u2018e-generator\u2019 to take on noisy, stinky, polluting gas generators",
+    "normalized": "bluetti launches 'e-generator' to take on noisy, stinky, polluting gas generators",
+    "content_hash": "0bff1300165c6a5481a5f5034b2bf958"
+  },
+  {
+    "title": "Instagram\u2019s AI detection is a mess (again)",
+    "normalized": "instagram's ai detection is a mess (again)",
+    "content_hash": "0e3a698a9a4c6060f4b9b27b7902e576"
   }
 ]
