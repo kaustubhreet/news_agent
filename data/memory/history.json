@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "normalized": "openai is building ai agents for everything. will everyone use them?",
-    "content_hash": "5dbee4f2621af75333ab5ed1eb8496a9"
-  },
-  {
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "normalized": "valor, point72 back general intuition at $6b valuation as ai startup pushes into robotics",
-    "content_hash": "1f72c0aeecd66a8aa7c965de496db321"
-  },
-  {
-    "title": "Alabama launches investigation into OpenAI\u2019s hack of Hugging Face",
-    "normalized": "alabama launches investigation into openai's hack of hugging face",
-    "content_hash": "ba53fc2e1a8ed34f24dd4b2de7995bbd"
-  },
-  {
-    "title": "US nutrition startup Berry Street merges with India\u2019s Healthify as GLP-1 trends upwards",
-    "normalized": "us nutrition startup berry street merges with india's healthify as glp-1 trends upwards",
-    "content_hash": "2d8aab69843f3725f1f24968331ddfe2"
-  },
-  {
-    "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-    "normalized": "lenovo confirms legion go issues after gamers report bricked devices",
-    "content_hash": "ac328b1a4c66c6657a23073eb09b3f1d"
-  },
-  {
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-    "normalized": "openai: gpt 5.6 sol price reduction (until at least nov 21)",
-    "content_hash": "91accdc9c02ad15044451e3eefb074dc"
-  },
-  {
-    "title": "SpaceXAI Puts NVIDIA\u2019s Vera CPU at the Center of Gigawatt-Scale Buildout",
-    "normalized": "spacexai puts nvidia's vera cpu at the center of gigawatt-scale buildout",
-    "content_hash": "08af647c635ca46ea7723942817e734e"
-  },
-  {
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "normalized": "situational awareness, star ai hedge fund that nearly imploded, now being probed by the sec",
-    "content_hash": "8d52c4c3463197e11d48601fc11c8316"
-  },
-  {
-    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there\u2019s still space",
-    "normalized": "showcase your startup at techcrunch disrupt 2026 and book an exhibit table while there's still space",
-    "content_hash": "8afd08bbd5b41ca9675a8acbbeaf30ba"
-  },
-  {
-    "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
-    "normalized": "instinct's powerful ai assistant is raising privacy and security concerns",
-    "content_hash": "dde44caf64591011d98f05cd4d906bdd"
-  },
-  {
-    "title": "Brake problems in GM EVs draw greater federal scrutiny",
-    "normalized": "brake problems in gm evs draw greater federal scrutiny",
-    "content_hash": "a6b8818a1606409ee68c4a20bd1bf811"
-  },
-  {
-    "title": "Hugging Face reportedly in talks to be acquired for $13B",
-    "normalized": "hugging face reportedly in talks to be acquired for $13b",
-    "content_hash": "8f2fbc7e0e3dfe13dd705084fbfb976b"
-  },
-  {
-    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-    "normalized": "nvidia senior manager linked to supermicro scheme smuggling ai servers to china",
-    "content_hash": "16fd0694a57c7afef19365328ec80362"
-  },
-  {
-    "title": "How to cancel your ChatGPT subscription (and why you might want to)",
-    "normalized": "how to cancel your chatgpt subscription (and why you might want to)",
-    "content_hash": "be6a75fa6ca5c5b4559550b4dc09f60e"
-  },
-  {
-    "title": "The cat-and-mouse game over 3D-printed guns has begun",
-    "normalized": "the cat-and-mouse game over 3d-printed guns has begun",
-    "content_hash": "4a7e86912fbd28bb8621de4df77ecb7a"
-  },
-  {
-    "title": "Robotaxis are real now \u2014 so is the pushback",
-    "normalized": "robotaxis are real now -- so is the pushback",
-    "content_hash": "6dce488130528977864d06c276075b8e"
-  },
-  {
-    "title": "The Witcher 4 developers target a 2028 release",
-    "normalized": "the witcher 4 developers target a 2028 release",
-    "content_hash": "316a20d1926a4b40f524f0d114f42022"
-  },
-  {
-    "title": "Apple\u2019s four-pack of second-gen AirTags is $20 off",
-    "normalized": "apple's four-pack of second-gen airtags is $20 off",
-    "content_hash": "7a9e69ed51303b693b163253db0ef661"
-  },
-  {
-    "title": "How GoFundMe became America\u2019s backup plan",
-    "normalized": "how gofundme became america's backup plan",
-    "content_hash": "9be14fe562088f30d21be4c02563c4aa"
-  },
-  {
-    "title": "Netflix reportedly considers opening its app to other streamers",
-    "normalized": "netflix reportedly considers opening its app to other streamers",
-    "content_hash": "15003dbb21e935ee05b686c098e928f5"
-  },
-  {
-    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-    "normalized": "autostep (yc p26) is hiring ai/fullstack engineers and a chief of staff",
-    "content_hash": "5ead3c96845642a84eb3b0b00a297ddb"
-  },
-  {
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "normalized": "previewing ultrafast mode: gpt-5.6 sol at up to 14x the speed",
-    "content_hash": "2f06adeb0b19da8b61483e09085c62b7"
-  },
-  {
-    "title": "Learning Exact NVIDIA SASS Encoders with $\\mathbb{F}_2$ Linear Algebra",
-    "normalized": "learning exact nvidia sass encoders with $\\mathbb{f}_2$ linear algebra",
-    "content_hash": "2098be89849227e2b2ad9ae54cd9d22b"
-  },
-  {
-    "title": "OpenAI Brings GPT-5.6 Model Family to AWS\u2019s Kiro",
-    "normalized": "openai brings gpt-5.6 model family to aws's kiro",
-    "content_hash": "1fb2bbc16e57db2b4f1463a776194026"
-  },
-  {
-    "title": "Lancium and NVIDIA Partner to Deploy Gigawatt-Scale AI Factories",
-    "normalized": "lancium and nvidia partner to deploy gigawatt-scale ai factories",
-    "content_hash": "935878152d6d2845b75da97123c7003c"
-  },
-  {
     "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
     "normalized": "'the world seems to be ready': an interview with openai head of product thibault sottiaux",
     "content_hash": "41d67640f978e44422ea29362b9cbeab"
@@ -2498,5 +2373,130 @@
     "title": "MASkills: Continual Skills Optimization for Multi-Agent LLM Systems",
     "normalized": "maskills: continual skills optimization for multi-agent llm systems",
     "content_hash": "d30af16476b3a6882d2c1a908f407ba1"
+  },
+  {
+    "title": "Bing Xu, Founder and CEO of INT21 \u2013 Interview Series",
+    "normalized": "bing xu, founder and ceo of int21 - interview series",
+    "content_hash": "75c0a4d191af31e0120b9889eff04c9f"
+  },
+  {
+    "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
+    "normalized": "openai's next big ai model has 'entered the agi era'",
+    "content_hash": "9322b9361df7a714b71af1b456fa3248"
+  },
+  {
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "normalized": "nobody is saying why openai and anthropic had outages today",
+    "content_hash": "28f1e2bb4d7baf269f0b9782d4a27bfc"
+  },
+  {
+    "title": "Nvidia will officially bring DLSS 5 to older GPUs \u2014 but won\u2019t give gamers full control",
+    "normalized": "nvidia will officially bring dlss 5 to older gpus -- but won't give gamers full control",
+    "content_hash": "9387fafad4297774a4d80472d4e3b9df"
+  },
+  {
+    "title": "Tell HN: NVIDIA's Acquisition of HuggingFace was for $HuggingFace",
+    "normalized": "tell hn: nvidia's acquisition of huggingface was for $huggingface",
+    "content_hash": "1ee995164c8f37b17df26228caef66d7"
+  },
+  {
+    "title": "Ask HN: Why don't LLM APIs have a first-class test mode?",
+    "normalized": "ask hn: why don't llm apis have a first-class test mode?",
+    "content_hash": "65a51dfab8d6d552ba78b3e2d4b848a9"
+  },
+  {
+    "title": "Startup ARR is less secure than ever, new research shows",
+    "normalized": "startup arr is less secure than ever, new research shows",
+    "content_hash": "c29243699467a26a880a04cda30190d9"
+  },
+  {
+    "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+    "normalized": "utilities are racing to link up with fusion startups, with realta fusion the latest to benefit",
+    "content_hash": "6c22cb374c51fa0685110742d4de1f07"
+  },
+  {
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "normalized": "meta is paying to peek at how you use their latest ai model",
+    "content_hash": "d938216dfdec4fa7645092023404efc1"
+  },
+  {
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "normalized": "openai launches astra, its powerful (and controversial) new model",
+    "content_hash": "1e9c0dd49288f66d8f1db23cb9cbd828"
+  },
+  {
+    "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+    "normalized": "google launches ai voice features in gmail, docs, and keep",
+    "content_hash": "79ad2aa1daf4f4a0166aecaabdd12c40"
+  },
+  {
+    "title": "GPT-6 Astra Is Here\u2014and OpenAI Thinks It May Kick Off the AGI Era",
+    "normalized": "gpt-6 astra is here--and openai thinks it may kick off the agi era",
+    "content_hash": "7b688abfdd1d26d2e8badd4b50d165d2"
+  },
+  {
+    "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+    "normalized": "openai cut off a billion-dollar customer to avoid elon musk",
+    "content_hash": "1e7ff134718ffafd3bd2fc21234570b0"
+  },
+  {
+    "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+    "normalized": "nvidia buys hugging face, the github of ai, for $13 billion",
+    "content_hash": "19f045634a91f3d4de7fcf940be97797"
+  },
+  {
+    "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
+    "normalized": "openai says gpt-6 astra is 'the most intelligent and aligned model in the world'",
+    "content_hash": "82dcbca6ddcfcaf26dbe17a5a0cd8189"
+  },
+  {
+    "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+    "normalized": "steve ballmer got suspended by the nba because of a podcast and a jumbotron corruption scandal",
+    "content_hash": "6614797c799036c8703a43315cdfa0ff"
+  },
+  {
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "normalized": "openai's gpt-6 astra on arc-agi-3",
+    "content_hash": "1b6e25f2375c7df76797d3200cebd57e"
+  },
+  {
+    "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+    "normalized": "ask hn: why were openai, claude, and grok simultaneously down?",
+    "content_hash": "69e6f75c4157ceb67559f8c5604a2c78"
+  },
+  {
+    "title": "macOS 27 Simulator by OpenAI Astra",
+    "normalized": "macos 27 simulator by openai astra",
+    "content_hash": "9a13115f52762f083cf3aadd416bd74b"
+  },
+  {
+    "title": "GPT 6 is way behind Anthropic on Artificial Analysis",
+    "normalized": "gpt 6 is way behind anthropic on artificial analysis",
+    "content_hash": "2f69dd1860b546845de1da82da06cbf6"
+  },
+  {
+    "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+    "normalized": "gpt-6 astra makes major gains in the artificial analysis coding agent index",
+    "content_hash": "4534467afb4e0c116c2d559439eac8ce"
+  },
+  {
+    "title": "Using GPT-6 Astra \u2013 OpenAI Docs",
+    "normalized": "using gpt-6 astra - openai docs",
+    "content_hash": "ac946bef6649a1cd6b80c5ac226246a8"
+  },
+  {
+    "title": "Show HN: Agentray, a macOS agent whose interface is a folder",
+    "normalized": "show hn: agentray, a macos agent whose interface is a folder",
+    "content_hash": "e496c3017ec7c4597ecddb8eb89d21a3"
+  },
+  {
+    "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+    "normalized": "set up openai chatgpt codex with litellm on amazon ecs and amazon bedrock",
+    "content_hash": "13722db18a64c87799670d5b85443a6f"
+  },
+  {
+    "title": "OpenAI Releases GPT-6 Astra, Its First Model Rated Critical for Cybersecurity",
+    "normalized": "openai releases gpt-6 astra, its first model rated critical for cybersecurity",
+    "content_hash": "3af17adac3579022782b7da58472ef09"
   }
 ]
