@@ -1,130 +1,5 @@
 [
   {
-    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "normalized": "hearing tech startup legato emerges from stealth with $12m and a peek at its ai hearing glasses",
-    "content_hash": "0ebb8d9abb8d7a42fd0650a30be02638"
-  },
-  {
-    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "normalized": "runable hits $21m to bet ai agents can go from building businesses to growing them",
-    "content_hash": "1c69291d0ee385350d06c634c4b21c24"
-  },
-  {
-    "title": "Ventures Platform goes bigger \u2014 and broader \u2014 with its second Africa fund",
-    "normalized": "ventures platform goes bigger -- and broader -- with its second africa fund",
-    "content_hash": "b05beb38e7a0ef7e70b4c3909c21b111"
-  },
-  {
-    "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "normalized": "india's ringg gets backing from peak xv as it pushes voice ai past the phone call",
-    "content_hash": "8cfc30fb77e6639b67a864074ba5d777"
-  },
-  {
-    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-    "normalized": "openai loses a top data center exec as stream of high-profile departures continues",
-    "content_hash": "9a10f6fda8ae338e811daa9cbb480735"
-  },
-  {
-    "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-    "normalized": "openai bans russian chatgpt accounts used to run influence operation",
-    "content_hash": "26dad49a0432b0c48705a3e853ba9cf9"
-  },
-  {
-    "title": "Bill Gates is deeply worried about AI, and he\u2019s no longer staying quiet",
-    "normalized": "bill gates is deeply worried about ai, and he's no longer staying quiet",
-    "content_hash": "65fc5bef1f3100cebdf2495e062335e7"
-  },
-  {
-    "title": "Ikea\u2019s Xbox collection includes a giant thumbstick stool",
-    "normalized": "ikea's xbox collection includes a giant thumbstick stool",
-    "content_hash": "74ed43e4b8536d09540f087b1b66aba8"
-  },
-  {
-    "title": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
-    "normalized": "serving masked diffusion llms: characterization and design principles from real hardware",
-    "content_hash": "d883b452fd9e299f56d83038fcf03c94"
-  },
-  {
-    "title": "Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention",
-    "normalized": "minima-kv: retention-preserving kv cache compression with mixed-format paged attention",
-    "content_hash": "2a267ea34de107a90cb62c3aa0fde07d"
-  },
-  {
-    "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-    "normalized": "claude opus 4.6 bypasses gym booking limit, cancels other users' reservations in tests",
-    "content_hash": "73bf26ab85b533545423c3361804adfe"
-  },
-  {
-    "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
-    "normalized": "fake apple support ai calls target stolen-device owners for passcodes and 2fa codes",
-    "content_hash": "48471d4d9aa6ae4f48a0c3e627b78645"
-  },
-  {
-    "title": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
-    "normalized": "rockstar finally responds to 'heartbreaking' gta 6 leaks",
-    "content_hash": "e97c2e6216aa1f85eb2026d99807e9d5"
-  },
-  {
-    "title": "At just $8, you owe it to yourself to grab Inscryption",
-    "normalized": "at just $8, you owe it to yourself to grab inscryption",
-    "content_hash": "d4f5235a4bcbef6e6beb9c7ef91ad89b"
-  },
-  {
-    "title": "The Witcher 3 is getting a remaster",
-    "normalized": "the witcher 3 is getting a remaster",
-    "content_hash": "8af883d0b1e990fd494a627444b4cc71"
-  },
-  {
-    "title": "The full stack behind abundant intelligence",
-    "normalized": "the full stack behind abundant intelligence",
-    "content_hash": "eca3c0898e8b3d82fc76cceb5c3ffb1f"
-  },
-  {
-    "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
-    "normalized": "jalape\u00f1o's first results show industry-leading speed and efficiency in ai inference",
-    "content_hash": "4bb80884e78be64afd05861439d4a5c4"
-  },
-  {
-    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-    "normalized": "empowering india's next generation of innovators with atl saathi",
-    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
-  },
-  {
-    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-    "normalized": "render: controlling reader-facing evidence in llm memory evaluation",
-    "content_hash": "c7a2e417742959e64d390a2fdcfc837f"
-  },
-  {
-    "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-    "normalized": "llm agents perform controlled experiments using simulation models",
-    "content_hash": "a9e284d5aa4d84cc79c224a31a21de8f"
-  },
-  {
-    "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-    "normalized": "trace: transition-aware residual control for multi-objective materials discovery",
-    "content_hash": "d018ec5a4d9b2b0006728ea580c5c9a8"
-  },
-  {
-    "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
-    "normalized": "automata from agent traces: failure and next-step prediction",
-    "content_hash": "6303ab926d73b1a35c7370a3fb15fb26"
-  },
-  {
-    "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
-    "normalized": "agentroom: concurrent multi-agent coding in a crdt-backed shared workspace",
-    "content_hash": "6e2b6cfc27a9b8ef54d6410f087e7758"
-  },
-  {
-    "title": "Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search",
-    "normalized": "generating biomedical fact-checking reports with rl-enhanced agentic search",
-    "content_hash": "c6101c157f9389ed28b90766ed152967"
-  },
-  {
-    "title": "Exploit More, Explore Smarter for Budget-Constrained Agentic Search",
-    "normalized": "exploit more, explore smarter for budget-constrained agentic search",
-    "content_hash": "cf89fc70fd010ebd39258a05a212947e"
-  },
-  {
     "title": "Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",
     "normalized": "amazon just tripled its order of nvidia chips over 'surging demand'",
     "content_hash": "f37866ec29552772b187fbc4c235db84"
@@ -2498,5 +2373,130 @@
     "title": "Training a Specialist Code Search Agent with Turbopuffer",
     "normalized": "training a specialist code search agent with turbopuffer",
     "content_hash": "0bcd742fcea7e9730ef0d917f0582c0e"
+  },
+  {
+    "title": "OpenAI admits to German wiki \u2018incident\u2019",
+    "normalized": "openai admits to german wiki 'incident'",
+    "content_hash": "094a199bbab91964e13f49caf560b390"
+  },
+  {
+    "title": "Microsoft's MAI-Transcribe-2 Undercuts OpenAI, Google and ElevenLabs",
+    "normalized": "microsoft's mai-transcribe-2 undercuts openai, google and elevenlabs",
+    "content_hash": "fd468b06234f4c3d104f371e8a4cf5f7"
+  },
+  {
+    "title": "OpenAI Agents Hacked Another Website",
+    "normalized": "openai agents hacked another website",
+    "content_hash": "75b50743719f966520ba0fc937b87a20"
+  },
+  {
+    "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+    "normalized": "thousands of openai agents quietly turned an abandoned wiki into their coordination channel",
+    "content_hash": "8ad9ef04383e6bc49af04bccfe904a63"
+  },
+  {
+    "title": "Possibly another discovery of OpenAI agent message board",
+    "normalized": "possibly another discovery of openai agent message board",
+    "content_hash": "971d3f0267de193130f3e2926bc867fe"
+  },
+  {
+    "title": "Is your LLM Biased? Making ChatGPT evaluate itself",
+    "normalized": "is your llm biased? making chatgpt evaluate itself",
+    "content_hash": "3e1ff94f7ef0c41036cda13b32d99dfc"
+  },
+  {
+    "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
+    "normalized": "seattle times, newsday sue openai, microsoft, alleging copyright infringement",
+    "content_hash": "6fe691d8894d3432f38f85b6c9a9facf"
+  },
+  {
+    "title": "OpenAI agents used dead web site to communicate in May, well before HF incident",
+    "normalized": "openai agents used dead web site to communicate in may, well before hf incident",
+    "content_hash": "3cd0dbc49d2b20784d02ad88df5c6d45"
+  },
+  {
+    "title": "OpenAI's rogue agents used ntfy.sh as a pub/sub channel",
+    "normalized": "openai's rogue agents used ntfy.sh as a pub/sub channel",
+    "content_hash": "aacd1de4e55af2c163aee2d79247e38f"
+  },
+  {
+    "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
+    "normalized": "nvidia releases personal ai router (pair): an open source virtual inference router that distributes local ai requests across rtx, dgx spark, and mac nodes",
+    "content_hash": "19caf53f90f509c7c92ed8b4e79e4e72"
+  },
+  {
+    "title": "Content creators drop the ball",
+    "normalized": "content creators drop the ball",
+    "content_hash": "ba4202a5e22ce426d79da02f60b618df"
+  },
+  {
+    "title": "The weird and wonderful headphones of CanJam 2026",
+    "normalized": "the weird and wonderful headphones of canjam 2026",
+    "content_hash": "0a47dcf319dd335ed9840705372d0d57"
+  },
+  {
+    "title": "Robotaxis enter their villain era",
+    "normalized": "robotaxis enter their villain era",
+    "content_hash": "044e2a617847a7334975eca7abd7e993"
+  },
+  {
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "normalized": "ai handles incidents, engineers lose touch with their systems",
+    "content_hash": "9fe19db72c551310e4fad770c40066fc"
+  },
+  {
+    "title": "Tell HN: OpenAI Is a Worthless Company",
+    "normalized": "tell hn: openai is a worthless company",
+    "content_hash": "85e67d66eb00e82e15601d9fe068eef1"
+  },
+  {
+    "title": "The attempt: field notes from an autonomous agent, including the failures",
+    "normalized": "the attempt: field notes from an autonomous agent, including the failures",
+    "content_hash": "497eb2e2d5570ff5d86a1c946eeb7905"
+  },
+  {
+    "title": "Claude-API-guard, a CI check that catches Claude/OpenAI SDK breaking changes",
+    "normalized": "claude-api-guard, a ci check that catches claude/openai sdk breaking changes",
+    "content_hash": "75a94a75efaaa73459cdc6b4b0776823"
+  },
+  {
+    "title": "Authors Wrangle with Publishers over $1.5B Anthropic A.I. Settlement",
+    "normalized": "authors wrangle with publishers over $1.5b anthropic a.i. settlement",
+    "content_hash": "80c6aea91a50e35ba42d7d0defcdbb5a"
+  },
+  {
+    "title": "OpenAI on the \"Wiki Incident\"",
+    "normalized": "openai on the \"wiki incident\"",
+    "content_hash": "cf5cfaac2e1af3d978355c27358e5844"
+  },
+  {
+    "title": "Phaseone[big] explains why you should trust OpenAI",
+    "normalized": "phaseone[big] explains why you should trust openai",
+    "content_hash": "b4d3f3fbb7e5f51d426732f895bdf79a"
+  },
+  {
+    "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+    "normalized": "build a physical ai model factory with nvidia cosmos 3 on sagemaker hyperpod",
+    "content_hash": "eda81b875348b08c13fa025dce4917a1"
+  },
+  {
+    "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+    "normalized": "how intuit built an agentic disaster recovery assistant with amazon bedrock",
+    "content_hash": "ec9a6a92a5b7618b36e8354ad600bb44"
+  },
+  {
+    "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+    "normalized": "ai-driven development lifecycle using amazon bedrock agentcore",
+    "content_hash": "97ee24861fa2144ea502781c6e5dc6c4"
+  },
+  {
+    "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
+    "normalized": "integrating outlook with amazon quick for ai-powered email automation",
+    "content_hash": "c3b19cfafa2c21d95307b3a37711af26"
+  },
+  {
+    "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a \u2018Critical\u2019 Cyber Threshold",
+    "normalized": "openai releases gpt-6 astra: a 1.05m-context computer-use model gated behind a 'critical' cyber threshold",
+    "content_hash": "2ac6d816145fc4f0fc0eb8ce06f33c06"
   }
 ]
