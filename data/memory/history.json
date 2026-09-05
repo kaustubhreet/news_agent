@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI's 700W Jalape\u00f1o ASIC outpaces 1,400W Nvidia flagship GPU",
-    "normalized": "openai's 700w jalape\u00f1o asic outpaces 1,400w nvidia flagship gpu",
-    "content_hash": "038db8e89c842ea340f528a9439c04db"
-  },
-  {
-    "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
-    "normalized": "openai's jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
-    "content_hash": "dad50345b4da537e59c8aeafa133e2ba"
-  },
-  {
-    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-    "normalized": "self-driving truck startup gatik raises $200m following pepsico deal",
-    "content_hash": "2c6f9a7a8e0494181cc37c4479de8d39"
-  },
-  {
-    "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-    "normalized": "a malicious webpage could poison your local ai model behind nvidia nemoclaw",
-    "content_hash": "d2f33d4e0cfef0b25119aa2dbce0e633"
-  },
-  {
-    "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-    "normalized": "openai jalape\u00f1o: better than nvidia blackwell",
-    "content_hash": "07756a4ae0d1abc2001e2f8a7dce3430"
-  },
-  {
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "normalized": "robotics startup generalist reaches $3b valuation, sources say",
-    "content_hash": "ec237181c7cc5b00356f79d3b226729f"
-  },
-  {
-    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-    "normalized": "openai loses a top data center exec, as stream of high-profile departures continues",
-    "content_hash": "b404c1cfc5ff15ef5a849498f64283a4"
-  },
-  {
-    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "normalized": "stability ai, maker of image generator stable diffusion, raises $76 million in fresh funding",
-    "content_hash": "8831234251857efd959e961431eaabcf"
-  },
-  {
-    "title": "Claude Cowork finally remembers what you told the app in chat",
-    "normalized": "claude cowork finally remembers what you told the app in chat",
-    "content_hash": "d5da15a635872a8ec858dfb1739cbe2a"
-  },
-  {
-    "title": "Dreame\u2019s dream of a rocket-powered car is dead",
-    "normalized": "dreame's dream of a rocket-powered car is dead",
-    "content_hash": "96ec3a4b12c1d0cc2832c00376ecd985"
-  },
-  {
-    "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
-    "normalized": "take a look at microsoft's new 25th anniversary halo accessories",
-    "content_hash": "cca48cda730bdc3d69227be6cbf0a9c3"
-  },
-  {
-    "title": "Show HN: Agent Purge \u2013 Scrub any mention of anything agent related",
-    "normalized": "show hn: agent purge - scrub any mention of anything agent related",
-    "content_hash": "32dca5285f8654de80d8a67c23e31a5b"
-  },
-  {
-    "title": "Anthropic and OpenAI will have most of compute by 2028 [video]",
-    "normalized": "anthropic and openai will have most of compute by 2028 [video]",
-    "content_hash": "8a7fd34d00eec66f6419016fa908416a"
-  },
-  {
-    "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
-    "normalized": "cross-vendor byte-identical inference for a 72b llm (amd mi300x vs. nvidia h100)",
-    "content_hash": "96d7d671d85814ed466abc178960247c"
-  },
-  {
-    "title": "Instagram\u2019s \u2018First Draft\u2019 feature aims to make editing Reels less tedious",
-    "normalized": "instagram's 'first draft' feature aims to make editing reels less tedious",
-    "content_hash": "772d5e1cd45238994aea23e78bb0e5cc"
-  },
-  {
-    "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-    "normalized": "tonight marks your last chance to save up to $300 on a techcrunch disrupt 2026 pass",
-    "content_hash": "cd85617c96a55c6a54f0f59709a39f20"
-  },
-  {
-    "title": "Pacific Fusion\u2019s next fusion machine could clear a key hurdle to commercial power",
-    "normalized": "pacific fusion's next fusion machine could clear a key hurdle to commercial power",
-    "content_hash": "82534747d0f92dccbd1d449fe8b141a3"
-  },
-  {
-    "title": "Gamma acquires Accel-backed design startup Lica",
-    "normalized": "gamma acquires accel-backed design startup lica",
-    "content_hash": "28352d5062cb72266ccee7918eeae356"
-  },
-  {
-    "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-    "normalized": "apple rescues hide my email feature from the privacy scrap heap",
-    "content_hash": "705f085c9fbb92ce00d3f94c9f03994c"
-  },
-  {
-    "title": "Apple debuts its \u2018most powerful chip ever\u2019 in M5 Ultra and M6",
-    "normalized": "apple debuts its 'most powerful chip ever' in m5 ultra and m6",
-    "content_hash": "9103579fda5528f6df5727c15c3dfc22"
-  },
-  {
-    "title": "Apple\u2019s latest Mac Mini runs on a new M6 chip, and starts at $899",
-    "normalized": "apple's latest mac mini runs on a new m6 chip, and starts at $899",
-    "content_hash": "6a3c0637d0361b56cb5ff50a24ecf93b"
-  },
-  {
-    "title": "Andy Dunn\u2019s startup Pie becomes less of an events app and more of a social network",
-    "normalized": "andy dunn's startup pie becomes less of an events app and more of a social network",
-    "content_hash": "9333c298c66021bfaecfa2eb91a2f401"
-  },
-  {
-    "title": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
-    "normalized": "apple mac mini m6 and mac studio m5 ultra: specs, price, release date",
-    "content_hash": "9b9353889854d5f89c3a34acebc77787"
-  },
-  {
-    "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-    "normalized": "mirage2fa surge hits 4,500 us and eu companies, abusing microsoft 365 login flows",
-    "content_hash": "0b5e4a472f03d8917c7ee7c592d8f40b"
-  },
-  {
-    "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
-    "normalized": "nvidia senior manager tied to ex-supermicro staff's ai smuggling scheme",
-    "content_hash": "72949783ad1dd1f88cadc12138f07f68"
-  },
-  {
     "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
     "normalized": "hearing tech startup legato emerges from stealth with $12m and a peek at its ai hearing glasses",
     "content_hash": "0ebb8d9abb8d7a42fd0650a30be02638"
@@ -2498,5 +2373,130 @@
     "title": "Instagram\u2019s AI detection is a mess (again)",
     "normalized": "instagram's ai detection is a mess (again)",
     "content_hash": "0e3a698a9a4c6060f4b9b27b7902e576"
+  },
+  {
+    "title": "AGI is whatever you want it to be",
+    "normalized": "agi is whatever you want it to be",
+    "content_hash": "701d608f3c1725be95c6bd4bdc27e0a4"
+  },
+  {
+    "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+    "normalized": "openai's rogue agents keep escaping, with no formal process to investigate them",
+    "content_hash": "8a3266a1e13da2a36d7e666d42886d2c"
+  },
+  {
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+    "normalized": "another swarm of openai agents reached the open internet without the frontier lab's knowledge",
+    "content_hash": "53de5813ff4acc1b47942a502ea481e6"
+  },
+  {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "normalized": "xdof, just three months out of stealth, is in talks for a series b at a $1.2b valuation",
+    "content_hash": "a7a054776adb0084281c657670c603a4"
+  },
+  {
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "normalized": "ai compute provider nscale is looking for $3.5b in pre-ipo financing",
+    "content_hash": "30ab6ebea8b872e9d0a9df538c6d77c9"
+  },
+  {
+    "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+    "normalized": "phishing campaign sends millions of emails using invisible unicode to evade filters",
+    "content_hash": "65460d12650bed6488dbdb40c92270db"
+  },
+  {
+    "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
+    "normalized": "gopro says it's still committed 'to your collective stoke'",
+    "content_hash": "3890cb246d988ab3b6136cc2a624c506"
+  },
+  {
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "normalized": "microsoft says virtually nobody was grabbing nyt articles through its chatbot",
+    "content_hash": "0306699d172ad65a077f6a9d9e11f5ec"
+  },
+  {
+    "title": "OpenAI escapee-agent incident (2026): index of surfaces with evidence",
+    "normalized": "openai escapee-agent incident (2026): index of surfaces with evidence",
+    "content_hash": "fbce54c509004e2be126f1916320bf08"
+  },
+  {
+    "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+    "normalized": "openai agents hijacked german website before hugging face hack, report claims",
+    "content_hash": "0ee325b2bc92d0460ad7d62262baa05c"
+  },
+  {
+    "title": "OpenAI rolls out GPT-6 Astra to Pro, Enterprise",
+    "normalized": "openai rolls out gpt-6 astra to pro, enterprise",
+    "content_hash": "4a8d5378dc924637b08121fb66ef0873"
+  },
+  {
+    "title": "More Targets of the OpenAI Agent Swarm",
+    "normalized": "more targets of the openai agent swarm",
+    "content_hash": "429aa4e818f293165a028ca18924f97a"
+  },
+  {
+    "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+    "normalized": "show hn: sageling - a local ai agent for mac, qwen 3.5 9b in-process via mlx",
+    "content_hash": "a35b4e6b3e09a7ed5e9e6d688ecd4815"
+  },
+  {
+    "title": "OpenAI's AI Agents Build a Secret Community to Talk with Each Other",
+    "normalized": "openai's ai agents build a secret community to talk with each other",
+    "content_hash": "d490dc048e72b9438962362fee9245b4"
+  },
+  {
+    "title": "Microsoft Brings OpenAI\u2019s GPT-6 Astra to Foundry With Limited Access",
+    "normalized": "microsoft brings openai's gpt-6 astra to foundry with limited access",
+    "content_hash": "eca2c09ac3c559434cf20ce044d64857"
+  },
+  {
+    "title": "Judge blocks X rival from using Twitter name, but allows \u2018Tweet\u2019 for now",
+    "normalized": "judge blocks x rival from using twitter name, but allows 'tweet' for now",
+    "content_hash": "ab31acb0358e7e833944a40513942443"
+  },
+  {
+    "title": "What will Apple\u2019s John Ternus era look like?",
+    "normalized": "what will apple's john ternus era look like?",
+    "content_hash": "c0113b450b8eb8e96ef71cbb2a44cfd7"
+  },
+  {
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "normalized": "openai agents discussed ways to escape their sandbox on public wiki",
+    "content_hash": "4cef70d98128e0d397a74c5d00cc33ae"
+  },
+  {
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "normalized": "roland is getting into generative ai music with melody flip",
+    "content_hash": "6d6c9325d8e32d7a9aab75809d486de5"
+  },
+  {
+    "title": "New feature, agent owning maintenance plans",
+    "normalized": "new feature, agent owning maintenance plans",
+    "content_hash": "53b5e8e6bedad8706aa8eb61ab81b204"
+  },
+  {
+    "title": "After OpenAI's Bots Went Rogue, Watchdogs Were Kept on a Short Leash",
+    "normalized": "after openai's bots went rogue, watchdogs were kept on a short leash",
+    "content_hash": "d605da5c1332d1de25abcdec3ecc5939"
+  },
+  {
+    "title": "Two random Anthropic allocation resets this week",
+    "normalized": "two random anthropic allocation resets this week",
+    "content_hash": "8b947245d18656588d8f85d50f889ae4"
+  },
+  {
+    "title": "GotChat \u2013 Apache 2.0 LLM chat with installable full-stacked plugins",
+    "normalized": "gotchat - apache 2.0 llm chat with installable full-stacked plugins",
+    "content_hash": "ddf6cb9147742cd6593c09553096dcfe"
+  },
+  {
+    "title": "Show HN: Airuncode \u2013 an AI runtime coding agent with a built-in 3D game engine",
+    "normalized": "show hn: airuncode - an ai runtime coding agent with a built-in 3d game engine",
+    "content_hash": "08727a543665c64be5fd47d8392682ee"
+  },
+  {
+    "title": "Training a Specialist Code Search Agent with Turbopuffer",
+    "normalized": "training a specialist code search agent with turbopuffer",
+    "content_hash": "0bcd742fcea7e9730ef0d917f0582c0e"
   }
 ]
