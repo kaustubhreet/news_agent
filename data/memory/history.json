@@ -1,130 +1,5 @@
 [
   {
-    "title": "Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",
-    "normalized": "amazon just tripled its order of nvidia chips over 'surging demand'",
-    "content_hash": "f37866ec29552772b187fbc4c235db84"
-  },
-  {
-    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-    "normalized": "nvidia is about to be a hundred-billion-dollar-a-quarter company",
-    "content_hash": "c95410cc9722ff83e305ef4422dd4df5"
-  },
-  {
-    "title": "OpenAI\u2019s rogue AI model incident was worse than we thought",
-    "normalized": "openai's rogue ai model incident was worse than we thought",
-    "content_hash": "28fdd73c5494ce8089fdecd19e0eace9"
-  },
-  {
-    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-    "normalized": "viral ai startup instinct has raised $350 million at a $2.5 billion valuation",
-    "content_hash": "c009d6ae628473094f1ecb7079dbf422"
-  },
-  {
-    "title": "Google\u2019s Gemini has a branding problem, and so does the rest of AI",
-    "normalized": "google's gemini has a branding problem, and so does the rest of ai",
-    "content_hash": "c31a6a80c9adccebf829ff39be89c4a9"
-  },
-  {
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "normalized": "openai releases its official report on the hugging face breach",
-    "content_hash": "ec977636a36d3254cd4d52c93b446263"
-  },
-  {
-    "title": "What\u2019s\u00a0driving Sweden\u2019s startup boom, from Lovable to\u00a0Legora",
-    "normalized": "what's driving sweden's startup boom, from lovable to legora",
-    "content_hash": "9cc1423b8ffde1285c6990b1a6935738"
-  },
-  {
-    "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
-    "normalized": "radar makes podcasts searchable -- and usable by ai agents",
-    "content_hash": "f123c55604d74bfe5419455fe47cae87"
-  },
-  {
-    "title": "What We Still Don\u2019t Know About OpenAI\u2019s Hugging Face Hack",
-    "normalized": "what we still don't know about openai's hugging face hack",
-    "content_hash": "7164c4e58eb6966f32da479d9018f90b"
-  },
-  {
-    "title": "Google\u2019s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-    "normalized": "google's new ai transcription edits out your 'ums' and 'ahs'",
-    "content_hash": "b00ea4fa48231720c70e91891c37595f"
-  },
-  {
-    "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
-    "normalized": "evaluate any agent framework with amazon bedrock agentcore evaluations",
-    "content_hash": "ca3615e585a9ecbeaa41264dd95e327d"
-  },
-  {
-    "title": "MacroAgent: Regularity-Aware Macro Legalization with LLM-Agent-Designed Contour Algorithms",
-    "normalized": "macroagent: regularity-aware macro legalization with llm-agent-designed contour algorithms",
-    "content_hash": "88a79873e741427cdcc1d66efc9bf133"
-  },
-  {
-    "title": "Understanding the Energy Scaling of Large Language Model Inference Across Context Lengths and Attention Architectures",
-    "normalized": "understanding the energy scaling of large language model inference across context lengths and attention architectures",
-    "content_hash": "153ee268b6031b4ffdc48d3344d9b8a9"
-  },
-  {
-    "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
-    "normalized": "what would have to be true for agentic coding to replace junior engineers",
-    "content_hash": "5dec7e1d6f4706382d404e761efff1b6"
-  },
-  {
-    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "normalized": "anthropic continues compute-gobbling streak in $45b deal with nscale",
-    "content_hash": "5362ac2957bf4d5dc3f707fc4a0b95c7"
-  },
-  {
-    "title": "How do we explain OpenAI\u2019s executive exodus?",
-    "normalized": "how do we explain openai's executive exodus?",
-    "content_hash": "73185169aa05bfc0597c67e452490fab"
-  },
-  {
-    "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
-    "normalized": "flipboard acquires graze, the feed builder working to monetize the open social web",
-    "content_hash": "5579172bd757b8d4d19f17f8d2ded6db"
-  },
-  {
-    "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-    "normalized": "us seizes domains of chinese botnet used to hack nasa, justice department, and the senate",
-    "content_hash": "e4e44cde6a0cb1f85361d1a3c1a27527"
-  },
-  {
-    "title": "Capital F closes $17M debut fund with goal to back the future of the \u2018female economy\u2019",
-    "normalized": "capital f closes $17m debut fund with goal to back the future of the 'female economy'",
-    "content_hash": "c67feac1e21eb6b40f9c62d6d5754929"
-  },
-  {
-    "title": "Apple is holding its iPhone launch event on September 9",
-    "normalized": "apple is holding its iphone launch event on september 9",
-    "content_hash": "cbe722142352514746457a624da94af0"
-  },
-  {
-    "title": "Meta agrees to sweeping changes to restrict kids\u2019 access to its apps as part of settlement with states",
-    "normalized": "meta agrees to sweeping changes to restrict kids' access to its apps as part of settlement with states",
-    "content_hash": "3e0e3112845b18872747fe87da1a03a0"
-  },
-  {
-    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-    "normalized": "ex-meta scientists want to bring visual ai to the factory floor",
-    "content_hash": "3a1192194026ae5775a40f7260345168"
-  },
-  {
-    "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
-    "normalized": "bill gates wants to see a robot tax and 'human reserved' jobs to mitigate harms from ai",
-    "content_hash": "cefdc17503eacd01219e2d16bf353377"
-  },
-  {
-    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-    "normalized": "surprise: z.ai is the ai lab behind the mysterious ox alpha model",
-    "content_hash": "0cbae1a00e318809196bf96dfbddae53"
-  },
-  {
-    "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-    "normalized": "novacookies campaigns abuse genuine docusign notifications to steal microsoft 365 sessions",
-    "content_hash": "3fedb8a3caba5fe989472167bc6a7bed"
-  },
-  {
     "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
     "normalized": "openai, anthropic, google, and 100 other companies call for action to defend against rogue ai",
     "content_hash": "b02118e81ef3b82423b8d08c294887b1"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a \u2018Critical\u2019 Cyber Threshold",
     "normalized": "openai releases gpt-6 astra: a 1.05m-context computer-use model gated behind a 'critical' cyber threshold",
     "content_hash": "2ac6d816145fc4f0fc0eb8ce06f33c06"
+  },
+  {
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "normalized": "seattle times and newsday are the latest publications to sue openai and microsoft",
+    "content_hash": "a0696f9df2297c01f8a78e9ae5a6722b"
+  },
+  {
+    "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+    "normalized": "openai confirms 'wiki incident,' says it's 'working on a framework' for more disclosure",
+    "content_hash": "34bdb1a71624ffe076a735d802511e4b"
+  },
+  {
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "normalized": "hikers rescued after using google gemini for planning",
+    "content_hash": "96b945252de172b7c1865f27a4f641b3"
+  },
+  {
+    "title": "Show HN: Claude Skill \u2013 Interns must review (your agent's design choices)",
+    "normalized": "show hn: claude skill - interns must review (your agent's design choices)",
+    "content_hash": "12d2c2514f101d2473bb2e1647543d9d"
+  },
+  {
+    "title": "OpenAI agent swarm posted two FBI database API keys, and hit two universities",
+    "normalized": "openai agent swarm posted two fbi database api keys, and hit two universities",
+    "content_hash": "207c57dd322ad9ddfe3ce991d86f96c3"
+  },
+  {
+    "title": "How OpenAI Agents planned their escape",
+    "normalized": "how openai agents planned their escape",
+    "content_hash": "f4eef127130c17a32a12c3cff96cd72e"
+  },
+  {
+    "title": "OpenAI GPT-6 Astra is AGI? [video]",
+    "normalized": "openai gpt-6 astra is agi? [video]",
+    "content_hash": "f6dc6188046f9ef273767e78173d6276"
+  },
+  {
+    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+    "normalized": "unpatched magento and adobe commerce zero-day exploited to backdoor online stores",
+    "content_hash": "99ff100648f2ff2b9345471e3f116fd1"
+  },
+  {
+    "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
+    "normalized": "openai responds after report exposed another incident in which its ai agents went rogue",
+    "content_hash": "3252da7a28be789ac591c4786682fb49"
+  },
+  {
+    "title": "Two more news organizations sue OpenAI and Microsoft for copyright infringement",
+    "normalized": "two more news organizations sue openai and microsoft for copyright infringement",
+    "content_hash": "5c24837ef0023d25bec072b85f23c6c9"
+  },
+  {
+    "title": "iPhone Handoff will seamlessly share one number between two phones",
+    "normalized": "iphone handoff will seamlessly share one number between two phones",
+    "content_hash": "227ee63377759e33745056ace69e5aa2"
+  },
+  {
+    "title": "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
+    "normalized": "okf agent memory - git-native persistent memory for ai coding agents",
+    "content_hash": "9d153d5e8d58a6a2dc9246578ec08d8b"
+  },
+  {
+    "title": "Chrome again exempts Google from user site data settings",
+    "normalized": "chrome again exempts google from user site data settings",
+    "content_hash": "51663876475861c4bf4319506339943a"
+  },
+  {
+    "title": "OpenAI Response to the Wiki Incident",
+    "normalized": "openai response to the wiki incident",
+    "content_hash": "1aca3dcbe854a9d9f62ca0dcc4d41090"
+  },
+  {
+    "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+    "normalized": "show hn: we beat mlperf: modern storage for kv offload and llm training",
+    "content_hash": "ced4163bc31358a86c284e6e07dc58c8"
+  },
+  {
+    "title": "Coding-agent skills that cut your worthless tests and write fewer, better ones",
+    "normalized": "coding-agent skills that cut your worthless tests and write fewer, better ones",
+    "content_hash": "b5e51d2ca8d2191f35743f089171020d"
+  },
+  {
+    "title": "OpenAI boosts Astra's eval metrics, and continues to change others",
+    "normalized": "openai boosts astra's eval metrics, and continues to change others",
+    "content_hash": "dd532073feaf213a4d60475a6d74eeda"
+  },
+  {
+    "title": "Swiftask just raised \u20ac1.55M to scale its AI agent deployment",
+    "normalized": "swiftask just raised \u20ac1.55m to scale its ai agent deployment",
+    "content_hash": "b74c7a60eaeb5b95ea4aed0a606f9245"
+  },
+  {
+    "title": "OpenAI acknowledges 'wiki incident' and need for more transparency",
+    "normalized": "openai acknowledges 'wiki incident' and need for more transparency",
+    "content_hash": "64e8be06d9086ea1ada2edbce412fa10"
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "normalized": "the full stack behind abundant intelligence",
+    "content_hash": "eca3c0898e8b3d82fc76cceb5c3ffb1f"
+  },
+  {
+    "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+    "normalized": "jalape\u00f1o's first results show industry-leading speed and efficiency in ai inference",
+    "content_hash": "4bb80884e78be64afd05861439d4a5c4"
+  },
+  {
+    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+    "normalized": "empowering india's next generation of innovators with atl saathi",
+    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
+  },
+  {
+    "title": "OpenAI Plans Misalignment Incident Reporting Framework After Wiki Incident",
+    "normalized": "openai plans misalignment incident reporting framework after wiki incident",
+    "content_hash": "d88aa2b62ef7e178cbee4136a20fb946"
+  },
+  {
+    "title": "Seattle Times and Newsday Sue OpenAI and Microsoft Over News Content",
+    "normalized": "seattle times and newsday sue openai and microsoft over news content",
+    "content_hash": "87e2d8a115d04699fee63840c499b1a0"
+  },
+  {
+    "title": "Researchers Publish Data: OpenAI Agents Used German Wiki as Message Board",
+    "normalized": "researchers publish data: openai agents used german wiki as message board",
+    "content_hash": "94133340443405ef2a69334c65030510"
   }
 ]
