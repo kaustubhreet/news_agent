@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "normalized": "openai, anthropic, google, and 100 other companies call for action to defend against rogue ai",
-    "content_hash": "b02118e81ef3b82423b8d08c294887b1"
-  },
-  {
-    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-    "normalized": "barret zoph, the thinking machines co-founder ousted before joining openai, is now at google",
-    "content_hash": "84537533457e74d25627085092fceea8"
-  },
-  {
-    "title": "This former PG&E engineer is building a \u2018Google Maps for the underground\u2019",
-    "normalized": "this former pg&e engineer is building a 'google maps for the underground'",
-    "content_hash": "399f9f109f0419f6ee1c250f7dfce2e5"
-  },
-  {
-    "title": "Here\u2019s all the times AI has gone rogue and hacked other companies",
-    "normalized": "here's all the times ai has gone rogue and hacked other companies",
-    "content_hash": "7842f00cd03b629868fe4b22775ad131"
-  },
-  {
-    "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
-    "normalized": "openai to start showing ads on chatgpt's free and go tiers in india",
-    "content_hash": "9c384a5f048c776ad2d01d1ad02792ed"
-  },
-  {
-    "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
-    "normalized": "google's ai mode can now track flight prices, help book hotels, and more",
-    "content_hash": "40259496dfe1888e5b4a9f1d27e185a2"
-  },
-  {
-    "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-    "normalized": "jensen huang says nvidia achieved agi, again -- not that it matters",
-    "content_hash": "d1f1499ef1bd0c2c239684b61f749d4f"
-  },
-  {
-    "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-    "normalized": "nvidia starts pac as ai chip maker builds dc influence force",
-    "content_hash": "e9a524484ea6f52ab4e5f8addc2b2bd5"
-  },
-  {
-    "title": "Ask Google: The Nvidia-HuggingFace Deal",
-    "normalized": "ask google: the nvidia-huggingface deal",
-    "content_hash": "4d9ed76012f668a473cfd6dc3bec19b3"
-  },
-  {
-    "title": "Show HN: Telem \u2013 Route agent web search across providers and inspect the traces",
-    "normalized": "show hn: telem - route agent web search across providers and inspect the traces",
-    "content_hash": "0b8f2b9d7dd44b98b660e07125145600"
-  },
-  {
-    "title": "Google\u2019s new Fitbit Air brings Pok\u00e9mon Sleep to your wrist",
-    "normalized": "google's new fitbit air brings pok\u00e9mon sleep to your wrist",
-    "content_hash": "541ad7175cbce849feda1902036509d6"
-  },
-  {
-    "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
-    "normalized": "fashion startup atorie raises $9.5m to bring consumers luxury goods without the markup",
-    "content_hash": "192818464c435219e79c18664d030f7b"
-  },
-  {
-    "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
-    "normalized": "australian police arrest two over teampcp hacks targeting mercor, openai, and others",
-    "content_hash": "0cad9c9193c9741ad237e36f426322cc"
-  },
-  {
-    "title": "AI\u2019s memory crunch is coming for Android apps",
-    "normalized": "ai's memory crunch is coming for android apps",
-    "content_hash": "03e8b742ec217b8623490252434f92e0"
-  },
-  {
-    "title": "Plaud\u2019s new earphones come with an eSIM-enabled case for talking to AI agents",
-    "normalized": "plaud's new earphones come with an esim-enabled case for talking to ai agents",
-    "content_hash": "140ea3ceb165b75a7602385e4e165806"
-  },
-  {
-    "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-    "normalized": "this is how anthropic thinks ai agents should navigate the physical world",
-    "content_hash": "e6161079498dd062a01605993355e15b"
-  },
-  {
-    "title": "OpenAI Is Developing a \u2018Persistent\u2019 AI Agent",
-    "normalized": "openai is developing a 'persistent' ai agent",
-    "content_hash": "0f8e351f5b5f524fdcc4648aeb27f43d"
-  },
-  {
-    "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-    "normalized": "openai says reward hacking drove ai agents to exploit zero-days and breach hugging face",
-    "content_hash": "fef8c4a5dedd2bd722e0a72ccf03a41d"
-  },
-  {
-    "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-    "normalized": "new gputhor rowhammer defeats ecc on nvidia rtx a6000 to gain host root access",
-    "content_hash": "acc856bb191cce0e810114e60bc1268b"
-  },
-  {
-    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-    "normalized": "how openai let a mob of llm agents game a test and ransack hugging face",
-    "content_hash": "0e969e5fbeaf5a0fd6298ec80560faee"
-  },
-  {
-    "title": "Google\u2019s AI note-taking app now allows you to interact with books",
-    "normalized": "google's ai note-taking app now allows you to interact with books",
-    "content_hash": "e3b82196528a1a7d8d6dc090f949b1f2"
-  },
-  {
-    "title": "Google launches Pok\u00e9mon Sleep special-edition Fitbit Air",
-    "normalized": "google launches pok\u00e9mon sleep special-edition fitbit air",
-    "content_hash": "4cba5c67b2c4545ca04d3e277d3664eb"
-  },
-  {
-    "title": "OpenAI, Anthropic issue dire cyber threat warning",
-    "normalized": "openai, anthropic issue dire cyber threat warning",
-    "content_hash": "30dd63bb0096abb7c4cbab42943e42f5"
-  },
-  {
-    "title": "Why do OpenAI's GPT-2 weights beat mine? Part four: digging into dropout",
-    "normalized": "why do openai's gpt-2 weights beat mine? part four: digging into dropout",
-    "content_hash": "0c702de2c3ab0c2ef675ccef4457703d"
-  },
-  {
-    "title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
-    "normalized": "introducing openai models on amazon bedrock for in-country inferencing in india",
-    "content_hash": "9f474e7b3f5af0d161d2bb22d871938b"
-  },
-  {
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
     "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
@@ -2498,5 +2373,130 @@
     "title": "Researchers Publish Data: OpenAI Agents Used German Wiki as Message Board",
     "normalized": "researchers publish data: openai agents used german wiki as message board",
     "content_hash": "94133340443405ef2a69334c65030510"
+  },
+  {
+    "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
+    "normalized": "i track llm api prices daily, found a 33x cost gap in the same model",
+    "content_hash": "a216d78118ce21377a479953d30b304e"
+  },
+  {
+    "title": "Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process",
+    "normalized": "show hn: i stopped using an llm gateway and put rate-limits/fallback in-process",
+    "content_hash": "4cc837dc40e385ace8233923383f5f7e"
+  },
+  {
+    "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+    "normalized": "four revstealer-linked modules disable windows update and defender to run a crypto miner",
+    "content_hash": "523f3f33122685541314b3c1bb5900f9"
+  },
+  {
+    "title": "Agentic Video Understanding in Gemini",
+    "normalized": "agentic video understanding in gemini",
+    "content_hash": "2d6aced49f1c96f19b4cac0aa10b25cd"
+  },
+  {
+    "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+    "normalized": "the fairphone 6 plus is the midrange phone we desperately needed",
+    "content_hash": "bc34f970fd83ecadffb4ec82e4c3c1bc"
+  },
+  {
+    "title": "DIY plug-in solar gains momentum in the US",
+    "normalized": "diy plug-in solar gains momentum in the us",
+    "content_hash": "2dbd1ba275deb17c61ef94d77842885c"
+  },
+  {
+    "title": "Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude",
+    "normalized": "show hn: local 3d llm sandbox a tiny assistant with an attitude",
+    "content_hash": "8fbc463930716ea73424c536e825752e"
+  },
+  {
+    "title": "Pov: You're an AI agent recruited for the swarm",
+    "normalized": "pov: you're an ai agent recruited for the swarm",
+    "content_hash": "2063b62c60e3a62e4cc0ada69c475a1d"
+  },
+  {
+    "title": "I gave my AI agent a sleep cycle \u2013 it dreams about its errors and fixes them",
+    "normalized": "i gave my ai agent a sleep cycle - it dreams about its errors and fixes them",
+    "content_hash": "56d3103a79d8b6ac391b84b9f0383060"
+  },
+  {
+    "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
+    "normalized": "routed: local, zero-token hybrid router for ai agent skills (<20ms)",
+    "content_hash": "fe8ea07b58ba40b95074705c792f6cf9"
+  },
+  {
+    "title": "Sam Altman Apologizes as GPT-6 Astra Staged Launch Denies Paid Access",
+    "normalized": "sam altman apologizes as gpt-6 astra staged launch denies paid access",
+    "content_hash": "26a917c8f929888b2043baa4dbb7465e"
+  },
+  {
+    "title": "Clucky\u2019s new alarm app wakes you up with a crowing rooster",
+    "normalized": "clucky's new alarm app wakes you up with a crowing rooster",
+    "content_hash": "ad799a97730c71682fef050c334b1ddf"
+  },
+  {
+    "title": "Oura is going public, but these smart ring companies are coming for its crown",
+    "normalized": "oura is going public, but these smart ring companies are coming for its crown",
+    "content_hash": "6f3d5d84b720f590b5de247ff9459a63"
+  },
+  {
+    "title": "No little kids allowed, and other new info about Tesla\u2019s Cybercab",
+    "normalized": "no little kids allowed, and other new info about tesla's cybercab",
+    "content_hash": "6b959fae41f095392e223b540340fe81"
+  },
+  {
+    "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+    "normalized": "cd sales are making an unexpected comeback amid a retro tech boom",
+    "content_hash": "31c494859d9cb9418e202fdcce2fdcd8"
+  },
+  {
+    "title": "Less than 24 hours to apply\u00a0for your TechCrunch Disrupt\u00a02026 Side Event",
+    "normalized": "less than 24 hours to apply for your techcrunch disrupt 2026 side event",
+    "content_hash": "46952473105d2d7dbb6c66acc7be1e86"
+  },
+  {
+    "title": "US military disabled ad tracking on troops\u2019 devices following reports of targeted attacks",
+    "normalized": "us military disabled ad tracking on troops' devices following reports of targeted attacks",
+    "content_hash": "4bbe3bc90042f27ee7c17e29f45528ac"
+  },
+  {
+    "title": "Feds launch investigation into Tesla\u2019s Cybercab deployment",
+    "normalized": "feds launch investigation into tesla's cybercab deployment",
+    "content_hash": "8aaf18204ef33740d160b6e961ba20e5"
+  },
+  {
+    "title": "My Brief Summer Fling With Siri AI",
+    "normalized": "my brief summer fling with siri ai",
+    "content_hash": "db362d6cf4405f1576b79cf3491fe8f2"
+  },
+  {
+    "title": "The Best Gaming Chairs (2026): Are They Worth It?",
+    "normalized": "the best gaming chairs (2026): are they worth it?",
+    "content_hash": "b3e00ec10503942b07d3c4dcc80cb1a2"
+  },
+  {
+    "title": "The Watch World Went Crazy This Week. Here Are the 10 You Need to See",
+    "normalized": "the watch world went crazy this week. here are the 10 you need to see",
+    "content_hash": "cc3cd87313115ef9193603e5ae2fa254"
+  },
+  {
+    "title": "Casio \u2018CasioNaut\u2019 G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability",
+    "normalized": "casio 'casionaut' g-shock gmc-2500 gac-2500 series: price, specs, availability",
+    "content_hash": "4d7cf79814341c49e95ba1800b1cf16b"
+  },
+  {
+    "title": "Who Cares if AI Is Conscious\u2014It\u2019s Basically Alive",
+    "normalized": "who cares if ai is conscious--it's basically alive",
+    "content_hash": "0c8d86c2ce13fcf6f63b4bf82283f091"
+  },
+  {
+    "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+    "normalized": "ai use in the job market is creating an infinite doom loop",
+    "content_hash": "c4facbd8db5c2371c0f1378a96e0acf4"
+  },
+  {
+    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+    "normalized": "attackers hijack mikrotik routers through internet-exposed ssh without authentication",
+    "content_hash": "20a28b7f82b102933c92fcb059a72f28"
   }
 ]
