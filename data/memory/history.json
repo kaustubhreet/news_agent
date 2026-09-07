@@ -1,130 +1,5 @@
 [
   {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "normalized": "railway secures $100 million to challenge aws with ai-native cloud infrastructure",
-    "content_hash": "5d53b2a70527a2119c095f7f1c1edc7d"
-  },
-  {
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "normalized": "anthropic and openai are joining the ai stage at techcrunch disrupt 2026",
-    "content_hash": "5d15cd1db49af4ae38cad4824dd306db"
-  },
-  {
-    "title": "Show HN: Beating GPT5.5-xhigh for Coding agent security with SLMs and IRM",
-    "normalized": "show hn: beating gpt5.5-xhigh for coding agent security with slms and irm",
-    "content_hash": "80252f757bf2c42574cf470e5e9f62ac"
-  },
-  {
-    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "normalized": "anthropic was illegally blacklisted by the trump administration, court rules",
-    "content_hash": "87781195b026573f7296bfeeaf2641d5"
-  },
-  {
-    "title": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
-    "normalized": "ai engineer notebooks - free, framework-free rag/agents/evals on colab",
-    "content_hash": "659ccd7a2625f7964e4fa8ed3ad31bf6"
-  },
-  {
-    "title": "Anthropic pushes into physical world with standard to help agents run machines",
-    "normalized": "anthropic pushes into physical world with standard to help agents run machines",
-    "content_hash": "29b3020776de42ffb22469418951db8b"
-  },
-  {
-    "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
-    "normalized": "leveraging large language models for systematic literature review of disease spread models",
-    "content_hash": "08ec3215bdb077a87e8110beb6a6211a"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-    "normalized": "google just redesigned the search box for the first time in 25 years -- here's why it matters more than you think.",
-    "content_hash": "6d664fc288d99f6d67b77e4b21334d39"
-  },
-  {
-    "title": "OpenAI rolls out ChatGPT ads in India, over 50 brands on board",
-    "normalized": "openai rolls out chatgpt ads in india, over 50 brands on board",
-    "content_hash": "e130586d13f4c62584124b57fd1a5288"
-  },
-  {
-    "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-    "normalized": "ai, athletes, and keith rabois: strictlyvc is back in new york on september 10",
-    "content_hash": "18bba7b48e5e3a000632fa3e8ac5b220"
-  },
-  {
-    "title": "Rivian\u2019s CFO is leaving the company",
-    "normalized": "rivian's cfo is leaving the company",
-    "content_hash": "2d8b56b76207b93181c68b008e168146"
-  },
-  {
-    "title": "Buried in Meta\u2019s $18B settlement is a legal pass on kids\u2019 data",
-    "normalized": "buried in meta's $18b settlement is a legal pass on kids' data",
-    "content_hash": "13de975922e1d91a03d781af3914ce12"
-  },
-  {
-    "title": "ATF declares \u2018major incident\u2019 as ransomware gang claims hack",
-    "normalized": "atf declares 'major incident' as ransomware gang claims hack",
-    "content_hash": "4b05f49d00d4bd0101ef3e52d1a39f77"
-  },
-  {
-    "title": "Hoomanely\u2019s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
-    "normalized": "hoomanely's building a smart feeding bowl and an ai platform to help owners spot when their pup is sick",
-    "content_hash": "22fa78ced16776d868d3e5f2c9840409"
-  },
-  {
-    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-    "normalized": "hugging face is selling a cute $399 open source duck robot, microduck",
-    "content_hash": "b50f2b4989f347e601cdf3367ddf1147"
-  },
-  {
-    "title": "Hold up, there\u2019s a new Twitter in town",
-    "normalized": "hold up, there's a new twitter in town",
-    "content_hash": "a9be5933d56dfe964eab600c6d2504a9"
-  },
-  {
-    "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
-    "normalized": "sprains, pain, and whiplash: waymo and zoox test drivers are getting hurt as robotaxis scale",
-    "content_hash": "85fab59b3c717605cb6cc720b983021c"
-  },
-  {
-    "title": "A Judge Has Blocked the Pentagon\u2019s Attempt to Blacklist Anthropic",
-    "normalized": "a judge has blocked the pentagon's attempt to blacklist anthropic",
-    "content_hash": "4e7d0959daa7917a14f7779acba65606"
-  },
-  {
-    "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-    "normalized": "ai agents are hacking systems. could that push the us and china to cooperate?",
-    "content_hash": "6dfeb810d21826dc43a5b5fb2911741b"
-  },
-  {
-    "title": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling",
-    "normalized": "google engineer accused of polymarket insider trading says he was just gambling",
-    "content_hash": "04d5b6df31f961bf3f6fed8b43af7b02"
-  },
-  {
-    "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-    "normalized": "amazon kiro prompt injection can exfiltrate sensitive data through kiro powers",
-    "content_hash": "a95a907607cbb1eecf82d798164f9b6d"
-  },
-  {
-    "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-    "normalized": "alleged teampcp hackers charged in australia over major supply chain attacks",
-    "content_hash": "c8e291dcae5d505805e90f2a2569c4c7"
-  },
-  {
-    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-    "normalized": "anthropic's new hardware standard lets ai agents control the physical world",
-    "content_hash": "b0c2ca93b6ab9115f244a14ad5ed1613"
-  },
-  {
-    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-    "normalized": "report: nvidia to acquire ai model repository hugging face for $13 billion",
-    "content_hash": "14b043d958bab169beb1876ce782732c"
-  },
-  {
-    "title": "OpenAI, Google and dozens of other companies publish open letter calling for collective action on cyber defense",
-    "normalized": "openai, google and dozens of other companies publish open letter calling for collective action on cyber defense",
-    "content_hash": "0ec21a604059de5bf0a3e070c462a8bb"
-  },
-  {
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
     "normalized": "neocloud lambda secures $1b in debt to buy more chips",
     "content_hash": "4a0185b107329024f957550b737aab23"
@@ -2498,5 +2373,130 @@
     "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
     "normalized": "attackers hijack mikrotik routers through internet-exposed ssh without authentication",
     "content_hash": "20a28b7f82b102933c92fcb059a72f28"
+  },
+  {
+    "title": "Show HN: MaskShift \u2013 a maximalist coding agent with zero NPM dependencies",
+    "normalized": "show hn: maskshift - a maximalist coding agent with zero npm dependencies",
+    "content_hash": "70d470269e38bbff766a177158fb27ef"
+  },
+  {
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "normalized": "authors push back as publishers and agents make claims on anthropic settlement",
+    "content_hash": "258fed8974401e3d928997e1773ca4e5"
+  },
+  {
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "normalized": "seattle times and newsday sue openai and microsoft for infringement",
+    "content_hash": "a1951dfe3d1399388a5f9a1861b03aed"
+  },
+  {
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3 Scored 99.95% with Provider Adapter Harness",
+    "normalized": "openai's gpt-6 astra on arc-agi-3 scored 99.95% with provider adapter harness",
+    "content_hash": "c29d655f57598d9df73a393f1575cb12"
+  },
+  {
+    "title": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
+    "normalized": "travis kalanick's atoms might be getting into the robotaxi business",
+    "content_hash": "b30c69b4fd43be9c3495f3aa149f4991"
+  },
+  {
+    "title": "TechCrunch Mobility: Tesla Cybercab hits the road \u2014 and a snag",
+    "normalized": "techcrunch mobility: tesla cybercab hits the road -- and a snag",
+    "content_hash": "59f492616db97069a4eb30dd81e3ca09"
+  },
+  {
+    "title": "How to set up ChatGPT's parental controls to protect your teen",
+    "normalized": "how to set up chatgpt's parental controls to protect your teen",
+    "content_hash": "63b7733d4b84350d59b8c15767d1e88f"
+  },
+  {
+    "title": "An Amazon cargo plane crashed at Miami International Airport",
+    "normalized": "an amazon cargo plane crashed at miami international airport",
+    "content_hash": "afa1e824c7e3818050e6d005b7c247b3"
+  },
+  {
+    "title": "Boox\u2019s tiny Picco e-reader should land in November",
+    "normalized": "boox's tiny picco e-reader should land in november",
+    "content_hash": "e03aa8166284479888ad436a4992aea6"
+  },
+  {
+    "title": "Ponytail: Lazy Senior Engineer Skill",
+    "normalized": "ponytail: lazy senior engineer skill",
+    "content_hash": "c4a16a42fd8db4625d151a18a5b96429"
+  },
+  {
+    "title": "Research acceleration: The view inside OpenAI",
+    "normalized": "research acceleration: the view inside openai",
+    "content_hash": "f1672e37ab83eaa54e83e76ef36f5c07"
+  },
+  {
+    "title": "Anthropic Has Committed More Than $100B to AWS",
+    "normalized": "anthropic has committed more than $100b to aws",
+    "content_hash": "e7aff2a539f6f96ab97d0e55ed11c43f"
+  },
+  {
+    "title": "Prediction of maternal and infant outcomes with a Mother-Child AI agent",
+    "normalized": "prediction of maternal and infant outcomes with a mother-child ai agent",
+    "content_hash": "512cedf369d22363b69045f0be682782"
+  },
+  {
+    "title": "Show HN: Chrome-bridge \u2013 let any AI agent drive your real logged-in Chrome",
+    "normalized": "show hn: chrome-bridge - let any ai agent drive your real logged-in chrome",
+    "content_hash": "10d56a73f55e38af1e4a7114bf4e733f"
+  },
+  {
+    "title": "A directory of AI agents, MCP servers and agent skills, cross-linked",
+    "normalized": "a directory of ai agents, mcp servers and agent skills, cross-linked",
+    "content_hash": "4ecc2a1c60675cc0bc5c1a7af2160f7c"
+  },
+  {
+    "title": "Ask HN: How safe are our password managers in face of LLM cyber attacks?",
+    "normalized": "ask hn: how safe are our password managers in face of llm cyber attacks?",
+    "content_hash": "40755632119a016251049bfadc213554"
+  },
+  {
+    "title": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
+    "normalized": "ask hn: (why) was the llm breakthrough useful for images, audio, etc.?",
+    "content_hash": "dede24ef9b47e42d538c05b803a08e18"
+  },
+  {
+    "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
+    "normalized": "tumbler ridge shooting survivors file 30 lawsuits against openai",
+    "content_hash": "4b1fd80f1da2d0a4ebd5edad74fd2874"
+  },
+  {
+    "title": "OpenAI Hits Goal of Building an \u2018Automated Research Intern\u2019",
+    "normalized": "openai hits goal of building an 'automated research intern'",
+    "content_hash": "786fd900e20efcbb66e79c014771cf38"
+  },
+  {
+    "title": "Phil Schiller\u2019s App Store exit reportedly driven by wariness over future plans",
+    "normalized": "phil schiller's app store exit reportedly driven by wariness over future plans",
+    "content_hash": "542d7b70a3bdfffe4f95252c13383d17"
+  },
+  {
+    "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+    "normalized": "attackers breached jetbrains cadence via unpatched teamcity, extracting aws credentials",
+    "content_hash": "a6bb6f0078e1c0751a664403efb025c7"
+  },
+  {
+    "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+    "normalized": "critical vmware workstation and fusion flaw lets vm admins execute host code",
+    "content_hash": "36598d276fac2d2bd71f56492571ba75"
+  },
+  {
+    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+    "normalized": "trezor says shipmonk breach exposed 67,000 u.s. customers' data it said was deleted",
+    "content_hash": "e4560a283f6ffc70a63e712c584ea16c"
+  },
+  {
+    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+    "normalized": "attackers exploit papercut flaws to steal credentials from schools and universities",
+    "content_hash": "476ac63b5b2d4d01ab779926f152b033"
+  },
+  {
+    "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+    "normalized": "plex urges immediate updates after patching multiple undisclosed security flaws",
+    "content_hash": "d6c240aa172bf6900413b1b23d787a85"
   }
 ]
