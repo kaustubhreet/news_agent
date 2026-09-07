@@ -1,130 +1,5 @@
 [
   {
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "normalized": "neocloud lambda secures $1b in debt to buy more chips",
-    "content_hash": "4a0185b107329024f957550b737aab23"
-  },
-  {
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "normalized": "meta executive leaves for openai as the social media giant faces growing scrutiny in india",
-    "content_hash": "75aaa05f36c55ed9cbda2e4102c39011"
-  },
-  {
-    "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-    "normalized": "dlss 5 leaked and modders are putting nvidia's ai effects on everything",
-    "content_hash": "9bc984c4dad5fcc8568841ffc100653e"
-  },
-  {
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "normalized": "an anthropic researcher just gave us a peek at self-improving ai",
-    "content_hash": "b8fc079cd8483da6a29387a606381e68"
-  },
-  {
-    "title": "Open-weight AI companies are the Valley\u2019s hottest acquisition targets",
-    "normalized": "open-weight ai companies are the valley's hottest acquisition targets",
-    "content_hash": "9745315a5ac987ca48878e0d93a29c3b"
-  },
-  {
-    "title": "Friend-focused photo-sharing app Retro snags $21M",
-    "normalized": "friend-focused photo-sharing app retro snags $21m",
-    "content_hash": "8db5cf76beed8e4f45860aa1068a9a3c"
-  },
-  {
-    "title": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
-    "normalized": "anthropic gets its first court win over the pentagon's supply-chain risk label",
-    "content_hash": "78f52a4bd78d0cf6cceaf0d0b4b451e6"
-  },
-  {
-    "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-    "normalized": "as electric two-wheelers gain a foothold, belgian startup any bets on cargo space",
-    "content_hash": "fe668389de5963e561f45b681976442d"
-  },
-  {
-    "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-    "normalized": "19 chrome and edge extensions found with wallet-stealing and crypto-draining code",
-    "content_hash": "eb90ed4f512b288ebe1d7896b59ec69f"
-  },
-  {
-    "title": "Investing in multi-agent AI safety research",
-    "normalized": "investing in multi-agent ai safety research",
-    "content_hash": "f15755133eca743d3794b7838c5bb1fa"
-  },
-  {
-    "title": "Brave\u2019s browser one-ups Chrome with its new support for email aliases",
-    "normalized": "brave's browser one-ups chrome with its new support for email aliases",
-    "content_hash": "54296e004134af08c1a09389818c2354"
-  },
-  {
-    "title": "How Sweden built one of Europe\u2019s hottest startup ecosystems",
-    "normalized": "how sweden built one of europe's hottest startup ecosystems",
-    "content_hash": "1c67d1380dc43b96391cf2291eb4037e"
-  },
-  {
-    "title": "More Americans oppose police license plate cameras than support them: survey",
-    "normalized": "more americans oppose police license plate cameras than support them: survey",
-    "content_hash": "bb3f967c90eb4c6d9dd6771790c13bfe"
-  },
-  {
-    "title": "Apple TV is raising its subscription prices again",
-    "normalized": "apple tv is raising its subscription prices again",
-    "content_hash": "7c58a815a3ad5f0fcdaa125fb98772ae"
-  },
-  {
-    "title": "a16z creates a $1.1B \u2018Machine Age\u2019 fund to \u2018accelerate the physical buildout of AI\u2019",
-    "normalized": "a16z creates a $1.1b 'machine age' fund to 'accelerate the physical buildout of ai'",
-    "content_hash": "ca15b5e107d24661d6e24ae347f2f9a8"
-  },
-  {
-    "title": "Microsoft Teams Has Become a Haven for Scammers in China",
-    "normalized": "microsoft teams has become a haven for scammers in china",
-    "content_hash": "3fc8e00a5daf1922a752b72fc6dca07d"
-  },
-  {
-    "title": "Trump\u2019s EPA wants to let data centers hide their air pollution",
-    "normalized": "trump's epa wants to let data centers hide their air pollution",
-    "content_hash": "85f5c1710185549c454d419a2cff8d56"
-  },
-  {
-    "title": "The iPhone Fold could make concerts even worse",
-    "normalized": "the iphone fold could make concerts even worse",
-    "content_hash": "cd5be39ea99ee69eff34b21c7411eb63"
-  },
-  {
-    "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
-    "normalized": "apple tv now costs $14.99 a month after its fourth price hike in four years",
-    "content_hash": "27d76f0e8fff5afa6871856fced07e35"
-  },
-  {
-    "title": "The biggest video game of all time looks like a movie",
-    "normalized": "the biggest video game of all time looks like a movie",
-    "content_hash": "fce1a018df6590e04663655728f586bb"
-  },
-  {
-    "title": "Meta addresses \u2018pervert glasses\u2019 reputation with a privacy fix and a new marketing campaign",
-    "normalized": "meta addresses 'pervert glasses' reputation with a privacy fix and a new marketing campaign",
-    "content_hash": "5f391462700955a7f5fc44028553f496"
-  },
-  {
-    "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-    "normalized": "show hn: conduct, open-source guardrails for llm and mcp tool calls",
-    "content_hash": "c9d61de6b694953b6b6bf95e4e0f4464"
-  },
-  {
-    "title": "Supporting Thailand\u2019s next generation of AI startups",
-    "normalized": "supporting thailand's next generation of ai startups",
-    "content_hash": "a45269107de8aa3fc2a815831bc9f2fc"
-  },
-  {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "normalized": "learning never stops: how ai makes learning continuous",
-    "content_hash": "8d5404709980b9e62064330fe7b7447a"
-  },
-  {
-    "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-    "normalized": "standalone llm and a pre-specified agentic pipeline for explaining icu mortality predictions: a feasibility study on the eicu demo dataset",
-    "content_hash": "d72b0ec6685682bddab8a21a32033a52"
-  },
-  {
     "title": "Google further buries search results under AI mode",
     "normalized": "google further buries search results under ai mode",
     "content_hash": "6914fc1c461461bd504db9488a1cb64e"
@@ -2498,5 +2373,130 @@
     "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
     "normalized": "plex urges immediate updates after patching multiple undisclosed security flaws",
     "content_hash": "d6c240aa172bf6900413b1b23d787a85"
+  },
+  {
+    "title": "The real reason your phone is getting more expensive",
+    "normalized": "the real reason your phone is getting more expensive",
+    "content_hash": "18cab3f4beea400fc0d855ace7e3506c"
+  },
+  {
+    "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+    "normalized": "harvestbench: measuring whether llm agents will pay to avoid killing animals",
+    "content_hash": "2b0ce190793953b1d87d9623670bafa1"
+  },
+  {
+    "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+    "normalized": "perfreasoning: how well do llms reason on hardware performance?",
+    "content_hash": "27c2d4cf241875e6500f64574d9e2b18"
+  },
+  {
+    "title": "What we expect from the upcoming Apple launch",
+    "normalized": "what we expect from the upcoming apple launch",
+    "content_hash": "2b86617141691b6b4896fe8ffe957db7"
+  },
+  {
+    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+    "normalized": "fake it calls target executives in microsoft 365 data theft and extortion attacks",
+    "content_hash": "7f8e9b0a2cb82fe36858bd99762d8f64"
+  },
+  {
+    "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+    "normalized": "your cloud security checklist doesn't work the way you think it does",
+    "content_hash": "8229fe1bfbca77293d92a49ea98d3b42"
+  },
+  {
+    "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+    "normalized": "jsceal malware can bypass google authentication using stolen session cookies",
+    "content_hash": "daf03c070b3faadb9bf64e5dddad2abc"
+  },
+  {
+    "title": "Six years later, Sony revisits its legendary XM4 headphones",
+    "normalized": "six years later, sony revisits its legendary xm4 headphones",
+    "content_hash": "7930b47a07a20c83daca5ec681f0de53"
+  },
+  {
+    "title": "Bentley\u2019s Torcal EV tries to balance authenticity with fake V8 sounds",
+    "normalized": "bentley's torcal ev tries to balance authenticity with fake v8 sounds",
+    "content_hash": "fd86752707cefa3ff4f6b124a6efa239"
+  },
+  {
+    "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+    "normalized": "from matching models to recruiting agents: a systematized narrative review of ai recruitment systems, evaluation, and governance",
+    "content_hash": "d297f8e905d805dba25b86d0c54b036b"
+  },
+  {
+    "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+    "normalized": "harbor adapters and harbor-index: infrastructure and a curated meta-dataset for large-scale agentic evaluation",
+    "content_hash": "ec75029e57a1784abad3014606878f05"
+  },
+  {
+    "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+    "normalized": "why better models can create riskier systems: evidence from llm agents in financial markets",
+    "content_hash": "3f7f04db45e617e766d5e27bb313a52c"
+  },
+  {
+    "title": "MaxKernel: Agentic Kernel Generation for TPUs",
+    "normalized": "maxkernel: agentic kernel generation for tpus",
+    "content_hash": "098c5b6bf27bd043748b546eb88021ef"
+  },
+  {
+    "title": "La Agente \\'Optima: Towards Agentic Self-Driving Laboratories",
+    "normalized": "la agente \\'optima: towards agentic self-driving laboratories",
+    "content_hash": "2064c34f16bde7deb93b4a867c74ee65"
+  },
+  {
+    "title": "$\\tau^\\tau$-Bench: An Environment for End-To-End, Realistic Agent Construction",
+    "normalized": "$\\tau^\\tau$-bench: an environment for end-to-end, realistic agent construction",
+    "content_hash": "01a94c3df9a35d61586f39644beeefcf"
+  },
+  {
+    "title": "Conformity Breaks Conformal Prediction",
+    "normalized": "conformity breaks conformal prediction",
+    "content_hash": "c7a4b81e646e78a4ab41264b0f99f882"
+  },
+  {
+    "title": "Matt Clifford Steps Down as ARIA Chair After Anthropic Move",
+    "normalized": "matt clifford steps down as aria chair after anthropic move",
+    "content_hash": "9a2c703a8486b9fdbfd79e895329d710"
+  },
+  {
+    "title": "UST Completes Majority Stake Acquisition of Italdesign From Audi",
+    "normalized": "ust completes majority stake acquisition of italdesign from audi",
+    "content_hash": "40b6f0a43c5d2b85432bec2ca47cd85f"
+  },
+  {
+    "title": "The 57 Best Deals From the REI Labor Day Sale",
+    "normalized": "the 57 best deals from the rei labor day sale",
+    "content_hash": "5fe8e1260f2ad26d3fbf40c312814f0d"
+  },
+  {
+    "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+    "normalized": "whispering complaints into your phone may be the future of customer feedback",
+    "content_hash": "a01bb9c6f31b0be1cc078d98da07a56d"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+    "normalized": "\u26a1 weekly recap: chrome 0-day, router hijacks, coder supply chain attack and more",
+    "content_hash": "c5ced5a20086a1169f38b65ce0a552bc"
+  },
+  {
+    "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+    "normalized": "rogue screenconnect clients spread four-stage vbscript chain to newly connected hosts",
+    "content_hash": "19da2d847177dd20996c1424df969399"
+  },
+  {
+    "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
+    "normalized": "telerik ui padding-oracle bug chained to unauthenticated rce -- public exploit released",
+    "content_hash": "39f8ae3339449ddadcc196039532fefa"
+  },
+  {
+    "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+    "normalized": "google releases chrome update to patch actively exploited v8 zero-day",
+    "content_hash": "90bfdfc62db77a562316a59a15461ef1"
+  },
+  {
+    "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+    "normalized": "brazetsu malware turns compromised windows hosts into criminal marketplace inventory",
+    "content_hash": "255b0e7948f10823858eabcf9be4274a"
   }
 ]
