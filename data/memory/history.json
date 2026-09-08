@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
-    "normalized": "nvidia's ai advantage is moving beyond the gpu",
-    "content_hash": "3c1c82c1fe7017dad7abd747b8a0ef82"
-  },
-  {
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "normalized": "our decision on cursor following its acquisition by spacex",
-    "content_hash": "0fc880832139ad8665a4cf7f9fdf5a1a"
-  },
-  {
-    "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
-    "normalized": "agent security is a systems problem: what 247 papers say about secure ai agents",
-    "content_hash": "b9150fe65f10449be8d9b95613b72642"
-  },
-  {
-    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-    "normalized": "the theragun sense makes everyday recovery surprisingly easy",
-    "content_hash": "bec5d43276aa7fd8aa21c1ccd42c162c"
-  },
-  {
-    "title": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
-    "normalized": "openai will pull its models from cursor due to spacexai acquisition",
-    "content_hash": "26e1948a12b07eca4ba26fae061c7c48"
-  },
-  {
-    "title": "Musicians-turned-detectives are hunting for AI grifters",
-    "normalized": "musicians-turned-detectives are hunting for ai grifters",
-    "content_hash": "8e99461c090dcc9ad251e6bebad958ae"
-  },
-  {
-    "title": "OpenLake: Fast, Durable Storage for LLM Inference and Training",
-    "normalized": "openlake: fast, durable storage for llm inference and training",
-    "content_hash": "3b9a8b9ee144cd01c1a30e83f6b26a61"
-  },
-  {
-    "title": "SwarmWorld: Stigmergic technological evolution in societies of LLM agents",
-    "normalized": "swarmworld: stigmergic technological evolution in societies of llm agents",
-    "content_hash": "2c33773b777661804b42460376f5774e"
-  },
-  {
-    "title": "Would you share your weirdest agent logs with AI safety researchers?",
-    "normalized": "would you share your weirdest agent logs with ai safety researchers?",
-    "content_hash": "7fe804e3047178b0dd3ea13e6dfb24dd"
-  },
-  {
-    "title": "Show HN: Visual workspace to design and operate daily multi-agent workflows",
-    "normalized": "show hn: visual workspace to design and operate daily multi-agent workflows",
-    "content_hash": "a7f59ab45478b9cdc36b44d25c34ab64"
-  },
-  {
-    "title": "Show HN: DeepSeekGUI \u2013 A Windows desktop client for DeepSeek's coding agent",
-    "normalized": "show hn: deepseekgui - a windows desktop client for deepseek's coding agent",
-    "content_hash": "bc0ceee6ae156522a8e92072366731b3"
-  },
-  {
-    "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-    "normalized": "pentagon's blacklisting of anthropic was unlawful, us judge rules",
-    "content_hash": "8c29318976afb69459abd2a610e53916"
-  },
-  {
-    "title": "Show HN: A free AI news briefing agent that runs on GitHub Actions, no server",
-    "normalized": "show hn: a free ai news briefing agent that runs on github actions, no server",
-    "content_hash": "4a65b0705c8a1a92046e2f704928b9fd"
-  },
-  {
-    "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor",
-    "normalized": "openai to end agreement with spacex's ai coding tool cursor",
-    "content_hash": "614393f19bf7488445e9d46105aaf09c"
-  },
-  {
-    "title": "The Cybersecurity Apocalypse Is Coming in \u2018Months,\u2019 AI Giants Warn",
-    "normalized": "the cybersecurity apocalypse is coming in 'months,' ai giants warn",
-    "content_hash": "a874a7cd3827158c367e06ad574a2bf9"
-  },
-  {
-    "title": "Psilocybin Might Make Your Brain Live in the Moment",
-    "normalized": "psilocybin might make your brain live in the moment",
-    "content_hash": "c17373ab9c4bf777440ab4912182d8e2"
-  },
-  {
-    "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-    "normalized": "cosmos evm flaw exploited after cosmos labs knew every blockchain running it was vulnerable",
-    "content_hash": "1cc74d65d251870e349505669fb67dbe"
-  },
-  {
-    "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-    "normalized": "attackers chain two papercut flaws to execute code without authentication",
-    "content_hash": "bd564d8a4e70ea3dcb90eef97465c8c8"
-  },
-  {
-    "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-    "normalized": "android 17 adds os-wide ech to hide website visits from network providers",
-    "content_hash": "8956b1fcfdcb6309a25f3c303f73dd99"
-  },
-  {
-    "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-    "normalized": "two unitree g1 edu humanoid robot flaws enable root rce, one starts over bluetooth",
-    "content_hash": "22362e16f2f9f1e7c2dc66b4f0f32d26"
-  },
-  {
-    "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-    "normalized": "three cvss 10.0 servicenow flaws could let unauthenticated attackers execute code and sql",
-    "content_hash": "1e614483d8f220fe139bd95bad10a654"
-  },
-  {
-    "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-    "normalized": "critical cpanel flaw could let one hosting customer take root control of a whole server",
-    "content_hash": "0bc0e3994960d8a99ca5a2259f0de9d2"
-  },
-  {
-    "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-    "normalized": "papercut zero-day exploited in attacks, affecting all ng and mf versions",
-    "content_hash": "b9ef2fd8f3712ab6a557b2798df790ff"
-  },
-  {
-    "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-    "normalized": "apt28-linked hookedge backdoor targets european government and diplomatic organizations",
-    "content_hash": "c7ac3b38b10c20cf31c2514a98dcbdda"
-  },
-  {
-    "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-    "normalized": "threatsday: 296k iot botnet, 100+ water systems targeted, sharepoint rce chain + 27 new stories",
-    "content_hash": "696ded8bb8c763c3f5b988824d07a8e9"
-  },
-  {
     "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalape\u00f1o",
     "normalized": "redesigning the inference chip: from nvidia gpu's flaws to openai jalape\u00f1o",
     "content_hash": "fbf68c14c0a22a4788398fdf9806b904"
@@ -2498,5 +2373,130 @@
     "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
     "normalized": "atv big air tour turned 3 days of work into 3 hours with chatgpt",
     "content_hash": "9102eeab474fbdc659e4cc2b8163561c"
+  },
+  {
+    "title": "Microsoft breaks another patch Tuesday record",
+    "normalized": "microsoft breaks another patch tuesday record",
+    "content_hash": "ea7f8c2397843115be5181310db71d4e"
+  },
+  {
+    "title": "Google\u2019s revived nuclear power plant gets $1.9B loan from US government",
+    "normalized": "google's revived nuclear power plant gets $1.9b loan from us government",
+    "content_hash": "df56a067f0d491c89053a679185bb32d"
+  },
+  {
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "normalized": "chrome is now shipping updates every 2 weeks as ai changes the security landscape",
+    "content_hash": "b16272bed9a13cd53bb86fc7a678adcc"
+  },
+  {
+    "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+    "normalized": "nuclear startup bluecore energy raises $50m seed round, just two months after launch",
+    "content_hash": "dbc6582b574bf761bd2460820c2ba047"
+  },
+  {
+    "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+    "normalized": "poseidon aerospace lands $60m ahead of first pilotless test flight",
+    "content_hash": "8b9a7d6b2d58a2440fd932e5829de2c1"
+  },
+  {
+    "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+    "normalized": "autonomous ai agents compromise thousands of credentials in under six hours",
+    "content_hash": "7e919a432ea2cc0c2905c4df3a8b50b7"
+  },
+  {
+    "title": "Google\u2019s Atlas of the human genome could pave the way for new treatments",
+    "normalized": "google's atlas of the human genome could pave the way for new treatments",
+    "content_hash": "1ae8f425b44a11f13705ba9b895130ff"
+  },
+  {
+    "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
+    "normalized": "mistral raises \u20ac3b as sovereign ai becomes big business",
+    "content_hash": "439920a38ae089eb4f48d2e47b100fce"
+  },
+  {
+    "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+    "normalized": "stoke space raises another billion to rival spacex at re-flying rockets",
+    "content_hash": "a1e5dfaec5c2912d581d9993dd55cf7e"
+  },
+  {
+    "title": "Eric Wu\u2019s newest company, out of stealth since May, is going after construction\u2019s labor crunch",
+    "normalized": "eric wu's newest company, out of stealth since may, is going after construction's labor crunch",
+    "content_hash": "70277cb2ba6cc6f4e85f3300f9a53afc"
+  },
+  {
+    "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+    "normalized": "chatgpt flaw let a planted prompt send a victim's gmail data to another account",
+    "content_hash": "ed78e3688af3030b143f5971174209d2"
+  },
+  {
+    "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+    "normalized": "bengalseo poisons bing search results to deliver mayabot and tech support scams",
+    "content_hash": "61fb6d67d2f08c02e0508c0a12d1c166"
+  },
+  {
+    "title": "JBL\u2019s soundbar with detachable rear speakers is over $300 off",
+    "normalized": "jbl's soundbar with detachable rear speakers is over $300 off",
+    "content_hash": "c37f633f7e90c65115ede705a28fe6b0"
+  },
+  {
+    "title": "A word with a woman who\u2019s trying to pull off a crossbody phone strap",
+    "normalized": "a word with a woman who's trying to pull off a crossbody phone strap",
+    "content_hash": "c556772823de53910c5441af4cef00c2"
+  },
+  {
+    "title": "SteelSeries\u2019 pro-grade, wireless Xbox controller sure is expensive",
+    "normalized": "steelseries' pro-grade, wireless xbox controller sure is expensive",
+    "content_hash": "d8015ab63a17abce0f46768ee9719c90"
+  },
+  {
+    "title": "The Legend of Zelda 40th Anniversary Direct: All the news and trailers",
+    "normalized": "the legend of zelda 40th anniversary direct: all the news and trailers",
+    "content_hash": "9f2c56730051d04be25b126f5b5086b7"
+  },
+  {
+    "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+    "normalized": "adobe is trying to make its ai generators idiot-proof in premiere",
+    "content_hash": "403598f0204bc9fbce02586a76ddedc9"
+  },
+  {
+    "title": "There's a new \"Google Jail\" for independent wikis",
+    "normalized": "there's a new \"google jail\" for independent wikis",
+    "content_hash": "83affc293822b5741d876292d813e76f"
+  },
+  {
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "normalized": "this ai entrepreneur is developing agents that can plan ahead for the unexpected",
+    "content_hash": "6e3a24b4e070e9c2c7d624dc9b6c0828"
+  },
+  {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "normalized": "the inside story on why openai agents hacked hugging face",
+    "content_hash": "c3376547db979696ba447ed5a9994670"
+  },
+  {
+    "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
+    "normalized": "openbmb releases minicpm5-2b: a 2.52b dense model averaging 53.9 across 34 benchmarks and built to run on device",
+    "content_hash": "41d026a8d17460e1b8023c57251f1a09"
+  },
+  {
+    "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+    "normalized": "meta fair introduces ai research preference models (rpms): ranking ml experiments before spending gpu hours",
+    "content_hash": "1524d6cff10e6d39ce85ef0f2a58ef34"
+  },
+  {
+    "title": "OpenAI Says Agents Now Cover 3.1 Workdays Per Researcher Workday",
+    "normalized": "openai says agents now cover 3.1 workdays per researcher workday",
+    "content_hash": "fa43f4526d70f69a48f0ae3ae7978fae"
+  },
+  {
+    "title": "DeepSeek Opens 150 Backend Roles to Rebuild Strained Infrastructure",
+    "normalized": "deepseek opens 150 backend roles to rebuild strained infrastructure",
+    "content_hash": "a18afc3976dc71603d8532d28a1902a6"
+  },
+  {
+    "title": "A hacker stole $340M in a crypto heist, then returned most of it",
+    "normalized": "a hacker stole $340m in a crypto heist, then returned most of it",
+    "content_hash": "a29f22f32e02746107b401aea406ce64"
   }
 ]
