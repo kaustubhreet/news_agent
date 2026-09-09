@@ -1,130 +1,5 @@
 [
   {
-    "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalape\u00f1o",
-    "normalized": "redesigning the inference chip: from nvidia gpu's flaws to openai jalape\u00f1o",
-    "content_hash": "fbf68c14c0a22a4788398fdf9806b904"
-  },
-  {
-    "title": "The Rise and Fall of Agent Civilizations",
-    "normalized": "the rise and fall of agent civilizations",
-    "content_hash": "47e56689a5f03ea88e118f607ca70445"
-  },
-  {
-    "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
-    "normalized": "sony music, warner sue anthropic, alleging a \"brazen campaign\" of intellectual property theft",
-    "content_hash": "abd452d801cc32415c6a5cc45d7ed6d8"
-  },
-  {
-    "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
-    "normalized": "\"we're not doing 30 bets a year\": vijay pande on betting small after running $4 billion at a16z",
-    "content_hash": "f1326116fcd5df16232cd1c6e54a40ba"
-  },
-  {
-    "title": "Sony Music and Warner Chappell are suing Anthropic",
-    "normalized": "sony music and warner chappell are suing anthropic",
-    "content_hash": "144493baddc9cf62057d390d19146c5a"
-  },
-  {
-    "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
-    "normalized": "will it be anthropic or x ai after cursor getting no access to openai?",
-    "content_hash": "c335ba33ae9f0e5832c892b6c92c5249"
-  },
-  {
-    "title": "First outputs from GPT-6 \"Astra\" model from OpenAI",
-    "normalized": "first outputs from gpt-6 \"astra\" model from openai",
-    "content_hash": "97215c5b6254c453b19e58aae4a30249"
-  },
-  {
-    "title": "At TechBBQ, Europe\u2019s AI conversations kept coming back to: Who\u2019s actually in control?",
-    "normalized": "at techbbq, europe's ai conversations kept coming back to: who's actually in control?",
-    "content_hash": "9a40de8c2780a6b637bf179eca8bfcbb"
-  },
-  {
-    "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-    "normalized": "vicariously hike the appalachian in the gorgeous a trail tale",
-    "content_hash": "bb6e540bb4a6b2319840af1d35abc154"
-  },
-  {
-    "title": "Alt-right troll Milo Yiannopoulos has been deported",
-    "normalized": "alt-right troll milo yiannopoulos has been deported",
-    "content_hash": "7b4fc4e6c1d02cad198fed3ce3fdf56a"
-  },
-  {
-    "title": "Domain-Driven Agents",
-    "normalized": "domain-driven agents",
-    "content_hash": "71a1b0a1e2520c2a25e875669d084aba"
-  },
-  {
-    "title": "Speech to text in a crowded room with the OpenAI Realtime API",
-    "normalized": "speech to text in a crowded room with the openai realtime api",
-    "content_hash": "32102f5491d8584c728fb199d1cfa661"
-  },
-  {
-    "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual",
-    "normalized": "sony music, warner sue anthropic, alleging a \"brazen campaign\" of intellectual",
-    "content_hash": "5b6b32f1b3f01188a0b131f9780fcee3"
-  },
-  {
-    "title": "Will financing bottleneck AI compute? An Anthropic case study",
-    "normalized": "will financing bottleneck ai compute? an anthropic case study",
-    "content_hash": "8d4bd5dfcbf0b61a4cf2130ba3b2db47"
-  },
-  {
-    "title": "Subs, the cloud native agent harness",
-    "normalized": "subs, the cloud native agent harness",
-    "content_hash": "9164acb538bfc821f01a75da0861a1b1"
-  },
-  {
-    "title": "Judge blocks Pentagon blacklist of Anthropic as a supply-chain risk",
-    "normalized": "judge blocks pentagon blacklist of anthropic as a supply-chain risk",
-    "content_hash": "f69f40720bda35f97e688387aede512c"
-  },
-  {
-    "title": "A local scrubber for text you're about to send to an LLM",
-    "normalized": "a local scrubber for text you're about to send to an llm",
-    "content_hash": "d94a51d949ee0a7507a55214a7660a68"
-  },
-  {
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "normalized": "how nvidia scales expertise with chatgpt work",
-    "content_hash": "dfe9d6f551bdeb176554e136adf6d0d9"
-  },
-  {
-    "title": "Hollywood celebs are getting into microdrama apps",
-    "normalized": "hollywood celebs are getting into microdrama apps",
-    "content_hash": "13fa79fb37c62f64496a86c9628e8e0b"
-  },
-  {
-    "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-    "normalized": "learn how to build security operations ready for ai-powered attacks",
-    "content_hash": "4202e290ce2bc8516c3fb9fe0f1a6316"
-  },
-  {
-    "title": "What the Data Says About AI in Security Operations in 2026",
-    "normalized": "what the data says about ai in security operations in 2026",
-    "content_hash": "9f2f46b16967b3d2f9498bd62671ba60"
-  },
-  {
-    "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-    "normalized": "spark rat targets cambodia, abuses vulnerable opswat driver to disable security tools",
-    "content_hash": "128f30b536684b107cff39e1434c8b7f"
-  },
-  {
-    "title": "AI industry says Trump plans to tax chips in the \u201csingle dumbest way imaginable\u201d",
-    "normalized": "ai industry says trump plans to tax chips in the \"single dumbest way imaginable\"",
-    "content_hash": "4ed8c37eb8ec6211a490080ff01c953a"
-  },
-  {
-    "title": "Sony and Warner sue Anthropic for 'blatant violation' of copyright law",
-    "normalized": "sony and warner sue anthropic for 'blatant violation' of copyright law",
-    "content_hash": "cdd77a04a883dda344dcfe401ebb63c2"
-  },
-  {
-    "title": "Staats",
-    "normalized": "staats",
-    "content_hash": "326fd6372bfccce89bc0ba45ff616b6c"
-  },
-  {
     "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
     "normalized": "venturebeat names rob strechay as its first lead analyst, expanding its enterprise ai research push",
     "content_hash": "280c1bda2c76b45920aa89c5c4c22c15"
@@ -2498,5 +2373,130 @@
     "title": "A hacker stole $340M in a crypto heist, then returned most of it",
     "normalized": "a hacker stole $340m in a crypto heist, then returned most of it",
     "content_hash": "a29f22f32e02746107b401aea406ce64"
+  },
+  {
+    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+    "normalized": "google cloud races to catch up in the ai deployment wars with accenture deal",
+    "content_hash": "ad4748d7088cf0f7f37504d4ef1bffd2"
+  },
+  {
+    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "normalized": "chatgpt sketch turns your bad drawings into detailed ai images",
+    "content_hash": "1ce3ec4a51bb6c16ab1029f039bae461"
+  },
+  {
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "normalized": "meta debuts its muse ai agent. will consumers trust it?",
+    "content_hash": "ca58568bbd83af167c50b1506185bdb9"
+  },
+  {
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "normalized": "openai fought dirty on career-making math problem, says nyu mathematician",
+    "content_hash": "be8803205d2831efcb3bbb21f9270d0a"
+  },
+  {
+    "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
+    "normalized": "drama swirls around openai's legendary mathematical milestone",
+    "content_hash": "338532b6dab6e08b3fa949934abac27e"
+  },
+  {
+    "title": "Meta bets on AI agent Muse to catch up in AI race",
+    "normalized": "meta bets on ai agent muse to catch up in ai race",
+    "content_hash": "b5604a486e664f028ab1afc5ce74f57e"
+  },
+  {
+    "title": "AI power users claim Anthropic duped them with subscriptions, and they\u2019re taking it to court",
+    "normalized": "ai power users claim anthropic duped them with subscriptions, and they're taking it to court",
+    "content_hash": "8e49e34dcbeb08fba242f6f92aaff8ad"
+  },
+  {
+    "title": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
+    "normalized": "benchmarking small llm inference on sagemaker ai: g7 vs g5 and g6",
+    "content_hash": "0e2dba80a25abbf5bd8a72f46305b1fc"
+  },
+  {
+    "title": "New Accenture Gemini Enterprise Business Group Targets Agentic AI Scaling",
+    "normalized": "new accenture gemini enterprise business group targets agentic ai scaling",
+    "content_hash": "26cbfed112155ba8e2d82ce8424a0ca8"
+  },
+  {
+    "title": "White House takes down \u2018Build the Wall\u2019 game after the Tetris Company complains",
+    "normalized": "white house takes down 'build the wall' game after the tetris company complains",
+    "content_hash": "ec332e66a251ed940260c3f5b7c036d7"
+  },
+  {
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "normalized": "hackers are stealing claude tokens from subscribers",
+    "content_hash": "e7103d1c48c39b322b4829f26e2384f6"
+  },
+  {
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "normalized": "cognition hits $48b valuation, signaling investors believe ai coding is far from a winner-take-all market",
+    "content_hash": "7483b5fba3059f9783af8d70a921f204"
+  },
+  {
+    "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+    "normalized": "the exploration company nabs $450 million to challenge spacex",
+    "content_hash": "fc23d1b444b57f477dc56d1bc2951eb2"
+  },
+  {
+    "title": "Muse, Meta\u2019s New Personal AI Agent, Needs You to Trust It",
+    "normalized": "muse, meta's new personal ai agent, needs you to trust it",
+    "content_hash": "4974d7ec404cab9a2f913e9e4728bb08"
+  },
+  {
+    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+    "normalized": "openai just claimed a huge math discovery. some academics are crying foul",
+    "content_hash": "b514c9520804078cd7b28a2ada7e5a51"
+  },
+  {
+    "title": "NVIDIA's DLSS 5 adds subtle details to NBA 2K27, but demands a lot more power",
+    "normalized": "nvidia's dlss 5 adds subtle details to nba 2k27, but demands a lot more power",
+    "content_hash": "4013799553190fb691d97735501a71b5"
+  },
+  {
+    "title": "Sony isn\u2019t phasing out discs quite as quickly as we thought",
+    "normalized": "sony isn't phasing out discs quite as quickly as we thought",
+    "content_hash": "9fc011b6b5365320f6c834c9c27df655"
+  },
+  {
+    "title": "Nintendo isn\u2019t scared of GTA VI",
+    "normalized": "nintendo isn't scared of gta vi",
+    "content_hash": "fe3afa8618436b1a26ce8a39214fb294"
+  },
+  {
+    "title": "Muse \u2013 Meta\u2019s personal AI agent",
+    "normalized": "muse - meta's personal ai agent",
+    "content_hash": "ecf7c95359fa53a915e49291ff7e185a"
+  },
+  {
+    "title": "Funding grants for new research into AI and teen development",
+    "normalized": "funding grants for new research into ai and teen development",
+    "content_hash": "7cbcd3cb490b686cfc85bb9131d921cc"
+  },
+  {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "normalized": "our decision on cursor following its acquisition by spacex",
+    "content_hash": "0fc880832139ad8665a4cf7f9fdf5a1a"
+  },
+  {
+    "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
+    "normalized": "take on your most ambitious work with gpt-6 astra on amazon bedrock",
+    "content_hash": "44fe5357ccf639dcb36de5cfbbd3dbaa"
+  },
+  {
+    "title": "How to Maximize GPT-6 Astra",
+    "normalized": "how to maximize gpt-6 astra",
+    "content_hash": "71bf2c5ccc4325dc95e20e633471b1fa"
+  },
+  {
+    "title": "Sierra Open-Sources Hyper-\u03c4-Bench, a Benchmark for Agent Construction",
+    "normalized": "sierra open-sources hyper-\u03c4-bench, a benchmark for agent construction",
+    "content_hash": "fe1bfa2ec362639d749c159c1a8bf536"
+  },
+  {
+    "title": "OpenAI\u2019s GPT-6 Astra Reaches General Availability on Amazon Bedrock",
+    "normalized": "openai's gpt-6 astra reaches general availability on amazon bedrock",
+    "content_hash": "ea88d4eeff155be1a4cf26411208b264"
   }
 ]
