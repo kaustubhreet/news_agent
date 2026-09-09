@@ -1,130 +1,5 @@
 [
   {
-    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-    "normalized": "venturebeat names rob strechay as its first lead analyst, expanding its enterprise ai research push",
-    "content_hash": "280c1bda2c76b45920aa89c5c4c22c15"
-  },
-  {
-    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-    "normalized": "texas governor abbott blocks funding for more flock cameras",
-    "content_hash": "82d942c8154e1bd3d3c024b6e3f870de"
-  },
-  {
-    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-    "normalized": "sony music publishing and warner chappell are suing anthropic",
-    "content_hash": "b447a337009af2951f942dda8d6e17bf"
-  },
-  {
-    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "normalized": "caterpillar is bringing to ai deployment what it learned from automating mining",
-    "content_hash": "7ec80d3d5389878d700c8e7765e020dd"
-  },
-  {
-    "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-    "normalized": "terminalfix uses fake cloudflare captchas to deploy reverse-tunnel backdoor",
-    "content_hash": "14b33ca4f0aecfa2157179296534b0da"
-  },
-  {
-    "title": "oMLX",
-    "normalized": "omlx",
-    "content_hash": "5f65e63c9ec4aab816cbe50e3d3b4005"
-  },
-  {
-    "title": "Chess.com launched a poker site and is planning even more classic games",
-    "normalized": "chess.com launched a poker site and is planning even more classic games",
-    "content_hash": "cba56bd6856a44dd6d73aa4716ff9eec"
-  },
-  {
-    "title": "China\u2019s robots race ahead",
-    "normalized": "china's robots race ahead",
-    "content_hash": "ce4430aa8ffb6b2afcb758a5a7afe61d"
-  },
-  {
-    "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
-    "normalized": "anthropic opens a research preview of the model hardware standard (mhs): a shared specification for ai agents to safely operate physical devices",
-    "content_hash": "8c2f4df21c6612e24f6a7c1772b97f18"
-  },
-  {
-    "title": "Maritime",
-    "normalized": "maritime",
-    "content_hash": "8a8d722e65a9f84cabb0481482b13a8c"
-  },
-  {
-    "title": "Superagent",
-    "normalized": "superagent",
-    "content_hash": "fb9976552c2491659fc4cafb4569e82a"
-  },
-  {
-    "title": "Two new small, powerful Macs",
-    "normalized": "two new small, powerful macs",
-    "content_hash": "7564c61732aab4645795c3f73a7cdd47"
-  },
-  {
-    "title": "Distraction-free writing gadget BYOK is adding custom extensions",
-    "normalized": "distraction-free writing gadget byok is adding custom extensions",
-    "content_hash": "679aca52619dfd3964d8b1dcc7f6de7a"
-  },
-  {
-    "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
-    "normalized": "welcome to night vale cocreator joseph fink learned storytelling from grim fandango",
-    "content_hash": "b9c21f8f9d7131bee2a7919a73c0906a"
-  },
-  {
-    "title": "The Galaxy Z Flip 8 is at its best when there\u2019s friction",
-    "normalized": "the galaxy z flip 8 is at its best when there's friction",
-    "content_hash": "02021d7ae190242d43b492fe3ad0fbdc"
-  },
-  {
-    "title": "No AI Fridays",
-    "normalized": "no ai fridays",
-    "content_hash": "4a6eaebf740a1aa9d5394e804d82014b"
-  },
-  {
-    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-    "normalized": "longest straight line paths on water or land on the earth (2018)",
-    "content_hash": "cf10b744c9ef7dff4c553fc94f27c5fa"
-  },
-  {
-    "title": "What my dad taught me about AI coding in the 90s",
-    "normalized": "what my dad taught me about ai coding in the 90s",
-    "content_hash": "0f7fa0aff81cbd2f0c3114897091aec9"
-  },
-  {
-    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-    "normalized": "claude session url appended to commit messages and pr descriptions by default",
-    "content_hash": "f6acc304cdd70b56ebcd6d936ce696fd"
-  },
-  {
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "normalized": "better answers, broader thinking: what students gain from chatgpt and critical-thinking training",
-    "content_hash": "f193e4672096a3b36ac25db3b955810f"
-  },
-  {
-    "title": "Expanding OpenAI\u2019s presence in Brazil",
-    "normalized": "expanding openai's presence in brazil",
-    "content_hash": "69978a4c2f61f916e2bb4813a4bf6094"
-  },
-  {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "normalized": "bringing chatgpt for teachers to more u.s. school districts",
-    "content_hash": "6dee1d8a4bbb60c0dbfe26a2b21e6d65"
-  },
-  {
-    "title": "The Hugging Face incident and the road ahead",
-    "normalized": "the hugging face incident and the road ahead",
-    "content_hash": "21b0253a240cdbd888367b89e5b8163b"
-  },
-  {
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "normalized": "how loveholidays is making everyone a builder with codex",
-    "content_hash": "c65c4b26f4ca99fede80e9b0b0431e1e"
-  },
-  {
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "normalized": "disrupting a new covert influence campaign from russia",
-    "content_hash": "df73fe0021b31f5f374a45d56b717112"
-  },
-  {
     "title": "Liux\u2019s Big microcar bets on sustainability to take on Chinese rivals",
     "normalized": "liux's big microcar bets on sustainability to take on chinese rivals",
     "content_hash": "eea1a0ae179a9fc36e63fd58fa8d6452"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI\u2019s GPT-6 Astra Reaches General Availability on Amazon Bedrock",
     "normalized": "openai's gpt-6 astra reaches general availability on amazon bedrock",
     "content_hash": "ea88d4eeff155be1a4cf26411208b264"
+  },
+  {
+    "title": "Viral AI assistant Instinct now has its own email address",
+    "normalized": "viral ai assistant instinct now has its own email address",
+    "content_hash": "3d6eec22a154d5a4a7cb6fecb1cabc54"
+  },
+  {
+    "title": "\u2018Gambling with our lives\u2019: Anthropic researcher quits, warns against self-improving AI",
+    "normalized": "'gambling with our lives': anthropic researcher quits, warns against self-improving ai",
+    "content_hash": "36e4ca877c5baca3b7e9612a14f55bbc"
+  },
+  {
+    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+    "normalized": "sequoia doubles down on cymphony as ai agents create new enterprise security risks",
+    "content_hash": "030bbad30bd5eb22fdfc5a071f80f664"
+  },
+  {
+    "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+    "normalized": "google deepmind alumni are building tools to accelerate fusion power for the grid",
+    "content_hash": "9f22ba1762fd95b6e2a982b0ecd41e69"
+  },
+  {
+    "title": "CloudNC raises $20M to automate manufacturing\u2019s most pressing bottlenecks",
+    "normalized": "cloudnc raises $20m to automate manufacturing's most pressing bottlenecks",
+    "content_hash": "a99b17c7b33f05cfbd7a435e9cc7842c"
+  },
+  {
+    "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+    "normalized": "a stealth startup thinks it just hacked the memory shortage",
+    "content_hash": "e9172f84867b3c2586f72e2d202d5e09"
+  },
+  {
+    "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+    "normalized": "infostealer logs expose replayable ai tokens that can bypass mfa",
+    "content_hash": "651fecc37d587ac6f7c06eedebd4583f"
+  },
+  {
+    "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+    "normalized": "worried anthropic researchers warn that ai 'could kill all humans'",
+    "content_hash": "7d5901fe300f8f973f4a3bab7325c81e"
+  },
+  {
+    "title": "Harvey Acquires Guardrails AI, Its Fourth Acquisition of 2026",
+    "normalized": "harvey acquires guardrails ai, its fourth acquisition of 2026",
+    "content_hash": "030736d4c5c56efdfaff0c81303223f1"
+  },
+  {
+    "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+    "normalized": "uber rival indrive scales beyond ride-hailing to capture more consumer spending",
+    "content_hash": "e7efd850a33dfc533bbfe16b1315bbe3"
+  },
+  {
+    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+    "normalized": "shipt becomes the latest delivery app with an ai shopping assistant",
+    "content_hash": "2b0f0814a7d97ffe2d61abdd796e7f72"
+  },
+  {
+    "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+    "normalized": "uber invests $10m in indian fleet operator carrum at $168m valuation",
+    "content_hash": "a41ba6c82174c6cb1d7efbd9f6fe74d7"
+  },
+  {
+    "title": "AI spend per employee slumped at top firms in August \u2014 summer doldrums or a warning sign?",
+    "normalized": "ai spend per employee slumped at top firms in august -- summer doldrums or a warning sign?",
+    "content_hash": "51c39523311ed72587e2500c3d62202c"
+  },
+  {
+    "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
+    "normalized": "group of bipartisan lawmakers ask us government to ban several hack-for-hire firms",
+    "content_hash": "1b7f60dd484cdc1a9d213293cdc30472"
+  },
+  {
+    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+    "normalized": "instacart launches an ai grocery shopping assistant called clementine",
+    "content_hash": "ce32e374ed7f3f72a3df1a63918f5f2f"
+  },
+  {
+    "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
+    "normalized": "autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
+    "content_hash": "b9b8ee5bce291b9c2ddb3594f2d130b0"
+  },
+  {
+    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+    "normalized": "besxar is building an orbital semiconductor factory, one spacex rocket at a time",
+    "content_hash": "7b65475db3525a7e0f85412958389cb6"
+  },
+  {
+    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+    "normalized": "suno replaces its ai models with a new one trained on licensed music as copyright suits pile up",
+    "content_hash": "2f28058f020c03d710bfc2723118f6b9"
+  },
+  {
+    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+    "normalized": "deepseek harness flaw let ai agents disable their own file sandbox without approval",
+    "content_hash": "3e2c26423f45ae274eba50a4211e835c"
+  },
+  {
+    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+    "normalized": "u.s. agencies accuse china ai firms of distilling claude, gpt, gemini, and grok",
+    "content_hash": "9426c51596e2bb44e1b5b3f35e83e941"
+  },
+  {
+    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+    "normalized": "researcher drops new microsoft defender poc showing shieldbreak patch can be bypassed",
+    "content_hash": "01218dba6d1b33927b38aa91b2e2f5ee"
+  },
+  {
+    "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+    "normalized": "microsoft patches record 974 flaws, including two exploited windows zero-days",
+    "content_hash": "c9adc88c0435112e2204ef1915600721"
+  },
+  {
+    "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+    "normalized": "man told chatgpt he was feeling delusional. chatgpt insisted he was jesus.",
+    "content_hash": "f01c4e16e9ae3cf4dd831d018a852b1a"
+  },
+  {
+    "title": "ChatGPT Images 2.5",
+    "normalized": "chatgpt images 2.5",
+    "content_hash": "28780b49dfe3cfd6be0b1935641975be"
+  },
+  {
+    "title": "I spent an hour riding inside Tesla\u2019s steering-wheel-free Cybercab",
+    "normalized": "i spent an hour riding inside tesla's steering-wheel-free cybercab",
+    "content_hash": "39c912491ab3704fe3801c9ebc5dd92e"
   }
 ]
