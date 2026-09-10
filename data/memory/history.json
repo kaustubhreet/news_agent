@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
-    "normalized": "nvidia's $3.5b mediatek bet reveals its plan for tackling big tech's ai chip buildout",
-    "content_hash": "d4bb8b120b97b693b0a9497b9b4152da"
-  },
-  {
-    "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
-    "normalized": "ryan breslow is raising up to $27m in pay-to-play bridge funding to save bolt",
-    "content_hash": "28e606e8b45469d2d4a19edb12b1c004"
-  },
-  {
-    "title": "ChatGPT to face tougher regulation in the EU",
-    "normalized": "chatgpt to face tougher regulation in the eu",
-    "content_hash": "804b8d8cf573f9db60b55c1dad0d2dc9"
-  },
-  {
-    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-    "normalized": "clipto uses ai to search terabytes of video and is now valued at $250m",
-    "content_hash": "7f80e00869b808aff1481de346917599"
-  },
-  {
-    "title": "Sony Music, Warner sue Anthropic, alleging a \u2018brazen campaign\u2019 of intellectual property theft",
-    "normalized": "sony music, warner sue anthropic, alleging a 'brazen campaign' of intellectual property theft",
-    "content_hash": "8f3933a82fd050fb7be305b7cd6ca453"
-  },
-  {
-    "title": "\u2018We\u2019re not doing 30 bets a year\u2019: Vijay Pande on betting small after running $4B at a16z",
-    "normalized": "'we're not doing 30 bets a year': vijay pande on betting small after running $4b at a16z",
-    "content_hash": "c5c5d73b40c4cff5f65b700d2d270a43"
-  },
-  {
-    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-    "normalized": "securing claude code: the new compliance api, local visibility, and identity governance",
-    "content_hash": "20708e4ba7a028ba92a09a392da78d87"
-  },
-  {
-    "title": "Show HN: Turn repeated coding-agent corrections into rules/skills",
-    "normalized": "show hn: turn repeated coding-agent corrections into rules/skills",
-    "content_hash": "5a763877bb8d46daf810d8ff5987c24a"
-  },
-  {
-    "title": "OpenAI Expands ChatGPT Ads Self-Service Access to India and Europe",
-    "normalized": "openai expands chatgpt ads self-service access to india and europe",
-    "content_hash": "9a56a5cd8f1f15c65901f8728479d866"
-  },
-  {
-    "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-    "normalized": "hackers claim millions of patient records stolen during data breach at healthcare giant mckesson",
-    "content_hash": "a77c2b68a6e355f4ee5a4435aa443557"
-  },
-  {
-    "title": "Tim Cook\u2019s parting message: Apple is in the hands of a product builder",
-    "normalized": "tim cook's parting message: apple is in the hands of a product builder",
-    "content_hash": "317eb161147b46124aba28dfe13ddd75"
-  },
-  {
-    "title": "How AI could make it harder for governments to use hacking tools",
-    "normalized": "how ai could make it harder for governments to use hacking tools",
-    "content_hash": "09b993f23fcef6902363051e337da29e"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-    "normalized": "\u26a1 weekly recap: chinese spy proxy, ai agents go off-task, router backdoors and more",
-    "content_hash": "1177b750ecfed0c35c305daf03ce8556"
-  },
-  {
-    "title": "Markiplier is now GoPro\u2019s biggest shareholder",
-    "normalized": "markiplier is now gopro's biggest shareholder",
-    "content_hash": "c8a4cff2cbdbedae0d302629bb244120"
-  },
-  {
-    "title": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
-    "normalized": "read tim cook's final message to apple staff as ceo",
-    "content_hash": "b2bc8cecabe4149121b68df310808332"
-  },
-  {
-    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-    "normalized": "debian won't ban ai code from its linux distribution",
-    "content_hash": "35a95349c02726185139602e303e7e3e"
-  },
-  {
-    "title": "New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
-    "normalized": "new york governor to 3d-printed gun leader: 'tell cody i will get ahead of him'",
-    "content_hash": "a5be53960790c4b9a857f57d98e4b04b"
-  },
-  {
-    "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
-    "normalized": "new york governor kathy hochul thinks ai should be 'less evil'",
-    "content_hash": "87fe469754ff332de810773cc9023896"
-  },
-  {
-    "title": "Instagram cracks down on AI accounts pretending to be human",
-    "normalized": "instagram cracks down on ai accounts pretending to be human",
-    "content_hash": "1b7f5dc750f834cd20372907173d3087"
-  },
-  {
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "normalized": "weave (yc w25) is hiring ml, ai, product, & design engineers",
-    "content_hash": "9a3ddf2cdbdb3faef602cba18a7441aa"
-  },
-  {
-    "title": "Anthropic legal fight with Pentagon shows shifting politics of AI",
-    "normalized": "anthropic legal fight with pentagon shows shifting politics of ai",
-    "content_hash": "ae4fc352f6ddbe5b237164e882c197a2"
-  },
-  {
-    "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
-    "normalized": "apple is suddenly an ai infra stock as openai buys 10k+ macs",
-    "content_hash": "86de4ee93fff3d3a2671b222fe6ebfc5"
-  },
-  {
-    "title": "Are We at War with AI Agent \"Civilizations\"?",
-    "normalized": "are we at war with ai agent \"civilizations\"?",
-    "content_hash": "d04cbeb4f7b5ebdeaba2555215230a32"
-  },
-  {
-    "title": "OpenAI hack shows emergent AI risks",
-    "normalized": "openai hack shows emergent ai risks",
-    "content_hash": "df4bcf5f434af2fb56fa275a04a2348a"
-  },
-  {
-    "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
-    "normalized": "openai to cut off ai models for spacex-owned cursor, escalating feud with musk",
-    "content_hash": "30d0d357b74e2bef7e34a6cdbc5f59b4"
-  },
-  {
     "title": "The Pentagon now has its own version of ChatGPT and Grok",
     "normalized": "the pentagon now has its own version of chatgpt and grok",
     "content_hash": "10d9777be904b1d261b85c3d58c0013c"
@@ -2498,5 +2373,130 @@
     "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
     "normalized": "apple's iphone 18 pro adds variable camera aperture and a more powerful chip",
     "content_hash": "3bc681efbd90d6dd7f5c2e3230689beb"
+  },
+  {
+    "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+    "normalized": "google signs its biggest rice-methane carbon credit deal with indian startup mitti labs",
+    "content_hash": "71104f8a32b821c5b88b60705f234006"
+  },
+  {
+    "title": "AI agents are flooding public services with new requests",
+    "normalized": "ai agents are flooding public services with new requests",
+    "content_hash": "0c3a084716737c259924c53038862bfc"
+  },
+  {
+    "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
+    "normalized": "defense tech mach industries doubles valuation to $3.7b in 3 months",
+    "content_hash": "865694b392dd19db6d2b92ec1956dd43"
+  },
+  {
+    "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+    "normalized": "anthropic discloses fourth ai hacking incident involving claude opus 4.6",
+    "content_hash": "18ff20ff7313804bb18a89d3b678b7cb"
+  },
+  {
+    "title": "Meta\u2019s Muse AI works and creeps me out",
+    "normalized": "meta's muse ai works and creeps me out",
+    "content_hash": "5ab7536c3438273197f2b8711842d490"
+  },
+  {
+    "title": "Mathematicians want proof OpenAI didn\u2019t use their work",
+    "normalized": "mathematicians want proof openai didn't use their work",
+    "content_hash": "0b94fa7509d5e81ece8122ee3cc68f4d"
+  },
+  {
+    "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+    "normalized": "when does memory help? a cost-aware evaluation of long-term memory in tool-using llm agents",
+    "content_hash": "3a6b53aaf0d654f050293a2e8e3cff7e"
+  },
+  {
+    "title": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
+    "normalized": "the failure happens before the drift: the social dynamics of values in llm agent societies",
+    "content_hash": "af62c21ab0e90965472eb3b4b2805457"
+  },
+  {
+    "title": "D-Matrix Connects Raptor XPUs to NVIDIA AI Factories via NVLink Fusion",
+    "normalized": "d-matrix connects raptor xpus to nvidia ai factories via nvlink fusion",
+    "content_hash": "26e4419826ac7290d52c4b94ea39941d"
+  },
+  {
+    "title": "Alibaba.com Says Accio Ran E-Commerce Tasks at Over 50% Lower Cost",
+    "normalized": "alibaba.com says accio ran e-commerce tasks at over 50% lower cost",
+    "content_hash": "0c1b5841dc5d04797091cd1e128d995a"
+  },
+  {
+    "title": "The Boring Company raises $3B in round led by UAE",
+    "normalized": "the boring company raises $3b in round led by uae",
+    "content_hash": "692364c8aa4e49d09302a4b0b7bb831b"
+  },
+  {
+    "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+    "normalized": "bending spoons to buy collaboration tools maker miro for $1.36b, 90% less than its 2022 valuation",
+    "content_hash": "0d6511d724f7f4f87636eccf9738295c"
+  },
+  {
+    "title": "ID verification giant IDScan confirms data breach with more than 150 million driver\u2019s licenses stolen",
+    "normalized": "id verification giant idscan confirms data breach with more than 150 million driver's licenses stolen",
+    "content_hash": "53f37208e26a4cc604a796b52bdf42bc"
+  },
+  {
+    "title": "Snapchat takes aim at Partiful with new event-planning features",
+    "normalized": "snapchat takes aim at partiful with new event-planning features",
+    "content_hash": "24d31497299139edaf7d87ae9c0df192"
+  },
+  {
+    "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
+    "normalized": "us army places $11m bet on austin-based gps alternative tern",
+    "content_hash": "9173d9aea8112362b38dbd0464d0c975"
+  },
+  {
+    "title": "Automattic\u2019s board forces CEO Matt Mullenweg into leave of absence",
+    "normalized": "automattic's board forces ceo matt mullenweg into leave of absence",
+    "content_hash": "aa8507f939c44315a9560ec566895795"
+  },
+  {
+    "title": "\u2018Killmonger Locs\u2019 Are Everywhere in Video Games. This Artist Is Sick of It",
+    "normalized": "'killmonger locs' are everywhere in video games. this artist is sick of it",
+    "content_hash": "1965ca82c2fa441815cab4650ca05397"
+  },
+  {
+    "title": "The AI Researcher Who Just Quit Anthropic Says It\u2019s \u2018Crunch Time for Humanity\u2019",
+    "normalized": "the ai researcher who just quit anthropic says it's 'crunch time for humanity'",
+    "content_hash": "01fac37a90763383d2fd38575eed7f47"
+  },
+  {
+    "title": "UK Lawmakers Are Freaking Out Over AI\u2019s Summer of Chaos",
+    "normalized": "uk lawmakers are freaking out over ai's summer of chaos",
+    "content_hash": "5f1823306cb1aeab8712d2b38965c035"
+  },
+  {
+    "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+    "normalized": "google play early access abused to push thousands of deceptive android apps",
+    "content_hash": "854564728498127ccab7e5d10937fa53"
+  },
+  {
+    "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+    "normalized": "papercut attacker uses hundreds of ai agents to compromise 440+ instances",
+    "content_hash": "5f49c78ebacfb49cdf8594f4653ed505"
+  },
+  {
+    "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+    "normalized": "nearly 1 in 10 exposed litellm gateways accepted the example \"sk-1234\" admin key",
+    "content_hash": "2ca4d783813e1d003d3dd92b472de422"
+  },
+  {
+    "title": "AI Observability by OpenObserve",
+    "normalized": "ai observability by openobserve",
+    "content_hash": "3d014cb754744bd52dec7e2679a24f73"
+  },
+  {
+    "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
+    "normalized": "wolverine on the ps5 goes back to a simpler (and bloodier) style of action game",
+    "content_hash": "97018561011f705ba0ac0aedd8530979"
+  },
+  {
+    "title": "Another big James Talarico interview is punted to YouTube due to FCC threats",
+    "normalized": "another big james talarico interview is punted to youtube due to fcc threats",
+    "content_hash": "4fee6ba0234988d3050382f73dc1e04c"
   }
 ]
