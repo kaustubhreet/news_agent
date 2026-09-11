@@ -1,130 +1,5 @@
 [
   {
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "normalized": "the pentagon now has its own version of chatgpt and grok",
-    "content_hash": "10d9777be904b1d261b85c3d58c0013c"
-  },
-  {
-    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-    "normalized": "lachy groom backs indian startup aiming to keep aircraft aloft for a year",
-    "content_hash": "e1eb457151c15395776e506560001c07"
-  },
-  {
-    "title": "Anthropic signs $35B cloud deal backed by Nvidia",
-    "normalized": "anthropic signs $35b cloud deal backed by nvidia",
-    "content_hash": "a00fa43f79d95ed89264a8ebf4eed2c1"
-  },
-  {
-    "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
-    "normalized": "apple shares 'shocking evidence' against former employee accused of stealing company data for openai",
-    "content_hash": "6cc61f65d2fcb44692f057f0c00de8ec"
-  },
-  {
-    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.\u2019s investment fund",
-    "normalized": "polymarket reportedly raises $300 million from donald trump jr.'s investment fund",
-    "content_hash": "732fcb87f6fa55274abc8c96bedc2a08"
-  },
-  {
-    "title": "Microsoft tests fix for latest hours-long Outlook outage",
-    "normalized": "microsoft tests fix for latest hours-long outlook outage",
-    "content_hash": "ac3cb9d22636d6cc4cd33ab040501cf2"
-  },
-  {
-    "title": "The Google TV Streamer now costs $50 more",
-    "normalized": "the google tv streamer now costs $50 more",
-    "content_hash": "dd86d73a0654bfec927faeec0183884a"
-  },
-  {
-    "title": "JMGO\u2019s very bright all-in-one projector looks ideal for gamers and sports",
-    "normalized": "jmgo's very bright all-in-one projector looks ideal for gamers and sports",
-    "content_hash": "c6fc2658cf6c69bd194f6e16506b0678"
-  },
-  {
-    "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
-    "normalized": "launch hn: almanac (yc s26) - ai that knows your company",
-    "content_hash": "b16a40a94be435c263d547cac49f67a5"
-  },
-  {
-    "title": "Show HN: Open Agent Forum \u2013 a signed public square for agents",
-    "normalized": "show hn: open agent forum - a signed public square for agents",
-    "content_hash": "868d363fb8a8f85784669aab5026703d"
-  },
-  {
-    "title": "OpenAI and Anthropic are ruining San Francisco",
-    "normalized": "openai and anthropic are ruining san francisco",
-    "content_hash": "f7b8be89435b3dc7750d420854378436"
-  },
-  {
-    "title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil",
-    "normalized": "department of war launches openai's chatgpt mil on genai.mil",
-    "content_hash": "245e3d9c239dc20586a98a96ae2650e7"
-  },
-  {
-    "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-    "normalized": "a16z brings growth fund to $8.5b days after launching new $1.1b fund",
-    "content_hash": "58034fb02b8117792bb747343dde5151"
-  },
-  {
-    "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-    "normalized": "a group funded by andreessen, horowitz, and brockman plans data center ads to sway midterms",
-    "content_hash": "b02a8cf821f3d6030ed0d8bf2e2075c9"
-  },
-  {
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "normalized": "instagram puts new limits on undisclosed ai profiles",
-    "content_hash": "fd8d33bd7d1cb5c23740c191ea4bb3d4"
-  },
-  {
-    "title": "Kalshi bans George Santos for life over State of the Union bets",
-    "normalized": "kalshi bans george santos for life over state of the union bets",
-    "content_hash": "fc71fb1e63eb24509ab1a1cab35e8259"
-  },
-  {
-    "title": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
-    "normalized": "harvard law dropout raises $6m for blue voice to build a 'harvey for police officers'",
-    "content_hash": "ac0affc2fefb7f622c1badc39fea463a"
-  },
-  {
-    "title": "FTC lawsuit alleges Amazon has been \u2018secretly and systematically\u2019 overcharging for ads",
-    "normalized": "ftc lawsuit alleges amazon has been 'secretly and systematically' overcharging for ads",
-    "content_hash": "2e265e8897213ba3e9dde1c7621a8fda"
-  },
-  {
-    "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
-    "normalized": "openai to cut off ai models for spacex-owned cursor",
-    "content_hash": "f68bcf358de0fba85e319aa222d3e837"
-  },
-  {
-    "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
-    "normalized": "apple says openai is destroying evidence in trade secrets case",
-    "content_hash": "d96f9d970ac0953b9fda0ec9f8417aff"
-  },
-  {
-    "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-    "normalized": "apple reveals 'shocking evidence' from ex-employee's macbook in openai suit",
-    "content_hash": "a0e4951259ee72e7b2ed9cf24311f859"
-  },
-  {
-    "title": "Run local embedder for 0.24% of the OpenAI price",
-    "normalized": "run local embedder for 0.24% of the openai price",
-    "content_hash": "35e116be7a2dd92a0205fcb38e0afe41"
-  },
-  {
-    "title": "Anthropic's LLM Watermarking",
-    "normalized": "anthropic's llm watermarking",
-    "content_hash": "aea7b1ddbc4843d386d289e3e9a3a48c"
-  },
-  {
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "normalized": "polimill builds japan's next-generation public ai infrastructure",
-    "content_hash": "47ad5a6e7e0a1da5c4ff9bc9ff1271e5"
-  },
-  {
-    "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
-    "normalized": "fedehr-agents: federated agentic optimization for automated ehr modeling",
-    "content_hash": "b0883c63c2be52b88a01ab768be8da39"
-  },
-  {
     "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
     "normalized": "nvidia's controversial dlss 5 arrives september 3rd and requires serious gpu horsepower",
     "content_hash": "063c8cb16ce071206275d00e7ee7ff42"
@@ -2498,5 +2373,130 @@
     "title": "Another big James Talarico interview is punted to YouTube due to FCC threats",
     "normalized": "another big james talarico interview is punted to youtube due to fcc threats",
     "content_hash": "4fee6ba0234988d3050382f73dc1e04c"
+  },
+  {
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "normalized": "jensen huang explains why nvidia will grow an astounding 70% next year",
+    "content_hash": "40bb3b99b65f1ac50add35b63aef5df6"
+  },
+  {
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "normalized": "anthropic reveals rogue ai agents hate captchas, just like you",
+    "content_hash": "5da698477bbd075e49782747b11d8061"
+  },
+  {
+    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+    "normalized": "thrive capital led vcs into pro sports ownership; collaborative fund just upped that play",
+    "content_hash": "cc03a4dab2c45ee5f6206a262aec4eb8"
+  },
+  {
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "normalized": "openai puts pro subscriptions on hold due to astra demand",
+    "content_hash": "72926def3c54b34c3dc314afc0e4202e"
+  },
+  {
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "normalized": "anthropic details distillation campaigns from alibaba, moonshot ai, and deepseek",
+    "content_hash": "93c5983e7d5a908a1ae73af8bae38162"
+  },
+  {
+    "title": "Furo\u2019s founders left Silicon Valley \u2014 and it\u2019s paying off",
+    "normalized": "furo's founders left silicon valley -- and it's paying off",
+    "content_hash": "d39a5b59643725e6197d886d4cdcb28f"
+  },
+  {
+    "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
+    "normalized": "meta's ai agent muse is now the no. 2 app in the us",
+    "content_hash": "32f30b763e323a604b678b38077dfa8d"
+  },
+  {
+    "title": "Proxima Fusion bets \u20ac140M on a critical fusion ingredient dominated by Asian suppliers",
+    "normalized": "proxima fusion bets \u20ac140m on a critical fusion ingredient dominated by asian suppliers",
+    "content_hash": "2b7fa521ca442cfc295dd0a4ee9b24f8"
+  },
+  {
+    "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "normalized": "india's pocket fm doubles revenue run rate to $500m as ai powers 93% of audio content",
+    "content_hash": "4562e7dafd9b108d2a28d97860bf5231"
+  },
+  {
+    "title": "Slack can now vibe-code interactive charts and reports inside chats",
+    "normalized": "slack can now vibe-code interactive charts and reports inside chats",
+    "content_hash": "9c22a9081f476ed289c485a941324469"
+  },
+  {
+    "title": "OpenAI Agents API",
+    "normalized": "openai agents api",
+    "content_hash": "7f3445ee57dcbd5816301aa78ac76e8a"
+  },
+  {
+    "title": "OpenAI Introduces Data Agent in ChatGPT Work to Analyze Company Data",
+    "normalized": "openai introduces data agent in chatgpt work to analyze company data",
+    "content_hash": "8bd2bc05e979a56a460b5863116ef880"
+  },
+  {
+    "title": "Instagram\u2019s latest feature lets you add tagged posts to your profile grid",
+    "normalized": "instagram's latest feature lets you add tagged posts to your profile grid",
+    "content_hash": "d66b644832ed29ae08948e351af5922e"
+  },
+  {
+    "title": "Google is making it easier to switch between password managers on Android",
+    "normalized": "google is making it easier to switch between password managers on android",
+    "content_hash": "195c0ce70bebf275474f9035c7a36d67"
+  },
+  {
+    "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "normalized": "openai wants to know if an ai industry slowdown would even be legal",
+    "content_hash": "c7a3f7cb76718010762308cc32103f26"
+  },
+  {
+    "title": "Is AI Actually Going to Kill Us All?",
+    "normalized": "is ai actually going to kill us all?",
+    "content_hash": "0d955bf39287c39085d0aa9805e290c9"
+  },
+  {
+    "title": "Schools are catching on to Big Tech\u2019s playbook",
+    "normalized": "schools are catching on to big tech's playbook",
+    "content_hash": "f9cd5096dda500ec7a50855469913832"
+  },
+  {
+    "title": "Electric air taxis get the green light for test flights in Texas",
+    "normalized": "electric air taxis get the green light for test flights in texas",
+    "content_hash": "77eb2a5f309e55ffe5e718336ceb625d"
+  },
+  {
+    "title": "Universal Music is launching an AI music platform with ElevenLabs",
+    "normalized": "universal music is launching an ai music platform with elevenlabs",
+    "content_hash": "c3aefeed71613680d8892443250d2b00"
+  },
+  {
+    "title": "The iPhone Duo\u2019s hardware doesn\u2019t look special, but its software might be",
+    "normalized": "the iphone duo's hardware doesn't look special, but its software might be",
+    "content_hash": "59b9f376c1c5780b5cb89421d9b4a461"
+  },
+  {
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "normalized": "more questions about whether researchers can trust openai with unpublished math",
+    "content_hash": "87e6b060eb1f69d1b23d060b4bb3c66b"
+  },
+  {
+    "title": "OpenAI\u2019s Navier-Stokes release included a Lean 4 formal proof",
+    "normalized": "openai's navier-stokes release included a lean 4 formal proof",
+    "content_hash": "5544d32a98765adba9cd8b232bc60291"
+  },
+  {
+    "title": "Now everyone can put data to work",
+    "normalized": "now everyone can put data to work",
+    "content_hash": "b4bcd6c10ae90197f761c57b414d5edf"
+  },
+  {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "normalized": "gpt-6 astra: the next generation in intelligence for work",
+    "content_hash": "9ca584098331c2993db24bfd842d4aaa"
+  },
+  {
+    "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
+    "normalized": "deploying qwen3.8-2.4t-a95b on amazon sagemaker hyperpod with vllm",
+    "content_hash": "4f9ab1c2c5594f78447ad3309f7f8895"
   }
 ]
