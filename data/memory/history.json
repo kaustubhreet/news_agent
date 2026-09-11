@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-    "normalized": "nvidia's controversial dlss 5 arrives september 3rd and requires serious gpu horsepower",
-    "content_hash": "063c8cb16ce071206275d00e7ee7ff42"
-  },
-  {
-    "title": "Nvidia\u2019s DLSS 5, explained",
-    "normalized": "nvidia's dlss 5, explained",
-    "content_hash": "2261a3225ae241701114f2715a0e8e51"
-  },
-  {
-    "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
-    "normalized": "paper pilot: a human-in-the-loop expert system for evidence-traceable scientific manuscript generation in applied sciences",
-    "content_hash": "bc324db0214963eebd8f237ce56dfdaa"
-  },
-  {
-    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-    "normalized": "air raises $50m to help companies vet the skills and add-ons ai agents use",
-    "content_hash": "d61458dafd7f5797c799d41fc462d514"
-  },
-  {
-    "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
-    "normalized": "this startup is fuel-injecting hydrogen to make cargo ships more efficient",
-    "content_hash": "81b5f62928d5fa743dc646a06deefc99"
-  },
-  {
-    "title": "India\u2019s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
-    "normalized": "india's unacademy sells to rival upgrad for $206m, about 94% less than its peak valuation",
-    "content_hash": "d2bcca58cd0b92c5648bd8f598e9fb01"
-  },
-  {
-    "title": "Development of an Autonomous AI Coding Agent using Monte Carlo Tree Search (MCTS) and Gemini LLM Frameworks",
-    "normalized": "development of an autonomous ai coding agent using monte carlo tree search (mcts) and gemini llm frameworks",
-    "content_hash": "bdefb4d18b270a1a87352531a4140e5c"
-  },
-  {
-    "title": "Microsoft 365 outage drags on, but things are improving",
-    "normalized": "microsoft 365 outage drags on, but things are improving",
-    "content_hash": "cd4339fb6f95b8d1bfa7d9de819e3a08"
-  },
-  {
-    "title": "Fambot introduces an \u2018AI chief of staff\u2019 for families",
-    "normalized": "fambot introduces an 'ai chief of staff' for families",
-    "content_hash": "3fce441e58008a85d7b4e37c30cecd6c"
-  },
-  {
-    "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
-    "normalized": "help build the future of startups: volunteer at techcrunch disrupt 2026",
-    "content_hash": "b6fa14c2249750996d8717e63569e0db"
-  },
-  {
-    "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
-    "normalized": "magna increases bet on battery swapping in india with $35m for yuma",
-    "content_hash": "754bbe2a10fcd15404b35bea5409896c"
-  },
-  {
-    "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-    "normalized": "sonos ace ultra, beam ultra, sonos fabric, and a new app: everything sonos just announced",
-    "content_hash": "f1737964746a2c60e11defccd41ab1b4"
-  },
-  {
-    "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-    "normalized": "attackers steal metr api key and consume ai credits worth about $600,000",
-    "content_hash": "501dabb01feb018db17899d0e89f3d14"
-  },
-  {
-    "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-    "normalized": "russia-aligned uac-0099 plants nuclear weapon prompt in malware to disrupt ai analysis",
-    "content_hash": "6e7e6bd2eab24bed574e925559adde8d"
-  },
-  {
-    "title": "Murmell",
-    "normalized": "murmell",
-    "content_hash": "c66730546a9520de06ffb70461defbe3"
-  },
-  {
-    "title": "Shelly\u2019s new $50 security camera watches your home without a subscription",
-    "normalized": "shelly's new $50 security camera watches your home without a subscription",
-    "content_hash": "a1078f4314efad3fbb4c0a910e8c1c22"
-  },
-  {
-    "title": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
-    "normalized": "sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
-    "content_hash": "26176ef11cecb7506061187bb0d9690a"
-  },
-  {
-    "title": "Roku\u2019s first OLED TVs undercut the midrange competition",
-    "normalized": "roku's first oled tvs undercut the midrange competition",
-    "content_hash": "0c2f8714d44a49cd4ba0cb38caee7f96"
-  },
-  {
-    "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
-    "normalized": "ds-lighting: making agent harnesses explicit for data-science automation",
-    "content_hash": "d1492a46731010dcaabe75fdb8c8aa42"
-  },
-  {
-    "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
-    "normalized": "a collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
-    "content_hash": "4a1eb1532b1cea88c51bb1478e5843e0"
-  },
-  {
-    "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
-    "normalized": "the race between agentic ai capabilities and data quality control in online surveys",
-    "content_hash": "e11330169dc9805e98c9fa0758b80be9"
-  },
-  {
-    "title": "CDEP Agent: Connecting Meteorologically Detected Temporal Compound Events to Real-World Documentary Evidence",
-    "normalized": "cdep agent: connecting meteorologically detected temporal compound events to real-world documentary evidence",
-    "content_hash": "babc07eb4e02510d5862042b06c11497"
-  },
-  {
-    "title": "Self-Evolving Skills via Surrogate-Guided Solve-and-Reproduce",
-    "normalized": "self-evolving skills via surrogate-guided solve-and-reproduce",
-    "content_hash": "641b11cb50f3b2129d485399eb589ed7"
-  },
-  {
-    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-    "normalized": "the hugging face hack could indicate cultural issues at openai",
-    "content_hash": "0d5f33b3a799f692b6d81ef38fdb4ff4"
-  },
-  {
-    "title": "Indian consulate in UAE issues warning over biometric fraud targeting nationals",
-    "normalized": "indian consulate in uae issues warning over biometric fraud targeting nationals",
-    "content_hash": "935ac6f72a3b6df3e2ae1938cda9c440"
-  },
-  {
     "title": "OpenAI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
     "normalized": "openai's astra model is on the way -- and very good at breaking into computer systems",
     "content_hash": "bb41f920f0208d1d47787123f80b5077"
@@ -2498,5 +2373,130 @@
     "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
     "normalized": "deploying qwen3.8-2.4t-a95b on amazon sagemaker hyperpod with vllm",
     "content_hash": "4f9ab1c2c5594f78447ad3309f7f8895"
+  },
+  {
+    "title": "Show HN: Usero MCP, give your coding agent your user feedback",
+    "normalized": "show hn: usero mcp, give your coding agent your user feedback",
+    "content_hash": "53a72eaa45bda1ef6b0986f0ccf1e8fe"
+  },
+  {
+    "title": "OpenAI Agents API, here we go, the assistant API again?",
+    "normalized": "openai agents api, here we go, the assistant api again?",
+    "content_hash": "6abdc2d165d40134c682b44db6bc01e4"
+  },
+  {
+    "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+    "normalized": "opendiscoverytrace: process traces for evaluating ai scientist workflows",
+    "content_hash": "3de0016548b4ff2a91f088ba694de830"
+  },
+  {
+    "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
+    "normalized": "sakana ai launches fugu max and fugu ultra v2 for cheaper, stronger multi-agent orchestration",
+    "content_hash": "03535e397fbf15e68b1dfc0b26f783f1"
+  },
+  {
+    "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+    "normalized": "scammers target hundreds of thousands of crypto owners after trezor confirms data breach of email provider",
+    "content_hash": "092e97bb4932e20cda5bb168935efedb"
+  },
+  {
+    "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+    "normalized": "why so many ai researchers think the machines could kill everyone",
+    "content_hash": "51b4c45b4f1f562d1440792161d30907"
+  },
+  {
+    "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+    "normalized": "claude used to automate exploitation and data theft across multiple victims",
+    "content_hash": "c1254eae2541186cb07358a69ea6791b"
+  },
+  {
+    "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+    "normalized": "russian state-sponsored hackers use claude to rebuild malware after detection",
+    "content_hash": "724c731479adb635cdeacd58e905ccd2"
+  },
+  {
+    "title": "Where to preorder the Apple AirPods 5",
+    "normalized": "where to preorder the apple airpods 5",
+    "content_hash": "0c2de5d36c0d81df1f4aea71a3010a6c"
+  },
+  {
+    "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+    "normalized": "meta says it's changing ai suggestions after posing invasive personal questions",
+    "content_hash": "2abc5f9913024f90f5ee0c4148af38ff"
+  },
+  {
+    "title": "New York City\u2019s last pickpocket doesn\u2019t need a smartphone",
+    "normalized": "new york city's last pickpocket doesn't need a smartphone",
+    "content_hash": "08aa976a9123b0232a6cbe89e4da56ee"
+  },
+  {
+    "title": "Ikea supersized its cheap Bluetooth speaker and added an optical input",
+    "normalized": "ikea supersized its cheap bluetooth speaker and added an optical input",
+    "content_hash": "0bcab4804677c5a17913147116484fc9"
+  },
+  {
+    "title": "Arizona\u2019s lifeline for chip manufacturing is drying up",
+    "normalized": "arizona's lifeline for chip manufacturing is drying up",
+    "content_hash": "a9d834f616da93c5e71faad1eb7a0ab3"
+  },
+  {
+    "title": "Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese misuse",
+    "normalized": "anthropic disrupts bioweapons research efforts, russian hacking, chinese misuse",
+    "content_hash": "848b6ea3bc3a753aff74adaa8864af6e"
+  },
+  {
+    "title": "Most Agent Turns Don't Need a Frontier Model: The Routing Math Is Now Public",
+    "normalized": "most agent turns don't need a frontier model: the routing math is now public",
+    "content_hash": "39d40ba11e37f70ccb8f9a1d8933b8a9"
+  },
+  {
+    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+    "normalized": "the worst spam emails: inside ilands' ai agent hustle",
+    "content_hash": "15f71e911842a86611594b1fbf545be5"
+  },
+  {
+    "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+    "normalized": "anthropic says iran used its american ai model to target u.s. navy warships",
+    "content_hash": "d2409eef081c5aecfc7e198bbf436d16"
+  },
+  {
+    "title": "Anthropic's Claude Opus 5 needs to be retracted",
+    "normalized": "anthropic's claude opus 5 needs to be retracted",
+    "content_hash": "224b6b1986479ebadc95f1011083ac5a"
+  },
+  {
+    "title": "Show HN: SOS \u2013 Project state between coding agent sessions",
+    "normalized": "show hn: sos - project state between coding agent sessions",
+    "content_hash": "0fd1e7c24f7d9f48f22020b326a579fa"
+  },
+  {
+    "title": "Show HN: Bitroad \u2013 Infra for Agent-to-Agent Services",
+    "normalized": "show hn: bitroad - infra for agent-to-agent services",
+    "content_hash": "96d75dcc7204f58838dcdfd0d8fd216f"
+  },
+  {
+    "title": "Twelve search APIs ran through the same AI agent to see which one helps it most",
+    "normalized": "twelve search apis ran through the same ai agent to see which one helps it most",
+    "content_hash": "3cccdf698a9d02dc6d585ef3fbed5bf8"
+  },
+  {
+    "title": "Why Codex burns a weekly limit in a day while the agent waits for the tide",
+    "normalized": "why codex burns a weekly limit in a day while the agent waits for the tide",
+    "content_hash": "b73c80f9052b93ca02a37fc8a2c251ce"
+  },
+  {
+    "title": "OpenAI Account Deactivated Due to Biological Research",
+    "normalized": "openai account deactivated due to biological research",
+    "content_hash": "e98a90ad5b4df569b8f3d33ab8546a8f"
+  },
+  {
+    "title": "ICYMI: What landed for AI builders in August 2026",
+    "normalized": "icymi: what landed for ai builders in august 2026",
+    "content_hash": "7495827e8d1ba02cf18d2e4de762478d"
+  },
+  {
+    "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+    "normalized": "an autonomous geoai agent for arctic eco-navigation",
+    "content_hash": "71f51bc6b18cac0a2def8afc6373b495"
   }
 ]
