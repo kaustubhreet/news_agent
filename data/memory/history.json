@@ -1,130 +1,5 @@
 [
   {
-    "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
-    "normalized": "meet switchyard: a rust proxy and library that routes and translates llm traffic across openai and anthropic apis",
-    "content_hash": "d26a67d3ced83dbf20b4eac2764ad481"
-  },
-  {
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "normalized": "palo alto networks paid $500m for thrive-backed console, sources say",
-    "content_hash": "de9467f17fa8a6106cd10cabe44e1c49"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "normalized": "techcrunch disrupt 2026's new real world ai stage features nvidia, robots, and extinct animals",
-    "content_hash": "7720e6a4258f9045e9abf6fd8f96a781"
-  },
-  {
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "normalized": "us government sides with openai on issue of training llms on copyrighted material",
-    "content_hash": "a8d106d168ec2f04593380cf3a169c15"
-  },
-  {
-    "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-    "normalized": "google, anthropic, and openai unveil cyber ai models, safeguards, and access programs",
-    "content_hash": "0a3f4503705b12b6def337399c2a9fc9"
-  },
-  {
-    "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-    "normalized": "researchers fear safety disaster ahead of openai's astra release",
-    "content_hash": "0cd7cf13e5f8c0c66166219021b95072"
-  },
-  {
-    "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
-    "normalized": "co-designing ai models using speculative decoding for faster llm inference",
-    "content_hash": "46ce4b390bf0404fea055c64080100f7"
-  },
-  {
-    "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-    "normalized": "google spared from ad-business breakup, but judge orders changes to how it operates",
-    "content_hash": "09ddfdf8cfaa78e26d75d4d9232e97e9"
-  },
-  {
-    "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
-    "normalized": "openai's new reasoning technique alarms ai safety experts",
-    "content_hash": "4d60d269267dcd959e284777a1ac5032"
-  },
-  {
-    "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
-    "normalized": "pangram's max spero on why ai detection is harder than 'real or fake'",
-    "content_hash": "53444964f2bb1f5ea34e97ec5216ec9c"
-  },
-  {
-    "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-    "normalized": "enhanced geothermal notches another win as google buys 400 mw from fervo",
-    "content_hash": "414bb2b28f12d3ee9d2505f8eb7dbebf"
-  },
-  {
-    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "normalized": "wonderful more than doubles its valuation to $5b in under 6 months",
-    "content_hash": "cad9da612670961a55ecd48591caa178"
-  },
-  {
-    "title": "India\u2019s richest man now wants to turn aging computers into AI-ready PCs",
-    "normalized": "india's richest man now wants to turn aging computers into ai-ready pcs",
-    "content_hash": "e7681fd700820ffd9456975ba47901fd"
-  },
-  {
-    "title": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
-    "normalized": "google says its new gemini 3.8 flash model 'works harder' but might cost more",
-    "content_hash": "0962ec07412da40a61567f0587ce99cd"
-  },
-  {
-    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-    "normalized": "the trump administration is supporting openai in the nyt copyright lawsuit",
-    "content_hash": "eca872398dd60041685917fcb027d206"
-  },
-  {
-    "title": "Google is sending MrBeast into the wilderness, armed with AI",
-    "normalized": "google is sending mrbeast into the wilderness, armed with ai",
-    "content_hash": "9e63c642c61599487366493c804accb6"
-  },
-  {
-    "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
-    "normalized": "us gov sides with openai on issue of training llms on copyrighted material",
-    "content_hash": "7c8a4e8a05a3e9295abeb7cfd84302b2"
-  },
-  {
-    "title": "OpenAI Tells House Democrats It Is Building Automated Shutdown Capability",
-    "normalized": "openai tells house democrats it is building automated shutdown capability",
-    "content_hash": "09c40a9af0e2258b452092a7c24f9c33"
-  },
-  {
-    "title": "iPronics Raises $125M Series B to Scale Optical Networking for AI Data Centers",
-    "normalized": "ipronics raises $125m series b to scale optical networking for ai data centers",
-    "content_hash": "cafb44eaffa84406008796dcbac22ef2"
-  },
-  {
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "normalized": "the builders stage brings practical strategies for scaling startups to techcrunch disrupt 2026",
-    "content_hash": "2079705687bb9ddceba5152d8050ec50"
-  },
-  {
-    "title": "It sure looks like hackers breached a major ID card verification service",
-    "normalized": "it sure looks like hackers breached a major id card verification service",
-    "content_hash": "a86a254882bff9207f11f9070c8c7089"
-  },
-  {
-    "title": "Meta Pushes Its New AI Agent on Employees\u2014but Eases Off on Tokenmaxxing",
-    "normalized": "meta pushes its new ai agent on employees--but eases off on tokenmaxxing",
-    "content_hash": "4ff9e27d4cd4dba1971ba87bc76ffd6b"
-  },
-  {
-    "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-    "normalized": "trump administration sides with openai in new york times copyright lawsuit",
-    "content_hash": "50ba43def63649db730fb48949290e86"
-  },
-  {
-    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-    "normalized": "these russian mathematicians taught ai models how to talk to each other without using words",
-    "content_hash": "c374aa645e3b7a21c2844a07bf4b9a63"
-  },
-  {
-    "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-    "normalized": "the logical end point of ai job interviews is two bots talking to each other",
-    "content_hash": "72bbec1989baa8491f2da169bb6d90d3"
-  },
-  {
     "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
     "normalized": "nvidia's hugging face acquisition is a $12.9 billion bet on open-source ai",
     "content_hash": "08ee4d329c88a84a234036a1d659ef1d"
@@ -2498,5 +2373,130 @@
     "title": "NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100",
     "normalized": "nvidia details bionemo inference runtime (bioir): 2.90x higher boltz-2 folding throughput and 58.5k residues per gpu-hour on 8xh100",
     "content_hash": "51eb7e9bf6959e91c194e3933432fd8e"
+  },
+  {
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "normalized": "anthropic ceo outlines plan to slow ai development",
+    "content_hash": "649a1caeeb9ee316dc594a9f3b0baea4"
+  },
+  {
+    "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
+    "normalized": "openai's rogue ai tried to hack another company in may",
+    "content_hash": "1d60001ff902c542a3ac750dde51c944"
+  },
+  {
+    "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
+    "normalized": "openai's sam altman says it would be 'ill-advised' to go public in 2026",
+    "content_hash": "65c3bea020e514e2b7fd66fa0cda7ad0"
+  },
+  {
+    "title": "Sam Altman says OpenAI going public in 2026 would be \u2018ill-advised\u2019",
+    "normalized": "sam altman says openai going public in 2026 would be 'ill-advised'",
+    "content_hash": "c59771fd023acbc9e51599a54feb772c"
+  },
+  {
+    "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
+    "normalized": "anthropic ceo says it's time to pump the brakes on ai",
+    "content_hash": "97e6589816257de0b218989a1e684576"
+  },
+  {
+    "title": "Nvidia is the central bank of AI",
+    "normalized": "nvidia is the central bank of ai",
+    "content_hash": "ee6c7fe24a4b330265f82663c5b9c3d2"
+  },
+  {
+    "title": "OpenAI rules out IPO this year as Altman/Musk/Amodei warn AI is moving too fast",
+    "normalized": "openai rules out ipo this year as altman/musk/amodei warn ai is moving too fast",
+    "content_hash": "9306fcfe43acfd9bb781e2a59f5e42cc"
+  },
+  {
+    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+    "normalized": "automattic confirms mullenweg has returned as ceo after attempted ouster by board",
+    "content_hash": "7c8e88b4f172cca09cf285ea39695dfa"
+  },
+  {
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "normalized": "revolut confirms customer data breach through fake government requests",
+    "content_hash": "3dd347de4a5825b3e67caf6edb3a7db3"
+  },
+  {
+    "title": "Why is the internet so upset about NVIDIA's DLSS 5?",
+    "normalized": "why is the internet so upset about nvidia's dlss 5?",
+    "content_hash": "dc2a0937ff990f0dc753f35cfd5efdf7"
+  },
+  {
+    "title": "OpenAI agents hacked a software service before the Hugging Face incident",
+    "normalized": "openai agents hacked a software service before the hugging face incident",
+    "content_hash": "b9a399c4d5271d140bab8159c8f3d67c"
+  },
+  {
+    "title": "StarCraft returns in 2030 as an open-world shooter",
+    "normalized": "starcraft returns in 2030 as an open-world shooter",
+    "content_hash": "4c40b248b6da98dcd6fbda421e78bd6e"
+  },
+  {
+    "title": "LG responds to TV spying allegations",
+    "normalized": "lg responds to tv spying allegations",
+    "content_hash": "51705ff70a0d64e5438f9a551436c039"
+  },
+  {
+    "title": "Trump is giving data centers a pass to pollute",
+    "normalized": "trump is giving data centers a pass to pollute",
+    "content_hash": "4dc3c70171d00f67ba9f823b65730cd3"
+  },
+  {
+    "title": "AgentsDock: An IDE designed for agentic AI research",
+    "normalized": "agentsdock: an ide designed for agentic ai research",
+    "content_hash": "99c87ed476c3f201bd7586c72675fc6b"
+  },
+  {
+    "title": "Asking Anthropic CEO: 'Do you earnestly believe that AI could kill all humans?'",
+    "normalized": "asking anthropic ceo: 'do you earnestly believe that ai could kill all humans?'",
+    "content_hash": "1e4e3c7bfaaacec3c96f98bb11c4c0d8"
+  },
+  {
+    "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
+    "normalized": "openai ipo will not happen in 2026 amid ai safety fears, altman says",
+    "content_hash": "6ba5714e44e888698055e2a32b773c59"
+  },
+  {
+    "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
+    "normalized": "booting straight into a local llm (no linux) on my raspberry pi",
+    "content_hash": "325341fa372d12608ea7f12f32cfe696"
+  },
+  {
+    "title": "A full-duplex AI phone agent that listens while speaking",
+    "normalized": "a full-duplex ai phone agent that listens while speaking",
+    "content_hash": "548ffc52ce30c085422a53da4dfb22d0"
+  },
+  {
+    "title": "An Advanced System Architecture Breakdown of OpenAI's Jalapeno Accelerator",
+    "normalized": "an advanced system architecture breakdown of openai's jalapeno accelerator",
+    "content_hash": "98574e2d1b2c85242fae4f35ab8d533f"
+  },
+  {
+    "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+    "normalized": "openai delaying ipo amid ai safety concerns, sam altman says",
+    "content_hash": "f4a1a871f242966d7adda611d0c6461d"
+  },
+  {
+    "title": "Anthropic CEO calls on AI companies to slow down development",
+    "normalized": "anthropic ceo calls on ai companies to slow down development",
+    "content_hash": "ba427838dba848884cedfb7277e1900b"
+  },
+  {
+    "title": "OpenAI won't go public this year",
+    "normalized": "openai won't go public this year",
+    "content_hash": "5fbf516122e53e0de4f9a9308bda4933"
+  },
+  {
+    "title": "Musk and Altman back Anthropic CEO on slowing AI down",
+    "normalized": "musk and altman back anthropic ceo on slowing ai down",
+    "content_hash": "1ce673e1e01ff85d3a371b6c83b057da"
+  },
+  {
+    "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
+    "normalized": "'we must slow the pace': ceo of anthropic calls for an ai slowdown",
+    "content_hash": "c53351427e95b30113a9af07b9e2f568"
   }
 ]
