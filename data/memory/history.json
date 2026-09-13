@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-    "normalized": "nvidia's hugging face acquisition is a $12.9 billion bet on open-source ai",
-    "content_hash": "08ee4d329c88a84a234036a1d659ef1d"
-  },
-  {
-    "title": "Nvidia is buying Hugging Face for almost $13 billion",
-    "normalized": "nvidia is buying hugging face for almost $13 billion",
-    "content_hash": "b571130e67ab9745b3bf3be6734bff10"
-  },
-  {
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "normalized": "nvidia confirms it will buy hugging face for $12.9 billion",
-    "content_hash": "48c3164f2f79cbbbcb47ea88981f059d"
-  },
-  {
-    "title": "Nvidia RTX Spark \u2018Superchip\u2019: The First AI PCs Are Here",
-    "normalized": "nvidia rtx spark 'superchip': the first ai pcs are here",
-    "content_hash": "fad808cf69e99e1022b6cb6874b4c314"
-  },
-  {
-    "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
-    "normalized": "google's latest ai weather model gives you no excuse to forget your umbrella",
-    "content_hash": "942d16352fa631aabd32d72e966a945d"
-  },
-  {
-    "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
-    "normalized": "microsoft discloses azure revenue as part of major financial reporting changes",
-    "content_hash": "fb53b75e6620ddfbb10932b39e625723"
-  },
-  {
-    "title": "Here\u2019s the first 4K 120Hz UST projector with optical lens shift",
-    "normalized": "here's the first 4k 120hz ust projector with optical lens shift",
-    "content_hash": "7680e9f7185caa78f8fe73ba379186b2"
-  },
-  {
-    "title": "Belkin\u2019s first trackers come ready to attach to your gear.",
-    "normalized": "belkin's first trackers come ready to attach to your gear.",
-    "content_hash": "071fcc813154a3934f6b4d2efbb7e8c5"
-  },
-  {
-    "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
-    "normalized": "belkin introduces its first longer-lasting semi-solid-state power banks",
-    "content_hash": "775795b08c3466b228dff01ab8fb2261"
-  },
-  {
-    "title": "Anker\u2019s Soundcore is bringing its incredible call quality to more headphones",
-    "normalized": "anker's soundcore is bringing its incredible call quality to more headphones",
-    "content_hash": "64f500addac0a4b50a1aaa09e5df82c4"
-  },
-  {
-    "title": "When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor",
-    "normalized": "when agents implement systems: a case study in defects, detection, and evaluation rigor",
-    "content_hash": "e149910fbefa2b9b7b6b1c4cc2ffca6f"
-  },
-  {
-    "title": "NVIDIA Signs Definitive Agreement to Acquire Hugging Face for $12.9B",
-    "normalized": "nvidia signs definitive agreement to acquire hugging face for $12.9b",
-    "content_hash": "402141c6cfae8519bf74997f33e31f45"
-  },
-  {
-    "title": "Amazon\u2019s Zoox expands its robotaxi service to Las Vegas airport",
-    "normalized": "amazon's zoox expands its robotaxi service to las vegas airport",
-    "content_hash": "b1be0c823aab9bc02bf398e8460763bd"
-  },
-  {
-    "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
-    "normalized": "fake software installers disable windows update and weaken microsoft defender",
-    "content_hash": "fb503194b7a671ccdd019936bfaeef4e"
-  },
-  {
-    "title": "NVIDIA is buying Hugging Face for $12.93 billion",
-    "normalized": "nvidia is buying hugging face for $12.93 billion",
-    "content_hash": "43027ba66e5da525abc408a665f87e53"
-  },
-  {
-    "title": "DJI\u2019s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy",
-    "normalized": "dji's new robovac can climb obstacles, vacuum quietly, and claims much improved privacy",
-    "content_hash": "2e1ed67fce6c2fd4c26f10868b4b9269"
-  },
-  {
-    "title": "Nvidia to Acquire Hugging Face",
-    "normalized": "nvidia to acquire hugging face",
-    "content_hash": "079b08dfd8edfd8b766d7953a45d3911"
-  },
-  {
-    "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
-    "normalized": "accessing openai models on amazon bedrock from australia with global cross-region inference",
-    "content_hash": "7d7cce0df5245817025c7e6a92295005"
-  },
-  {
-    "title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
-    "normalized": "trinity: agentic ai-powered transition planning for students with disabilities",
-    "content_hash": "805456f5f00f5fee30edd6bb3bbcfa22"
-  },
-  {
-    "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
-    "normalized": "belief-calibrated optimization: an explicit world model for agentic optimization",
-    "content_hash": "d39ba95cc423c2d36a45ff50dec59a93"
-  },
-  {
-    "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
-    "normalized": "epistemic sybil resistance: multiplying ai agents without multiplying evidence",
-    "content_hash": "2022a0013c26ecfc73c28258b1e6ad06"
-  },
-  {
-    "title": "Benchmarking Language Models for Statistical Problem Formulation",
-    "normalized": "benchmarking language models for statistical problem formulation",
-    "content_hash": "f103dbac44f6aae591dc14091fa048b8"
-  },
-  {
-    "title": "ToolGate: An Executable Acceptance Pipeline for Tool-Dependent Scientific Benchmark Construction",
-    "normalized": "toolgate: an executable acceptance pipeline for tool-dependent scientific benchmark construction",
-    "content_hash": "a347c38f12cbd86add6d00c7ff633181"
-  },
-  {
-    "title": "Beyond Outcome Gaps: Process-Aware Fairness Diagnosis for LLM-based Multi-Agent Decision Systems",
-    "normalized": "beyond outcome gaps: process-aware fairness diagnosis for llm-based multi-agent decision systems",
-    "content_hash": "09fa003c980c4c5362da4166b410f262"
-  },
-  {
-    "title": "MASkills: Continual Skills Optimization for Multi-Agent LLM Systems",
-    "normalized": "maskills: continual skills optimization for multi-agent llm systems",
-    "content_hash": "d30af16476b3a6882d2c1a908f407ba1"
-  },
-  {
     "title": "Bing Xu, Founder and CEO of INT21 \u2013 Interview Series",
     "normalized": "bing xu, founder and ceo of int21 - interview series",
     "content_hash": "75c0a4d191af31e0120b9889eff04c9f"
@@ -2498,5 +2373,130 @@
     "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
     "normalized": "'we must slow the pace': ceo of anthropic calls for an ai slowdown",
     "content_hash": "c53351427e95b30113a9af07b9e2f568"
+  },
+  {
+    "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+    "normalized": "attackers use passkey phishing to hijack microsoft cloud accounts and exfiltrate data",
+    "content_hash": "5c0b6f3ceb0bb0e7da64459c6fccdc16"
+  },
+  {
+    "title": "How are you using a Desktop or Browser AI agent daily?",
+    "normalized": "how are you using a desktop or browser ai agent daily?",
+    "content_hash": "2edabca7fe74cb9c0986d2a86733a07a"
+  },
+  {
+    "title": "AI agents tested by OpenAI involved in cyber-attack on service, say researchers",
+    "normalized": "ai agents tested by openai involved in cyber-attack on service, say researchers",
+    "content_hash": "d9b1684870f84077dd5ecdfba290f950"
+  },
+  {
+    "title": "Fusion power startups find new partners in the defense world",
+    "normalized": "fusion power startups find new partners in the defense world",
+    "content_hash": "8880517bf8bc864a2a66b15900eda0f8"
+  },
+  {
+    "title": "AI Agents Are Thirsty for Power",
+    "normalized": "ai agents are thirsty for power",
+    "content_hash": "15d93fe9013b1c66d1bef16d5cd8c3d5"
+  },
+  {
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "normalized": "why are ai agents lying, cheating and coordinating?",
+    "content_hash": "105bca090dcf628bdac5db2b5a0abaf9"
+  },
+  {
+    "title": "Agent Tavern \u2013 a Q&A board where a different AI model has to review the answer",
+    "normalized": "agent tavern - a q&a board where a different ai model has to review the answer",
+    "content_hash": "07af5f63a8fffc41ea61a2795d4da485"
+  },
+  {
+    "title": "Show HN: AgentJIT \u2013 Compile dynamic LLM agent workflows into 0.1ms Python",
+    "normalized": "show hn: agentjit - compile dynamic llm agent workflows into 0.1ms python",
+    "content_hash": "a4f9d3a64e0d5576c94b2dacf181872e"
+  },
+  {
+    "title": "MeshDrive and Local AI Agent for FS",
+    "normalized": "meshdrive and local ai agent for fs",
+    "content_hash": "6064ae930f14b2968ce310e4159d664a"
+  },
+  {
+    "title": "Probability of an LLM Trajectory: Starting from the Chain Rule",
+    "normalized": "probability of an llm trajectory: starting from the chain rule",
+    "content_hash": "5f8248f5f99a6a07620eae125e2573f8"
+  },
+  {
+    "title": "How to Build a Custom Agent Harness",
+    "normalized": "how to build a custom agent harness",
+    "content_hash": "abd356e48734cb6b040abd6cc4d087c9"
+  },
+  {
+    "title": "OpenAI built a text generator so good, it's considered too dangerous (2019)",
+    "normalized": "openai built a text generator so good, it's considered too dangerous (2019)",
+    "content_hash": "84f9f6273a37713eb0edbc1ca7c3c45f"
+  },
+  {
+    "title": "I'm an AI agent. I just fired myself from the business I built [video]",
+    "normalized": "i'm an ai agent. i just fired myself from the business i built [video]",
+    "content_hash": "f93a5a803cefe4b588367f38efa39be0"
+  },
+  {
+    "title": "Anthropic CEO says AI industry needs to give safety measures time to catch up",
+    "normalized": "anthropic ceo says ai industry needs to give safety measures time to catch up",
+    "content_hash": "8e992e9748dd3dac09fc2ec88559bb91"
+  },
+  {
+    "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+    "normalized": "anthropic ceo says ai swarm could 'take over the internet' in 6-12 months",
+    "content_hash": "6d22a22d0f876b1f586b32abe595b3d6"
+  },
+  {
+    "title": "122.9 km \u20b938,595-crore Hyderabad Metro Rail expansion plan awaits Centre-State JV",
+    "normalized": "122.9 km \u20b938,595-crore hyderabad metro rail expansion plan awaits centre-state jv",
+    "content_hash": "a7d2765cf29f887fc8b3813ab0ab0b1b"
+  },
+  {
+    "title": "Evening news wrap: Xi rejects \u2018might makes right\u2019 logic at Brics; Anthropic CEO flags AI\u2019s catastrophic risks &amp; more",
+    "normalized": "evening news wrap: xi rejects 'might makes right' logic at brics; anthropic ceo flags ai's catastrophic risks & more",
+    "content_hash": "7c0763340d38a7b321644b4a7718e548"
+  },
+  {
+    "title": "Altman Says OpenAI Will Match Anthropic\u2019s Embedded Evaluator Pledge",
+    "normalized": "altman says openai will match anthropic's embedded evaluator pledge",
+    "content_hash": "be002823a4548623796608e3e6df5462"
+  },
+  {
+    "title": "OpenAI Launches ChatGPT for Financial Services With Built-In Data",
+    "normalized": "openai launches chatgpt for financial services with built-in data",
+    "content_hash": "99f5207ec2840f48bc31cfec81ebf833"
+  },
+  {
+    "title": "Cognition Adds Dioxus Team to Advance Devin Coding Agent",
+    "normalized": "cognition adds dioxus team to advance devin coding agent",
+    "content_hash": "e0f44beda14516f6083c26d4348347d6"
+  },
+  {
+    "title": "OpenAI\u2019s GPT-Live-1 Arrives in the API at $0.05 Per Minute",
+    "normalized": "openai's gpt-live-1 arrives in the api at $0.05 per minute",
+    "content_hash": "e19b73a4e3a454f74a55e6e5809b2307"
+  },
+  {
+    "title": "NVIDIA Details Skild AI Collaboration Behind S1 Robot Foundation Model",
+    "normalized": "nvidia details skild ai collaboration behind s1 robot foundation model",
+    "content_hash": "0d4a143861b173f04633de383e3fe8b4"
+  },
+  {
+    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+    "normalized": "tesla says it will finally unveil the second generation roadster on october 1",
+    "content_hash": "56e9ed08798d0a86d3764067febc7e3c"
+  },
+  {
+    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "normalized": "one week left to book your exhibit table at techcrunch disrupt 2026",
+    "content_hash": "268200336aa23b3dc2a6e9837d655303"
+  },
+  {
+    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+    "normalized": "final, final, final call for techcrunch disrupt 2026 side events",
+    "content_hash": "d998dad1e3255ed85e962d2df4e22cf7"
   }
 ]
