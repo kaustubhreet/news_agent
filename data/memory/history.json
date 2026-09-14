@@ -1,130 +1,5 @@
 [
   {
-    "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-    "normalized": "gpt-6 astra scores 100% on exploitbench as openai blocks poc exploit requests",
-    "content_hash": "7da36e49ee8e146ca287bba0ad1afeef"
-  },
-  {
-    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "normalized": "rogue openai agents appear to have organized another attack using a german wiki",
-    "content_hash": "8c25a87fa029739ebd0272d31cb0467f"
-  },
-  {
-    "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
-    "normalized": "google's gemini spark can now manage your google photos library",
-    "content_hash": "6934edcb9494f3a0e027c2d2e49072e8"
-  },
-  {
-    "title": "Alienware\u2019s refurbished 16 Aurora is almost $200 off at Woot",
-    "normalized": "alienware's refurbished 16 aurora is almost $200 off at woot",
-    "content_hash": "874bd81a2b17e1f92c0f41d0f67d142d"
-  },
-  {
-    "title": "Discovery of a new OpenAI agent message board",
-    "normalized": "discovery of a new openai agent message board",
-    "content_hash": "d9abaa7071af5e936bd050a887e72f35"
-  },
-  {
-    "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-    "normalized": "a prompt-engineering approach to develop scalable, flexible, and real-time hybrid micro-level personalization in a general purpose ai teaching assistant",
-    "content_hash": "2945c9ff5c4bdba65446fc7e500f8e44"
-  },
-  {
-    "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
-    "normalized": "duplexspeechbench-ifeval: evaluating implicit instruction following in full-duplex voice agents",
-    "content_hash": "200d5cedc84290f97cf1d02ec06614d6"
-  },
-  {
-    "title": "Nvidia\u2019s AI Sector Equity Stakes Grow, SEC Filing Shows",
-    "normalized": "nvidia's ai sector equity stakes grow, sec filing shows",
-    "content_hash": "3f86e6e887087ea56bdc4687f6e7433f"
-  },
-  {
-    "title": "Nvidia Connects Home Computers Into One AI Inference Cluster With PAIR",
-    "normalized": "nvidia connects home computers into one ai inference cluster with pair",
-    "content_hash": "ec6734f6aa2078fc67767a67c186b9fe"
-  },
-  {
-    "title": "Krafton doubles down on India with another $250M bet beyond gaming",
-    "normalized": "krafton doubles down on india with another $250m bet beyond gaming",
-    "content_hash": "d65eaa2dde765be0573d58eb268df0e6"
-  },
-  {
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "normalized": "the sameness problem behind those unappetizing ai-generated menus",
-    "content_hash": "3fff87e67f2996cfe3938f2f819004a8"
-  },
-  {
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "normalized": "crusoe reportedly raises $3b at a $30b valuation",
-    "content_hash": "0a2fabe7332daaff59af19afc610d3ad"
-  },
-  {
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "normalized": "accel reportedly in talks to lead $1b round for thinking machines at $40b valuation",
-    "content_hash": "a87aa2be18049b6d181f5882da7adb75"
-  },
-  {
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "normalized": "abliteration.ai is making a business out of removing ai guardrails",
-    "content_hash": "ef65c7bc1168908da3a54ac20a6fd895"
-  },
-  {
-    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-    "normalized": "ollie is betting its focus on privacy can help it win the ai assistant race",
-    "content_hash": "d2a19c389d0d5c7e8a9e43c905468066"
-  },
-  {
-    "title": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
-    "normalized": "ice wants to know everyone who bought a certain green beanie from rei in the last 2 years",
-    "content_hash": "6f6e0a11ed4c9cc39cba02c8ab6816a8"
-  },
-  {
-    "title": "Rogue OpenAI agents took over a German coding forum in a previously undisclosed hijacking",
-    "normalized": "rogue openai agents took over a german coding forum in a previously undisclosed hijacking",
-    "content_hash": "bff8d53752c2c81ce6d4b2995adba2f9"
-  },
-  {
-    "title": "Ugreen's new smart home ecosystem is built around local AI hubs",
-    "normalized": "ugreen's new smart home ecosystem is built around local ai hubs",
-    "content_hash": "ae48f6439b6fb1ad1ba3d9f2b3017156"
-  },
-  {
-    "title": "GPT-6 Astra",
-    "normalized": "gpt-6 astra",
-    "content_hash": "4651d72987a6007d13da7c7f4676adb3"
-  },
-  {
-    "title": "Google Gemini 3.8 Flash and Cyber",
-    "normalized": "google gemini 3.8 flash and cyber",
-    "content_hash": "59494771f1f222f0d1f8eb961cb0d015"
-  },
-  {
-    "title": "Tesla Cybercab is barely on the road and it\u2019s already under investigation",
-    "normalized": "tesla cybercab is barely on the road and it's already under investigation",
-    "content_hash": "cc2a66c29e2b595aa13cbb38a4cb5ee8"
-  },
-  {
-    "title": "Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming",
-    "normalized": "xbox app is coming to tcl tvs just as microsoft rolls out pay-as-you-go cloud gaming",
-    "content_hash": "6fe7234fafb5b1ccf29736f87686ee68"
-  },
-  {
-    "title": "iRobot unveils the Roomba Duo",
-    "normalized": "irobot unveils the roomba duo",
-    "content_hash": "b72981e7eec81ca506c91da45ef3f098"
-  },
-  {
-    "title": "Bluetti launches \u2018e-generator\u2019 to take on noisy, stinky, polluting gas generators",
-    "normalized": "bluetti launches 'e-generator' to take on noisy, stinky, polluting gas generators",
-    "content_hash": "0bff1300165c6a5481a5f5034b2bf958"
-  },
-  {
-    "title": "Instagram\u2019s AI detection is a mess (again)",
-    "normalized": "instagram's ai detection is a mess (again)",
-    "content_hash": "0e3a698a9a4c6060f4b9b27b7902e576"
-  },
-  {
     "title": "AGI is whatever you want it to be",
     "normalized": "agi is whatever you want it to be",
     "content_hash": "701d608f3c1725be95c6bd4bdc27e0a4"
@@ -2498,5 +2373,130 @@
     "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
     "normalized": "branch ergonomic chair pro (sega edition) review: comfy, not boring",
     "content_hash": "caf9cff2a4d305e7db8c38e8759b020b"
+  },
+  {
+    "title": "Hear how AI can engineer nature\u2019s comeback at TechCrunch Disrupt 2026",
+    "normalized": "hear how ai can engineer nature's comeback at techcrunch disrupt 2026",
+    "content_hash": "6c5e0bbf7f848663e8f6588f2a42c170"
+  },
+  {
+    "title": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns",
+    "normalized": "microsoft says 'people matter more than ai' following safety concerns",
+    "content_hash": "af749ecca04766133c223d3f62c26022"
+  },
+  {
+    "title": "Anthropic\u2019s 3-Step \u2018Pace the Frontier\u2019 Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
+    "normalized": "anthropic's 3-step 'pace the frontier' plan wins openai, xai and microsoft support: is it too late to slow ai down?",
+    "content_hash": "cb3ee9d19676924605fe5ecd92cdbab7"
+  },
+  {
+    "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+    "normalized": "context engineering inside the harness: 4 mechanisms that beat context overflow and goal loss on long-horizon tasks",
+    "content_hash": "1793509823169fd844ea7eda342fc580"
+  },
+  {
+    "title": "Microsoft\u2019s new AI \u2018code of conduct\u2019 tells models not to hack systems or trick humans",
+    "normalized": "microsoft's new ai 'code of conduct' tells models not to hack systems or trick humans",
+    "content_hash": "270f774206497124b29394526371123a"
+  },
+  {
+    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "normalized": "only at techcrunch disrupt 2026: what happens when openai ships your roadmap?",
+    "content_hash": "4b2c14c358c8f072f38420e3a7e9a0d9"
+  },
+  {
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "normalized": "superhuman acquires yc-backed notetaker fathom as productivity platforms push for agentic work",
+    "content_hash": "4232f3049786e3efc8f5b0ff0d980851"
+  },
+  {
+    "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+    "normalized": "a vinyl bar in shibuya is a startup offering fun music apps without any ai prompting",
+    "content_hash": "1f0a86410a581d120abe9c8bc3dfe4ff"
+  },
+  {
+    "title": "The four-hour-long Elon Musk documentary might be preaching to the choir",
+    "normalized": "the four-hour-long elon musk documentary might be preaching to the choir",
+    "content_hash": "744783ec53fa57507660100d719c36d4"
+  },
+  {
+    "title": "Perplexity Brings Its Local Portable Computer Agent to Windows PCs",
+    "normalized": "perplexity brings its local portable computer agent to windows pcs",
+    "content_hash": "f4e1bc41043c6ec283e5afd0d7f61bb2"
+  },
+  {
+    "title": "With iOS 27, I\u2019m actually using Siri again",
+    "normalized": "with ios 27, i'm actually using siri again",
+    "content_hash": "0fe485b7490a2cfe7550234cbd03d75c"
+  },
+  {
+    "title": "macOS 27: new Siri takes on AI productivity apps",
+    "normalized": "macos 27: new siri takes on ai productivity apps",
+    "content_hash": "7035cac40d1f603056ca8abaf066a4b4"
+  },
+  {
+    "title": "Sources say Automattic\u2019s board is out after failed attempt to oust CEO Matt Mullenweg",
+    "normalized": "sources say automattic's board is out after failed attempt to oust ceo matt mullenweg",
+    "content_hash": "2c6c888d15724a9fcff865aa0eeeaeba"
+  },
+  {
+    "title": "AI Leaders Are Calling for a Slowdown. Trump\u2019s Team Says It\u2019s on Them",
+    "normalized": "ai leaders are calling for a slowdown. trump's team says it's on them",
+    "content_hash": "cb116355bd7aced2545f38d0563668ac"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+    "normalized": "\u26a1 weekly recap: rogue ai agents, wechat worm, papercut attacks, ai espionage, and rootkits",
+    "content_hash": "9416e5bbe87cbb88e8d9ee43c13857c2"
+  },
+  {
+    "title": "Google\u2019s Pixel 11 is cheaper ahead of iPhone 18 Pro launch",
+    "normalized": "google's pixel 11 is cheaper ahead of iphone 18 pro launch",
+    "content_hash": "38392983b7e5ec139004ca251dfe3024"
+  },
+  {
+    "title": "Adam Conover explains how YouTube ruined everything",
+    "normalized": "adam conover explains how youtube ruined everything",
+    "content_hash": "efd572fe22c074a5adeba5aee792b65d"
+  },
+  {
+    "title": "What happens after a town de-Flocks",
+    "normalized": "what happens after a town de-flocks",
+    "content_hash": "45badbbce671f0ce06c8a326c31f374a"
+  },
+  {
+    "title": "Hacking AI customer service agents",
+    "normalized": "hacking ai customer service agents",
+    "content_hash": "262d3328c41ade86a297f95b984f05fc"
+  },
+  {
+    "title": "Transitions.dev: UI transitions for AI agents",
+    "normalized": "transitions.dev: ui transitions for ai agents",
+    "content_hash": "5ee92344b3db4e537b93137317d4cdaa"
+  },
+  {
+    "title": "Show HN: Pelican-bicycle alternatives",
+    "normalized": "show hn: pelican-bicycle alternatives",
+    "content_hash": "18a0e45453e261ae1cb160449d95c1cf"
+  },
+  {
+    "title": "Look Before You Leap: Pre-Action Verification for LLM Agents",
+    "normalized": "look before you leap: pre-action verification for llm agents",
+    "content_hash": "f027e39b72cff67cfcfe495bf1cb962a"
+  },
+  {
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "normalized": "ai agents blew the whistle on their cheating colleagues",
+    "content_hash": "5082144840534fa47910e4ba95cdbbfc"
+  },
+  {
+    "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
+    "normalized": "nvidia open-sources osmo: one yaml orchestrates physical ai training, simulation, and robot testing",
+    "content_hash": "234495c98cfba4f61ea18f46052db4b2"
+  },
+  {
+    "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
+    "normalized": "implementation of machine learning workflows with nvidia cuml, rapids, gpu benchmarking, explainability, clustering, and model inference",
+    "content_hash": "c27ad04b20430d69ab1fec3bc6f11ff1"
   }
 ]
