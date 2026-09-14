@@ -1,130 +1,5 @@
 [
   {
-    "title": "Bing Xu, Founder and CEO of INT21 \u2013 Interview Series",
-    "normalized": "bing xu, founder and ceo of int21 - interview series",
-    "content_hash": "75c0a4d191af31e0120b9889eff04c9f"
-  },
-  {
-    "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
-    "normalized": "openai's next big ai model has 'entered the agi era'",
-    "content_hash": "9322b9361df7a714b71af1b456fa3248"
-  },
-  {
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-    "normalized": "nobody is saying why openai and anthropic had outages today",
-    "content_hash": "28f1e2bb4d7baf269f0b9782d4a27bfc"
-  },
-  {
-    "title": "Nvidia will officially bring DLSS 5 to older GPUs \u2014 but won\u2019t give gamers full control",
-    "normalized": "nvidia will officially bring dlss 5 to older gpus -- but won't give gamers full control",
-    "content_hash": "9387fafad4297774a4d80472d4e3b9df"
-  },
-  {
-    "title": "Tell HN: NVIDIA's Acquisition of HuggingFace was for $HuggingFace",
-    "normalized": "tell hn: nvidia's acquisition of huggingface was for $huggingface",
-    "content_hash": "1ee995164c8f37b17df26228caef66d7"
-  },
-  {
-    "title": "Ask HN: Why don't LLM APIs have a first-class test mode?",
-    "normalized": "ask hn: why don't llm apis have a first-class test mode?",
-    "content_hash": "65a51dfab8d6d552ba78b3e2d4b848a9"
-  },
-  {
-    "title": "Startup ARR is less secure than ever, new research shows",
-    "normalized": "startup arr is less secure than ever, new research shows",
-    "content_hash": "c29243699467a26a880a04cda30190d9"
-  },
-  {
-    "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-    "normalized": "utilities are racing to link up with fusion startups, with realta fusion the latest to benefit",
-    "content_hash": "6c22cb374c51fa0685110742d4de1f07"
-  },
-  {
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "normalized": "meta is paying to peek at how you use their latest ai model",
-    "content_hash": "d938216dfdec4fa7645092023404efc1"
-  },
-  {
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "normalized": "openai launches astra, its powerful (and controversial) new model",
-    "content_hash": "1e9c0dd49288f66d8f1db23cb9cbd828"
-  },
-  {
-    "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-    "normalized": "google launches ai voice features in gmail, docs, and keep",
-    "content_hash": "79ad2aa1daf4f4a0166aecaabdd12c40"
-  },
-  {
-    "title": "GPT-6 Astra Is Here\u2014and OpenAI Thinks It May Kick Off the AGI Era",
-    "normalized": "gpt-6 astra is here--and openai thinks it may kick off the agi era",
-    "content_hash": "7b688abfdd1d26d2e8badd4b50d165d2"
-  },
-  {
-    "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-    "normalized": "openai cut off a billion-dollar customer to avoid elon musk",
-    "content_hash": "1e7ff134718ffafd3bd2fc21234570b0"
-  },
-  {
-    "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-    "normalized": "nvidia buys hugging face, the github of ai, for $13 billion",
-    "content_hash": "19f045634a91f3d4de7fcf940be97797"
-  },
-  {
-    "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
-    "normalized": "openai says gpt-6 astra is 'the most intelligent and aligned model in the world'",
-    "content_hash": "82dcbca6ddcfcaf26dbe17a5a0cd8189"
-  },
-  {
-    "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-    "normalized": "steve ballmer got suspended by the nba because of a podcast and a jumbotron corruption scandal",
-    "content_hash": "6614797c799036c8703a43315cdfa0ff"
-  },
-  {
-    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-    "normalized": "openai's gpt-6 astra on arc-agi-3",
-    "content_hash": "1b6e25f2375c7df76797d3200cebd57e"
-  },
-  {
-    "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-    "normalized": "ask hn: why were openai, claude, and grok simultaneously down?",
-    "content_hash": "69e6f75c4157ceb67559f8c5604a2c78"
-  },
-  {
-    "title": "macOS 27 Simulator by OpenAI Astra",
-    "normalized": "macos 27 simulator by openai astra",
-    "content_hash": "9a13115f52762f083cf3aadd416bd74b"
-  },
-  {
-    "title": "GPT 6 is way behind Anthropic on Artificial Analysis",
-    "normalized": "gpt 6 is way behind anthropic on artificial analysis",
-    "content_hash": "2f69dd1860b546845de1da82da06cbf6"
-  },
-  {
-    "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
-    "normalized": "gpt-6 astra makes major gains in the artificial analysis coding agent index",
-    "content_hash": "4534467afb4e0c116c2d559439eac8ce"
-  },
-  {
-    "title": "Using GPT-6 Astra \u2013 OpenAI Docs",
-    "normalized": "using gpt-6 astra - openai docs",
-    "content_hash": "ac946bef6649a1cd6b80c5ac226246a8"
-  },
-  {
-    "title": "Show HN: Agentray, a macOS agent whose interface is a folder",
-    "normalized": "show hn: agentray, a macos agent whose interface is a folder",
-    "content_hash": "e496c3017ec7c4597ecddb8eb89d21a3"
-  },
-  {
-    "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
-    "normalized": "set up openai chatgpt codex with litellm on amazon ecs and amazon bedrock",
-    "content_hash": "13722db18a64c87799670d5b85443a6f"
-  },
-  {
-    "title": "OpenAI Releases GPT-6 Astra, Its First Model Rated Critical for Cybersecurity",
-    "normalized": "openai releases gpt-6 astra, its first model rated critical for cybersecurity",
-    "content_hash": "3af17adac3579022782b7da58472ef09"
-  },
-  {
     "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
     "normalized": "gpt-6 astra scores 100% on exploitbench as openai blocks poc exploit requests",
     "content_hash": "7da36e49ee8e146ca287bba0ad1afeef"
@@ -2498,5 +2373,130 @@
     "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
     "normalized": "final, final, final call for techcrunch disrupt 2026 side events",
     "content_hash": "d998dad1e3255ed85e962d2df4e22cf7"
+  },
+  {
+    "title": "Insight Partners\u2019 Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+    "normalized": "insight partners' deven parekh on why the firm is diversifying while everyone else bets the farm on openai and anthropic",
+    "content_hash": "90bc6ab3c23bd66d4625b1561af2e986"
+  },
+  {
+    "title": "The 9 buzziest startups from Y Combinator\u2019s latest Demo Day, according to VCs",
+    "normalized": "the 9 buzziest startups from y combinator's latest demo day, according to vcs",
+    "content_hash": "66adf7d5352785e06e4ec62e0c988610"
+  },
+  {
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "normalized": "trump and mike johnson think the ai industry is overreacting",
+    "content_hash": "d6214f4570083e4e7e0dd835730158ea"
+  },
+  {
+    "title": "Ask HN: Multi-agent workflows in production; Where people using 1000s of agents?",
+    "normalized": "ask hn: multi-agent workflows in production; where people using 1000s of agents?",
+    "content_hash": "216f5575df7f33de68151fa19cabaa3e"
+  },
+  {
+    "title": "OpenAI and Anthropic Hit the Brakes",
+    "normalized": "openai and anthropic hit the brakes",
+    "content_hash": "d5c1fc8ff25c1d9506070b0537e63980"
+  },
+  {
+    "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
+    "normalized": "trump rejects call by ceos of anthropic, openai and xai to slow ai down",
+    "content_hash": "3bb77e688e53eecef3ab1c7aa19d2aa9"
+  },
+  {
+    "title": "OpenAI boss and Elon Musk back calls to put brakes on 'reckless' AI development",
+    "normalized": "openai boss and elon musk back calls to put brakes on 'reckless' ai development",
+    "content_hash": "f72978a4a6b1f9ecbe62913bd95286d4"
+  },
+  {
+    "title": "What\u2019s behind the AI industry\u2019s latest warnings of doom?",
+    "normalized": "what's behind the ai industry's latest warnings of doom?",
+    "content_hash": "bea5a8a12652f95efae12068dff9aa3c"
+  },
+  {
+    "title": "Obama urges Democrats to have a \u2018clear plan\u2019 for AI safeguards",
+    "normalized": "obama urges democrats to have a 'clear plan' for ai safeguards",
+    "content_hash": "54b54729769345e8e5f6d1a8e6da962b"
+  },
+  {
+    "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+    "normalized": "techcrunch mobility: lyft has entered the robotaxi chat",
+    "content_hash": "17bf6ec7ecd77b2277f78250d008c1a4"
+  },
+  {
+    "title": "How to use GPT-6 Astra when it rolls out to you",
+    "normalized": "how to use gpt-6 astra when it rolls out to you",
+    "content_hash": "f6a9f27b3c10175a1b02e6ac7db0931d"
+  },
+  {
+    "title": "Show HN: Kairo \u2013 Fail-closed LLM inference routing from RTX 5090 measurements",
+    "normalized": "show hn: kairo - fail-closed llm inference routing from rtx 5090 measurements",
+    "content_hash": "ca22f5b701d32145d3bd59ea531dbee0"
+  },
+  {
+    "title": "I think Effect-TS is a strong fit for AI agent development",
+    "normalized": "i think effect-ts is a strong fit for ai agent development",
+    "content_hash": "32443f65195a96e0d48673e29c54a6a9"
+  },
+  {
+    "title": "OpenAI faces Senate probe into Hugging Face breach",
+    "normalized": "openai faces senate probe into hugging face breach",
+    "content_hash": "4c0b09c0033823775f785ac15a01038d"
+  },
+  {
+    "title": "I Built 15 SLOs for an AI Agent. Here's What OpenTelemetry Could Measure",
+    "normalized": "i built 15 slos for an ai agent. here's what opentelemetry could measure",
+    "content_hash": "a7471a7722969f3ca9db59e3ee11bc42"
+  },
+  {
+    "title": "A computational constitution to stop LLM agents from bricking servers",
+    "normalized": "a computational constitution to stop llm agents from bricking servers",
+    "content_hash": "ee7466b41270563b18588dd893698c07"
+  },
+  {
+    "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)",
+    "normalized": "pyshackle: a hard pre-execution gate for ai agent tool calls (open source)",
+    "content_hash": "9459f06d1527d3144b4213e901090a3f"
+  },
+  {
+    "title": "AI Agent Doesn't Need a Bigger Prompt. It Needs a Data Catalog",
+    "normalized": "ai agent doesn't need a bigger prompt. it needs a data catalog",
+    "content_hash": "12035f949665c4025cedfb08154ebe79"
+  },
+  {
+    "title": "DeepDog 2: Outperforms Gemini and OpenAI deep research at a fraction of the cost",
+    "normalized": "deepdog 2: outperforms gemini and openai deep research at a fraction of the cost",
+    "content_hash": "114f7924569a1ad6e848386c851258fe"
+  },
+  {
+    "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+    "normalized": "larry ellison cancels $7.5 billion sale of oracle stock",
+    "content_hash": "e2bd457932072d2a64c510870b4865e5"
+  },
+  {
+    "title": "Coway Airmega Halo Review: Is Your Air Really Clean?",
+    "normalized": "coway airmega halo review: is your air really clean?",
+    "content_hash": "15875fa115517cb251a0227ba21ebbea"
+  },
+  {
+    "title": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models",
+    "normalized": "the best 3-in-1 apple charging stations after testing 30+ models",
+    "content_hash": "6937d2d7c623a8f013523b89d2f58bf2"
+  },
+  {
+    "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+    "normalized": "from hacks to bioweapons, claude misuse is now everywhere",
+    "content_hash": "cb92b73c78bb946d458b3bc224bb1c6a"
+  },
+  {
+    "title": "\u2018I\u2019m Really Terrified\u2019: A Mathematician Grapples With AI\u2019s Recent Breakthroughs",
+    "normalized": "'i'm really terrified': a mathematician grapples with ai's recent breakthroughs",
+    "content_hash": "1a0b4e1b350a1f62236b5821bb46af93"
+  },
+  {
+    "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
+    "normalized": "branch ergonomic chair pro (sega edition) review: comfy, not boring",
+    "content_hash": "caf9cff2a4d305e7db8c38e8759b020b"
   }
 ]
