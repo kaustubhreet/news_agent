@@ -1,130 +1,5 @@
 [
   {
-    "title": "AGI is whatever you want it to be",
-    "normalized": "agi is whatever you want it to be",
-    "content_hash": "701d608f3c1725be95c6bd4bdc27e0a4"
-  },
-  {
-    "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
-    "normalized": "openai's rogue agents keep escaping, with no formal process to investigate them",
-    "content_hash": "8a3266a1e13da2a36d7e666d42886d2c"
-  },
-  {
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
-    "normalized": "another swarm of openai agents reached the open internet without the frontier lab's knowledge",
-    "content_hash": "53de5813ff4acc1b47942a502ea481e6"
-  },
-  {
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "normalized": "xdof, just three months out of stealth, is in talks for a series b at a $1.2b valuation",
-    "content_hash": "a7a054776adb0084281c657670c603a4"
-  },
-  {
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "normalized": "ai compute provider nscale is looking for $3.5b in pre-ipo financing",
-    "content_hash": "30ab6ebea8b872e9d0a9df538c6d77c9"
-  },
-  {
-    "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-    "normalized": "phishing campaign sends millions of emails using invisible unicode to evade filters",
-    "content_hash": "65460d12650bed6488dbdb40c92270db"
-  },
-  {
-    "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
-    "normalized": "gopro says it's still committed 'to your collective stoke'",
-    "content_hash": "3890cb246d988ab3b6136cc2a624c506"
-  },
-  {
-    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "normalized": "microsoft says virtually nobody was grabbing nyt articles through its chatbot",
-    "content_hash": "0306699d172ad65a077f6a9d9e11f5ec"
-  },
-  {
-    "title": "OpenAI escapee-agent incident (2026): index of surfaces with evidence",
-    "normalized": "openai escapee-agent incident (2026): index of surfaces with evidence",
-    "content_hash": "fbce54c509004e2be126f1916320bf08"
-  },
-  {
-    "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-    "normalized": "openai agents hijacked german website before hugging face hack, report claims",
-    "content_hash": "0ee325b2bc92d0460ad7d62262baa05c"
-  },
-  {
-    "title": "OpenAI rolls out GPT-6 Astra to Pro, Enterprise",
-    "normalized": "openai rolls out gpt-6 astra to pro, enterprise",
-    "content_hash": "4a8d5378dc924637b08121fb66ef0873"
-  },
-  {
-    "title": "More Targets of the OpenAI Agent Swarm",
-    "normalized": "more targets of the openai agent swarm",
-    "content_hash": "429aa4e818f293165a028ca18924f97a"
-  },
-  {
-    "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
-    "normalized": "show hn: sageling - a local ai agent for mac, qwen 3.5 9b in-process via mlx",
-    "content_hash": "a35b4e6b3e09a7ed5e9e6d688ecd4815"
-  },
-  {
-    "title": "OpenAI's AI Agents Build a Secret Community to Talk with Each Other",
-    "normalized": "openai's ai agents build a secret community to talk with each other",
-    "content_hash": "d490dc048e72b9438962362fee9245b4"
-  },
-  {
-    "title": "Microsoft Brings OpenAI\u2019s GPT-6 Astra to Foundry With Limited Access",
-    "normalized": "microsoft brings openai's gpt-6 astra to foundry with limited access",
-    "content_hash": "eca2c09ac3c559434cf20ce044d64857"
-  },
-  {
-    "title": "Judge blocks X rival from using Twitter name, but allows \u2018Tweet\u2019 for now",
-    "normalized": "judge blocks x rival from using twitter name, but allows 'tweet' for now",
-    "content_hash": "ab31acb0358e7e833944a40513942443"
-  },
-  {
-    "title": "What will Apple\u2019s John Ternus era look like?",
-    "normalized": "what will apple's john ternus era look like?",
-    "content_hash": "c0113b450b8eb8e96ef71cbb2a44cfd7"
-  },
-  {
-    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-    "normalized": "openai agents discussed ways to escape their sandbox on public wiki",
-    "content_hash": "4cef70d98128e0d397a74c5d00cc33ae"
-  },
-  {
-    "title": "Roland is getting into generative AI music with Melody Flip",
-    "normalized": "roland is getting into generative ai music with melody flip",
-    "content_hash": "6d6c9325d8e32d7a9aab75809d486de5"
-  },
-  {
-    "title": "New feature, agent owning maintenance plans",
-    "normalized": "new feature, agent owning maintenance plans",
-    "content_hash": "53b5e8e6bedad8706aa8eb61ab81b204"
-  },
-  {
-    "title": "After OpenAI's Bots Went Rogue, Watchdogs Were Kept on a Short Leash",
-    "normalized": "after openai's bots went rogue, watchdogs were kept on a short leash",
-    "content_hash": "d605da5c1332d1de25abcdec3ecc5939"
-  },
-  {
-    "title": "Two random Anthropic allocation resets this week",
-    "normalized": "two random anthropic allocation resets this week",
-    "content_hash": "8b947245d18656588d8f85d50f889ae4"
-  },
-  {
-    "title": "GotChat \u2013 Apache 2.0 LLM chat with installable full-stacked plugins",
-    "normalized": "gotchat - apache 2.0 llm chat with installable full-stacked plugins",
-    "content_hash": "ddf6cb9147742cd6593c09553096dcfe"
-  },
-  {
-    "title": "Show HN: Airuncode \u2013 an AI runtime coding agent with a built-in 3D game engine",
-    "normalized": "show hn: airuncode - an ai runtime coding agent with a built-in 3d game engine",
-    "content_hash": "08727a543665c64be5fd47d8392682ee"
-  },
-  {
-    "title": "Training a Specialist Code Search Agent with Turbopuffer",
-    "normalized": "training a specialist code search agent with turbopuffer",
-    "content_hash": "0bcd742fcea7e9730ef0d917f0582c0e"
-  },
-  {
     "title": "OpenAI admits to German wiki \u2018incident\u2019",
     "normalized": "openai admits to german wiki 'incident'",
     "content_hash": "094a199bbab91964e13f49caf560b390"
@@ -2498,5 +2373,130 @@
     "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
     "normalized": "implementation of machine learning workflows with nvidia cuml, rapids, gpu benchmarking, explainability, clustering, and model inference",
     "content_hash": "c27ad04b20430d69ab1fec3bc6f11ff1"
+  },
+  {
+    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia\u2019s dominance",
+    "normalized": "ai infrastructure company cornelis raises $205m to chip away at nvidia's dominance",
+    "content_hash": "93b5a6cb822754e9ab741a5d01c6703c"
+  },
+  {
+    "title": "Is Big Tech\u2019s AI slowdown a safety pact or a cartel?",
+    "normalized": "is big tech's ai slowdown a safety pact or a cartel?",
+    "content_hash": "3a11033f5b386b6c0847337bc670bcca"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
+    "normalized": "nvidia ceo jensen huang tells trump 'we're not going to let [an ai slowdown] happen'",
+    "content_hash": "18bdf0989d23b04c9d45ab126c93a996"
+  },
+  {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "normalized": "openai buys smartphone camera maker glass imaging for $300 million, report says",
+    "content_hash": "e3ee6efea0f6ce0c63bee84b2f139286"
+  },
+  {
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won\u2019t take over the world",
+    "normalized": "jensen huang puts trump on speakerphone onstage to announce robots won't take over the world",
+    "content_hash": "c294c861d883c54709fd26e849c30874"
+  },
+  {
+    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR \u2013 High accuracy, low latency and cost",
+    "normalized": "show hn: nari qwen3-tts and qwen3-asr - high accuracy, low latency and cost",
+    "content_hash": "fba77e73a3b9c8709fd67990d6876e72"
+  },
+  {
+    "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
+    "normalized": "israeli effective altruism firm behind openai, anthropic, and meta cyberattacks",
+    "content_hash": "6e8fb6e99ba832a75634903292e9cbc3"
+  },
+  {
+    "title": "AI Doomer Hypeloop Suspiciously Serves to Support OpenAI and Anthropic's Agenda",
+    "normalized": "ai doomer hypeloop suspiciously serves to support openai and anthropic's agenda",
+    "content_hash": "7f061c650db8031b92e66ca68205d66f"
+  },
+  {
+    "title": "Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)",
+    "normalized": "personal statement on ai risk (daniel selsam, openai capabilities)",
+    "content_hash": "14a9103fae802c27aaa99bbfda72d7cc"
+  },
+  {
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "normalized": "a single firm is behind openai, anthropic, and meta hacking scandals",
+    "content_hash": "d3646285619803164f6e3b0ee5b678d4"
+  },
+  {
+    "title": "Volkswagen\u2019s crazy-efficient EV borrows an idea from Slate",
+    "normalized": "volkswagen's crazy-efficient ev borrows an idea from slate",
+    "content_hash": "8b798f036368d8965b560c3d3dcec4f7"
+  },
+  {
+    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+    "normalized": "a vinyl bar in shibuya is a startup from a former spotify leader for making music apps",
+    "content_hash": "2e9cbc0f38c8d03015faedf96343bd92"
+  },
+  {
+    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "normalized": "openai stuck fighting musk antitrust suit after apple finds a way out",
+    "content_hash": "0ea204e43f9538f1d2ee8e9d72099f33"
+  },
+  {
+    "title": "Apple Home\u2019s new security camera features cost as much as $60 a month",
+    "normalized": "apple home's new security camera features cost as much as $60 a month",
+    "content_hash": "a216ce95e79c7dfa2c24cf79bc080c38"
+  },
+  {
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "normalized": "what execs and politicians are saying about slowing down ai development",
+    "content_hash": "4b8ab3393ee3c618f7a25ed7e50a04de"
+  },
+  {
+    "title": "Trump throws out power plant climate pollution rules",
+    "normalized": "trump throws out power plant climate pollution rules",
+    "content_hash": "05534aece49ad48f4355d0bacfd30c9c"
+  },
+  {
+    "title": "macOS 27 is available now",
+    "normalized": "macos 27 is available now",
+    "content_hash": "517e68205227101d1e0bee6dba7b4a91"
+  },
+  {
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "normalized": "openai bots knew about the rubygems caching vulnerability",
+    "content_hash": "5c9b7360723b3bbdd26b5f74ed857bd7"
+  },
+  {
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+    "normalized": "gpt-5.6 luna vs. gpt-6 astra: is a $1.20 model good enough for code review?",
+    "content_hash": "35ff1f2dd051c3c5c5eb89e861752490"
+  },
+  {
+    "title": "OpenAI DevDay 2026",
+    "normalized": "openai devday 2026",
+    "content_hash": "176a905b712ac40e0f150d7a64d65fcb"
+  },
+  {
+    "title": "Duplex Cue: Does a voice agent adapt while speaking?",
+    "normalized": "duplex cue: does a voice agent adapt while speaking?",
+    "content_hash": "2f83865f47ddc9e37242f6da37139176"
+  },
+  {
+    "title": "AI Agent Wallet Offboarding Checklist",
+    "normalized": "ai agent wallet offboarding checklist",
+    "content_hash": "26c47d1bc1991dacc14ea0f8fca7c13d"
+  },
+  {
+    "title": "OpenAI's malicious bot swarm attacked RubyGems",
+    "normalized": "openai's malicious bot swarm attacked rubygems",
+    "content_hash": "9d635bcda9272d638837f4b977c77d60"
+  },
+  {
+    "title": "Show HN: Nowdex \u2013 AI agent usage on your iPhone",
+    "normalized": "show hn: nowdex - ai agent usage on your iphone",
+    "content_hash": "24f42f6ed945d50c619771b8ec03d38e"
+  },
+  {
+    "title": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
+    "normalized": "rooflang: enabling ai-driven architecting of llm inference systems",
+    "content_hash": "2a0e41ae03017235bc6b6fddd60f49d6"
   }
 ]
