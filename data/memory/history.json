@@ -1,130 +1,5 @@
 [
   {
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "normalized": "seattle times and newsday are the latest publications to sue openai and microsoft",
-    "content_hash": "a0696f9df2297c01f8a78e9ae5a6722b"
-  },
-  {
-    "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
-    "normalized": "openai confirms 'wiki incident,' says it's 'working on a framework' for more disclosure",
-    "content_hash": "34bdb1a71624ffe076a735d802511e4b"
-  },
-  {
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "normalized": "hikers rescued after using google gemini for planning",
-    "content_hash": "96b945252de172b7c1865f27a4f641b3"
-  },
-  {
-    "title": "Show HN: Claude Skill \u2013 Interns must review (your agent's design choices)",
-    "normalized": "show hn: claude skill - interns must review (your agent's design choices)",
-    "content_hash": "12d2c2514f101d2473bb2e1647543d9d"
-  },
-  {
-    "title": "OpenAI agent swarm posted two FBI database API keys, and hit two universities",
-    "normalized": "openai agent swarm posted two fbi database api keys, and hit two universities",
-    "content_hash": "207c57dd322ad9ddfe3ce991d86f96c3"
-  },
-  {
-    "title": "How OpenAI Agents planned their escape",
-    "normalized": "how openai agents planned their escape",
-    "content_hash": "f4eef127130c17a32a12c3cff96cd72e"
-  },
-  {
-    "title": "OpenAI GPT-6 Astra is AGI? [video]",
-    "normalized": "openai gpt-6 astra is agi? [video]",
-    "content_hash": "f6dc6188046f9ef273767e78173d6276"
-  },
-  {
-    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-    "normalized": "unpatched magento and adobe commerce zero-day exploited to backdoor online stores",
-    "content_hash": "99ff100648f2ff2b9345471e3f116fd1"
-  },
-  {
-    "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
-    "normalized": "openai responds after report exposed another incident in which its ai agents went rogue",
-    "content_hash": "3252da7a28be789ac591c4786682fb49"
-  },
-  {
-    "title": "Two more news organizations sue OpenAI and Microsoft for copyright infringement",
-    "normalized": "two more news organizations sue openai and microsoft for copyright infringement",
-    "content_hash": "5c24837ef0023d25bec072b85f23c6c9"
-  },
-  {
-    "title": "iPhone Handoff will seamlessly share one number between two phones",
-    "normalized": "iphone handoff will seamlessly share one number between two phones",
-    "content_hash": "227ee63377759e33745056ace69e5aa2"
-  },
-  {
-    "title": "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
-    "normalized": "okf agent memory - git-native persistent memory for ai coding agents",
-    "content_hash": "9d153d5e8d58a6a2dc9246578ec08d8b"
-  },
-  {
-    "title": "Chrome again exempts Google from user site data settings",
-    "normalized": "chrome again exempts google from user site data settings",
-    "content_hash": "51663876475861c4bf4319506339943a"
-  },
-  {
-    "title": "OpenAI Response to the Wiki Incident",
-    "normalized": "openai response to the wiki incident",
-    "content_hash": "1aca3dcbe854a9d9f62ca0dcc4d41090"
-  },
-  {
-    "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
-    "normalized": "show hn: we beat mlperf: modern storage for kv offload and llm training",
-    "content_hash": "ced4163bc31358a86c284e6e07dc58c8"
-  },
-  {
-    "title": "Coding-agent skills that cut your worthless tests and write fewer, better ones",
-    "normalized": "coding-agent skills that cut your worthless tests and write fewer, better ones",
-    "content_hash": "b5e51d2ca8d2191f35743f089171020d"
-  },
-  {
-    "title": "OpenAI boosts Astra's eval metrics, and continues to change others",
-    "normalized": "openai boosts astra's eval metrics, and continues to change others",
-    "content_hash": "dd532073feaf213a4d60475a6d74eeda"
-  },
-  {
-    "title": "Swiftask just raised \u20ac1.55M to scale its AI agent deployment",
-    "normalized": "swiftask just raised \u20ac1.55m to scale its ai agent deployment",
-    "content_hash": "b74c7a60eaeb5b95ea4aed0a606f9245"
-  },
-  {
-    "title": "OpenAI acknowledges 'wiki incident' and need for more transparency",
-    "normalized": "openai acknowledges 'wiki incident' and need for more transparency",
-    "content_hash": "64e8be06d9086ea1ada2edbce412fa10"
-  },
-  {
-    "title": "The full stack behind abundant intelligence",
-    "normalized": "the full stack behind abundant intelligence",
-    "content_hash": "eca3c0898e8b3d82fc76cceb5c3ffb1f"
-  },
-  {
-    "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
-    "normalized": "jalape\u00f1o's first results show industry-leading speed and efficiency in ai inference",
-    "content_hash": "4bb80884e78be64afd05861439d4a5c4"
-  },
-  {
-    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-    "normalized": "empowering india's next generation of innovators with atl saathi",
-    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
-  },
-  {
-    "title": "OpenAI Plans Misalignment Incident Reporting Framework After Wiki Incident",
-    "normalized": "openai plans misalignment incident reporting framework after wiki incident",
-    "content_hash": "d88aa2b62ef7e178cbee4136a20fb946"
-  },
-  {
-    "title": "Seattle Times and Newsday Sue OpenAI and Microsoft Over News Content",
-    "normalized": "seattle times and newsday sue openai and microsoft over news content",
-    "content_hash": "87e2d8a115d04699fee63840c499b1a0"
-  },
-  {
-    "title": "Researchers Publish Data: OpenAI Agents Used German Wiki as Message Board",
-    "normalized": "researchers publish data: openai agents used german wiki as message board",
-    "content_hash": "94133340443405ef2a69334c65030510"
-  },
-  {
     "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
     "normalized": "i track llm api prices daily, found a 33x cost gap in the same model",
     "content_hash": "a216d78118ce21377a479953d30b304e"
@@ -2498,5 +2373,130 @@
     "title": "Show HN: Let agent read files with secrets while redacting values for LLM contex",
     "normalized": "show hn: let agent read files with secrets while redacting values for llm contex",
     "content_hash": "c90b7289adc3f377af20cc28e57b4474"
+  },
+  {
+    "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
+    "normalized": "we don't need ai regulation -- leave safety to us, nvidia's jensen huang says",
+    "content_hash": "a2c3db400cc5d7ce6c49b331355041e9"
+  },
+  {
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "normalized": "meta now lets ai agents handle the boring parts of whatsapp business setup",
+    "content_hash": "c8cc4e7b2cc501b545e5b3adc747be51"
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+    "normalized": "the ai graveyard: a running list of projects and startups that didn't make it",
+    "content_hash": "d14790faa76bdeff3bfb22d5aa426274"
+  },
+  {
+    "title": "AI agents now have a place to snitch",
+    "normalized": "ai agents now have a place to snitch",
+    "content_hash": "ce5137184c82c40344e619200e0efda4"
+  },
+  {
+    "title": "Microsoft announces Windows and Surface event for October 7th",
+    "normalized": "microsoft announces windows and surface event for october 7th",
+    "content_hash": "9cd7e64366ff174ee98a10f231d13751"
+  },
+  {
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "normalized": "the ai data center boom is colliding with cities scarred by big industry",
+    "content_hash": "e8154136a8eb48af33b70844a047d4db"
+  },
+  {
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "normalized": "us data centers could consume more natural gas than germany and japan combined by 2035",
+    "content_hash": "56529dd34ea859b3419ba5765357a3fc"
+  },
+  {
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "normalized": "meta expands subscription push with new ai-focused plans",
+    "content_hash": "54c41296bb71e9c707103df2984a21df"
+  },
+  {
+    "title": "Microsoft will hold a Windows and Surface event on October 7",
+    "normalized": "microsoft will hold a windows and surface event on october 7",
+    "content_hash": "c38c86950af20d0b7a7088ca19166131"
+  },
+  {
+    "title": "AI and data centers are incredibly unpopular in every poll",
+    "normalized": "ai and data centers are incredibly unpopular in every poll",
+    "content_hash": "581db53d7c8201e5d1c00778ce0e3e27"
+  },
+  {
+    "title": "What if social media isn\u2019t hurting kids?",
+    "normalized": "what if social media isn't hurting kids?",
+    "content_hash": "8e48476e2bce6bf52f77fefc11ec3872"
+  },
+  {
+    "title": "How The Oregon Trail became a generational icon",
+    "normalized": "how the oregon trail became a generational icon",
+    "content_hash": "156ef6465b7c538a32098f15af4047e5"
+  },
+  {
+    "title": "Show HN: Pizza Bot \u2013 An inbox for AI agents that work in the background",
+    "normalized": "show hn: pizza bot - an inbox for ai agents that work in the background",
+    "content_hash": "14915c58e2f4ed0ce65ea7446d6136c3"
+  },
+  {
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+    "normalized": "why i'm still bearish on llms after navier-stokes",
+    "content_hash": "0225f62ac51b9a972a8a10e1500d058a"
+  },
+  {
+    "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+    "normalized": "vibe patenting: evaluating llm judges for professional patent-drafting agents",
+    "content_hash": "df5e4643a1a8c800fa494b5ebfbd5bc7"
+  },
+  {
+    "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+    "normalized": "toward self-adaptive physical ai: can llm agents manage long-horizon physical tasks?",
+    "content_hash": "cf180fcda8f04c2e8ce8982ce765bd34"
+  },
+  {
+    "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
+    "normalized": "orchslm: probing the dynamics of small language model orchestration",
+    "content_hash": "12390567487c420c86841e1179415196"
+  },
+  {
+    "title": "Grounded Adjudication of Variations across Extracted TimeLines (GAVEL): Comparing Clinical Timelines Against Their Case Reports",
+    "normalized": "grounded adjudication of variations across extracted timelines (gavel): comparing clinical timelines against their case reports",
+    "content_hash": "00007ef8fd14fb8a06bc76c88e7e45d5"
+  },
+  {
+    "title": "Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents",
+    "normalized": "asclepius: an adaptive harness for long-horizon clinical agents",
+    "content_hash": "d7e91b3e3ab0f65c6142478e33e169a4"
+  },
+  {
+    "title": "Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems",
+    "normalized": "carbon-aware routing for function calling in edge-cloud llm systems",
+    "content_hash": "8c90b9fd785219fd23d15bc1dd579b8d"
+  },
+  {
+    "title": "A Hybrid Agentic AI Framework for Intelligent Supply Chain Analytics",
+    "normalized": "a hybrid agentic ai framework for intelligent supply chain analytics",
+    "content_hash": "5831ec5a2acedee1e29f4e77f185724c"
+  },
+  {
+    "title": "Identity Is More Than Recall: A Benchmark for Persistent Identity in Deployed AI Agents",
+    "normalized": "identity is more than recall: a benchmark for persistent identity in deployed ai agents",
+    "content_hash": "5c0bb69f227698f6253989e8f614d0a0"
+  },
+  {
+    "title": "BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents",
+    "normalized": "budgetbench: a budget-tiered protocol and pilot harness for memory strategy evaluation in local large language model agents",
+    "content_hash": "d3f0a3d09de32b46e48706056aa154bd"
+  },
+  {
+    "title": "Evaluating LLM-Generated Rules for Heart Disease Prediction",
+    "normalized": "evaluating llm-generated rules for heart disease prediction",
+    "content_hash": "5a68ba70b66cceaac1eeae1a152c8d4f"
+  },
+  {
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "normalized": "the ai industry has taken a doomer turn. what now?",
+    "content_hash": "80e40691b6bd45ffefea788e0919e882"
   }
 ]
