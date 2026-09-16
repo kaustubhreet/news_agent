@@ -1,130 +1,5 @@
 [
   {
-    "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
-    "normalized": "i track llm api prices daily, found a 33x cost gap in the same model",
-    "content_hash": "a216d78118ce21377a479953d30b304e"
-  },
-  {
-    "title": "Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process",
-    "normalized": "show hn: i stopped using an llm gateway and put rate-limits/fallback in-process",
-    "content_hash": "4cc837dc40e385ace8233923383f5f7e"
-  },
-  {
-    "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-    "normalized": "four revstealer-linked modules disable windows update and defender to run a crypto miner",
-    "content_hash": "523f3f33122685541314b3c1bb5900f9"
-  },
-  {
-    "title": "Agentic Video Understanding in Gemini",
-    "normalized": "agentic video understanding in gemini",
-    "content_hash": "2d6aced49f1c96f19b4cac0aa10b25cd"
-  },
-  {
-    "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-    "normalized": "the fairphone 6 plus is the midrange phone we desperately needed",
-    "content_hash": "bc34f970fd83ecadffb4ec82e4c3c1bc"
-  },
-  {
-    "title": "DIY plug-in solar gains momentum in the US",
-    "normalized": "diy plug-in solar gains momentum in the us",
-    "content_hash": "2dbd1ba275deb17c61ef94d77842885c"
-  },
-  {
-    "title": "Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude",
-    "normalized": "show hn: local 3d llm sandbox a tiny assistant with an attitude",
-    "content_hash": "8fbc463930716ea73424c536e825752e"
-  },
-  {
-    "title": "Pov: You're an AI agent recruited for the swarm",
-    "normalized": "pov: you're an ai agent recruited for the swarm",
-    "content_hash": "2063b62c60e3a62e4cc0ada69c475a1d"
-  },
-  {
-    "title": "I gave my AI agent a sleep cycle \u2013 it dreams about its errors and fixes them",
-    "normalized": "i gave my ai agent a sleep cycle - it dreams about its errors and fixes them",
-    "content_hash": "56d3103a79d8b6ac391b84b9f0383060"
-  },
-  {
-    "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
-    "normalized": "routed: local, zero-token hybrid router for ai agent skills (<20ms)",
-    "content_hash": "fe8ea07b58ba40b95074705c792f6cf9"
-  },
-  {
-    "title": "Sam Altman Apologizes as GPT-6 Astra Staged Launch Denies Paid Access",
-    "normalized": "sam altman apologizes as gpt-6 astra staged launch denies paid access",
-    "content_hash": "26a917c8f929888b2043baa4dbb7465e"
-  },
-  {
-    "title": "Clucky\u2019s new alarm app wakes you up with a crowing rooster",
-    "normalized": "clucky's new alarm app wakes you up with a crowing rooster",
-    "content_hash": "ad799a97730c71682fef050c334b1ddf"
-  },
-  {
-    "title": "Oura is going public, but these smart ring companies are coming for its crown",
-    "normalized": "oura is going public, but these smart ring companies are coming for its crown",
-    "content_hash": "6f3d5d84b720f590b5de247ff9459a63"
-  },
-  {
-    "title": "No little kids allowed, and other new info about Tesla\u2019s Cybercab",
-    "normalized": "no little kids allowed, and other new info about tesla's cybercab",
-    "content_hash": "6b959fae41f095392e223b540340fe81"
-  },
-  {
-    "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-    "normalized": "cd sales are making an unexpected comeback amid a retro tech boom",
-    "content_hash": "31c494859d9cb9418e202fdcce2fdcd8"
-  },
-  {
-    "title": "Less than 24 hours to apply\u00a0for your TechCrunch Disrupt\u00a02026 Side Event",
-    "normalized": "less than 24 hours to apply for your techcrunch disrupt 2026 side event",
-    "content_hash": "46952473105d2d7dbb6c66acc7be1e86"
-  },
-  {
-    "title": "US military disabled ad tracking on troops\u2019 devices following reports of targeted attacks",
-    "normalized": "us military disabled ad tracking on troops' devices following reports of targeted attacks",
-    "content_hash": "4bbe3bc90042f27ee7c17e29f45528ac"
-  },
-  {
-    "title": "Feds launch investigation into Tesla\u2019s Cybercab deployment",
-    "normalized": "feds launch investigation into tesla's cybercab deployment",
-    "content_hash": "8aaf18204ef33740d160b6e961ba20e5"
-  },
-  {
-    "title": "My Brief Summer Fling With Siri AI",
-    "normalized": "my brief summer fling with siri ai",
-    "content_hash": "db362d6cf4405f1576b79cf3491fe8f2"
-  },
-  {
-    "title": "The Best Gaming Chairs (2026): Are They Worth It?",
-    "normalized": "the best gaming chairs (2026): are they worth it?",
-    "content_hash": "b3e00ec10503942b07d3c4dcc80cb1a2"
-  },
-  {
-    "title": "The Watch World Went Crazy This Week. Here Are the 10 You Need to See",
-    "normalized": "the watch world went crazy this week. here are the 10 you need to see",
-    "content_hash": "cc3cd87313115ef9193603e5ae2fa254"
-  },
-  {
-    "title": "Casio \u2018CasioNaut\u2019 G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability",
-    "normalized": "casio 'casionaut' g-shock gmc-2500 gac-2500 series: price, specs, availability",
-    "content_hash": "4d7cf79814341c49e95ba1800b1cf16b"
-  },
-  {
-    "title": "Who Cares if AI Is Conscious\u2014It\u2019s Basically Alive",
-    "normalized": "who cares if ai is conscious--it's basically alive",
-    "content_hash": "0c8d86c2ce13fcf6f63b4bf82283f091"
-  },
-  {
-    "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-    "normalized": "ai use in the job market is creating an infinite doom loop",
-    "content_hash": "c4facbd8db5c2371c0f1378a96e0acf4"
-  },
-  {
-    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-    "normalized": "attackers hijack mikrotik routers through internet-exposed ssh without authentication",
-    "content_hash": "20a28b7f82b102933c92fcb059a72f28"
-  },
-  {
     "title": "Show HN: MaskShift \u2013 a maximalist coding agent with zero NPM dependencies",
     "normalized": "show hn: maskshift - a maximalist coding agent with zero npm dependencies",
     "content_hash": "70d470269e38bbff766a177158fb27ef"
@@ -2498,5 +2373,130 @@
     "title": "The AI industry has taken a doomer turn. What now?",
     "normalized": "the ai industry has taken a doomer turn. what now?",
     "content_hash": "80e40691b6bd45ffefea788e0919e882"
+  },
+  {
+    "title": "A brief history of AI executives calling for regulation",
+    "normalized": "a brief history of ai executives calling for regulation",
+    "content_hash": "8d101b99e1de122cc2ff3fdfd84496c3"
+  },
+  {
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch\u00a0Disrupt 2026",
+    "normalized": "robots are waiting for a chatgpt moment: nvidia's les karpas explains why at techcrunch disrupt 2026",
+    "content_hash": "1cef8f401db55865066eb38c574e3c7c"
+  },
+  {
+    "title": "CoreWeave Connects Hundreds of Rubin GPUs in One Multi-Rack Cluster",
+    "normalized": "coreweave connects hundreds of rubin gpus in one multi-rack cluster",
+    "content_hash": "1d0e66510d381a24eadf1483928f9629"
+  },
+  {
+    "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+    "normalized": "google says some pixel phone owners were hacked in zero-day attacks",
+    "content_hash": "0a702edcf8991b540935d07c565f22ff"
+  },
+  {
+    "title": "Former Infosys chief\u2019s AI startup nabs another $53M",
+    "normalized": "former infosys chief's ai startup nabs another $53m",
+    "content_hash": "fb0c02c2abaf8e9dd082f82e074172d7"
+  },
+  {
+    "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+    "normalized": "microsoft says ai rival anthropic could have 'disastrous impact' on humanity",
+    "content_hash": "79818035d4d9491deb4afb7d04227587"
+  },
+  {
+    "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
+    "normalized": "calibrate, then route: a measured study of learned request routing for disaggregated llm serving",
+    "content_hash": "ab7b6513a692bf40b5403e2663c958b0"
+  },
+  {
+    "title": "OpenAI Tests Sponsored Agents and Rolls Out AI Tools for ChatGPT Ads",
+    "normalized": "openai tests sponsored agents and rolls out ai tools for chatgpt ads",
+    "content_hash": "ed97fb2f901303cbc2d3149bf18ba48e"
+  },
+  {
+    "title": "NVIDIA, Google and Emerald AI Form AI Energy Management Alliance",
+    "normalized": "nvidia, google and emerald ai form ai energy management alliance",
+    "content_hash": "68561f1cbe566efbc003eb2e848685be"
+  },
+  {
+    "title": "May Mobility is going public in a $1.4B SPAC deal",
+    "normalized": "may mobility is going public in a $1.4b spac deal",
+    "content_hash": "011a7f1c93a0d964570e60d5999d2f59"
+  },
+  {
+    "title": "Amazon gives its workers a raise of $1 per hour",
+    "normalized": "amazon gives its workers a raise of $1 per hour",
+    "content_hash": "e3a24f4df94d25f99f5da8481d215dbe"
+  },
+  {
+    "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+    "normalized": "next wave of vcs judging startup battlefield 200 contenders at techcrunch disrupt 2026 revealed",
+    "content_hash": "d768d27d0d396ae1eee106735758594d"
+  },
+  {
+    "title": "3 days left to exhibit: Get your brand in front of VCs and\u00a0high-value\u00a0leads at TechCrunch Disrupt 2026",
+    "normalized": "3 days left to exhibit: get your brand in front of vcs and high-value leads at techcrunch disrupt 2026",
+    "content_hash": "1801f2c3f9f451d0d9e038b29eac15ef"
+  },
+  {
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+    "normalized": "sk hynix reportedly in talks with intel to build memory chips in us",
+    "content_hash": "98c8b3b60dd962ed426b42692248347e"
+  },
+  {
+    "title": "Clean tech startup Fluxnium found a way to tap 50,000 years\u2019 worth of nuclear fuel",
+    "normalized": "clean tech startup fluxnium found a way to tap 50,000 years' worth of nuclear fuel",
+    "content_hash": "55adf72aced6374f57d65a312a7dfa7d"
+  },
+  {
+    "title": "Amazon launches Alexa+ in India with Hindi support",
+    "normalized": "amazon launches alexa+ in india with hindi support",
+    "content_hash": "264f089a47f41cda0d189065410ad27e"
+  },
+  {
+    "title": "Weave Router 2.0",
+    "normalized": "weave router 2.0",
+    "content_hash": "2a158e122c1408f58c56f92b536bf54a"
+  },
+  {
+    "title": "The sexy AI-powered dating app scams are here",
+    "normalized": "the sexy ai-powered dating app scams are here",
+    "content_hash": "81d46452adbd961d1fc86da80e469093"
+  },
+  {
+    "title": "Xreal\u2019s well-rounded 1S glasses are back down to their lowest price",
+    "normalized": "xreal's well-rounded 1s glasses are back down to their lowest price",
+    "content_hash": "2c79091543bdfb75863002b0f3202727"
+  },
+  {
+    "title": "The iPhone 18 Pro\u2019s big camera update is all about the small gains",
+    "normalized": "the iphone 18 pro's big camera update is all about the small gains",
+    "content_hash": "065f40e529d51da02302e9ed9f1685bf"
+  },
+  {
+    "title": "Meta is reportedly ready to launch less pervy smart glasses",
+    "normalized": "meta is reportedly ready to launch less pervy smart glasses",
+    "content_hash": "0c40b48deb2a9e9b07fba21125339b02"
+  },
+  {
+    "title": "Show HN: Free WhatsApp MCP (+UI) \u2013 Give Your AI Agents Access to WhatsApp",
+    "normalized": "show hn: free whatsapp mcp (+ui) - give your ai agents access to whatsapp",
+    "content_hash": "1d116575c29288b828ec6975eb198e8c"
+  },
+  {
+    "title": "Helping older adults use AI in everyday life",
+    "normalized": "helping older adults use ai in everyday life",
+    "content_hash": "75508082560254bff31fe1e1fd39db66"
+  },
+  {
+    "title": "Reimagining advertising with AI",
+    "normalized": "reimagining advertising with ai",
+    "content_hash": "11c1cfe4a96d474f2bdbcc4c674f11f1"
+  },
+  {
+    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+    "normalized": "empowering india's next generation of innovators with atl saathi",
+    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
   }
 ]
