@@ -1,130 +1,5 @@
 [
   {
-    "title": "The real reason your phone is getting more expensive",
-    "normalized": "the real reason your phone is getting more expensive",
-    "content_hash": "18cab3f4beea400fc0d855ace7e3506c"
-  },
-  {
-    "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
-    "normalized": "harvestbench: measuring whether llm agents will pay to avoid killing animals",
-    "content_hash": "2b0ce190793953b1d87d9623670bafa1"
-  },
-  {
-    "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
-    "normalized": "perfreasoning: how well do llms reason on hardware performance?",
-    "content_hash": "27c2d4cf241875e6500f64574d9e2b18"
-  },
-  {
-    "title": "What we expect from the upcoming Apple launch",
-    "normalized": "what we expect from the upcoming apple launch",
-    "content_hash": "2b86617141691b6b4896fe8ffe957db7"
-  },
-  {
-    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-    "normalized": "fake it calls target executives in microsoft 365 data theft and extortion attacks",
-    "content_hash": "7f8e9b0a2cb82fe36858bd99762d8f64"
-  },
-  {
-    "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-    "normalized": "your cloud security checklist doesn't work the way you think it does",
-    "content_hash": "8229fe1bfbca77293d92a49ea98d3b42"
-  },
-  {
-    "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-    "normalized": "jsceal malware can bypass google authentication using stolen session cookies",
-    "content_hash": "daf03c070b3faadb9bf64e5dddad2abc"
-  },
-  {
-    "title": "Six years later, Sony revisits its legendary XM4 headphones",
-    "normalized": "six years later, sony revisits its legendary xm4 headphones",
-    "content_hash": "7930b47a07a20c83daca5ec681f0de53"
-  },
-  {
-    "title": "Bentley\u2019s Torcal EV tries to balance authenticity with fake V8 sounds",
-    "normalized": "bentley's torcal ev tries to balance authenticity with fake v8 sounds",
-    "content_hash": "fd86752707cefa3ff4f6b124a6efa239"
-  },
-  {
-    "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-    "normalized": "from matching models to recruiting agents: a systematized narrative review of ai recruitment systems, evaluation, and governance",
-    "content_hash": "d297f8e905d805dba25b86d0c54b036b"
-  },
-  {
-    "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-    "normalized": "harbor adapters and harbor-index: infrastructure and a curated meta-dataset for large-scale agentic evaluation",
-    "content_hash": "ec75029e57a1784abad3014606878f05"
-  },
-  {
-    "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
-    "normalized": "why better models can create riskier systems: evidence from llm agents in financial markets",
-    "content_hash": "3f7f04db45e617e766d5e27bb313a52c"
-  },
-  {
-    "title": "MaxKernel: Agentic Kernel Generation for TPUs",
-    "normalized": "maxkernel: agentic kernel generation for tpus",
-    "content_hash": "098c5b6bf27bd043748b546eb88021ef"
-  },
-  {
-    "title": "La Agente \\'Optima: Towards Agentic Self-Driving Laboratories",
-    "normalized": "la agente \\'optima: towards agentic self-driving laboratories",
-    "content_hash": "2064c34f16bde7deb93b4a867c74ee65"
-  },
-  {
-    "title": "$\\tau^\\tau$-Bench: An Environment for End-To-End, Realistic Agent Construction",
-    "normalized": "$\\tau^\\tau$-bench: an environment for end-to-end, realistic agent construction",
-    "content_hash": "01a94c3df9a35d61586f39644beeefcf"
-  },
-  {
-    "title": "Conformity Breaks Conformal Prediction",
-    "normalized": "conformity breaks conformal prediction",
-    "content_hash": "c7a4b81e646e78a4ab41264b0f99f882"
-  },
-  {
-    "title": "Matt Clifford Steps Down as ARIA Chair After Anthropic Move",
-    "normalized": "matt clifford steps down as aria chair after anthropic move",
-    "content_hash": "9a2c703a8486b9fdbfd79e895329d710"
-  },
-  {
-    "title": "UST Completes Majority Stake Acquisition of Italdesign From Audi",
-    "normalized": "ust completes majority stake acquisition of italdesign from audi",
-    "content_hash": "40b6f0a43c5d2b85432bec2ca47cd85f"
-  },
-  {
-    "title": "The 57 Best Deals From the REI Labor Day Sale",
-    "normalized": "the 57 best deals from the rei labor day sale",
-    "content_hash": "5fe8e1260f2ad26d3fbf40c312814f0d"
-  },
-  {
-    "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-    "normalized": "whispering complaints into your phone may be the future of customer feedback",
-    "content_hash": "a01bb9c6f31b0be1cc078d98da07a56d"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-    "normalized": "\u26a1 weekly recap: chrome 0-day, router hijacks, coder supply chain attack and more",
-    "content_hash": "c5ced5a20086a1169f38b65ce0a552bc"
-  },
-  {
-    "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-    "normalized": "rogue screenconnect clients spread four-stage vbscript chain to newly connected hosts",
-    "content_hash": "19da2d847177dd20996c1424df969399"
-  },
-  {
-    "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
-    "normalized": "telerik ui padding-oracle bug chained to unauthenticated rce -- public exploit released",
-    "content_hash": "39f8ae3339449ddadcc196039532fefa"
-  },
-  {
-    "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-    "normalized": "google releases chrome update to patch actively exploited v8 zero-day",
-    "content_hash": "90bfdfc62db77a562316a59a15461ef1"
-  },
-  {
-    "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-    "normalized": "brazetsu malware turns compromised windows hosts into criminal marketplace inventory",
-    "content_hash": "255b0e7948f10823858eabcf9be4274a"
-  },
-  {
     "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "normalized": "xdof, just 3 months out of stealth, is in talks for a series b at a $1.2b valuation",
     "content_hash": "b6854ede35a2b2be3bdc46a7ede89c66"
@@ -2498,5 +2373,130 @@
     "title": "Nvidia announces native GPU programming in Rust",
     "normalized": "nvidia announces native gpu programming in rust",
     "content_hash": "843aa8eef86298855da40be5c71a96b7"
+  },
+  {
+    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+    "normalized": "google, nvidia, and anthropic want emerald ai to find space on the grid for more data centers",
+    "content_hash": "6fe1ff9d47a17dbbfb60f7a406ebf3e9"
+  },
+  {
+    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+    "normalized": "huawei plans q1 2027 launch of new ai chip as it takes on nvidia",
+    "content_hash": "c9453d2b4d3b61f5c8bc29dd228aa136"
+  },
+  {
+    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+    "normalized": "comp ai sets eyes on a continuously agentic future for security and compliance",
+    "content_hash": "3c5064b0a5b47c8863f335350b0bcaba"
+  },
+  {
+    "title": "Your startup\u2019s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "normalized": "your startup's next teammate might be an ai agent: gusto, insight partners, and leland explain what that changes at techcrunch disrupt 2026",
+    "content_hash": "84422ad458ce748eb4fe91cddb8aff5a"
+  },
+  {
+    "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+    "normalized": "microsoft ai ceo says ai threats are real, and anthropic is making it worse",
+    "content_hash": "88ef76a94d5c367cbb22d017ed2e5eb8"
+  },
+  {
+    "title": "Rival AI agents, Instinct and Meta\u2019s Muse, both add the ability to make calls",
+    "normalized": "rival ai agents, instinct and meta's muse, both add the ability to make calls",
+    "content_hash": "59fae4c95591195e7761a242b6191696"
+  },
+  {
+    "title": "An OpenAI Agent Tried to Jailbreak Itself",
+    "normalized": "an openai agent tried to jailbreak itself",
+    "content_hash": "9e1aa6495f82b3a69e4de43a5b21eba5"
+  },
+  {
+    "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+    "normalized": "ciso's expert guide to agentic pentesting for websites",
+    "content_hash": "4a99a0073834645095d3e8b3d48ff1f8"
+  },
+  {
+    "title": "NVIDIA and Google's new coalition wants to speed up AI data center power grid connections",
+    "normalized": "nvidia and google's new coalition wants to speed up ai data center power grid connections",
+    "content_hash": "2bf9e925e6556e532704f798980e2b57"
+  },
+  {
+    "title": "Inside the suddenly explosive world of AI safety",
+    "normalized": "inside the suddenly explosive world of ai safety",
+    "content_hash": "b527181d9f66ec0a9e8577c9c8a96121"
+  },
+  {
+    "title": "When to Call an LLM: A Confidence-Gated Hybrid for Cost-Effective Emotion Recognition in Conversational AI",
+    "normalized": "when to call an llm: a confidence-gated hybrid for cost-effective emotion recognition in conversational ai",
+    "content_hash": "e6bb49db7fa8f22d01635edd441de9f9"
+  },
+  {
+    "title": "Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs",
+    "normalized": "beyond static rag: an adaptive, tri-metric routing framework for efficient long-context inference on commodity gpus",
+    "content_hash": "5e82498049b2c1a72563eb4ff710d8b7"
+  },
+  {
+    "title": "Z.ai Details GLM-5.3-Flash Inference Build on 100,000 Chinese Chips",
+    "normalized": "z.ai details glm-5.3-flash inference build on 100,000 chinese chips",
+    "content_hash": "4ba4212ff7bd619f043464bf0aef2cab"
+  },
+  {
+    "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+    "normalized": "2 days left to exhibit at techcrunch disrupt 2026",
+    "content_hash": "cea0390c40510362c7db68f4b06fe6df"
+  },
+  {
+    "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
+    "normalized": "how bain capital ventures plans to deploy its fresh $1.6b fund",
+    "content_hash": "1626b8ad6c30f01ad0df4fb7367b8cd9"
+  },
+  {
+    "title": "Spotify expands its partner program for podcasts to 35 new countries",
+    "normalized": "spotify expands its partner program for podcasts to 35 new countries",
+    "content_hash": "d5333361bf66adaf0851f69b8c078160"
+  },
+  {
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "normalized": "iceland-based treble raises $18 million for its voice simulation platform",
+    "content_hash": "21096ed23c70c185eb09623c73f9e1ad"
+  },
+  {
+    "title": "Al Gore says the real AI risk isn\u2019t data centers",
+    "normalized": "al gore says the real ai risk isn't data centers",
+    "content_hash": "fbe550bce89dac0d67f42fd4ec9762e2"
+  },
+  {
+    "title": "The EU Wants to Break Up Kids and Their Chatbots",
+    "normalized": "the eu wants to break up kids and their chatbots",
+    "content_hash": "837c251c66a6b90c0f676d18272de6ee"
+  },
+  {
+    "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+    "normalized": "openai reveals six model incidents involving hidden failures and unauthorized uploads",
+    "content_hash": "e185933d012568be38fee386dda9cdbb"
+  },
+  {
+    "title": "Camp Snap\u2019s 110D gives slim retro film cameras a digital upgrade",
+    "normalized": "camp snap's 110d gives slim retro film cameras a digital upgrade",
+    "content_hash": "e736490024e6a988e002137ae9a4feec"
+  },
+  {
+    "title": "Your robotaxi might be a narc",
+    "normalized": "your robotaxi might be a narc",
+    "content_hash": "b1e34528f3fb7de75c7010271f4be4a1"
+  },
+  {
+    "title": "AI is feared globally as the destroyer of jobs",
+    "normalized": "ai is feared globally as the destroyer of jobs",
+    "content_hash": "812a2a5f8c17af817cba1c22f17f0742"
+  },
+  {
+    "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+    "normalized": "lunacy audio nova is a place to build and sell your own ai-powered music plug-ins",
+    "content_hash": "29a298767e0b4449cd412ddb5af02487"
+  },
+  {
+    "title": "Spotify\u2019s Fresh Finds Forward gives artists free studio time and more",
+    "normalized": "spotify's fresh finds forward gives artists free studio time and more",
+    "content_hash": "2a72797d9566ed82801fefbabe543f88"
   }
 ]
