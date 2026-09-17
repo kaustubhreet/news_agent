@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: MaskShift \u2013 a maximalist coding agent with zero NPM dependencies",
-    "normalized": "show hn: maskshift - a maximalist coding agent with zero npm dependencies",
-    "content_hash": "70d470269e38bbff766a177158fb27ef"
-  },
-  {
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "normalized": "authors push back as publishers and agents make claims on anthropic settlement",
-    "content_hash": "258fed8974401e3d928997e1773ca4e5"
-  },
-  {
-    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "normalized": "seattle times and newsday sue openai and microsoft for infringement",
-    "content_hash": "a1951dfe3d1399388a5f9a1861b03aed"
-  },
-  {
-    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3 Scored 99.95% with Provider Adapter Harness",
-    "normalized": "openai's gpt-6 astra on arc-agi-3 scored 99.95% with provider adapter harness",
-    "content_hash": "c29d655f57598d9df73a393f1575cb12"
-  },
-  {
-    "title": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
-    "normalized": "travis kalanick's atoms might be getting into the robotaxi business",
-    "content_hash": "b30c69b4fd43be9c3495f3aa149f4991"
-  },
-  {
-    "title": "TechCrunch Mobility: Tesla Cybercab hits the road \u2014 and a snag",
-    "normalized": "techcrunch mobility: tesla cybercab hits the road -- and a snag",
-    "content_hash": "59f492616db97069a4eb30dd81e3ca09"
-  },
-  {
-    "title": "How to set up ChatGPT's parental controls to protect your teen",
-    "normalized": "how to set up chatgpt's parental controls to protect your teen",
-    "content_hash": "63b7733d4b84350d59b8c15767d1e88f"
-  },
-  {
-    "title": "An Amazon cargo plane crashed at Miami International Airport",
-    "normalized": "an amazon cargo plane crashed at miami international airport",
-    "content_hash": "afa1e824c7e3818050e6d005b7c247b3"
-  },
-  {
-    "title": "Boox\u2019s tiny Picco e-reader should land in November",
-    "normalized": "boox's tiny picco e-reader should land in november",
-    "content_hash": "e03aa8166284479888ad436a4992aea6"
-  },
-  {
-    "title": "Ponytail: Lazy Senior Engineer Skill",
-    "normalized": "ponytail: lazy senior engineer skill",
-    "content_hash": "c4a16a42fd8db4625d151a18a5b96429"
-  },
-  {
-    "title": "Research acceleration: The view inside OpenAI",
-    "normalized": "research acceleration: the view inside openai",
-    "content_hash": "f1672e37ab83eaa54e83e76ef36f5c07"
-  },
-  {
-    "title": "Anthropic Has Committed More Than $100B to AWS",
-    "normalized": "anthropic has committed more than $100b to aws",
-    "content_hash": "e7aff2a539f6f96ab97d0e55ed11c43f"
-  },
-  {
-    "title": "Prediction of maternal and infant outcomes with a Mother-Child AI agent",
-    "normalized": "prediction of maternal and infant outcomes with a mother-child ai agent",
-    "content_hash": "512cedf369d22363b69045f0be682782"
-  },
-  {
-    "title": "Show HN: Chrome-bridge \u2013 let any AI agent drive your real logged-in Chrome",
-    "normalized": "show hn: chrome-bridge - let any ai agent drive your real logged-in chrome",
-    "content_hash": "10d56a73f55e38af1e4a7114bf4e733f"
-  },
-  {
-    "title": "A directory of AI agents, MCP servers and agent skills, cross-linked",
-    "normalized": "a directory of ai agents, mcp servers and agent skills, cross-linked",
-    "content_hash": "4ecc2a1c60675cc0bc5c1a7af2160f7c"
-  },
-  {
-    "title": "Ask HN: How safe are our password managers in face of LLM cyber attacks?",
-    "normalized": "ask hn: how safe are our password managers in face of llm cyber attacks?",
-    "content_hash": "40755632119a016251049bfadc213554"
-  },
-  {
-    "title": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
-    "normalized": "ask hn: (why) was the llm breakthrough useful for images, audio, etc.?",
-    "content_hash": "dede24ef9b47e42d538c05b803a08e18"
-  },
-  {
-    "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
-    "normalized": "tumbler ridge shooting survivors file 30 lawsuits against openai",
-    "content_hash": "4b1fd80f1da2d0a4ebd5edad74fd2874"
-  },
-  {
-    "title": "OpenAI Hits Goal of Building an \u2018Automated Research Intern\u2019",
-    "normalized": "openai hits goal of building an 'automated research intern'",
-    "content_hash": "786fd900e20efcbb66e79c014771cf38"
-  },
-  {
-    "title": "Phil Schiller\u2019s App Store exit reportedly driven by wariness over future plans",
-    "normalized": "phil schiller's app store exit reportedly driven by wariness over future plans",
-    "content_hash": "542d7b70a3bdfffe4f95252c13383d17"
-  },
-  {
-    "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-    "normalized": "attackers breached jetbrains cadence via unpatched teamcity, extracting aws credentials",
-    "content_hash": "a6bb6f0078e1c0751a664403efb025c7"
-  },
-  {
-    "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-    "normalized": "critical vmware workstation and fusion flaw lets vm admins execute host code",
-    "content_hash": "36598d276fac2d2bd71f56492571ba75"
-  },
-  {
-    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-    "normalized": "trezor says shipmonk breach exposed 67,000 u.s. customers' data it said was deleted",
-    "content_hash": "e4560a283f6ffc70a63e712c584ea16c"
-  },
-  {
-    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-    "normalized": "attackers exploit papercut flaws to steal credentials from schools and universities",
-    "content_hash": "476ac63b5b2d4d01ab779926f152b033"
-  },
-  {
-    "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-    "normalized": "plex urges immediate updates after patching multiple undisclosed security flaws",
-    "content_hash": "d6c240aa172bf6900413b1b23d787a85"
-  },
-  {
     "title": "The real reason your phone is getting more expensive",
     "normalized": "the real reason your phone is getting more expensive",
     "content_hash": "18cab3f4beea400fc0d855ace7e3506c"
@@ -2498,5 +2373,130 @@
     "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
     "normalized": "empowering india's next generation of innovators with atl saathi",
     "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
+  },
+  {
+    "title": "Your AI agents can now control your Google Home devices",
+    "normalized": "your ai agents can now control your google home devices",
+    "content_hash": "b44e724ec6ea249a0d8fcfcd2bc65648"
+  },
+  {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "normalized": "anthropic and openai want to embed safety evaluators. will they really be independent?",
+    "content_hash": "e91a8b1b7d732cd2b303a58ac9ce1b47"
+  },
+  {
+    "title": "Apple might make servers again to cash in on the AI rush",
+    "normalized": "apple might make servers again to cash in on the ai rush",
+    "content_hash": "378631fd4fc503c01681bc8fefd0202f"
+  },
+  {
+    "title": "Google will now let any AI agent run your smart home",
+    "normalized": "google will now let any ai agent run your smart home",
+    "content_hash": "5b1daf7189e7bc24f1cb20b8fe8777c5"
+  },
+  {
+    "title": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
+    "normalized": "ai labs want in-house auditors -- but maybe they should shut the front door first",
+    "content_hash": "433241c35e9c0b6361126ae358bd499b"
+  },
+  {
+    "title": "How\u00a0Fortell\u00a0is using AI (and $163M) to crack a hearing aid monopoly",
+    "normalized": "how fortell is using ai (and $163m) to crack a hearing aid monopoly",
+    "content_hash": "ea72d8c4d5b1dc20eb91e54e592743e1"
+  },
+  {
+    "title": "Claude comes for Gemini with its own take on Docs and Slides",
+    "normalized": "claude comes for gemini with its own take on docs and slides",
+    "content_hash": "5758ba75fea94d5196ded0f060140736"
+  },
+  {
+    "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
+    "normalized": "michael burry slams openai, anthropic for 'self-serving' calls to slow ai",
+    "content_hash": "4ebe50bdce9120ffbe1c8bf97089644a"
+  },
+  {
+    "title": "OpenAI's rogue agents probed Hugging Face weaknesses months before major hack",
+    "normalized": "openai's rogue agents probed hugging face weaknesses months before major hack",
+    "content_hash": "7bcb695aa89cf74b4328b25885cafa62"
+  },
+  {
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "normalized": "snap tries to make the case again for its $2,200 smart glasses",
+    "content_hash": "a627a4d3347b4749148bea3b4d4b70f2"
+  },
+  {
+    "title": "Al Gore says the real AI risk isn\u2019t data centers \u2014 it\u2019s what industry leaders are warning about",
+    "normalized": "al gore says the real ai risk isn't data centers -- it's what industry leaders are warning about",
+    "content_hash": "d3bcc1aa9110d6fab9c6628769b2f524"
+  },
+  {
+    "title": "Noise wants to help everyday people  become paid content creators",
+    "normalized": "noise wants to help everyday people become paid content creators",
+    "content_hash": "e7ea70ad9dcd3af6e08c180493244f51"
+  },
+  {
+    "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera",
+    "normalized": "after accusations of selling 'perv glasses,' meta prepares to sell a pair without a camera",
+    "content_hash": "56270c1f9b203db622507e95162d49a4"
+  },
+  {
+    "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+    "normalized": "former waymo cfo jumps to self-driving startup wayve",
+    "content_hash": "9eca07c6a17031456ff1d658257cf574"
+  },
+  {
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "normalized": "anthropic merges claude chat and cowork in one interface",
+    "content_hash": "fa08c306d059198be3e5b5292801133d"
+  },
+  {
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "normalized": "openai creates a new framework to disclose bad ai behavior",
+    "content_hash": "ce033e5165e56494bc40bd5e4a1aa559"
+  },
+  {
+    "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
+    "normalized": "chipotle is working with palantir to track food safety risks",
+    "content_hash": "25553b455dd6124b68eb552de7eb78dd"
+  },
+  {
+    "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+    "normalized": "one extension could hijack ai assistants across chrome, comet, edge, opera neon and claude",
+    "content_hash": "3eab89aad39951112f12b58aa8ae253c"
+  },
+  {
+    "title": "Snap is launching a new Specs AI tool, and it\u2019s coming to iOS and Mac",
+    "normalized": "snap is launching a new specs ai tool, and it's coming to ios and mac",
+    "content_hash": "29e4b50ce9f405405ade19186d1f56d8"
+  },
+  {
+    "title": "I wore Snap\u2019s $2,200 smart glasses",
+    "normalized": "i wore snap's $2,200 smart glasses",
+    "content_hash": "e7e8ff5117191a8321e5717c52ca1cce"
+  },
+  {
+    "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+    "normalized": "the 2.5-hour ai-generated odyssey movie is 2.5 hours too long",
+    "content_hash": "0db949b31f4975f032011a6a5632dfd9"
+  },
+  {
+    "title": "The AI data center e-waste problem is huge \u2014 and getting bigger",
+    "normalized": "the ai data center e-waste problem is huge -- and getting bigger",
+    "content_hash": "79acbac9707ef3a8b409a1de3b14a839"
+  },
+  {
+    "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+    "normalized": "resident evil is a comedy first and a thrilling nightmare second",
+    "content_hash": "66c7323992b9ef6cdf14e6520da0a532"
+  },
+  {
+    "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
+    "normalized": "walmart takes a bite off the cost of metroid ravenous physical preorders",
+    "content_hash": "d17134376d900349a87a479505ecb69a"
+  },
+  {
+    "title": "Nvidia announces native GPU programming in Rust",
+    "normalized": "nvidia announces native gpu programming in rust",
+    "content_hash": "843aa8eef86298855da40be5c71a96b7"
   }
 ]
