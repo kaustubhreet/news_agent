@@ -1,130 +1,5 @@
 [
   {
-    "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "normalized": "xdof, just 3 months out of stealth, is in talks for a series b at a $1.2b valuation",
-    "content_hash": "b6854ede35a2b2be3bdc46a7ede89c66"
-  },
-  {
-    "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
-    "normalized": "first xiaomi, then the world: why arm might give phone gaming a huge graphics boost",
-    "content_hash": "b2945104acf58ed6103a3ea08b023f1c"
-  },
-  {
-    "title": "Opaque recurrence, and other AI terms that you should probably know",
-    "normalized": "opaque recurrence, and other ai terms that you should probably know",
-    "content_hash": "fa23173239700940beb1a89a651c5c5b"
-  },
-  {
-    "title": "Audi\u2019s new A2 E-tron is its most affordable and efficient EV yet",
-    "normalized": "audi's new a2 e-tron is its most affordable and efficient ev yet",
-    "content_hash": "9e536b4aaa18feee3d94de91e190ab97"
-  },
-  {
-    "title": "Speculative Decoding in vLLM on AMD GPUs",
-    "normalized": "speculative decoding in vllm on amd gpus",
-    "content_hash": "385a73582b80a70f71340c477de17a67"
-  },
-  {
-    "title": "Supporting Thailand\u2019s next generation of AI startups",
-    "normalized": "supporting thailand's next generation of ai startups",
-    "content_hash": "c2f09565f77db5844247656bd6b59416"
-  },
-  {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "normalized": "learning never stops: how ai makes learning continuous",
-    "content_hash": "94dd6f7d8a242108ad0d347bef74bbcd"
-  },
-  {
-    "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-    "normalized": "a secret new elizabeth holmes documentary stuns telluride",
-    "content_hash": "3c4fc98aba67cb0f0181fd2cd99528bd"
-  },
-  {
-    "title": "Le Creuset x Star Trek Collection: Prices, availability, release date",
-    "normalized": "le creuset x star trek collection: prices, availability, release date",
-    "content_hash": "7a0d6d801650f1b7d59d8c434bd55eea"
-  },
-  {
-    "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-    "normalized": "peep turns chrome and edge into post-compromise backdoors for host command execution",
-    "content_hash": "0eef87c23fc3d18df473bcc669219d51"
-  },
-  {
-    "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
-    "normalized": "rocket report: engines installed for artemis iii; long march 6c breakup in leo",
-    "content_hash": "1450d5133c47815c8ccf8e1bb157381e"
-  },
-  {
-    "title": "Nina by Antalpha",
-    "normalized": "nina by antalpha",
-    "content_hash": "a9043e03ff6dd7dc3ff9248bb0051765"
-  },
-  {
-    "title": "Airuncode",
-    "normalized": "airuncode",
-    "content_hash": "0524d27592ff9e185f1fce62a406333b"
-  },
-  {
-    "title": "Tucky",
-    "normalized": "tucky",
-    "content_hash": "25140d0fcbbff9aa66feff257b51e971"
-  },
-  {
-    "title": "AI Toolbox 3.0",
-    "normalized": "ai toolbox 3.0",
-    "content_hash": "2256ee9dcd8997752302fc003d758d25"
-  },
-  {
-    "title": "Kit by Speakeasy",
-    "normalized": "kit by speakeasy",
-    "content_hash": "5ece32e889482e65346b7cbcbeb0954a"
-  },
-  {
-    "title": "Reflexio",
-    "normalized": "reflexio",
-    "content_hash": "b70ad55005f251692f39bf844db3abc3"
-  },
-  {
-    "title": "GitWarren",
-    "normalized": "gitwarren",
-    "content_hash": "8ea596aa79d6d2ffab5805d70bdfaee0"
-  },
-  {
-    "title": "EcoFlow makes the miniature power station even smaller",
-    "normalized": "ecoflow makes the miniature power station even smaller",
-    "content_hash": "b4908250feb9977756952abce7910f51"
-  },
-  {
-    "title": "Huawei copies Samsung\u2019s privacy display in its latest trifold",
-    "normalized": "huawei copies samsung's privacy display in its latest trifold",
-    "content_hash": "57e73d4cd551d694a555df875a7731ab"
-  },
-  {
-    "title": "Europe has its first commercial orbital rocket",
-    "normalized": "europe has its first commercial orbital rocket",
-    "content_hash": "59fa7eb67c28aca8a058654d083fcd55"
-  },
-  {
-    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-    "normalized": "trusting-trust attack against an entire linux distribution",
-    "content_hash": "22d1d6217d63438f3c1f71b7bec76f22"
-  },
-  {
-    "title": "Supporting independent journalism in Ukraine",
-    "normalized": "supporting independent journalism in ukraine",
-    "content_hash": "c90a6e9ff5fd9cd1438b433f6d4e2f49"
-  },
-  {
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "normalized": "daybreak for frontline defenders: $1b to protect essential services",
-    "content_hash": "549915a224b0e0f0d53ae77605217536"
-  },
-  {
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "normalized": "atv big air tour turned 3 days of work into 3 hours with chatgpt",
-    "content_hash": "9102eeab474fbdc659e4cc2b8163561c"
-  },
-  {
     "title": "Microsoft breaks another patch Tuesday record",
     "normalized": "microsoft breaks another patch tuesday record",
     "content_hash": "ea7f8c2397843115be5181310db71d4e"
@@ -2498,5 +2373,130 @@
     "title": "Spotify\u2019s Fresh Finds Forward gives artists free studio time and more",
     "normalized": "spotify's fresh finds forward gives artists free studio time and more",
     "content_hash": "2a72797d9566ed82801fefbabe543f88"
+  },
+  {
+    "title": "The AI Slowdown Debate Crashed Salesforce\u2019s Party",
+    "normalized": "the ai slowdown debate crashed salesforce's party",
+    "content_hash": "37ec6b22a96e84f6488a8ef190d78f6e"
+  },
+  {
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "normalized": "openai caught its models leaving notes to successors to hide bad behavior",
+    "content_hash": "8e7cdfee6193a5b77153ae71ac352048"
+  },
+  {
+    "title": "UN turns to Google to make its global data ready for AI agents",
+    "normalized": "un turns to google to make its global data ready for ai agents",
+    "content_hash": "4f82e6e1636a8646e63e7558f24da2a9"
+  },
+  {
+    "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
+    "normalized": "microsoft exec called ai scraping 'the largest theft of labor in human history,' new unredacted filings reveal",
+    "content_hash": "799888a6c4e1f495ffb0266f695a7141"
+  },
+  {
+    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+    "normalized": "khosla-backed mazama energy just raised $135m to drill deeper into super-hot-rock geothermal",
+    "content_hash": "4218647de6760a52f7477af022a0a728"
+  },
+  {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "normalized": "google deepmind launches institute to widen the agi debate",
+    "content_hash": "1e1019b4d6ef3739e620d302c23a7e6c"
+  },
+  {
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "normalized": "prismml hopes its tiny llm will change how we all use ai",
+    "content_hash": "82cde6655fada06abddcff26e72fd289"
+  },
+  {
+    "title": "The fix for rogue AI agents could be more AI",
+    "normalized": "the fix for rogue ai agents could be more ai",
+    "content_hash": "5ae72c1d54f6842f85384b53420f4c08"
+  },
+  {
+    "title": "The AI Superintelligence Slowdown",
+    "normalized": "the ai superintelligence slowdown",
+    "content_hash": "bb17a1f51b610990c149d3d88efc5de6"
+  },
+  {
+    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+    "normalized": "claude code relaunches projects to manage multiple ai agents in the cloud",
+    "content_hash": "590e8b720dc34f7a12036cf0c9f76475"
+  },
+  {
+    "title": "Launch HN: Skillsync (YC W26) \u2013 AI chat sessions made portable across agents",
+    "normalized": "launch hn: skillsync (yc w26) - ai chat sessions made portable across agents",
+    "content_hash": "a6b4ccbc12cfdf977a37c10e4d016929"
+  },
+  {
+    "title": "Show HN: Share your AI Setup, Learn from others",
+    "normalized": "show hn: share your ai setup, learn from others",
+    "content_hash": "9bf7974b5b2f09045cb0756ec6949de0"
+  },
+  {
+    "title": "Crusoe Secures $3.9B Series F at $30.9B Valuation to Build AI Factories",
+    "normalized": "crusoe secures $3.9b series f at $30.9b valuation to build ai factories",
+    "content_hash": "5b9b262b50c51a72e42d488a867f024f"
+  },
+  {
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
+    "normalized": "crusoe raises $3.9b to build massive data centers and small modular 'ai factories'",
+    "content_hash": "ac8d3ce8f2b208c3ecc847b0065d0efa"
+  },
+  {
+    "title": "The FAA\u2019s plan to fix air traffic? $875M worth of AI",
+    "normalized": "the faa's plan to fix air traffic? $875m worth of ai",
+    "content_hash": "485b3f667e5d4e31da8bfe22c479a30d"
+  },
+  {
+    "title": "Is the AI safety debate about safety or control?",
+    "normalized": "is the ai safety debate about safety or control?",
+    "content_hash": "feefeed5eb47f47bc76572e0642b2b41"
+  },
+  {
+    "title": "Even the king of England has his hesitations about AI",
+    "normalized": "even the king of england has his hesitations about ai",
+    "content_hash": "c99762be1f34b8f3bd559b7756a346a6"
+  },
+  {
+    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+    "normalized": "base labs launches an open-weight ai safety partnership with hugging face and goodfire",
+    "content_hash": "0a6ec16b93b947060f8839e0f9ecb6a1"
+  },
+  {
+    "title": "Pinterest teases a new \u2018Restyle\u2019 feature that lets you redesign your room with AI",
+    "normalized": "pinterest teases a new 'restyle' feature that lets you redesign your room with ai",
+    "content_hash": "0ba6b0ff4bad68c7fd72d22be8799b0c"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
+    "normalized": "techcrunch disrupt 2026 side events schedule: nmi, backblaze, peakxv partners, augment, and more to host",
+    "content_hash": "38680b598169846c9d23e8244fecf674"
+  },
+  {
+    "title": "Apple will let EU apps use less-alarming tracking-consent screens",
+    "normalized": "apple will let eu apps use less-alarming tracking-consent screens",
+    "content_hash": "00645556d8bc7e3d929afcb160f6dc7a"
+  },
+  {
+    "title": "Google's revamped CC is an AI agent for families and groups",
+    "normalized": "google's revamped cc is an ai agent for families and groups",
+    "content_hash": "8ce74746317df9012b50804ef4220213"
+  },
+  {
+    "title": "Save $30 or more on a refurbished Apple TV 4K",
+    "normalized": "save $30 or more on a refurbished apple tv 4k",
+    "content_hash": "6d8c49a7a8d56994f3ddfb88eb3c28f5"
+  },
+  {
+    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+    "normalized": "zettascale (yc s24) is hiring asic/fpga engineers to build chips for asi",
+    "content_hash": "8a1d80c056b89daf8e2e53f82046492a"
+  },
+  {
+    "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
+    "normalized": "implementing defense-in-depth authorization for mcp tools on amazon quick",
+    "content_hash": "4cececb5bcdc83c6abdae116b4650bc3"
   }
 ]
