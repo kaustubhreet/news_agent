@@ -1,130 +1,5 @@
 [
   {
-    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-    "normalized": "google cloud races to catch up in the ai deployment wars with accenture deal",
-    "content_hash": "ad4748d7088cf0f7f37504d4ef1bffd2"
-  },
-  {
-    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-    "normalized": "chatgpt sketch turns your bad drawings into detailed ai images",
-    "content_hash": "1ce3ec4a51bb6c16ab1029f039bae461"
-  },
-  {
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "normalized": "meta debuts its muse ai agent. will consumers trust it?",
-    "content_hash": "ca58568bbd83af167c50b1506185bdb9"
-  },
-  {
-    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-    "normalized": "openai fought dirty on career-making math problem, says nyu mathematician",
-    "content_hash": "be8803205d2831efcb3bbb21f9270d0a"
-  },
-  {
-    "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
-    "normalized": "drama swirls around openai's legendary mathematical milestone",
-    "content_hash": "338532b6dab6e08b3fa949934abac27e"
-  },
-  {
-    "title": "Meta bets on AI agent Muse to catch up in AI race",
-    "normalized": "meta bets on ai agent muse to catch up in ai race",
-    "content_hash": "b5604a486e664f028ab1afc5ce74f57e"
-  },
-  {
-    "title": "AI power users claim Anthropic duped them with subscriptions, and they\u2019re taking it to court",
-    "normalized": "ai power users claim anthropic duped them with subscriptions, and they're taking it to court",
-    "content_hash": "8e49e34dcbeb08fba242f6f92aaff8ad"
-  },
-  {
-    "title": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
-    "normalized": "benchmarking small llm inference on sagemaker ai: g7 vs g5 and g6",
-    "content_hash": "0e2dba80a25abbf5bd8a72f46305b1fc"
-  },
-  {
-    "title": "New Accenture Gemini Enterprise Business Group Targets Agentic AI Scaling",
-    "normalized": "new accenture gemini enterprise business group targets agentic ai scaling",
-    "content_hash": "26cbfed112155ba8e2d82ce8424a0ca8"
-  },
-  {
-    "title": "White House takes down \u2018Build the Wall\u2019 game after the Tetris Company complains",
-    "normalized": "white house takes down 'build the wall' game after the tetris company complains",
-    "content_hash": "ec332e66a251ed940260c3f5b7c036d7"
-  },
-  {
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "normalized": "hackers are stealing claude tokens from subscribers",
-    "content_hash": "e7103d1c48c39b322b4829f26e2384f6"
-  },
-  {
-    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "normalized": "cognition hits $48b valuation, signaling investors believe ai coding is far from a winner-take-all market",
-    "content_hash": "7483b5fba3059f9783af8d70a921f204"
-  },
-  {
-    "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-    "normalized": "the exploration company nabs $450 million to challenge spacex",
-    "content_hash": "fc23d1b444b57f477dc56d1bc2951eb2"
-  },
-  {
-    "title": "Muse, Meta\u2019s New Personal AI Agent, Needs You to Trust It",
-    "normalized": "muse, meta's new personal ai agent, needs you to trust it",
-    "content_hash": "4974d7ec404cab9a2f913e9e4728bb08"
-  },
-  {
-    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-    "normalized": "openai just claimed a huge math discovery. some academics are crying foul",
-    "content_hash": "b514c9520804078cd7b28a2ada7e5a51"
-  },
-  {
-    "title": "NVIDIA's DLSS 5 adds subtle details to NBA 2K27, but demands a lot more power",
-    "normalized": "nvidia's dlss 5 adds subtle details to nba 2k27, but demands a lot more power",
-    "content_hash": "4013799553190fb691d97735501a71b5"
-  },
-  {
-    "title": "Sony isn\u2019t phasing out discs quite as quickly as we thought",
-    "normalized": "sony isn't phasing out discs quite as quickly as we thought",
-    "content_hash": "9fc011b6b5365320f6c834c9c27df655"
-  },
-  {
-    "title": "Nintendo isn\u2019t scared of GTA VI",
-    "normalized": "nintendo isn't scared of gta vi",
-    "content_hash": "fe3afa8618436b1a26ce8a39214fb294"
-  },
-  {
-    "title": "Muse \u2013 Meta\u2019s personal AI agent",
-    "normalized": "muse - meta's personal ai agent",
-    "content_hash": "ecf7c95359fa53a915e49291ff7e185a"
-  },
-  {
-    "title": "Funding grants for new research into AI and teen development",
-    "normalized": "funding grants for new research into ai and teen development",
-    "content_hash": "7cbcd3cb490b686cfc85bb9131d921cc"
-  },
-  {
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "normalized": "our decision on cursor following its acquisition by spacex",
-    "content_hash": "0fc880832139ad8665a4cf7f9fdf5a1a"
-  },
-  {
-    "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
-    "normalized": "take on your most ambitious work with gpt-6 astra on amazon bedrock",
-    "content_hash": "44fe5357ccf639dcb36de5cfbbd3dbaa"
-  },
-  {
-    "title": "How to Maximize GPT-6 Astra",
-    "normalized": "how to maximize gpt-6 astra",
-    "content_hash": "71bf2c5ccc4325dc95e20e633471b1fa"
-  },
-  {
-    "title": "Sierra Open-Sources Hyper-\u03c4-Bench, a Benchmark for Agent Construction",
-    "normalized": "sierra open-sources hyper-\u03c4-bench, a benchmark for agent construction",
-    "content_hash": "fe1bfa2ec362639d749c159c1a8bf536"
-  },
-  {
-    "title": "OpenAI\u2019s GPT-6 Astra Reaches General Availability on Amazon Bedrock",
-    "normalized": "openai's gpt-6 astra reaches general availability on amazon bedrock",
-    "content_hash": "ea88d4eeff155be1a4cf26411208b264"
-  },
-  {
     "title": "Viral AI assistant Instinct now has its own email address",
     "normalized": "viral ai assistant instinct now has its own email address",
     "content_hash": "3d6eec22a154d5a4a7cb6fecb1cabc54"
@@ -2498,5 +2373,130 @@
     "title": "US judge denies OpenAI bid to review X Corp's settlement with Apple",
     "normalized": "us judge denies openai bid to review x corp's settlement with apple",
     "content_hash": "70888b67afae91699e47c25293a507d5"
+  },
+  {
+    "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
+    "normalized": "dario amodei and other ai leaders want to 'pace the frontier' but...how?",
+    "content_hash": "baea27c2ba7d1d4badc742eeadd44551"
+  },
+  {
+    "title": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "normalized": "open or closed ai? nvidia's nader khalil and sydney sykes take on one of the decisions shaping next-gen startups at techcrunch disrupt 2026",
+    "content_hash": "910555984f7ef4a7f52ede1a591ce4f7"
+  },
+  {
+    "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
+    "normalized": "google's new 'cc' is an ai agent that helps families run their households",
+    "content_hash": "9afafb5662e563a661b2f56535026ac3"
+  },
+  {
+    "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
+    "normalized": "openai and microsoft knew they were starting a 'doom loop' for the web",
+    "content_hash": "d707de08530b09651a5e0fee63072e98"
+  },
+  {
+    "title": "Security researchers used Claude to help them hack into OpenAI",
+    "normalized": "security researchers used claude to help them hack into openai",
+    "content_hash": "0a16a0bf923e8d8ee39193ec1efef84e"
+  },
+  {
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
+    "normalized": "how openai used its own llms to design its jalape\u00f1o chip",
+    "content_hash": "25b8a23f0380c6f62ffdec51702a6be1"
+  },
+  {
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "normalized": "a startup that builds other startups raised $100m and is all-in on physical ai",
+    "content_hash": "871ca10c9168699b80ff203398021e88"
+  },
+  {
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "normalized": "anthropic is operating a lab that conducts biology experiments",
+    "content_hash": "81d7e0419e48bcf5626bdc87e5d642df"
+  },
+  {
+    "title": "AI hallucination nearly triggers US military operation",
+    "normalized": "ai hallucination nearly triggers us military operation",
+    "content_hash": "7fea524751e9f1513e45c8f85728bb07"
+  },
+  {
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "normalized": "a new kind of ai model from a chatgpt inventor is thrilling developers",
+    "content_hash": "f0ed51fbb13a40fe6e37f7fee85ee844"
+  },
+  {
+    "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
+    "normalized": "disney's first cto led an ai startup it once accused of copying its characters",
+    "content_hash": "8d15a82b2747a686876e560f883a7a54"
+  },
+  {
+    "title": "In India, the new iPhone can arrive faster than a pizza",
+    "normalized": "in india, the new iphone can arrive faster than a pizza",
+    "content_hash": "b7e387c78b148298df0c20b87eff5be8"
+  },
+  {
+    "title": "What Hollywood thinks about existential AI warnings",
+    "normalized": "what hollywood thinks about existential ai warnings",
+    "content_hash": "739aa2ab41d61d783de309c2d1bf9124"
+  },
+  {
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "normalized": "india forces caller-id apps to feed spam reports to telcos",
+    "content_hash": "74bd71a34898a6f4757cdf49d2ab2f76"
+  },
+  {
+    "title": "Tilly Norwood\u2019s press tour is going about as well as you\u2019d expect for an AI",
+    "normalized": "tilly norwood's press tour is going about as well as you'd expect for an ai",
+    "content_hash": "d74e0cfb23e1459409afc616bba9fead"
+  },
+  {
+    "title": "Anthropic\u2019s first embedded evaluator is\u00a0\u2026 Accenture?",
+    "normalized": "anthropic's first embedded evaluator is ... accenture?",
+    "content_hash": "6cc38fb70f20b01b8993ba094f20cca7"
+  },
+  {
+    "title": "Joby Aviation\u2019s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+    "normalized": "joby aviation's 3,100-mile autonomous flight signals its push beyond electric air taxis",
+    "content_hash": "076971864a77e57b6ba709ed438ffa47"
+  },
+  {
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "normalized": "manus seeks $4b valuation in new $500m fundraise as it resumes independent ops",
+    "content_hash": "31724aadec5a74eed4d6fc82a0e256e6"
+  },
+  {
+    "title": "Family offices are clamoring for AI investments",
+    "normalized": "family offices are clamoring for ai investments",
+    "content_hash": "765d829e868d76eeebffc3473254399a"
+  },
+  {
+    "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
+    "normalized": "fbi, coast guard boarded hacked oil tankers heading toward us coast",
+    "content_hash": "faab1e2b4434a7941e3605db6bfe5e4f"
+  },
+  {
+    "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+    "normalized": "an undercover google analyst infiltrated a notorious supply-chain hacking gang",
+    "content_hash": "85cc24bc1dbe439aa34598bcebf54705"
+  },
+  {
+    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+    "normalized": "virginia governor creates an ai task force and moves to restrain data centers",
+    "content_hash": "44b693487babfc32822151a7c6a1a390"
+  },
+  {
+    "title": "Disney\u2019s first CTO is Character.AI\u2019s former CEO",
+    "normalized": "disney's first cto is character.ai's former ceo",
+    "content_hash": "403b267ca403d19cbe5e3d608bc8bbed"
+  },
+  {
+    "title": "The real story of the iPhone 18 Pro&#8217;s camera",
+    "normalized": "the real story of the iphone 18 pro's camera",
+    "content_hash": "7d027312d29c407340d76b1964bd8e48"
+  },
+  {
+    "title": "Gavin Newsom is pushing for an AI kill switch",
+    "normalized": "gavin newsom is pushing for an ai kill switch",
+    "content_hash": "3ce819b56f01174b5acd774a432c73e1"
   }
 ]
