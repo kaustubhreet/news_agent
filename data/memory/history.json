@@ -1,130 +1,5 @@
 [
   {
-    "title": "Viral AI assistant Instinct now has its own email address",
-    "normalized": "viral ai assistant instinct now has its own email address",
-    "content_hash": "3d6eec22a154d5a4a7cb6fecb1cabc54"
-  },
-  {
-    "title": "\u2018Gambling with our lives\u2019: Anthropic researcher quits, warns against self-improving AI",
-    "normalized": "'gambling with our lives': anthropic researcher quits, warns against self-improving ai",
-    "content_hash": "36e4ca877c5baca3b7e9612a14f55bbc"
-  },
-  {
-    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-    "normalized": "sequoia doubles down on cymphony as ai agents create new enterprise security risks",
-    "content_hash": "030bbad30bd5eb22fdfc5a071f80f664"
-  },
-  {
-    "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-    "normalized": "google deepmind alumni are building tools to accelerate fusion power for the grid",
-    "content_hash": "9f22ba1762fd95b6e2a982b0ecd41e69"
-  },
-  {
-    "title": "CloudNC raises $20M to automate manufacturing\u2019s most pressing bottlenecks",
-    "normalized": "cloudnc raises $20m to automate manufacturing's most pressing bottlenecks",
-    "content_hash": "a99b17c7b33f05cfbd7a435e9cc7842c"
-  },
-  {
-    "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-    "normalized": "a stealth startup thinks it just hacked the memory shortage",
-    "content_hash": "e9172f84867b3c2586f72e2d202d5e09"
-  },
-  {
-    "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-    "normalized": "infostealer logs expose replayable ai tokens that can bypass mfa",
-    "content_hash": "651fecc37d587ac6f7c06eedebd4583f"
-  },
-  {
-    "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-    "normalized": "worried anthropic researchers warn that ai 'could kill all humans'",
-    "content_hash": "7d5901fe300f8f973f4a3bab7325c81e"
-  },
-  {
-    "title": "Harvey Acquires Guardrails AI, Its Fourth Acquisition of 2026",
-    "normalized": "harvey acquires guardrails ai, its fourth acquisition of 2026",
-    "content_hash": "030736d4c5c56efdfaff0c81303223f1"
-  },
-  {
-    "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-    "normalized": "uber rival indrive scales beyond ride-hailing to capture more consumer spending",
-    "content_hash": "e7efd850a33dfc533bbfe16b1315bbe3"
-  },
-  {
-    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-    "normalized": "shipt becomes the latest delivery app with an ai shopping assistant",
-    "content_hash": "2b0f0814a7d97ffe2d61abdd796e7f72"
-  },
-  {
-    "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
-    "normalized": "uber invests $10m in indian fleet operator carrum at $168m valuation",
-    "content_hash": "a41ba6c82174c6cb1d7efbd9f6fe74d7"
-  },
-  {
-    "title": "AI spend per employee slumped at top firms in August \u2014 summer doldrums or a warning sign?",
-    "normalized": "ai spend per employee slumped at top firms in august -- summer doldrums or a warning sign?",
-    "content_hash": "51c39523311ed72587e2500c3d62202c"
-  },
-  {
-    "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
-    "normalized": "group of bipartisan lawmakers ask us government to ban several hack-for-hire firms",
-    "content_hash": "1b7f60dd484cdc1a9d213293cdc30472"
-  },
-  {
-    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-    "normalized": "instacart launches an ai grocery shopping assistant called clementine",
-    "content_hash": "ce32e374ed7f3f72a3df1a63918f5f2f"
-  },
-  {
-    "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
-    "normalized": "autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
-    "content_hash": "b9b8ee5bce291b9c2ddb3594f2d130b0"
-  },
-  {
-    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-    "normalized": "besxar is building an orbital semiconductor factory, one spacex rocket at a time",
-    "content_hash": "7b65475db3525a7e0f85412958389cb6"
-  },
-  {
-    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-    "normalized": "suno replaces its ai models with a new one trained on licensed music as copyright suits pile up",
-    "content_hash": "2f28058f020c03d710bfc2723118f6b9"
-  },
-  {
-    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-    "normalized": "deepseek harness flaw let ai agents disable their own file sandbox without approval",
-    "content_hash": "3e2c26423f45ae274eba50a4211e835c"
-  },
-  {
-    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-    "normalized": "u.s. agencies accuse china ai firms of distilling claude, gpt, gemini, and grok",
-    "content_hash": "9426c51596e2bb44e1b5b3f35e83e941"
-  },
-  {
-    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-    "normalized": "researcher drops new microsoft defender poc showing shieldbreak patch can be bypassed",
-    "content_hash": "01218dba6d1b33927b38aa91b2e2f5ee"
-  },
-  {
-    "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-    "normalized": "microsoft patches record 974 flaws, including two exploited windows zero-days",
-    "content_hash": "c9adc88c0435112e2204ef1915600721"
-  },
-  {
-    "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-    "normalized": "man told chatgpt he was feeling delusional. chatgpt insisted he was jesus.",
-    "content_hash": "f01c4e16e9ae3cf4dd831d018a852b1a"
-  },
-  {
-    "title": "ChatGPT Images 2.5",
-    "normalized": "chatgpt images 2.5",
-    "content_hash": "28780b49dfe3cfd6be0b1935641975be"
-  },
-  {
-    "title": "I spent an hour riding inside Tesla\u2019s steering-wheel-free Cybercab",
-    "normalized": "i spent an hour riding inside tesla's steering-wheel-free cybercab",
-    "content_hash": "39c912491ab3704fe3801c9ebc5dd92e"
-  },
-  {
     "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
     "normalized": "everything apple announced at its fall iphone event, from the foldable iphone duo to an always-listening apple watch",
     "content_hash": "8d7a0272546ea8028f1baac794cdedcb"
@@ -2498,5 +2373,130 @@
     "title": "Gavin Newsom is pushing for an AI kill switch",
     "normalized": "gavin newsom is pushing for an ai kill switch",
     "content_hash": "3ce819b56f01174b5acd774a432c73e1"
+  },
+  {
+    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+    "normalized": "claude opus 5 helped researchers take over openai staff accounts via chained flaws",
+    "content_hash": "077cadc1ed69f074fe6e0884c7d481e3"
+  },
+  {
+    "title": "The AI regulation smackdown isn\u2019t over",
+    "normalized": "the ai regulation smackdown isn't over",
+    "content_hash": "06c3b5357508fca78bd4672afa68808e"
+  },
+  {
+    "title": "Consumers Sue Anthropic, OpenAI, SpaceXAI and Google Over Alleged AI Pact",
+    "normalized": "consumers sue anthropic, openai, spacexai and google over alleged ai pact",
+    "content_hash": "c7c00ec407ac69b5707cf860e3a41f33"
+  },
+  {
+    "title": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
+    "normalized": "petlibro's new ai-powered feeder is a game changer for multi-cat homes",
+    "content_hash": "e34faa788b603c42c04e22ee9dd0f083"
+  },
+  {
+    "title": "AI safety conversations have gotten unbelievable",
+    "normalized": "ai safety conversations have gotten unbelievable",
+    "content_hash": "0302379d55c3597eef77504a71da1e61"
+  },
+  {
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "normalized": "vals, backed by andreessen horowitz, is looking to become the gold standard for ai benchmarking",
+    "content_hash": "5e3ce300ecd8290ccb8c8609e5212db2"
+  },
+  {
+    "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+    "normalized": "google gemini broke into real company systems after security test domain mix-up",
+    "content_hash": "80e89fde4bae497aaffedbe6e6332f95"
+  },
+  {
+    "title": "Anamanaguchi has \u2018too goddamn many\u2019 browser tabs open right now",
+    "normalized": "anamanaguchi has 'too goddamn many' browser tabs open right now",
+    "content_hash": "4fe99df053a44582419984af6cd1cbec"
+  },
+  {
+    "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+    "normalized": "does ai need an antitrust exemption so it doesn't kill everyone????",
+    "content_hash": "d58af98a889e8ccf53a6d39793d97573"
+  },
+  {
+    "title": "It\u2019s not just LG. Every TV company is spying on you",
+    "normalized": "it's not just lg. every tv company is spying on you",
+    "content_hash": "69ebdf60407a040028ccb6ab21a8dcba"
+  },
+  {
+    "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+    "normalized": "fault tolerant distributed training on amazon eks using nvrx",
+    "content_hash": "641e5bcbb5eb9cf1524a7a668e0ad785"
+  },
+  {
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "normalized": "this ai entrepreneur is developing agents that can plan ahead for the unexpected",
+    "content_hash": "6e3a24b4e070e9c2c7d624dc9b6c0828"
+  },
+  {
+    "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
+    "normalized": "gguf vs gptq vs awq vs exl2: llm model formats explained (2026)",
+    "content_hash": "5e5d169d11818fcce14a0835ba76b17d"
+  },
+  {
+    "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
+    "normalized": "microsoft open-sources taugrid: a kubernetes-native stack for gpu ai workloads",
+    "content_hash": "1f65fd5f19b4121fa87184d9c65a7808"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella hails Seattle\u2019s tech growth, deepening India ties at 'IDEAS4INDIA' forum",
+    "normalized": "microsoft ceo satya nadella hails seattle's tech growth, deepening india ties at 'ideas4india' forum",
+    "content_hash": "3e7681ccd71e38e09fdca87263337a8f"
+  },
+  {
+    "title": "Context and Coordination: The Missing Layer in Enterprise Automation",
+    "normalized": "context and coordination: the missing layer in enterprise automation",
+    "content_hash": "c76de3bffa70cbb1dccdd377137e592c"
+  },
+  {
+    "title": "Anthropic Says Claude Leads 26% of Its AI Research and Development",
+    "normalized": "anthropic says claude leads 26% of its ai research and development",
+    "content_hash": "7a9f4fa793064f676f0837f60569ceec"
+  },
+  {
+    "title": "Automattic names interim CFO after exec departures",
+    "normalized": "automattic names interim cfo after exec departures",
+    "content_hash": "276a0fe45452b0766771a64ea9a4ac80"
+  },
+  {
+    "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+    "normalized": "y combinator insurance tech alum angle health hits $2.7b valuation",
+    "content_hash": "7341a1d91b38f7c922fb7a03a2c90b1b"
+  },
+  {
+    "title": "World model companies are keeping a lot of secrets",
+    "normalized": "world model companies are keeping a lot of secrets",
+    "content_hash": "b3f80f39afaff9609b7bc0966c5f19a8"
+  },
+  {
+    "title": "Forget the AI Slowdown\u2014the Vulnerability Explosion Is Already Happening",
+    "normalized": "forget the ai slowdown--the vulnerability explosion is already happening",
+    "content_hash": "1a4d5f50f079a9a083a81bd6135c715a"
+  },
+  {
+    "title": "Mathematicians Hate AI. They Can\u2019t Quit It",
+    "normalized": "mathematicians hate ai. they can't quit it",
+    "content_hash": "42f3a343a1aff0290487d09e4d3418b6"
+  },
+  {
+    "title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
+    "normalized": "residents harmed by oil drilling may soon receive reparations under new california law",
+    "content_hash": "af98422a0d066abf5eaff552e7bb0fab"
+  },
+  {
+    "title": "Join the WIRED World Fair in Miami on November 4",
+    "normalized": "join the wired world fair in miami on november 4",
+    "content_hash": "e7870b7fee2a9f29b4a91d26c7a490ff"
+  },
+  {
+    "title": "KitchenAid Promo Codes: Save Up to 20%",
+    "normalized": "kitchenaid promo codes: save up to 20%",
+    "content_hash": "1a2746b1f5019c0fcf73e451c5be5316"
   }
 ]
