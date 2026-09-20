@@ -1,130 +1,5 @@
 [
   {
-    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-    "normalized": "everything apple announced at its fall iphone event, from the foldable iphone duo to an always-listening apple watch",
-    "content_hash": "8d7a0272546ea8028f1baac794cdedcb"
-  },
-  {
-    "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
-    "normalized": "there are new shiny iphones, so apple is making you pay more for older models",
-    "content_hash": "9f8045362598fa7c04af0a50aa72f734"
-  },
-  {
-    "title": "Apple has a new way to prove your iPhone photos aren\u2019t AI slop",
-    "normalized": "apple has a new way to prove your iphone photos aren't ai slop",
-    "content_hash": "50c507b43667f89a729942a520a3c8bb"
-  },
-  {
-    "title": "Apple unveils its first foldable, the iPhone Duo",
-    "normalized": "apple unveils its first foldable, the iphone duo",
-    "content_hash": "c0032d4c407de09308eff8904184af48"
-  },
-  {
-    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-    "normalized": "apple ceo john ternus says the best ai device is still the iphone",
-    "content_hash": "06b00d4d6c967e4dbaeb3c67be57adff"
-  },
-  {
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "normalized": "ai research startup listen labs scrubbed a $1.5b funding round for salesforce talks",
-    "content_hash": "ae2ac11f58766a9ea1a9c4ac3423bd46"
-  },
-  {
-    "title": "Apple launches iPhone 18 Pro with upgraded camera",
-    "normalized": "apple launches iphone 18 pro with upgraded camera",
-    "content_hash": "5632c4716a03ce2e91c7bb376bab82b0"
-  },
-  {
-    "title": "Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5",
-    "normalized": "everything apple announced: iphone duo, iphone 18 pro, apple watch, airpods 5",
-    "content_hash": "73f6d027bace77a275d9fd1bf226001a"
-  },
-  {
-    "title": "Apple Event Live Blog: Folding iPhone, Apple Watch Series 12, AirPods, and More",
-    "normalized": "apple event live blog: folding iphone, apple watch series 12, airpods, and more",
-    "content_hash": "83a92f3cee4934bc2dfe01b265f71595"
-  },
-  {
-    "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
-    "normalized": "apple watch's new ai features are normalizing the idea that technology is always listening",
-    "content_hash": "3104754854e17eea9b01fe279c4d6c53"
-  },
-  {
-    "title": "The hinge for Apple\u2019s new foldable phone was built with AI",
-    "normalized": "the hinge for apple's new foldable phone was built with ai",
-    "content_hash": "eb20ac6d4ee01575d21f02afe9fd0422"
-  },
-  {
-    "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-    "normalized": "apple unveils watch series 12 and watch ultra 4 with an ai upgrade that can recap your day",
-    "content_hash": "de5983d634ac80fede9f8b70de45a2a1"
-  },
-  {
-    "title": "Apple shows off AirPods 5 with improved active noise cancellation",
-    "normalized": "apple shows off airpods 5 with improved active noise cancellation",
-    "content_hash": "3e4a7986179a1bdd3343c416c492e047"
-  },
-  {
-    "title": "Apple Introduces iPhone 18 Pro With 2-Nanometer A20 Pro Chip",
-    "normalized": "apple introduces iphone 18 pro with 2-nanometer a20 pro chip",
-    "content_hash": "d345e0999df25373d68f5d388f131dfa"
-  },
-  {
-    "title": "OpenAI adds a prominent AI doomer to its board of directors",
-    "normalized": "openai adds a prominent ai doomer to its board of directors",
-    "content_hash": "277eaa2253e0f06c7e11eef7ada0ec8d"
-  },
-  {
-    "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-    "normalized": "harvey hits $15.5b valuation, months after reaching $11b",
-    "content_hash": "61d7b823090fe82dacfdc1de10af8744"
-  },
-  {
-    "title": "Superintelligence is coming. Should we let it?",
-    "normalized": "superintelligence is coming. should we let it?",
-    "content_hash": "cf0e616e9c7380ab61fcedd46af132ba"
-  },
-  {
-    "title": "Apple Debuts the iPhone Duo, Its First Folding iPhone",
-    "normalized": "apple debuts the iphone duo, its first folding iphone",
-    "content_hash": "351edae1bb07e89ec053c02981531e05"
-  },
-  {
-    "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-    "normalized": "four spy groups used the same chrome and windows exploit kit within a week",
-    "content_hash": "f8fd40243030d3e9f3afabee3f557d8d"
-  },
-  {
-    "title": "The black iPhone Pro returns",
-    "normalized": "the black iphone pro returns",
-    "content_hash": "160275b4c70dde3dd48cd5679b3a40f7"
-  },
-  {
-    "title": "Read the Apple document explaining how new listening features still protect your privacy",
-    "normalized": "read the apple document explaining how new listening features still protect your privacy",
-    "content_hash": "af2a4c3ef77c5490a5c30c7185d822b1"
-  },
-  {
-    "title": "Apple\u2019s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-    "normalized": "apple's new ceo is reviving a steve jobs strategy from 25 years ago",
-    "content_hash": "b758dcd7cce56d5c3d23036eb9bffd68"
-  },
-  {
-    "title": "Apple Watch\u2019s new feature listens to your chats and recaps them",
-    "normalized": "apple watch's new feature listens to your chats and recaps them",
-    "content_hash": "3297593ed3533446016f5ca9bc26544a"
-  },
-  {
-    "title": "Apple\u2019s revamped Health app will calculate your \u2018health age\u2019 and readiness score",
-    "normalized": "apple's revamped health app will calculate your 'health age' and readiness score",
-    "content_hash": "6f583065ea25c3f3feabe3dfb3ae07aa"
-  },
-  {
-    "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-    "normalized": "apple's iphone 18 pro adds variable camera aperture and a more powerful chip",
-    "content_hash": "3bc681efbd90d6dd7f5c2e3230689beb"
-  },
-  {
     "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
     "normalized": "google signs its biggest rice-methane carbon credit deal with indian startup mitti labs",
     "content_hash": "71104f8a32b821c5b88b60705f234006"
@@ -2498,5 +2373,130 @@
     "title": "KitchenAid Promo Codes: Save Up to 20%",
     "normalized": "kitchenaid promo codes: save up to 20%",
     "content_hash": "1a2746b1f5019c0fcf73e451c5be5316"
+  },
+  {
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "normalized": "gemini went rogue, hacked three companies, and google hid it",
+    "content_hash": "5e9dacf3f75e8802c74fc35d9aa93a0c"
+  },
+  {
+    "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+    "normalized": "lawsuit says anthropic, openai and others made illegal agreement on ai slowdown",
+    "content_hash": "798106ada87d00f27fe929b7cf9cfd4d"
+  },
+  {
+    "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",
+    "normalized": "lawsuit: illegal agreement of anthropic, openai, spacexai, google on ai slowdown",
+    "content_hash": "1c3c0f35b69e5cf06a1c83a1897e5ae7"
+  },
+  {
+    "title": "Lawsuit Accuses Anthropic, OpenAI, SpaceXAI, Google of AI Pacing 'Collusion'",
+    "normalized": "lawsuit accuses anthropic, openai, spacexai, google of ai pacing 'collusion'",
+    "content_hash": "52ebb26f85f826a877c5ff69fb567896"
+  },
+  {
+    "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
+    "normalized": "anthropic, openai, spacexai, google sued over call to 'pace' ai development",
+    "content_hash": "96152ba81dee48fdcddbc713389b3ea5"
+  },
+  {
+    "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
+    "normalized": "google's gemini is the latest ai model to hack other companies",
+    "content_hash": "b374f72bfd2adc1dfb59c56495ff92fb"
+  },
+  {
+    "title": "The US Navy just told us what\u2019s on its tech wish list for the next several years",
+    "normalized": "the us navy just told us what's on its tech wish list for the next several years",
+    "content_hash": "7c5580af8c61eeda5c4c7c8817d006d0"
+  },
+  {
+    "title": "OpenAI and Anthropic oversold AI security breaches",
+    "normalized": "openai and anthropic oversold ai security breaches",
+    "content_hash": "4420c24013bc9248cfac1fa8895c994c"
+  },
+  {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "normalized": "flock reportedly tries to shrink workforce with employee buyouts",
+    "content_hash": "c75e125111fff9360475d8901693872c"
+  },
+  {
+    "title": "Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force",
+    "normalized": "trump says it's time to rebrand ai with a new name -- and he's also creating an ai force",
+    "content_hash": "94fbcb87cb42fa94aae307a48aaa6df3"
+  },
+  {
+    "title": "Meta\u2019s Muse is creepy, but maybe not for the reasons you think",
+    "normalized": "meta's muse is creepy, but maybe not for the reasons you think",
+    "content_hash": "f703d360f84527f48f3c721f7b610a75"
+  },
+  {
+    "title": "Show HN: Text-me: a personal agent that learns your pace",
+    "normalized": "show hn: text-me: a personal agent that learns your pace",
+    "content_hash": "8509e3894401497e4213f91cee784d39"
+  },
+  {
+    "title": "AI agent governance patterns as executable decision tables (MIT license)",
+    "normalized": "ai agent governance patterns as executable decision tables (mit license)",
+    "content_hash": "7ec5a782b76c8a474e96d9a723656ff8"
+  },
+  {
+    "title": "The Doomsday Cult Inside OpenAI \u2013 Patrick Boyle [video]",
+    "normalized": "the doomsday cult inside openai - patrick boyle [video]",
+    "content_hash": "bbd43d0795f815959ab37affe7c1d49a"
+  },
+  {
+    "title": "Certify the Conversation, Not Just the AI Agent",
+    "normalized": "certify the conversation, not just the ai agent",
+    "content_hash": "be914b1466446fcdac55387c478f1a1a"
+  },
+  {
+    "title": "'Sketchy AF': What to Know About How OpenAI Staff Discussed Book-Pirating",
+    "normalized": "'sketchy af': what to know about how openai staff discussed book-pirating",
+    "content_hash": "033f8853f4de8c523a6240effd77858b"
+  },
+  {
+    "title": "How should we evaluate whether an AI agent's memory is still current?",
+    "normalized": "how should we evaluate whether an ai agent's memory is still current?",
+    "content_hash": "d789580b88014001b3f30699168b2266"
+  },
+  {
+    "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
+    "normalized": "openclaw releases 2026.9.5 with atomic updates, plugin hot reload, conversation sharing, and expanded gpt live",
+    "content_hash": "d6daa946cebea6cb108c16ffc455230a"
+  },
+  {
+    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+    "normalized": "prices go up in 7 days. get your disrupt ticket now.",
+    "content_hash": "3a70cb205ba8ca641034b7c9f7402610"
+  },
+  {
+    "title": "Here\u2019s How an AI Slowdown Could Actually Be Enforced",
+    "normalized": "here's how an ai slowdown could actually be enforced",
+    "content_hash": "6ea36f7da80e33fe556d06baa0117fda"
+  },
+  {
+    "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+    "normalized": "ai pacs have dumped nearly $1 million into an obscure senate race",
+    "content_hash": "a20a9789cf05664a02b60669b713066f"
+  },
+  {
+    "title": "Meta\u2019s Copyright System Is Being Weaponized Against Albanian Protesters",
+    "normalized": "meta's copyright system is being weaponized against albanian protesters",
+    "content_hash": "498a790d86fce6a5e29762636ff63ad8"
+  },
+  {
+    "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+    "normalized": "can you prove a new cve is exploitable before attackers do? learn how in this webinar",
+    "content_hash": "c4142deb14f4a4a3c866836a35dbfac3"
+  },
+  {
+    "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+    "normalized": "identity visibility in 2026: the foundation of identity security",
+    "content_hash": "95f279927095aefe602c7c6bd6809ae5"
+  },
+  {
+    "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+    "normalized": "critical pre-auth rce in orkes conductor workflow platform exploited in the wild",
+    "content_hash": "e865a1992c097bedffdb6e3719613ca1"
   }
 ]
