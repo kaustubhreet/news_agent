@@ -1,130 +1,5 @@
 [
   {
-    "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
-    "normalized": "google signs its biggest rice-methane carbon credit deal with indian startup mitti labs",
-    "content_hash": "71104f8a32b821c5b88b60705f234006"
-  },
-  {
-    "title": "AI agents are flooding public services with new requests",
-    "normalized": "ai agents are flooding public services with new requests",
-    "content_hash": "0c3a084716737c259924c53038862bfc"
-  },
-  {
-    "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-    "normalized": "defense tech mach industries doubles valuation to $3.7b in 3 months",
-    "content_hash": "865694b392dd19db6d2b92ec1956dd43"
-  },
-  {
-    "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-    "normalized": "anthropic discloses fourth ai hacking incident involving claude opus 4.6",
-    "content_hash": "18ff20ff7313804bb18a89d3b678b7cb"
-  },
-  {
-    "title": "Meta\u2019s Muse AI works and creeps me out",
-    "normalized": "meta's muse ai works and creeps me out",
-    "content_hash": "5ab7536c3438273197f2b8711842d490"
-  },
-  {
-    "title": "Mathematicians want proof OpenAI didn\u2019t use their work",
-    "normalized": "mathematicians want proof openai didn't use their work",
-    "content_hash": "0b94fa7509d5e81ece8122ee3cc68f4d"
-  },
-  {
-    "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-    "normalized": "when does memory help? a cost-aware evaluation of long-term memory in tool-using llm agents",
-    "content_hash": "3a6b53aaf0d654f050293a2e8e3cff7e"
-  },
-  {
-    "title": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
-    "normalized": "the failure happens before the drift: the social dynamics of values in llm agent societies",
-    "content_hash": "af62c21ab0e90965472eb3b4b2805457"
-  },
-  {
-    "title": "D-Matrix Connects Raptor XPUs to NVIDIA AI Factories via NVLink Fusion",
-    "normalized": "d-matrix connects raptor xpus to nvidia ai factories via nvlink fusion",
-    "content_hash": "26e4419826ac7290d52c4b94ea39941d"
-  },
-  {
-    "title": "Alibaba.com Says Accio Ran E-Commerce Tasks at Over 50% Lower Cost",
-    "normalized": "alibaba.com says accio ran e-commerce tasks at over 50% lower cost",
-    "content_hash": "0c1b5841dc5d04797091cd1e128d995a"
-  },
-  {
-    "title": "The Boring Company raises $3B in round led by UAE",
-    "normalized": "the boring company raises $3b in round led by uae",
-    "content_hash": "692364c8aa4e49d09302a4b0b7bb831b"
-  },
-  {
-    "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-    "normalized": "bending spoons to buy collaboration tools maker miro for $1.36b, 90% less than its 2022 valuation",
-    "content_hash": "0d6511d724f7f4f87636eccf9738295c"
-  },
-  {
-    "title": "ID verification giant IDScan confirms data breach with more than 150 million driver\u2019s licenses stolen",
-    "normalized": "id verification giant idscan confirms data breach with more than 150 million driver's licenses stolen",
-    "content_hash": "53f37208e26a4cc604a796b52bdf42bc"
-  },
-  {
-    "title": "Snapchat takes aim at Partiful with new event-planning features",
-    "normalized": "snapchat takes aim at partiful with new event-planning features",
-    "content_hash": "24d31497299139edaf7d87ae9c0df192"
-  },
-  {
-    "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
-    "normalized": "us army places $11m bet on austin-based gps alternative tern",
-    "content_hash": "9173d9aea8112362b38dbd0464d0c975"
-  },
-  {
-    "title": "Automattic\u2019s board forces CEO Matt Mullenweg into leave of absence",
-    "normalized": "automattic's board forces ceo matt mullenweg into leave of absence",
-    "content_hash": "aa8507f939c44315a9560ec566895795"
-  },
-  {
-    "title": "\u2018Killmonger Locs\u2019 Are Everywhere in Video Games. This Artist Is Sick of It",
-    "normalized": "'killmonger locs' are everywhere in video games. this artist is sick of it",
-    "content_hash": "1965ca82c2fa441815cab4650ca05397"
-  },
-  {
-    "title": "The AI Researcher Who Just Quit Anthropic Says It\u2019s \u2018Crunch Time for Humanity\u2019",
-    "normalized": "the ai researcher who just quit anthropic says it's 'crunch time for humanity'",
-    "content_hash": "01fac37a90763383d2fd38575eed7f47"
-  },
-  {
-    "title": "UK Lawmakers Are Freaking Out Over AI\u2019s Summer of Chaos",
-    "normalized": "uk lawmakers are freaking out over ai's summer of chaos",
-    "content_hash": "5f1823306cb1aeab8712d2b38965c035"
-  },
-  {
-    "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
-    "normalized": "google play early access abused to push thousands of deceptive android apps",
-    "content_hash": "854564728498127ccab7e5d10937fa53"
-  },
-  {
-    "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-    "normalized": "papercut attacker uses hundreds of ai agents to compromise 440+ instances",
-    "content_hash": "5f49c78ebacfb49cdf8594f4653ed505"
-  },
-  {
-    "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-    "normalized": "nearly 1 in 10 exposed litellm gateways accepted the example \"sk-1234\" admin key",
-    "content_hash": "2ca4d783813e1d003d3dd92b472de422"
-  },
-  {
-    "title": "AI Observability by OpenObserve",
-    "normalized": "ai observability by openobserve",
-    "content_hash": "3d014cb754744bd52dec7e2679a24f73"
-  },
-  {
-    "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
-    "normalized": "wolverine on the ps5 goes back to a simpler (and bloodier) style of action game",
-    "content_hash": "97018561011f705ba0ac0aedd8530979"
-  },
-  {
-    "title": "Another big James Talarico interview is punted to YouTube due to FCC threats",
-    "normalized": "another big james talarico interview is punted to youtube due to fcc threats",
-    "content_hash": "4fee6ba0234988d3050382f73dc1e04c"
-  },
-  {
     "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
     "normalized": "jensen huang explains why nvidia will grow an astounding 70% next year",
     "content_hash": "40bb3b99b65f1ac50add35b63aef5df6"
@@ -2498,5 +2373,130 @@
     "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
     "normalized": "critical pre-auth rce in orkes conductor workflow platform exploited in the wild",
     "content_hash": "e865a1992c097bedffdb6e3719613ca1"
+  },
+  {
+    "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here\u2019s How to Change That",
+    "normalized": "what chatgpt thinks it knows about you is affecting its answers. here's how to change that",
+    "content_hash": "2558b5ea8b12ecf1ae44a43f4e7ebb9e"
+  },
+  {
+    "title": "A small but growing number of founders are betting on bringing people together offline",
+    "normalized": "a small but growing number of founders are betting on bringing people together offline",
+    "content_hash": "b942b35cf8d374a3c61f5685101f983e"
+  },
+  {
+    "title": "A24\u2019s reputation is on the line with the SCP Foundation movie",
+    "normalized": "a24's reputation is on the line with the scp foundation movie",
+    "content_hash": "5d1ae57987fd1e7c848bb383778ed3a6"
+  },
+  {
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "normalized": "humans, not rogue ai, are still the biggest cybersecurity risk to energy systems",
+    "content_hash": "ecc93f76447422b188841c991715d0e9"
+  },
+  {
+    "title": "All roads lead to cable",
+    "normalized": "all roads lead to cable",
+    "content_hash": "3f98180c957655047b12f25602a806f5"
+  },
+  {
+    "title": "India's semiconductor push targets chips for cars, TVs, power infra: Vaishnaw",
+    "normalized": "india's semiconductor push targets chips for cars, tvs, power infra: vaishnaw",
+    "content_hash": "d92cc90852876c9973711c5843385cef"
+  },
+  {
+    "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+    "normalized": "6 days left to get ahead at techcrunch disrupt 2026",
+    "content_hash": "39933bfa9fbe137f4a323b18a9ed853a"
+  },
+  {
+    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+    "normalized": "meta's muse is better at surveilling than helping me",
+    "content_hash": "5b46590f6ad07353b3bfcc47587277a7"
+  },
+  {
+    "title": "It\u2019s Donald Trump Versus MAGA on Data Centers",
+    "normalized": "it's donald trump versus maga on data centers",
+    "content_hash": "6edba8cd75abd51af858e121ddbfc6ac"
+  },
+  {
+    "title": "Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans",
+    "normalized": "tiny hairs that help corals breathe may malfunction in warming oceans",
+    "content_hash": "09c479e1a9d699e7a67f9071bcfa2c98"
+  },
+  {
+    "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+    "normalized": "crowdsec says tanstack npm attack led to copy of 170 private github repositories",
+    "content_hash": "b5a695955a145eff923fa972da25f353"
+  },
+  {
+    "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+    "normalized": "public exploits released for four linux kernel flaws that enable local root",
+    "content_hash": "44a20d38c4d4a2dc957fda773f06c15a"
+  },
+  {
+    "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+    "normalized": "new wordpress click2shell flaw forces theme installs, can chain to code execution",
+    "content_hash": "48ae5c9046e6562ac21abec69369f10b"
+  },
+  {
+    "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+    "normalized": "transparent tribe deploys new rust backdoor using private github repositories for c2",
+    "content_hash": "ab37f6c2233f2b2dc83831a02e4a30f8"
+  },
+  {
+    "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+    "normalized": "an abandoned cdn domain was re-registered. thousands of sites still call it.",
+    "content_hash": "f1c0923f2338f962f732ad3ee06e8028"
+  },
+  {
+    "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+    "normalized": "weaselbiscuit stealer spreads via 13 npm packages to harvest chrome extension storage",
+    "content_hash": "4e92a3030cfac3d2906d04c581f24f10"
+  },
+  {
+    "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+    "normalized": "rathat android malware abuses adb to retain shell access after uninstall",
+    "content_hash": "3aa9efc126b241adfb01285a9e1e0e05"
+  },
+  {
+    "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+    "normalized": "critical unbound dnssec validator flaw could allow rce via a malicious dns zone",
+    "content_hash": "99c4d7504e054c492eb83963de3d6feb"
+  },
+  {
+    "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+    "normalized": "china-aligned famoussparrow deploys sparrowocky backdoor across latin america",
+    "content_hash": "5fb5bf8bfe2cc14b6baaa2025bcf930b"
+  },
+  {
+    "title": "Researchers used Claude to hack OpenAI",
+    "normalized": "researchers used claude to hack openai",
+    "content_hash": "46feaa0a0ff7d9c1760caa765667027d"
+  },
+  {
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "normalized": "llms respond differently to harmful prompts when ai watermarking is used",
+    "content_hash": "9b5ed099eee55f38fdb3335cc3765b2a"
+  },
+  {
+    "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+    "normalized": "anthropic picks accenture for third-party ai safety evaluations",
+    "content_hash": "5f2bdc4d812804e128472ba5981ad1ba"
+  },
+  {
+    "title": "Bolt Forge",
+    "normalized": "bolt forge",
+    "content_hash": "65c22177c616945606bb98e07c427d5a"
+  },
+  {
+    "title": "A great new video game movie",
+    "normalized": "a great new video game movie",
+    "content_hash": "487ad92a453d55cda9b0fe7d40c1af18"
+  },
+  {
+    "title": "The hidden monopoly behind your TI graphing calculator",
+    "normalized": "the hidden monopoly behind your ti graphing calculator",
+    "content_hash": "8cfcfce7eaafee6084c6bed7adcb802a"
   }
 ]
