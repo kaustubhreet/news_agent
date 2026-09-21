@@ -1,130 +1,5 @@
 [
   {
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "normalized": "jensen huang explains why nvidia will grow an astounding 70% next year",
-    "content_hash": "40bb3b99b65f1ac50add35b63aef5df6"
-  },
-  {
-    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "normalized": "anthropic reveals rogue ai agents hate captchas, just like you",
-    "content_hash": "5da698477bbd075e49782747b11d8061"
-  },
-  {
-    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-    "normalized": "thrive capital led vcs into pro sports ownership; collaborative fund just upped that play",
-    "content_hash": "cc03a4dab2c45ee5f6206a262aec4eb8"
-  },
-  {
-    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "normalized": "openai puts pro subscriptions on hold due to astra demand",
-    "content_hash": "72926def3c54b34c3dc314afc0e4202e"
-  },
-  {
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "normalized": "anthropic details distillation campaigns from alibaba, moonshot ai, and deepseek",
-    "content_hash": "93c5983e7d5a908a1ae73af8bae38162"
-  },
-  {
-    "title": "Furo\u2019s founders left Silicon Valley \u2014 and it\u2019s paying off",
-    "normalized": "furo's founders left silicon valley -- and it's paying off",
-    "content_hash": "d39a5b59643725e6197d886d4cdcb28f"
-  },
-  {
-    "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
-    "normalized": "meta's ai agent muse is now the no. 2 app in the us",
-    "content_hash": "32f30b763e323a604b678b38077dfa8d"
-  },
-  {
-    "title": "Proxima Fusion bets \u20ac140M on a critical fusion ingredient dominated by Asian suppliers",
-    "normalized": "proxima fusion bets \u20ac140m on a critical fusion ingredient dominated by asian suppliers",
-    "content_hash": "2b7fa521ca442cfc295dd0a4ee9b24f8"
-  },
-  {
-    "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-    "normalized": "india's pocket fm doubles revenue run rate to $500m as ai powers 93% of audio content",
-    "content_hash": "4562e7dafd9b108d2a28d97860bf5231"
-  },
-  {
-    "title": "Slack can now vibe-code interactive charts and reports inside chats",
-    "normalized": "slack can now vibe-code interactive charts and reports inside chats",
-    "content_hash": "9c22a9081f476ed289c485a941324469"
-  },
-  {
-    "title": "OpenAI Agents API",
-    "normalized": "openai agents api",
-    "content_hash": "7f3445ee57dcbd5816301aa78ac76e8a"
-  },
-  {
-    "title": "OpenAI Introduces Data Agent in ChatGPT Work to Analyze Company Data",
-    "normalized": "openai introduces data agent in chatgpt work to analyze company data",
-    "content_hash": "8bd2bc05e979a56a460b5863116ef880"
-  },
-  {
-    "title": "Instagram\u2019s latest feature lets you add tagged posts to your profile grid",
-    "normalized": "instagram's latest feature lets you add tagged posts to your profile grid",
-    "content_hash": "d66b644832ed29ae08948e351af5922e"
-  },
-  {
-    "title": "Google is making it easier to switch between password managers on Android",
-    "normalized": "google is making it easier to switch between password managers on android",
-    "content_hash": "195c0ce70bebf275474f9035c7a36d67"
-  },
-  {
-    "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-    "normalized": "openai wants to know if an ai industry slowdown would even be legal",
-    "content_hash": "c7a3f7cb76718010762308cc32103f26"
-  },
-  {
-    "title": "Is AI Actually Going to Kill Us All?",
-    "normalized": "is ai actually going to kill us all?",
-    "content_hash": "0d955bf39287c39085d0aa9805e290c9"
-  },
-  {
-    "title": "Schools are catching on to Big Tech\u2019s playbook",
-    "normalized": "schools are catching on to big tech's playbook",
-    "content_hash": "f9cd5096dda500ec7a50855469913832"
-  },
-  {
-    "title": "Electric air taxis get the green light for test flights in Texas",
-    "normalized": "electric air taxis get the green light for test flights in texas",
-    "content_hash": "77eb2a5f309e55ffe5e718336ceb625d"
-  },
-  {
-    "title": "Universal Music is launching an AI music platform with ElevenLabs",
-    "normalized": "universal music is launching an ai music platform with elevenlabs",
-    "content_hash": "c3aefeed71613680d8892443250d2b00"
-  },
-  {
-    "title": "The iPhone Duo\u2019s hardware doesn\u2019t look special, but its software might be",
-    "normalized": "the iphone duo's hardware doesn't look special, but its software might be",
-    "content_hash": "59b9f376c1c5780b5cb89421d9b4a461"
-  },
-  {
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "normalized": "more questions about whether researchers can trust openai with unpublished math",
-    "content_hash": "87e6b060eb1f69d1b23d060b4bb3c66b"
-  },
-  {
-    "title": "OpenAI\u2019s Navier-Stokes release included a Lean 4 formal proof",
-    "normalized": "openai's navier-stokes release included a lean 4 formal proof",
-    "content_hash": "5544d32a98765adba9cd8b232bc60291"
-  },
-  {
-    "title": "Now everyone can put data to work",
-    "normalized": "now everyone can put data to work",
-    "content_hash": "b4bcd6c10ae90197f761c57b414d5edf"
-  },
-  {
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "normalized": "gpt-6 astra: the next generation in intelligence for work",
-    "content_hash": "9ca584098331c2993db24bfd842d4aaa"
-  },
-  {
-    "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
-    "normalized": "deploying qwen3.8-2.4t-a95b on amazon sagemaker hyperpod with vllm",
-    "content_hash": "4f9ab1c2c5594f78447ad3309f7f8895"
-  },
-  {
     "title": "Show HN: Usero MCP, give your coding agent your user feedback",
     "normalized": "show hn: usero mcp, give your coding agent your user feedback",
     "content_hash": "53a72eaa45bda1ef6b0986f0ccf1e8fe"
@@ -2498,5 +2373,130 @@
     "title": "The hidden monopoly behind your TI graphing calculator",
     "normalized": "the hidden monopoly behind your ti graphing calculator",
     "content_hash": "8cfcfce7eaafee6084c6bed7adcb802a"
+  },
+  {
+    "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+    "normalized": "no one is surprised that nvidia's jensen huang thinks ai fears are overblown.",
+    "content_hash": "69817c5b50c0f7e4296f2836c5657c09"
+  },
+  {
+    "title": "Is the AI industry really ready to slow down?",
+    "normalized": "is the ai industry really ready to slow down?",
+    "content_hash": "3282e0f87653d3e5b6f76e3cbba119ee"
+  },
+  {
+    "title": "ScrollEd wants to turn textbooks into TikTok",
+    "normalized": "scrolled wants to turn textbooks into tiktok",
+    "content_hash": "096328fbcb5d47291fd59dcfd0231785"
+  },
+  {
+    "title": "New California law will penalize influencers who don\u2019t disclose political ads",
+    "normalized": "new california law will penalize influencers who don't disclose political ads",
+    "content_hash": "dda6ff9a6c4107739a411ed60c75f4fb"
+  },
+  {
+    "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+    "normalized": "techcrunch mobility: how do we know when an av is safe enough?",
+    "content_hash": "619942fff1b1c7118cb08f8664884054"
+  },
+  {
+    "title": "Trump now says he wants to form an \u2018AI Force\u2019",
+    "normalized": "trump now says he wants to form an 'ai force'",
+    "content_hash": "4ed0afd4155d73c15cba4cc48559f0d1"
+  },
+  {
+    "title": "Google's Open Agentic Orchestrator",
+    "normalized": "google's open agentic orchestrator",
+    "content_hash": "384b29705403b971e31f2360befdbd61"
+  },
+  {
+    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+    "normalized": "6 days left to save up to $200 to techcrunch disrupt 2026",
+    "content_hash": "2528228ff2e3fcf35596b4f73566fbe6"
+  },
+  {
+    "title": "Elon Musk\u2019s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+    "normalized": "elon musk's latest boring company pitch involves a hyperloop between austin and san antonio",
+    "content_hash": "28432b008b07275dd2cad3694ed748b2"
+  },
+  {
+    "title": "Vocci\u2019s ring adds a new form factor to meeting note-taking",
+    "normalized": "vocci's ring adds a new form factor to meeting note-taking",
+    "content_hash": "608f95d82f3bb3d800630e1cd548fbd2"
+  },
+  {
+    "title": "How to use ChatGPT to make stickers for iMessage and WhatsApp",
+    "normalized": "how to use chatgpt to make stickers for imessage and whatsapp",
+    "content_hash": "1c87e2b95b88f09cd3f6bba6f5ebf1a4"
+  },
+  {
+    "title": "Joby Aviation completed a fully autonomous flight from California to North Carolina",
+    "normalized": "joby aviation completed a fully autonomous flight from california to north carolina",
+    "content_hash": "fb2f547508fa3b7d1d0ae814fa6675b6"
+  },
+  {
+    "title": "No Dogs in Space is back to feed your need for obsessive music history",
+    "normalized": "no dogs in space is back to feed your need for obsessive music history",
+    "content_hash": "cc071ea9a43a14afa3ff4d905c397893"
+  },
+  {
+    "title": "Kojima Productions disputes reports the studio is in trouble",
+    "normalized": "kojima productions disputes reports the studio is in trouble",
+    "content_hash": "41524d6f5225e0d556824616c729d5b3"
+  },
+  {
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "normalized": "chatgpt now knows what you do on other websites via ad collector",
+    "content_hash": "1184ab4ae4e79dd6b2e24cd3c2b5b9db"
+  },
+  {
+    "title": "Amiga Unix, Again",
+    "normalized": "amiga unix, again",
+    "content_hash": "8b96517ed0df677077c2d02b03742dd7"
+  },
+  {
+    "title": "Pirate Face Rescues LLM Models from Deletion",
+    "normalized": "pirate face rescues llm models from deletion",
+    "content_hash": "060f1b6920473462d0187b52eb9f2fa8"
+  },
+  {
+    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+    "normalized": "spain orders blocks on archive.today and its mirrors",
+    "content_hash": "76ec67817bd5192880c4cff476c5328c"
+  },
+  {
+    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+    "normalized": "dapo: an open-source rl system from bytedance seed and tsinghua air",
+    "content_hash": "53b8eaf48edd7937816991d9b7367aa8"
+  },
+  {
+    "title": "Show HN: Radius \u2013 A Meetup.com Alternative",
+    "normalized": "show hn: radius - a meetup.com alternative",
+    "content_hash": "8570477eb8562fc762747872da335bd3"
+  },
+  {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "normalized": "introducing the australian youth safety blueprint",
+    "content_hash": "9e587d69f6c8775d67da7de7fb8d4fa5"
+  },
+  {
+    "title": "Introducing Astra for Law",
+    "normalized": "introducing astra for law",
+    "content_hash": "b8381f748450402ec3a8c2d6a0b7412a"
+  },
+  {
+    "title": "Hex turns complex analysis into visual reports with GPT\u20116 Astra",
+    "normalized": "hex turns complex analysis into visual reports with gpt\u20116 astra",
+    "content_hash": "65e5e10e4478b1f0aa2d39b8be121abb"
+  },
+  {
+    "title": "How to connect AI usage to business value",
+    "normalized": "how to connect ai usage to business value",
+    "content_hash": "e5ecab4b6444c74bf533dd300de5ff6d"
+  },
+  {
+    "title": "Our framework for reporting model misalignment",
+    "normalized": "our framework for reporting model misalignment",
+    "content_hash": "d297cda731f2dc4d70816cd7a5a52b15"
   }
 ]
