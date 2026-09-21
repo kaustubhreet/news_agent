@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: Usero MCP, give your coding agent your user feedback",
-    "normalized": "show hn: usero mcp, give your coding agent your user feedback",
-    "content_hash": "53a72eaa45bda1ef6b0986f0ccf1e8fe"
-  },
-  {
-    "title": "OpenAI Agents API, here we go, the assistant API again?",
-    "normalized": "openai agents api, here we go, the assistant api again?",
-    "content_hash": "6abdc2d165d40134c682b44db6bc01e4"
-  },
-  {
-    "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-    "normalized": "opendiscoverytrace: process traces for evaluating ai scientist workflows",
-    "content_hash": "3de0016548b4ff2a91f088ba694de830"
-  },
-  {
-    "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
-    "normalized": "sakana ai launches fugu max and fugu ultra v2 for cheaper, stronger multi-agent orchestration",
-    "content_hash": "03535e397fbf15e68b1dfc0b26f783f1"
-  },
-  {
-    "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-    "normalized": "scammers target hundreds of thousands of crypto owners after trezor confirms data breach of email provider",
-    "content_hash": "092e97bb4932e20cda5bb168935efedb"
-  },
-  {
-    "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-    "normalized": "why so many ai researchers think the machines could kill everyone",
-    "content_hash": "51b4c45b4f1f562d1440792161d30907"
-  },
-  {
-    "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-    "normalized": "claude used to automate exploitation and data theft across multiple victims",
-    "content_hash": "c1254eae2541186cb07358a69ea6791b"
-  },
-  {
-    "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-    "normalized": "russian state-sponsored hackers use claude to rebuild malware after detection",
-    "content_hash": "724c731479adb635cdeacd58e905ccd2"
-  },
-  {
-    "title": "Where to preorder the Apple AirPods 5",
-    "normalized": "where to preorder the apple airpods 5",
-    "content_hash": "0c2de5d36c0d81df1f4aea71a3010a6c"
-  },
-  {
-    "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-    "normalized": "meta says it's changing ai suggestions after posing invasive personal questions",
-    "content_hash": "2abc5f9913024f90f5ee0c4148af38ff"
-  },
-  {
-    "title": "New York City\u2019s last pickpocket doesn\u2019t need a smartphone",
-    "normalized": "new york city's last pickpocket doesn't need a smartphone",
-    "content_hash": "08aa976a9123b0232a6cbe89e4da56ee"
-  },
-  {
-    "title": "Ikea supersized its cheap Bluetooth speaker and added an optical input",
-    "normalized": "ikea supersized its cheap bluetooth speaker and added an optical input",
-    "content_hash": "0bcab4804677c5a17913147116484fc9"
-  },
-  {
-    "title": "Arizona\u2019s lifeline for chip manufacturing is drying up",
-    "normalized": "arizona's lifeline for chip manufacturing is drying up",
-    "content_hash": "a9d834f616da93c5e71faad1eb7a0ab3"
-  },
-  {
-    "title": "Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese misuse",
-    "normalized": "anthropic disrupts bioweapons research efforts, russian hacking, chinese misuse",
-    "content_hash": "848b6ea3bc3a753aff74adaa8864af6e"
-  },
-  {
-    "title": "Most Agent Turns Don't Need a Frontier Model: The Routing Math Is Now Public",
-    "normalized": "most agent turns don't need a frontier model: the routing math is now public",
-    "content_hash": "39d40ba11e37f70ccb8f9a1d8933b8a9"
-  },
-  {
-    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-    "normalized": "the worst spam emails: inside ilands' ai agent hustle",
-    "content_hash": "15f71e911842a86611594b1fbf545be5"
-  },
-  {
-    "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
-    "normalized": "anthropic says iran used its american ai model to target u.s. navy warships",
-    "content_hash": "d2409eef081c5aecfc7e198bbf436d16"
-  },
-  {
-    "title": "Anthropic's Claude Opus 5 needs to be retracted",
-    "normalized": "anthropic's claude opus 5 needs to be retracted",
-    "content_hash": "224b6b1986479ebadc95f1011083ac5a"
-  },
-  {
-    "title": "Show HN: SOS \u2013 Project state between coding agent sessions",
-    "normalized": "show hn: sos - project state between coding agent sessions",
-    "content_hash": "0fd1e7c24f7d9f48f22020b326a579fa"
-  },
-  {
-    "title": "Show HN: Bitroad \u2013 Infra for Agent-to-Agent Services",
-    "normalized": "show hn: bitroad - infra for agent-to-agent services",
-    "content_hash": "96d75dcc7204f58838dcdfd0d8fd216f"
-  },
-  {
-    "title": "Twelve search APIs ran through the same AI agent to see which one helps it most",
-    "normalized": "twelve search apis ran through the same ai agent to see which one helps it most",
-    "content_hash": "3cccdf698a9d02dc6d585ef3fbed5bf8"
-  },
-  {
-    "title": "Why Codex burns a weekly limit in a day while the agent waits for the tide",
-    "normalized": "why codex burns a weekly limit in a day while the agent waits for the tide",
-    "content_hash": "b73c80f9052b93ca02a37fc8a2c251ce"
-  },
-  {
-    "title": "OpenAI Account Deactivated Due to Biological Research",
-    "normalized": "openai account deactivated due to biological research",
-    "content_hash": "e98a90ad5b4df569b8f3d33ab8546a8f"
-  },
-  {
-    "title": "ICYMI: What landed for AI builders in August 2026",
-    "normalized": "icymi: what landed for ai builders in august 2026",
-    "content_hash": "7495827e8d1ba02cf18d2e4de762478d"
-  },
-  {
-    "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
-    "normalized": "an autonomous geoai agent for arctic eco-navigation",
-    "content_hash": "71f51bc6b18cac0a2def8afc6373b495"
-  },
-  {
     "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
     "normalized": "show hn: godot and rust based multiplexer (terminal panes and more)",
     "content_hash": "83e76aec4d7ecfd3823b53581fcdce75"
@@ -2498,5 +2373,130 @@
     "title": "Our framework for reporting model misalignment",
     "normalized": "our framework for reporting model misalignment",
     "content_hash": "d297cda731f2dc4d70816cd7a5a52b15"
+  },
+  {
+    "title": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in at TechCrunch Disrupt 2026",
+    "normalized": "where will the next breakout startup come from? benchmark's full partnership weighs in at techcrunch disrupt 2026",
+    "content_hash": "4949a25bbe9ff7612589a3f36302e3f0"
+  },
+  {
+    "title": "Google\u2019s $899 Googlebook is a bet that you\u2019ll buy a new laptop for Gemini",
+    "normalized": "google's $899 googlebook is a bet that you'll buy a new laptop for gemini",
+    "content_hash": "02f797e1e57ef8bf234a0186e7e52c51"
+  },
+  {
+    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+    "normalized": "meet the next wave of vcs judging startup battlefield 200 at techcrunch disrupt 2026",
+    "content_hash": "90c54270916271bb13c0c3e47c2b9022"
+  },
+  {
+    "title": "These are the first five Googlebook laptops",
+    "normalized": "these are the first five googlebook laptops",
+    "content_hash": "362def32e4000bd5c4614a4082b704ce"
+  },
+  {
+    "title": "The long dream of the Googlebook",
+    "normalized": "the long dream of the googlebook",
+    "content_hash": "ed533a9510bdc44df630d88b95fb5641"
+  },
+  {
+    "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
+    "normalized": "the m5 ultra mac studio tears through our benchmark tests",
+    "content_hash": "8e8f06a15b910cd2879085d03d729b2f"
+  },
+  {
+    "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+    "normalized": "can agents design better chips with a higher level abstraction?",
+    "content_hash": "5d68297e16e071f2d792faa57a64fd58"
+  },
+  {
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "normalized": "with tabby, a former accountant is using ai to make accountants obsolete",
+    "content_hash": "b80d63e5fdcd568ff978a2f99782b81e"
+  },
+  {
+    "title": "From first users to billions: Google\u2019s Robby Stein joins TechCrunch Disrupt 2026",
+    "normalized": "from first users to billions: google's robby stein joins techcrunch disrupt 2026",
+    "content_hash": "a38e04ad1f96a53a01d2a518eb4bfa0e"
+  },
+  {
+    "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+    "normalized": "corridor raises $25m seed to build a health benefits brokerage for smbs",
+    "content_hash": "a6f6111ca0eb31e64655a0e4a0a7ed81"
+  },
+  {
+    "title": "Apple Mac Mini (M6) Review: For the AI Curious",
+    "normalized": "apple mac mini (m6) review: for the ai curious",
+    "content_hash": "666057d5186577e9298f80d99f537622"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+    "normalized": "\u26a1 weekly recap: cisco 0-day, ai agent rce, clickfix attacks, clickfix surge, and browser hijacks",
+    "content_hash": "541fe3c90f46372afc5bfe25f3caf158"
+  },
+  {
+    "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+    "normalized": "clickfix lures deploy chainscript rat using polygon to rotate c2 infrastructure",
+    "content_hash": "66978b61bbc6e8c4121427968d8b51d9"
+  },
+  {
+    "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+    "normalized": "jade sleet linked to indian it provider breach with flatroof and roofdeck backdoors",
+    "content_hash": "4938497665ed66763c540989bd1afde2"
+  },
+  {
+    "title": "CC",
+    "normalized": "cc",
+    "content_hash": "e0323a9039add2978bf5b49550572c7c"
+  },
+  {
+    "title": "Bungie says it\u2019s \u2018not done with Destiny\u2019 and will bring back vaulted content",
+    "normalized": "bungie says it's 'not done with destiny' and will bring back vaulted content",
+    "content_hash": "32d275627cf6b321b45360e66af92a61"
+  },
+  {
+    "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+    "normalized": "grab an xbox controller and a $50 xbox gift card together for just $80",
+    "content_hash": "fad33c76ddfb798b480e32afed2129b7"
+  },
+  {
+    "title": "Can John Ternus find Apple\u2019s next big thing?",
+    "normalized": "can john ternus find apple's next big thing?",
+    "content_hash": "38012c287830a5e39bb7af1cf3f181d7"
+  },
+  {
+    "title": "iPhone owners can now submit claims in Apple\u2019s $250 million Siri AI settlement",
+    "normalized": "iphone owners can now submit claims in apple's $250 million siri ai settlement",
+    "content_hash": "bb86ca3ec562b93c369b590e66cdda76"
+  },
+  {
+    "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
+    "normalized": "i got to see google's wild ideas about the future of laptops",
+    "content_hash": "4a28699882bb1dcb79bcbee6d748d3dc"
+  },
+  {
+    "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
+    "normalized": "ax - google's open agentic orchestrator",
+    "content_hash": "eb9f12932c3f2c2ad0477effb985bd71"
+  },
+  {
+    "title": "Amazon Blocks Meta's New Muse AI Agent from Shopping on Amazon.com",
+    "normalized": "amazon blocks meta's new muse ai agent from shopping on amazon.com",
+    "content_hash": "10a16d90828b02027c5bf9e4aa24d6a1"
+  },
+  {
+    "title": "How V7 gives AI agents institutional memory",
+    "normalized": "how v7 gives ai agents institutional memory",
+    "content_hash": "bed66a6c0916edd0b6ef1df1fd0f2a3c"
+  },
+  {
+    "title": "Now everyone can put data to work",
+    "normalized": "now everyone can put data to work",
+    "content_hash": "b4bcd6c10ae90197f761c57b414d5edf"
+  },
+  {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "normalized": "gpt-6 astra: the next generation in intelligence for work",
+    "content_hash": "9ca584098331c2993db24bfd842d4aaa"
   }
 ]
