@@ -1,130 +1,5 @@
 [
   {
-    "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-    "normalized": "show hn: godot and rust based multiplexer (terminal panes and more)",
-    "content_hash": "83e76aec4d7ecfd3823b53581fcdce75"
-  },
-  {
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "normalized": "mecka ai nears $500m valuation in sequoia-led deal amid rush for robot training data",
-    "content_hash": "5005278adeee1cc0ff35de7a6ce47825"
-  },
-  {
-    "title": "OpenAI\u2019s feud with mathematicians is only escalating",
-    "normalized": "openai's feud with mathematicians is only escalating",
-    "content_hash": "f4603dc316d1ddbdae3c6493cd43fcfe"
-  },
-  {
-    "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-    "normalized": "central eurasia names its 2026 road to battlefield winners: cerberus, weglobal ai, and looq",
-    "content_hash": "3c1a2d386325a2d1a9d55df78c19cf93"
-  },
-  {
-    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "normalized": "nscale adds former openai exec fidji simo to its board ahead of potential ipo",
-    "content_hash": "23f0a6d3a356c9d4f397398aa6b7cc2b"
-  },
-  {
-    "title": "Anthropic spent this week in hot water over cybersecurity",
-    "normalized": "anthropic spent this week in hot water over cybersecurity",
-    "content_hash": "ad77ff7d13356883090a11710d67d329"
-  },
-  {
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "normalized": "openai agents carried out an undisclosed attack on rubygems",
-    "content_hash": "ff4d27624b7331a043ae797cf957143d"
-  },
-  {
-    "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed\u2019s HarnessDev Says Only 34 of 64 Changes Generalize",
-    "normalized": "can llms engineer their own agent harness? bytedance seed's harnessdev says only 34 of 64 changes generalize",
-    "content_hash": "aa00fc790c7c7ff761222c702302f41d"
-  },
-  {
-    "title": "Khosla Ventures is opening a New York office this fall \u2014 its first outpost outside Sand Hill Road",
-    "normalized": "khosla ventures is opening a new york office this fall -- its first outpost outside sand hill road",
-    "content_hash": "a119fd88625fc5930e56b2cbcf5b3c5a"
-  },
-  {
-    "title": "Y Combinator\u2019s Garry Tan wants US open-weight AI labs to \u2018distill\u2019 frontier models, too",
-    "normalized": "y combinator's garry tan wants us open-weight ai labs to 'distill' frontier models, too",
-    "content_hash": "2af2deb4925f429761bb8c25a70ab4f8"
-  },
-  {
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "normalized": "kimi-maker moonshot ai targets $2b in annual revenue",
-    "content_hash": "df5b8993ae8de1157afeafc47e583eb9"
-  },
-  {
-    "title": "Roblox is making it easier to build games with AI \u2014 and play them outside Roblox",
-    "normalized": "roblox is making it easier to build games with ai -- and play them outside roblox",
-    "content_hash": "0715260ed4fd9882dc9d3b6f88365dc8"
-  },
-  {
-    "title": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
-    "normalized": "the us government launched 3 previously unreported investigations of polymarket trades",
-    "content_hash": "1302cfb2db589c21edb25b3cbeade954"
-  },
-  {
-    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-    "normalized": "lawyer fined $5k over ai-hallucinated witnesses in a murder case",
-    "content_hash": "35e2091aae1a1ed3f1433d3525219c9d"
-  },
-  {
-    "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
-    "normalized": "matt mullenweg returns as automattic ceo two days after getting booted",
-    "content_hash": "c099c69f90d05631865ca2e4ce0b79d2"
-  },
-  {
-    "title": "We unfolded the iPhone Duo",
-    "normalized": "we unfolded the iphone duo",
-    "content_hash": "9df43a3fe95c70220b6bc8b068183fc6"
-  },
-  {
-    "title": "The White House says Truth Social is the \u2018most powerful and popular social media platform in the world\u2019",
-    "normalized": "the white house says truth social is the 'most powerful and popular social media platform in the world'",
-    "content_hash": "f80b6577a87d619592bd8044eea6ecfe"
-  },
-  {
-    "title": "Microsoft\u2019s head of comms is leaving after almost 20 years",
-    "normalized": "microsoft's head of comms is leaving after almost 20 years",
-    "content_hash": "644bb2e490b305b2be092e1424a03d79"
-  },
-  {
-    "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-    "normalized": "zep ai (yc w24) is hiring a head of forward deployed engineering",
-    "content_hash": "3da05eafcd146c13978979bc299f5e28"
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "normalized": "rapidly scaling online storage to serve over 1 billion chatgpt users",
-    "content_hash": "d5a272971e60c9c2683b2c86b5893841"
-  },
-  {
-    "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
-    "normalized": "beyond the price per token: choosing the right openai model on amazon bedrock for your workload",
-    "content_hash": "47b7da500b68e939e82b016d98cd6c5d"
-  },
-  {
-    "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
-    "normalized": "build interactive mcp apps using amazon bedrock agentcore",
-    "content_hash": "c2e8a15cd4d902a319837a950bc556bc"
-  },
-  {
-    "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
-    "normalized": "contracteval: query-conditioned execution matching for procedural instruction conformance",
-    "content_hash": "b385ae54f24483c46c15843b6b522803"
-  },
-  {
-    "title": "CityPlanner: A Sandbox Agent for Executable Urban Planning",
-    "normalized": "cityplanner: a sandbox agent for executable urban planning",
-    "content_hash": "ef7c118206b226ed6bc4a7b3e5053a4c"
-  },
-  {
-    "title": "Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery",
-    "normalized": "black-box red teaming of agentic ai: a taxonomy-driven framework for automated risk discovery",
-    "content_hash": "867feabb742c0ce0c3dd65c59d0ef47f"
-  },
-  {
     "title": "GoatCode \u2013 open-source terminal AI agent with provider failover",
     "normalized": "goatcode - open-source terminal ai agent with provider failover",
     "content_hash": "7bc50fe3422b8499d5f120aa360f4a03"
@@ -2498,5 +2373,130 @@
     "title": "GPT-6 Astra: The next generation in intelligence for work",
     "normalized": "gpt-6 astra: the next generation in intelligence for work",
     "content_hash": "9ca584098331c2993db24bfd842d4aaa"
+  },
+  {
+    "title": "Meta\u2019s Muse is outpacing ChatGPT\u2019s early mobile launch",
+    "normalized": "meta's muse is outpacing chatgpt's early mobile launch",
+    "content_hash": "cb81db6366aaf928a6191a790366e0bf"
+  },
+  {
+    "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+    "normalized": "anthropic, openai et al. face antitrust suit for agreeing to slow ai development",
+    "content_hash": "c8713066f06996698e17c6cd0b0b2cc9"
+  },
+  {
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "normalized": "openai forms math advisory group as its ai resolves more than 100 open problems",
+    "content_hash": "c3ab6f8a9a43f46d36a37e8c826e1b28"
+  },
+  {
+    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+    "normalized": "kairos power gets up to $100m from samsung group to build nuclear reactor for google",
+    "content_hash": "01f1f3bb89ed012df0a7dd8a300dc6d9"
+  },
+  {
+    "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
+    "normalized": "meta's ai agent has been blocked from using amazon.com",
+    "content_hash": "d0d05768e821ba3b661b419fe728353b"
+  },
+  {
+    "title": "Google CC, an AI agent built for families",
+    "normalized": "google cc, an ai agent built for families",
+    "content_hash": "9e720e206266081aeb9b8296f0d56082"
+  },
+  {
+    "title": "Unsealed files describe OpenAI \"research mission\" to supplant human authors",
+    "normalized": "unsealed files describe openai \"research mission\" to supplant human authors",
+    "content_hash": "f67025ab684506f3adbb86a0e6eb9e48"
+  },
+  {
+    "title": "The man who built Apple\u2019s stores doesn\u2019t buy Silicon Valley\u2019s bet on AI shopping",
+    "normalized": "the man who built apple's stores doesn't buy silicon valley's bet on ai shopping",
+    "content_hash": "18db2dd8f1a3e9284f7a35ab0188fe1b"
+  },
+  {
+    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump\u2019s Upcoming Summit With Xi Jinping",
+    "normalized": "ai, tariffs, rare minerals: what to expect from trump's upcoming summit with xi jinping",
+    "content_hash": "12cb6c8e224224bb4dc39c1fef7d2ba0"
+  },
+  {
+    "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+    "normalized": "fake lastpass authenticator installer abuses microsoft-signed driver to kill antivirus and edr",
+    "content_hash": "171322efe4d9060299308e5eb8debbd4"
+  },
+  {
+    "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+    "normalized": "contagious interview campaign compromises 30,000 devices, steals $10.71m in crypto",
+    "content_hash": "ef1a1c58725459fd43c6e3f4ae7487f1"
+  },
+  {
+    "title": "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data",
+    "normalized": "google fined \u20ac403 million over gdpr violations tied to location data",
+    "content_hash": "107cde8475e195ab31340d0f901de1a7"
+  },
+  {
+    "title": "A cut cable disrupted hundreds of flights across the US",
+    "normalized": "a cut cable disrupted hundreds of flights across the us",
+    "content_hash": "205e55e273bc3c4d9bbd83094e50358c"
+  },
+  {
+    "title": "California tightens rules on AI data center energy and water use",
+    "normalized": "california tightens rules on ai data center energy and water use",
+    "content_hash": "f920ca5c99d019ee92e04dc649c3e113"
+  },
+  {
+    "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+    "normalized": "paramount settles lawsuit blocking $110 billion warner bros. merger",
+    "content_hash": "75a30baa3bfa6f0b7be596367b5dcb4e"
+  },
+  {
+    "title": "A 7B fact-checker beat 30B LLM reviewers and deleted no true claims",
+    "normalized": "a 7b fact-checker beat 30b llm reviewers and deleted no true claims",
+    "content_hash": "c2ef7aec3037d79d99974df7d4f2faf2"
+  },
+  {
+    "title": "Something bugs me about AGI AI LLM, what if we back paddled 1000 year",
+    "normalized": "something bugs me about agi ai llm, what if we back paddled 1000 year",
+    "content_hash": "55740feae05ff71ada7dbcfee0a3a182"
+  },
+  {
+    "title": "OpenAI flags 6 new incidents of 'concerning' behavior, unveils plan to track it",
+    "normalized": "openai flags 6 new incidents of 'concerning' behavior, unveils plan to track it",
+    "content_hash": "1574439b934518bdfa8cb9808aac5f11"
+  },
+  {
+    "title": "Escaping the OpenAI Codex sandbox, twice",
+    "normalized": "escaping the openai codex sandbox, twice",
+    "content_hash": "76b953fd8c6829cb04b743d03e7a9ee5"
+  },
+  {
+    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+    "normalized": "did openai solve the wrong navier-stokes problem?",
+    "content_hash": "48aa8adb7dc53d90ee2a741295c2033c"
+  },
+  {
+    "title": "IA Agent Arthur \u2013 Developed an OfflineAIagent",
+    "normalized": "ia agent arthur - developed an offlineaiagent",
+    "content_hash": "69317c31f5c2e3dec5235c2a26c1d71b"
+  },
+  {
+    "title": "OpenAI doesn't cryptographically sign its API responses",
+    "normalized": "openai doesn't cryptographically sign its api responses",
+    "content_hash": "aca5e1febb4444dcfb3c86c9bdc776f9"
+  },
+  {
+    "title": "Self-hosted AI agent that builds internal apps on your own data",
+    "normalized": "self-hosted ai agent that builds internal apps on your own data",
+    "content_hash": "91ec533ec4afd31421eae06befe16e50"
+  },
+  {
+    "title": "B.C. government to sue OpenAI after Tumbler Ridge mass shooting",
+    "normalized": "b.c. government to sue openai after tumbler ridge mass shooting",
+    "content_hash": "48573d8b94fe1cc1a463508ab7e9cbc7"
+  },
+  {
+    "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+    "normalized": "clinician-grounded quality assurance for ai-assisted psychiatric intake",
+    "content_hash": "dc2272dc6f3ed74c9af3d8015ae4ba0f"
   }
 ]
