@@ -1,130 +1,5 @@
 [
   {
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "normalized": "anthropic ceo outlines plan to slow ai development",
-    "content_hash": "649a1caeeb9ee316dc594a9f3b0baea4"
-  },
-  {
-    "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
-    "normalized": "openai's rogue ai tried to hack another company in may",
-    "content_hash": "1d60001ff902c542a3ac750dde51c944"
-  },
-  {
-    "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
-    "normalized": "openai's sam altman says it would be 'ill-advised' to go public in 2026",
-    "content_hash": "65c3bea020e514e2b7fd66fa0cda7ad0"
-  },
-  {
-    "title": "Sam Altman says OpenAI going public in 2026 would be \u2018ill-advised\u2019",
-    "normalized": "sam altman says openai going public in 2026 would be 'ill-advised'",
-    "content_hash": "c59771fd023acbc9e51599a54feb772c"
-  },
-  {
-    "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
-    "normalized": "anthropic ceo says it's time to pump the brakes on ai",
-    "content_hash": "97e6589816257de0b218989a1e684576"
-  },
-  {
-    "title": "Nvidia is the central bank of AI",
-    "normalized": "nvidia is the central bank of ai",
-    "content_hash": "ee6c7fe24a4b330265f82663c5b9c3d2"
-  },
-  {
-    "title": "OpenAI rules out IPO this year as Altman/Musk/Amodei warn AI is moving too fast",
-    "normalized": "openai rules out ipo this year as altman/musk/amodei warn ai is moving too fast",
-    "content_hash": "9306fcfe43acfd9bb781e2a59f5e42cc"
-  },
-  {
-    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-    "normalized": "automattic confirms mullenweg has returned as ceo after attempted ouster by board",
-    "content_hash": "7c8e88b4f172cca09cf285ea39695dfa"
-  },
-  {
-    "title": "Revolut confirms customer data breach through fake government requests",
-    "normalized": "revolut confirms customer data breach through fake government requests",
-    "content_hash": "3dd347de4a5825b3e67caf6edb3a7db3"
-  },
-  {
-    "title": "Why is the internet so upset about NVIDIA's DLSS 5?",
-    "normalized": "why is the internet so upset about nvidia's dlss 5?",
-    "content_hash": "dc2a0937ff990f0dc753f35cfd5efdf7"
-  },
-  {
-    "title": "OpenAI agents hacked a software service before the Hugging Face incident",
-    "normalized": "openai agents hacked a software service before the hugging face incident",
-    "content_hash": "b9a399c4d5271d140bab8159c8f3d67c"
-  },
-  {
-    "title": "StarCraft returns in 2030 as an open-world shooter",
-    "normalized": "starcraft returns in 2030 as an open-world shooter",
-    "content_hash": "4c40b248b6da98dcd6fbda421e78bd6e"
-  },
-  {
-    "title": "LG responds to TV spying allegations",
-    "normalized": "lg responds to tv spying allegations",
-    "content_hash": "51705ff70a0d64e5438f9a551436c039"
-  },
-  {
-    "title": "Trump is giving data centers a pass to pollute",
-    "normalized": "trump is giving data centers a pass to pollute",
-    "content_hash": "4dc3c70171d00f67ba9f823b65730cd3"
-  },
-  {
-    "title": "AgentsDock: An IDE designed for agentic AI research",
-    "normalized": "agentsdock: an ide designed for agentic ai research",
-    "content_hash": "99c87ed476c3f201bd7586c72675fc6b"
-  },
-  {
-    "title": "Asking Anthropic CEO: 'Do you earnestly believe that AI could kill all humans?'",
-    "normalized": "asking anthropic ceo: 'do you earnestly believe that ai could kill all humans?'",
-    "content_hash": "1e4e3c7bfaaacec3c96f98bb11c4c0d8"
-  },
-  {
-    "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
-    "normalized": "openai ipo will not happen in 2026 amid ai safety fears, altman says",
-    "content_hash": "6ba5714e44e888698055e2a32b773c59"
-  },
-  {
-    "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
-    "normalized": "booting straight into a local llm (no linux) on my raspberry pi",
-    "content_hash": "325341fa372d12608ea7f12f32cfe696"
-  },
-  {
-    "title": "A full-duplex AI phone agent that listens while speaking",
-    "normalized": "a full-duplex ai phone agent that listens while speaking",
-    "content_hash": "548ffc52ce30c085422a53da4dfb22d0"
-  },
-  {
-    "title": "An Advanced System Architecture Breakdown of OpenAI's Jalapeno Accelerator",
-    "normalized": "an advanced system architecture breakdown of openai's jalapeno accelerator",
-    "content_hash": "98574e2d1b2c85242fae4f35ab8d533f"
-  },
-  {
-    "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
-    "normalized": "openai delaying ipo amid ai safety concerns, sam altman says",
-    "content_hash": "f4a1a871f242966d7adda611d0c6461d"
-  },
-  {
-    "title": "Anthropic CEO calls on AI companies to slow down development",
-    "normalized": "anthropic ceo calls on ai companies to slow down development",
-    "content_hash": "ba427838dba848884cedfb7277e1900b"
-  },
-  {
-    "title": "OpenAI won't go public this year",
-    "normalized": "openai won't go public this year",
-    "content_hash": "5fbf516122e53e0de4f9a9308bda4933"
-  },
-  {
-    "title": "Musk and Altman back Anthropic CEO on slowing AI down",
-    "normalized": "musk and altman back anthropic ceo on slowing ai down",
-    "content_hash": "1ce673e1e01ff85d3a371b6c83b057da"
-  },
-  {
-    "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
-    "normalized": "'we must slow the pace': ceo of anthropic calls for an ai slowdown",
-    "content_hash": "c53351427e95b30113a9af07b9e2f568"
-  },
-  {
     "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
     "normalized": "attackers use passkey phishing to hijack microsoft cloud accounts and exfiltrate data",
     "content_hash": "5c0b6f3ceb0bb0e7da64459c6fccdc16"
@@ -2498,5 +2373,130 @@
     "title": "Waymo is offering transit discounts again, this time with Visa",
     "normalized": "waymo is offering transit discounts again, this time with visa",
     "content_hash": "3c42603dbb236a01eaf14a48e7670c02"
+  },
+  {
+    "title": "Launch HN: Coverage Cat (YC S22) \u2013 Umbrella insurance via your personal agent",
+    "normalized": "launch hn: coverage cat (yc s22) - umbrella insurance via your personal agent",
+    "content_hash": "11902d9c0ca0a03981bb5c20c2f883dc"
+  },
+  {
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "normalized": "openai launches gpt-6 sol and luna, boasting lower cost and fewer mistakes",
+    "content_hash": "cdd6a033f8cddeca20e4f233be113cc7"
+  },
+  {
+    "title": "Rabbit\u2019s new AI agent doesn\u2019t need an R1 to run",
+    "normalized": "rabbit's new ai agent doesn't need an r1 to run",
+    "content_hash": "3b1bb7f2a13740cb76748bb66b2a384c"
+  },
+  {
+    "title": "Show HN: Jade Email. Unlimited emails for your domain plus AI Agent support",
+    "normalized": "show hn: jade email. unlimited emails for your domain plus ai agent support",
+    "content_hash": "6a8ac5d64e764da94e26d13f7916edb0"
+  },
+  {
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "normalized": "snorkel ai triples valuation to $3.5b as demand for ai training data booms",
+    "content_hash": "784c54b8cb8a4eb8aac1f5826a5fada1"
+  },
+  {
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "normalized": "qualcomm launches two new smartphone chips with emphasis on ai",
+    "content_hash": "4e49299e067a61df65df267e90b1e907"
+  },
+  {
+    "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents\u2019 and applicants\u2019 data",
+    "normalized": "hacking group shinyhunters claims it breached the fbi, stole agents' and applicants' data",
+    "content_hash": "15e6683b5a803122d600c0c8cb3e9116"
+  },
+  {
+    "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+    "normalized": "microsoft takes down eviltokens device-code phishing service tied to 12,000 inbox compromises",
+    "content_hash": "7dbd180db3f54d679bda7d2e9de4e72e"
+  },
+  {
+    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+    "normalized": "openai wants to consult elite mathematicians about how to not fumble again",
+    "content_hash": "9bc096220c62fd1a845bbb7006991763"
+  },
+  {
+    "title": "Saudi Arabia\u2019s new Exobot EVs make the Cybertruck look normal",
+    "normalized": "saudi arabia's new exobot evs make the cybertruck look normal",
+    "content_hash": "eadcbc434e2ee9cbae8ff6f62b31a0b3"
+  },
+  {
+    "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+    "normalized": "qualcomm's snapdragon 8 elite gen 6 comes in an extreme version too",
+    "content_hash": "529a86b3945355c7e302b8203a8c6b6a"
+  },
+  {
+    "title": "Motorola\u2019s wild-looking Signature 27 runs Qualcomm\u2019s new Extreme chipset",
+    "normalized": "motorola's wild-looking signature 27 runs qualcomm's new extreme chipset",
+    "content_hash": "db01a638fe333f455a61626c1096197c"
+  },
+  {
+    "title": "TechCrunch Founder Summit\u2019s agenda revealed: Unlock\u00a0fundraising, hiring, and AI\u00a0insights in Boston on November 4",
+    "normalized": "techcrunch founder summit's agenda revealed: unlock fundraising, hiring, and ai insights in boston on november 4",
+    "content_hash": "6d64cd332c939492ce4e730b5f9b98e3"
+  },
+  {
+    "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
+    "normalized": "meta admits muse's likeness to openclaw isn't a coincidence",
+    "content_hash": "c4167be3338a5314bb6e60170e987b07"
+  },
+  {
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "normalized": "anthropic releases opus 5.5 with lower prices and fable-level performance",
+    "content_hash": "f4fe84700ee0b01142dfe9b8e2e8e96b"
+  },
+  {
+    "title": "Rabbit Is Back, This Time With an AI Agent App",
+    "normalized": "rabbit is back, this time with an ai agent app",
+    "content_hash": "f57999403834c1e81e18670d985ff5be"
+  },
+  {
+    "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+    "normalized": "critical bifrost ai gateway flaw lets attackers run commands without credentials",
+    "content_hash": "150dca9c8ccb8f99b55767871f0e0086"
+  },
+  {
+    "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+    "normalized": "researcher drops bigdiskbuster zero-day poc that blocks microsoft defender updates",
+    "content_hash": "5c0c34040355ffa57b927fef72a3527b"
+  },
+  {
+    "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+    "normalized": "new anthropic, openai models make same promise: a little more for a lot less money",
+    "content_hash": "651361560a1ef9c352d0174307e52493"
+  },
+  {
+    "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+    "normalized": "lawsuit demands openai pay for new school after chatgpt used in shooting",
+    "content_hash": "a5c135d85846f34ba9e7f425e5c63154"
+  },
+  {
+    "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
+    "normalized": "anthropic and openai announce more powerful (and cheaper) ai models",
+    "content_hash": "21773e570a1c185e036a5983102f5bb9"
+  },
+  {
+    "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones\u2019 cameras",
+    "normalized": "apple clarifies that texture and grain controls are exclusive to the latest iphones' cameras",
+    "content_hash": "45961473c2f68eaaae280d6126a4db24"
+  },
+  {
+    "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+    "normalized": "score free pixel buds 2a when you preorder a googlebook at best buy",
+    "content_hash": "0d350106ec5efd3f5702d657795d970f"
+  },
+  {
+    "title": "San Francisco sues Trump Media for selling early access to Trump posts",
+    "normalized": "san francisco sues trump media for selling early access to trump posts",
+    "content_hash": "99fafac35c084a4dff2d8dd2f55c0b7e"
+  },
+  {
+    "title": "OpenAI is well positioned to fast-follow Jev",
+    "normalized": "openai is well positioned to fast-follow jev",
+    "content_hash": "0235eca5d6dc298a00d33304a95a4aee"
   }
 ]
