@@ -1,130 +1,5 @@
 [
   {
-    "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-    "normalized": "attackers use passkey phishing to hijack microsoft cloud accounts and exfiltrate data",
-    "content_hash": "5c0b6f3ceb0bb0e7da64459c6fccdc16"
-  },
-  {
-    "title": "How are you using a Desktop or Browser AI agent daily?",
-    "normalized": "how are you using a desktop or browser ai agent daily?",
-    "content_hash": "2edabca7fe74cb9c0986d2a86733a07a"
-  },
-  {
-    "title": "AI agents tested by OpenAI involved in cyber-attack on service, say researchers",
-    "normalized": "ai agents tested by openai involved in cyber-attack on service, say researchers",
-    "content_hash": "d9b1684870f84077dd5ecdfba290f950"
-  },
-  {
-    "title": "Fusion power startups find new partners in the defense world",
-    "normalized": "fusion power startups find new partners in the defense world",
-    "content_hash": "8880517bf8bc864a2a66b15900eda0f8"
-  },
-  {
-    "title": "AI Agents Are Thirsty for Power",
-    "normalized": "ai agents are thirsty for power",
-    "content_hash": "15d93fe9013b1c66d1bef16d5cd8c3d5"
-  },
-  {
-    "title": "Why are AI agents lying, cheating and coordinating?",
-    "normalized": "why are ai agents lying, cheating and coordinating?",
-    "content_hash": "105bca090dcf628bdac5db2b5a0abaf9"
-  },
-  {
-    "title": "Agent Tavern \u2013 a Q&A board where a different AI model has to review the answer",
-    "normalized": "agent tavern - a q&a board where a different ai model has to review the answer",
-    "content_hash": "07af5f63a8fffc41ea61a2795d4da485"
-  },
-  {
-    "title": "Show HN: AgentJIT \u2013 Compile dynamic LLM agent workflows into 0.1ms Python",
-    "normalized": "show hn: agentjit - compile dynamic llm agent workflows into 0.1ms python",
-    "content_hash": "a4f9d3a64e0d5576c94b2dacf181872e"
-  },
-  {
-    "title": "MeshDrive and Local AI Agent for FS",
-    "normalized": "meshdrive and local ai agent for fs",
-    "content_hash": "6064ae930f14b2968ce310e4159d664a"
-  },
-  {
-    "title": "Probability of an LLM Trajectory: Starting from the Chain Rule",
-    "normalized": "probability of an llm trajectory: starting from the chain rule",
-    "content_hash": "5f8248f5f99a6a07620eae125e2573f8"
-  },
-  {
-    "title": "How to Build a Custom Agent Harness",
-    "normalized": "how to build a custom agent harness",
-    "content_hash": "abd356e48734cb6b040abd6cc4d087c9"
-  },
-  {
-    "title": "OpenAI built a text generator so good, it's considered too dangerous (2019)",
-    "normalized": "openai built a text generator so good, it's considered too dangerous (2019)",
-    "content_hash": "84f9f6273a37713eb0edbc1ca7c3c45f"
-  },
-  {
-    "title": "I'm an AI agent. I just fired myself from the business I built [video]",
-    "normalized": "i'm an ai agent. i just fired myself from the business i built [video]",
-    "content_hash": "f93a5a803cefe4b588367f38efa39be0"
-  },
-  {
-    "title": "Anthropic CEO says AI industry needs to give safety measures time to catch up",
-    "normalized": "anthropic ceo says ai industry needs to give safety measures time to catch up",
-    "content_hash": "8e992e9748dd3dac09fc2ec88559bb91"
-  },
-  {
-    "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
-    "normalized": "anthropic ceo says ai swarm could 'take over the internet' in 6-12 months",
-    "content_hash": "6d22a22d0f876b1f586b32abe595b3d6"
-  },
-  {
-    "title": "122.9 km \u20b938,595-crore Hyderabad Metro Rail expansion plan awaits Centre-State JV",
-    "normalized": "122.9 km \u20b938,595-crore hyderabad metro rail expansion plan awaits centre-state jv",
-    "content_hash": "a7d2765cf29f887fc8b3813ab0ab0b1b"
-  },
-  {
-    "title": "Evening news wrap: Xi rejects \u2018might makes right\u2019 logic at Brics; Anthropic CEO flags AI\u2019s catastrophic risks &amp; more",
-    "normalized": "evening news wrap: xi rejects 'might makes right' logic at brics; anthropic ceo flags ai's catastrophic risks & more",
-    "content_hash": "7c0763340d38a7b321644b4a7718e548"
-  },
-  {
-    "title": "Altman Says OpenAI Will Match Anthropic\u2019s Embedded Evaluator Pledge",
-    "normalized": "altman says openai will match anthropic's embedded evaluator pledge",
-    "content_hash": "be002823a4548623796608e3e6df5462"
-  },
-  {
-    "title": "OpenAI Launches ChatGPT for Financial Services With Built-In Data",
-    "normalized": "openai launches chatgpt for financial services with built-in data",
-    "content_hash": "99f5207ec2840f48bc31cfec81ebf833"
-  },
-  {
-    "title": "Cognition Adds Dioxus Team to Advance Devin Coding Agent",
-    "normalized": "cognition adds dioxus team to advance devin coding agent",
-    "content_hash": "e0f44beda14516f6083c26d4348347d6"
-  },
-  {
-    "title": "OpenAI\u2019s GPT-Live-1 Arrives in the API at $0.05 Per Minute",
-    "normalized": "openai's gpt-live-1 arrives in the api at $0.05 per minute",
-    "content_hash": "e19b73a4e3a454f74a55e6e5809b2307"
-  },
-  {
-    "title": "NVIDIA Details Skild AI Collaboration Behind S1 Robot Foundation Model",
-    "normalized": "nvidia details skild ai collaboration behind s1 robot foundation model",
-    "content_hash": "0d4a143861b173f04633de383e3fe8b4"
-  },
-  {
-    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-    "normalized": "tesla says it will finally unveil the second generation roadster on october 1",
-    "content_hash": "56e9ed08798d0a86d3764067febc7e3c"
-  },
-  {
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "normalized": "one week left to book your exhibit table at techcrunch disrupt 2026",
-    "content_hash": "268200336aa23b3dc2a6e9837d655303"
-  },
-  {
-    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-    "normalized": "final, final, final call for techcrunch disrupt 2026 side events",
-    "content_hash": "d998dad1e3255ed85e962d2df4e22cf7"
-  },
-  {
     "title": "Insight Partners\u2019 Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
     "normalized": "insight partners' deven parekh on why the firm is diversifying while everyone else bets the farm on openai and anthropic",
     "content_hash": "90bc6ab3c23bd66d4625b1561af2e986"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI is well positioned to fast-follow Jev",
     "normalized": "openai is well positioned to fast-follow jev",
     "content_hash": "0235eca5d6dc298a00d33304a95a4aee"
+  },
+  {
+    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "normalized": "ema raises $77m as ai starts eating into enterprise software and services",
+    "content_hash": "9c7c437cf064684095e01ef1dd32e7a0"
+  },
+  {
+    "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+    "normalized": "openai nabs key patreon execs ahead of upcoming announcement",
+    "content_hash": "cea147f9b514ca7ac715b5b22711931a"
+  },
+  {
+    "title": "Trains but Doesn't Learn: A Post-Training Delivery Benchmark for LLM Agents as Forward-Deployed Engineers",
+    "normalized": "trains but doesn't learn: a post-training delivery benchmark for llm agents as forward-deployed engineers",
+    "content_hash": "46c2a024ba4d5b7ff28dc734236920c0"
+  },
+  {
+    "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+    "normalized": "anthropic and openai models still attempt restricted actions in safety tests",
+    "content_hash": "002da6417c13c94f1300bd7667c3f56f"
+  },
+  {
+    "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+    "normalized": "chinese hackers exploit chrome-windows zero-day chain to deploy cleangulp malware",
+    "content_hash": "a1012a04a1f36a82a74d98d49b6ed59d"
+  },
+  {
+    "title": "YouTube\u2019s conversational video editing tool lets creators make edits in natural language",
+    "normalized": "youtube's conversational video editing tool lets creators make edits in natural language",
+    "content_hash": "66b332c29aef1033e7e31ca19a52b8a1"
+  },
+  {
+    "title": "YouTube Music gets more conversational with new AI features",
+    "normalized": "youtube music gets more conversational with new ai features",
+    "content_hash": "42fbb2af6acd457274fac94101bf2bff"
+  },
+  {
+    "title": "Eight Sleep\u2019s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+    "normalized": "eight sleep's new pod 6 comes in smaller and solo sizes, starting at $1,999",
+    "content_hash": "e75750dc143f86765c6ff59c8ef3be92"
+  },
+  {
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "normalized": "youtube releases new ai features for creators within its studio app",
+    "content_hash": "d54edcf37b4862f95deab561fcf51d32"
+  },
+  {
+    "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+    "normalized": "youtube adds new creator tools like video a/b testing, dynamic thumbnails, and live dubbing",
+    "content_hash": "467e8281d32e842304ad6da4451b96a6"
+  },
+  {
+    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+    "normalized": "strictlyvc at techcrunch disrupt 2026: inside the changing rules of venture capital",
+    "content_hash": "e2a49398811385ddd69b2e5e65db6de6"
+  },
+  {
+    "title": "YouTube will let you build your own algorithm with AI",
+    "normalized": "youtube will let you build your own algorithm with ai",
+    "content_hash": "1c1fa7414a1b99a4ced46bf9b9575641"
+  },
+  {
+    "title": "YouTube doubles down on video shopping with AI-powered \u2018Ask YouTube\u2019 feature",
+    "normalized": "youtube doubles down on video shopping with ai-powered 'ask youtube' feature",
+    "content_hash": "df95ad08daa241cf94fcf99dd1ab7cdb"
+  },
+  {
+    "title": "Here\u2019s the trailer for Nathan Fielder\u2019s Elizabeth Holmes documentary, in theaters October 16",
+    "normalized": "here's the trailer for nathan fielder's elizabeth holmes documentary, in theaters october 16",
+    "content_hash": "98576a0a11dd479541a6042c373ce615"
+  },
+  {
+    "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
+    "normalized": "linkedin adds new tools to fight fake profiles and bogus work histories",
+    "content_hash": "251335d3daf0b5e7da43b42a30ec7b62"
+  },
+  {
+    "title": "PitPro\u2019s first tire-changing robot goes live in Canada",
+    "normalized": "pitpro's first tire-changing robot goes live in canada",
+    "content_hash": "37dbd9abe22d7f0dcad1867e5fda1306"
+  },
+  {
+    "title": "\u2018We\u2019re already fighting yesterday\u2019s battle\u2019: Greece\u2019s prime minister gets candid about AI",
+    "normalized": "'we're already fighting yesterday's battle': greece's prime minister gets candid about ai",
+    "content_hash": "5a90ba6447da1c97eee7f9a535ae7ca6"
+  },
+  {
+    "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+    "normalized": "545 hackers tested it first. now xranges for ai scores your security agent",
+    "content_hash": "e78535fb6b54225b99bd0f767bb893ea"
+  },
+  {
+    "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+    "normalized": "shinyhunters claims fbi breach, says it stole data on agents and job applicants",
+    "content_hash": "c3960d1d9680c8c3e328c07dfe71efde"
+  },
+  {
+    "title": "RankControl",
+    "normalized": "rankcontrol",
+    "content_hash": "499decfbb251db726342ddbf218359c3"
+  },
+  {
+    "title": "This $199 GPS sports watch is repairable, modular, and open-source",
+    "normalized": "this $199 gps sports watch is repairable, modular, and open-source",
+    "content_hash": "9cf39afaa9494a8cbc04a4d633120a9d"
+  },
+  {
+    "title": "YouTube is building AI creator tools that do almost everything for them",
+    "normalized": "youtube is building ai creator tools that do almost everything for them",
+    "content_hash": "a3691bac67fdbceae7118395c415fbc4"
+  },
+  {
+    "title": "McDonald\u2019s is testing ads on its drive-thru menus",
+    "normalized": "mcdonald's is testing ads on its drive-thru menus",
+    "content_hash": "f3b8ddc6b12eeeebeb73f2c1174ef2e5"
+  },
+  {
+    "title": "Nobody does it like Remedy",
+    "normalized": "nobody does it like remedy",
+    "content_hash": "f7e17d60123f38d04e83280b469863d0"
+  },
+  {
+    "title": "Xiaomi\u2019s new 18 Pro phones improve on Samsung\u2019s privacy display",
+    "normalized": "xiaomi's new 18 pro phones improve on samsung's privacy display",
+    "content_hash": "1b9bb5e58d1bfd1ab30d4130aba0176c"
   }
 ]
