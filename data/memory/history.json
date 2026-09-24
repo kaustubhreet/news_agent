@@ -1,130 +1,5 @@
 [
   {
-    "title": "Hear how AI can engineer nature\u2019s comeback at TechCrunch Disrupt 2026",
-    "normalized": "hear how ai can engineer nature's comeback at techcrunch disrupt 2026",
-    "content_hash": "6c5e0bbf7f848663e8f6588f2a42c170"
-  },
-  {
-    "title": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns",
-    "normalized": "microsoft says 'people matter more than ai' following safety concerns",
-    "content_hash": "af749ecca04766133c223d3f62c26022"
-  },
-  {
-    "title": "Anthropic\u2019s 3-Step \u2018Pace the Frontier\u2019 Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
-    "normalized": "anthropic's 3-step 'pace the frontier' plan wins openai, xai and microsoft support: is it too late to slow ai down?",
-    "content_hash": "cb3ee9d19676924605fe5ecd92cdbab7"
-  },
-  {
-    "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
-    "normalized": "context engineering inside the harness: 4 mechanisms that beat context overflow and goal loss on long-horizon tasks",
-    "content_hash": "1793509823169fd844ea7eda342fc580"
-  },
-  {
-    "title": "Microsoft\u2019s new AI \u2018code of conduct\u2019 tells models not to hack systems or trick humans",
-    "normalized": "microsoft's new ai 'code of conduct' tells models not to hack systems or trick humans",
-    "content_hash": "270f774206497124b29394526371123a"
-  },
-  {
-    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-    "normalized": "only at techcrunch disrupt 2026: what happens when openai ships your roadmap?",
-    "content_hash": "4b2c14c358c8f072f38420e3a7e9a0d9"
-  },
-  {
-    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "normalized": "superhuman acquires yc-backed notetaker fathom as productivity platforms push for agentic work",
-    "content_hash": "4232f3049786e3efc8f5b0ff0d980851"
-  },
-  {
-    "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-    "normalized": "a vinyl bar in shibuya is a startup offering fun music apps without any ai prompting",
-    "content_hash": "1f0a86410a581d120abe9c8bc3dfe4ff"
-  },
-  {
-    "title": "The four-hour-long Elon Musk documentary might be preaching to the choir",
-    "normalized": "the four-hour-long elon musk documentary might be preaching to the choir",
-    "content_hash": "744783ec53fa57507660100d719c36d4"
-  },
-  {
-    "title": "Perplexity Brings Its Local Portable Computer Agent to Windows PCs",
-    "normalized": "perplexity brings its local portable computer agent to windows pcs",
-    "content_hash": "f4e1bc41043c6ec283e5afd0d7f61bb2"
-  },
-  {
-    "title": "With iOS 27, I\u2019m actually using Siri again",
-    "normalized": "with ios 27, i'm actually using siri again",
-    "content_hash": "0fe485b7490a2cfe7550234cbd03d75c"
-  },
-  {
-    "title": "macOS 27: new Siri takes on AI productivity apps",
-    "normalized": "macos 27: new siri takes on ai productivity apps",
-    "content_hash": "7035cac40d1f603056ca8abaf066a4b4"
-  },
-  {
-    "title": "Sources say Automattic\u2019s board is out after failed attempt to oust CEO Matt Mullenweg",
-    "normalized": "sources say automattic's board is out after failed attempt to oust ceo matt mullenweg",
-    "content_hash": "2c6c888d15724a9fcff865aa0eeeaeba"
-  },
-  {
-    "title": "AI Leaders Are Calling for a Slowdown. Trump\u2019s Team Says It\u2019s on Them",
-    "normalized": "ai leaders are calling for a slowdown. trump's team says it's on them",
-    "content_hash": "cb116355bd7aced2545f38d0563668ac"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-    "normalized": "\u26a1 weekly recap: rogue ai agents, wechat worm, papercut attacks, ai espionage, and rootkits",
-    "content_hash": "9416e5bbe87cbb88e8d9ee43c13857c2"
-  },
-  {
-    "title": "Google\u2019s Pixel 11 is cheaper ahead of iPhone 18 Pro launch",
-    "normalized": "google's pixel 11 is cheaper ahead of iphone 18 pro launch",
-    "content_hash": "38392983b7e5ec139004ca251dfe3024"
-  },
-  {
-    "title": "Adam Conover explains how YouTube ruined everything",
-    "normalized": "adam conover explains how youtube ruined everything",
-    "content_hash": "efd572fe22c074a5adeba5aee792b65d"
-  },
-  {
-    "title": "What happens after a town de-Flocks",
-    "normalized": "what happens after a town de-flocks",
-    "content_hash": "45badbbce671f0ce06c8a326c31f374a"
-  },
-  {
-    "title": "Hacking AI customer service agents",
-    "normalized": "hacking ai customer service agents",
-    "content_hash": "262d3328c41ade86a297f95b984f05fc"
-  },
-  {
-    "title": "Transitions.dev: UI transitions for AI agents",
-    "normalized": "transitions.dev: ui transitions for ai agents",
-    "content_hash": "5ee92344b3db4e537b93137317d4cdaa"
-  },
-  {
-    "title": "Show HN: Pelican-bicycle alternatives",
-    "normalized": "show hn: pelican-bicycle alternatives",
-    "content_hash": "18a0e45453e261ae1cb160449d95c1cf"
-  },
-  {
-    "title": "Look Before You Leap: Pre-Action Verification for LLM Agents",
-    "normalized": "look before you leap: pre-action verification for llm agents",
-    "content_hash": "f027e39b72cff67cfcfe495bf1cb962a"
-  },
-  {
-    "title": "AI agents blew the whistle on their cheating colleagues",
-    "normalized": "ai agents blew the whistle on their cheating colleagues",
-    "content_hash": "5082144840534fa47910e4ba95cdbbfc"
-  },
-  {
-    "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
-    "normalized": "nvidia open-sources osmo: one yaml orchestrates physical ai training, simulation, and robot testing",
-    "content_hash": "234495c98cfba4f61ea18f46052db4b2"
-  },
-  {
-    "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
-    "normalized": "implementation of machine learning workflows with nvidia cuml, rapids, gpu benchmarking, explainability, clustering, and model inference",
-    "content_hash": "c27ad04b20430d69ab1fec3bc6f11ff1"
-  },
-  {
     "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia\u2019s dominance",
     "normalized": "ai infrastructure company cornelis raises $205m to chip away at nvidia's dominance",
     "content_hash": "93b5a6cb822754e9ab741a5d01c6703c"
@@ -2498,5 +2373,130 @@
     "title": "Muse is coming to Meta smart glasses",
     "normalized": "muse is coming to meta smart glasses",
     "content_hash": "7c94d6eef8d69c2c40149161d964110c"
+  },
+  {
+    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+    "normalized": "ando wants to take on slack with a team messaging app that lets humans and agents work together",
+    "content_hash": "c8c4740b4d542bd68f99922103393473"
+  },
+  {
+    "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+    "normalized": "harness as a language: a minimalist agent framework with maximal expressivity",
+    "content_hash": "cd0f79cb7d938c7edbbbae34c34eee1e"
+  },
+  {
+    "title": "Google tests letting Gemini call businesses for you",
+    "normalized": "google tests letting gemini call businesses for you",
+    "content_hash": "a74a32ba4ecda0d4ef4b97955b47df09"
+  },
+  {
+    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+    "normalized": "australia to investigate if openai hack of government health website broke the law",
+    "content_hash": "3dd6558ef349b0756c2d64be4e986378"
+  },
+  {
+    "title": "An OpenAI Agent Hacked Australia\u2019s Health Service. Their Government Found Out Months Later",
+    "normalized": "an openai agent hacked australia's health service. their government found out months later",
+    "content_hash": "710309405b7d8ad2bd9c2b002312412f"
+  },
+  {
+    "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+    "normalized": "openai agent bypassed australian medicare portal controls to access non-public files",
+    "content_hash": "fe8c1c9fa7e44f7274a1d34ea9382d3a"
+  },
+  {
+    "title": "Gemini can now call businesses for you so you don\u2019t have to wait on hold",
+    "normalized": "gemini can now call businesses for you so you don't have to wait on hold",
+    "content_hash": "b6126aa2f14c626c5495cc9f62e01c50"
+  },
+  {
+    "title": "The Xbox reset gets ugly",
+    "normalized": "the xbox reset gets ugly",
+    "content_hash": "c04b6f4ba37319e5cd0aa79e81fd856a"
+  },
+  {
+    "title": "Why can\u2019t we just keep rogue AIs off the internet?",
+    "normalized": "why can't we just keep rogue ais off the internet?",
+    "content_hash": "dbbb7375fb36e29406655091b81f390e"
+  },
+  {
+    "title": "Google is sending an AI satellite into space next week",
+    "normalized": "google is sending an ai satellite into space next week",
+    "content_hash": "5a2cfe20cedaa93131a390625089128c"
+  },
+  {
+    "title": "I have some questions for Mark Zuckerberg",
+    "normalized": "i have some questions for mark zuckerberg",
+    "content_hash": "a83412f5d4133de8d79713b126558fd3"
+  },
+  {
+    "title": "OpenAI agent hacked Australian government website, PM says",
+    "normalized": "openai agent hacked australian government website, pm says",
+    "content_hash": "562ffa12fa7c636fe13fdc0edaba46fa"
+  },
+  {
+    "title": "OpenAI Agent Attack on Austral. Gov't Website: First Publicly Disclosed Instance",
+    "normalized": "openai agent attack on austral. gov't website: first publicly disclosed instance",
+    "content_hash": "0009e1c88c027b103745c6572ddb2264"
+  },
+  {
+    "title": "ChipMEM: Verification-Grounded Memory for EDA Agents",
+    "normalized": "chipmem: verification-grounded memory for eda agents",
+    "content_hash": "78cf6bfc600b578a80a911fb1535fe19"
+  },
+  {
+    "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks",
+    "normalized": "openai releases gpt-6 sol and luna: 50% cheaper api pricing and benchmarks",
+    "content_hash": "8d7fc3a87d8d04debd081eeea9a8af2d"
+  },
+  {
+    "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+    "normalized": "shield ai, waabi, and general motors on building ai when failure is not an option at techcrunch disrupt 2026",
+    "content_hash": "b987fab777f182dce17cb8fb0853b78b"
+  },
+  {
+    "title": "Lovable\u2019s annualized revenue crosses $600M as vibe coding takes off",
+    "normalized": "lovable's annualized revenue crosses $600m as vibe coding takes off",
+    "content_hash": "e642e453cd52c44029d9377221b23eea"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Cal AI\u2019s Zach Yadegari on how to create viral growth and capitalize on it",
+    "normalized": "techcrunch disrupt 2026: cal ai's zach yadegari on how to create viral growth and capitalize on it",
+    "content_hash": "30efd63e32f7fe4fa8a97b2211a9b186"
+  },
+  {
+    "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+    "normalized": "corp mdm spyware targets logistics firms, steals new sms and redirects calls",
+    "content_hash": "2542595713ec0388056bf42a221f90d3"
+  },
+  {
+    "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+    "normalized": "secrets sprawl is an identity problem that ai just made impossible to ignore",
+    "content_hash": "758844dd51060bb188ef8a056d34daf8"
+  },
+  {
+    "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+    "normalized": "teamfiltration campaign compromises seven microsoft 365 accounts using default passwords",
+    "content_hash": "0bd55898f3922879b9c2fa1aeb3e3f65"
+  },
+  {
+    "title": "OpenAI's agent hacked into an Australian government website",
+    "normalized": "openai's agent hacked into an australian government website",
+    "content_hash": "a6e50641725db815b895526afd77540e"
+  },
+  {
+    "title": "Reddit mod ordered to pay Nintendo $4.5 million in Switch piracy lawsuit",
+    "normalized": "reddit mod ordered to pay nintendo $4.5 million in switch piracy lawsuit",
+    "content_hash": "86c55b09397393fcdd02a7c530d2735f"
+  },
+  {
+    "title": "You might not miss what Nikon removed from its cheaper full-frame Z5 IIC",
+    "normalized": "you might not miss what nikon removed from its cheaper full-frame z5 iic",
+    "content_hash": "f9da6811bb226a9e358bb2a884ab9d83"
+  },
+  {
+    "title": "The vibes are bad for Flock in Washington",
+    "normalized": "the vibes are bad for flock in washington",
+    "content_hash": "fcfb2e6539cf43e22879806cf93deefb"
   }
 ]
