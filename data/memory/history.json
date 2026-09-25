@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "normalized": "openai, anthropic, google have been in talks on ai safety for weeks",
-    "content_hash": "e8fe7c18a2ea17667d56a7388aed605d"
-  },
-  {
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "normalized": "early anthropic hire, former metr coo have found a way to rein in rogue ai agents",
-    "content_hash": "1af6bb76f959f7c60045093226935de5"
-  },
-  {
-    "title": "New Italian unicorn Exein rides the physical AI wave",
-    "normalized": "new italian unicorn exein rides the physical ai wave",
-    "content_hash": "d90655324c6b2b642588bca3fb0f9999"
-  },
-  {
-    "title": "Salesforce and Nvidia\u2019s new reasoning model is everything the AI labs should fear",
-    "normalized": "salesforce and nvidia's new reasoning model is everything the ai labs should fear",
-    "content_hash": "9ac5b3cc768cd55908a5ba8ea65c1cf0"
-  },
-  {
-    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "normalized": "aeo startup profound hits unicorn valuation, raises $180m series d 7 months after last round",
-    "content_hash": "029489055c7c55b0ba8466c775e8e7f4"
-  },
-  {
-    "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
-    "normalized": "india ends free ride for larger transactions on its ubiquitous digital payments network",
-    "content_hash": "e97129cb971222d4558e31126d5b90a1"
-  },
-  {
-    "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-    "normalized": "china-linked hackers exploit chrome-windows zero-day chain to deploy grimwedge",
-    "content_hash": "6d06f2f66000ed625552e94027aa219b"
-  },
-  {
-    "title": "This doorbell camera lets a human security guard watch your front door",
-    "normalized": "this doorbell camera lets a human security guard watch your front door",
-    "content_hash": "bd7a10d1399027693a858cb50408a790"
-  },
-  {
-    "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-    "normalized": "root-cause attribution is a search problem: continual search for long-horizon agent failures",
-    "content_hash": "127edb25229cf91b5da1b5a629524e18"
-  },
-  {
-    "title": "Salesforce Debuts Koa Reasoning Model for Agentforce, Trained on Nemotron",
-    "normalized": "salesforce debuts koa reasoning model for agentforce, trained on nemotron",
-    "content_hash": "4668b56a0a4748b3fdf992b2a8594dc0"
-  },
-  {
-    "title": "Nitter and XCancel are dead (again) after X\u2019s latest legal actions",
-    "normalized": "nitter and xcancel are dead (again) after x's latest legal actions",
-    "content_hash": "2524effc9e29894b1a275d7832a0796c"
-  },
-  {
-    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-    "normalized": "former tiktok execs built an app that uses ai to teach you how to pose for a photo",
-    "content_hash": "484c760beda2e8dfae54d1b3361ce51e"
-  },
-  {
-    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-    "normalized": "discover how to take your startup from prototype to production at techcrunch disrupt 2026",
-    "content_hash": "3f9aff90ad5f678ff0a1108a588f2b15"
-  },
-  {
-    "title": "Evvy raises $40M as it seeks to further women\u2019s health research with vaginal microbiome data",
-    "normalized": "evvy raises $40m as it seeks to further women's health research with vaginal microbiome data",
-    "content_hash": "6132b1987d7fe75bcf92ed4f573c4749"
-  },
-  {
-    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-    "normalized": "4 days left to exhibit at techcrunch disrupt 2026",
-    "content_hash": "70e422bdc1dafebcea52b70ce1ad61d0"
-  },
-  {
-    "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
-    "normalized": "why the postpandemic tech bust sent billionaires to trump",
-    "content_hash": "0ba8323b48ce5dfd8bd6f0cadcb2ddfb"
-  },
-  {
-    "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-    "normalized": "attack chains, not just attack surfaces: why testing individual techniques misses the point",
-    "content_hash": "3d9591c6295a3fbe3739a7f0ba10a250"
-  },
-  {
-    "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-    "normalized": "mass-scanning campaign exploits vite flaw to extract cloud credentials from exposed dev servers",
-    "content_hash": "4f845cdb729702aa1abae5417b642622"
-  },
-  {
-    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-    "normalized": "meta's new one subscriptions put a price on social media and ai",
-    "content_hash": "7d1fd698159475dc2ad4c6dfad588156"
-  },
-  {
-    "title": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
-    "normalized": "the premium airpods 5 are the best open-ear earbuds apple has made",
-    "content_hash": "a6f0e923727d9a49ed617a6cfe32a5c8"
-  },
-  {
-    "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
-    "normalized": "microsoft issues emergency windows 11 update to fix its record-breaking patch",
-    "content_hash": "f688a384a49ea1df652ff2d71f3ebd12"
-  },
-  {
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-    "normalized": "openai buys smartphone camera maker glass imaging for $300m",
-    "content_hash": "67e9ade729b287618c6d93f95f713a92"
-  },
-  {
-    "title": "Show HN: Talk to Claude \u2013 voice agent designs, plans, builds across all projects",
-    "normalized": "show hn: talk to claude - voice agent designs, plans, builds across all projects",
-    "content_hash": "82b79f95c729f7559c386239de63545c"
-  },
-  {
-    "title": "Building your first LLM API call in Python (step by step)",
-    "normalized": "building your first llm api call in python (step by step)",
-    "content_hash": "efefd1b8d404abde5130ed60d5f70d22"
-  },
-  {
-    "title": "Show HN: Let agent read files with secrets while redacting values for LLM contex",
-    "normalized": "show hn: let agent read files with secrets while redacting values for llm contex",
-    "content_hash": "c90b7289adc3f377af20cc28e57b4474"
-  },
-  {
     "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
     "normalized": "we don't need ai regulation -- leave safety to us, nvidia's jensen huang says",
     "content_hash": "a2c3db400cc5d7ce6c49b331355041e9"
@@ -2498,5 +2373,130 @@
     "title": "Muse will apparently let you download its entire filesystem",
     "normalized": "muse will apparently let you download its entire filesystem",
     "content_hash": "ac92645fcac73f14160fd4d95f93e725"
+  },
+  {
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "normalized": "one company is at the center of a wave of rogue ai attacks",
+    "content_hash": "59949e2bab8943ea3d43b9834a8a011b"
+  },
+  {
+    "title": "For months, OpenAI\u2019s agent swarms have been attacking online databases to find obscure facts",
+    "normalized": "for months, openai's agent swarms have been attacking online databases to find obscure facts",
+    "content_hash": "8bfa85318d300a8a50bad544f0d8dfe4"
+  },
+  {
+    "title": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office",
+    "normalized": "microsoft thinks its new copilot 'super app' will be as influential as office",
+    "content_hash": "7d0f0a7fe405ceba3fb1d85a3a44fd6b"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence\u2019s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+    "normalized": "techcrunch disrupt 2026: ricursive intelligence's anna goldie and azalia mirhoseini on when ai starts designing its own hardware",
+    "content_hash": "8fb5a47ce3179df69ba619aa123c5da7"
+  },
+  {
+    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+    "normalized": "lightspeed targets $250m for new india fund, focusing on early-stage ai",
+    "content_hash": "20d6537fe28b3e85662d62f263f13b7b"
+  },
+  {
+    "title": "Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test",
+    "normalized": "can apple home's ai camera features outsmart amazon's and google's? i put them to the test",
+    "content_hash": "e0bfd36f5236f99b870d45d3cdf4b2d7"
+  },
+  {
+    "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "normalized": "using llms to trace alchemical knowledge and decode 17th century letters",
+    "content_hash": "314921d529a657baf6b1b7e8d01db015"
+  },
+  {
+    "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
+    "normalized": "doubts grow over claims openai agent hacked australian medicare portal",
+    "content_hash": "251ea0fe7cdafb0cfc45b11a9225c458"
+  },
+  {
+    "title": "OpenAI $500 ProMax plan listed in API",
+    "normalized": "openai $500 promax plan listed in api",
+    "content_hash": "8d3f20011f01a4301dfc9438441a2289"
+  },
+  {
+    "title": "OpenAI prepares new $500/month Pro Max plan for ChatGPT",
+    "normalized": "openai prepares new $500/month pro max plan for chatgpt",
+    "content_hash": "419a8a2fb14f9ed4e157593dcf4c74ba"
+  },
+  {
+    "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise",
+    "normalized": "control the harness, control the cost: routing and governing ai coding agents in the enterprise",
+    "content_hash": "835007bb26d869b1cf6a47de29c71a9b"
+  },
+  {
+    "title": "Kiteworks urges customers to shut down their servers amid \u2018imminent\u2019 threat of cyberattack",
+    "normalized": "kiteworks urges customers to shut down their servers amid 'imminent' threat of cyberattack",
+    "content_hash": "ea4a18ce4481a1e6527d4cdb069750f7"
+  },
+  {
+    "title": "Anthropic\u2019s founders seek voting control ahead of IPO",
+    "normalized": "anthropic's founders seek voting control ahead of ipo",
+    "content_hash": "bda58f28e901bb5e864051e1bb5dced9"
+  },
+  {
+    "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "normalized": "affected by layoffs? don't miss this $75 deal for your techcrunch disrupt 2026 expo+ pass",
+    "content_hash": "d54bd829564b6d5b9f4b97ec70474581"
+  },
+  {
+    "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
+    "normalized": "meadow lets you leave your smartphone at home without sacrificing the essentials",
+    "content_hash": "6a9040e5cfb9deef488916e5adb5048b"
+  },
+  {
+    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+    "normalized": "last 24 hours to save up to $200 on techcrunch disrupt 2026. reason 5 of 5 to attend: momentum",
+    "content_hash": "c02b70f85ff9114b9fd9e8465e8aca76"
+  },
+  {
+    "title": "Sony and UMG are suing Suno again",
+    "normalized": "sony and umg are suing suno again",
+    "content_hash": "c430d908098d42d4d8fde86e176b7c3f"
+  },
+  {
+    "title": "Gaming\u2019s biggest horror series are more vital than ever",
+    "normalized": "gaming's biggest horror series are more vital than ever",
+    "content_hash": "9f3acc71cb162f25cc0b89b404249a59"
+  },
+  {
+    "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+    "normalized": "microsoft abandons personal ai chatbot race with copilot reboot",
+    "content_hash": "a91aa39e63bf2bae6789f72567588da4"
+  },
+  {
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "normalized": "u.s. appeals court upholds designation of anthropic as supply chain risk",
+    "content_hash": "6ca6e9912cef9d4c14e6cb39af9ac809"
+  },
+  {
+    "title": "OpenAI Hires Patreon Execs for Creators",
+    "normalized": "openai hires patreon execs for creators",
+    "content_hash": "9099e9f5984a009aec13acc45c15518e"
+  },
+  {
+    "title": "Ask HN: Anyone elses OpenAI and Claude API keys mysteriously leaked last night?",
+    "normalized": "ask hn: anyone elses openai and claude api keys mysteriously leaked last night?",
+    "content_hash": "e3bf61f24a3532875d90b1fe6437eed8"
+  },
+  {
+    "title": "Entropy-Based Guided Collaboration in Heterogeneous LLM Multi-Agent Systems",
+    "normalized": "entropy-based guided collaboration in heterogeneous llm multi-agent systems",
+    "content_hash": "ada0f1c5d0688962473044cf04c1a1f4"
+  },
+  {
+    "title": "Why Australia chose the biggest political stage to reveal OpenAI hack",
+    "normalized": "why australia chose the biggest political stage to reveal openai hack",
+    "content_hash": "604b16880d9a4fc02e85cde7cc094cd4"
+  },
+  {
+    "title": "Kilo for JetBrains is now a multi-agent control room",
+    "normalized": "kilo for jetbrains is now a multi-agent control room",
+    "content_hash": "56d8ff7a8ddf20cb82ad0f73f8122eb0"
   }
 ]
