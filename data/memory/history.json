@@ -1,130 +1,5 @@
 [
   {
-    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia\u2019s dominance",
-    "normalized": "ai infrastructure company cornelis raises $205m to chip away at nvidia's dominance",
-    "content_hash": "93b5a6cb822754e9ab741a5d01c6703c"
-  },
-  {
-    "title": "Is Big Tech\u2019s AI slowdown a safety pact or a cartel?",
-    "normalized": "is big tech's ai slowdown a safety pact or a cartel?",
-    "content_hash": "3a11033f5b386b6c0847337bc670bcca"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
-    "normalized": "nvidia ceo jensen huang tells trump 'we're not going to let [an ai slowdown] happen'",
-    "content_hash": "18bdf0989d23b04c9d45ab126c93a996"
-  },
-  {
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "normalized": "openai buys smartphone camera maker glass imaging for $300 million, report says",
-    "content_hash": "e3ee6efea0f6ce0c63bee84b2f139286"
-  },
-  {
-    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won\u2019t take over the world",
-    "normalized": "jensen huang puts trump on speakerphone onstage to announce robots won't take over the world",
-    "content_hash": "c294c861d883c54709fd26e849c30874"
-  },
-  {
-    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR \u2013 High accuracy, low latency and cost",
-    "normalized": "show hn: nari qwen3-tts and qwen3-asr - high accuracy, low latency and cost",
-    "content_hash": "fba77e73a3b9c8709fd67990d6876e72"
-  },
-  {
-    "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
-    "normalized": "israeli effective altruism firm behind openai, anthropic, and meta cyberattacks",
-    "content_hash": "6e8fb6e99ba832a75634903292e9cbc3"
-  },
-  {
-    "title": "AI Doomer Hypeloop Suspiciously Serves to Support OpenAI and Anthropic's Agenda",
-    "normalized": "ai doomer hypeloop suspiciously serves to support openai and anthropic's agenda",
-    "content_hash": "7f061c650db8031b92e66ca68205d66f"
-  },
-  {
-    "title": "Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)",
-    "normalized": "personal statement on ai risk (daniel selsam, openai capabilities)",
-    "content_hash": "14a9103fae802c27aaa99bbfda72d7cc"
-  },
-  {
-    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-    "normalized": "a single firm is behind openai, anthropic, and meta hacking scandals",
-    "content_hash": "d3646285619803164f6e3b0ee5b678d4"
-  },
-  {
-    "title": "Volkswagen\u2019s crazy-efficient EV borrows an idea from Slate",
-    "normalized": "volkswagen's crazy-efficient ev borrows an idea from slate",
-    "content_hash": "8b798f036368d8965b560c3d3dcec4f7"
-  },
-  {
-    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-    "normalized": "a vinyl bar in shibuya is a startup from a former spotify leader for making music apps",
-    "content_hash": "2e9cbc0f38c8d03015faedf96343bd92"
-  },
-  {
-    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-    "normalized": "openai stuck fighting musk antitrust suit after apple finds a way out",
-    "content_hash": "0ea204e43f9538f1d2ee8e9d72099f33"
-  },
-  {
-    "title": "Apple Home\u2019s new security camera features cost as much as $60 a month",
-    "normalized": "apple home's new security camera features cost as much as $60 a month",
-    "content_hash": "a216ce95e79c7dfa2c24cf79bc080c38"
-  },
-  {
-    "title": "What execs and politicians are saying about slowing down AI development",
-    "normalized": "what execs and politicians are saying about slowing down ai development",
-    "content_hash": "4b8ab3393ee3c618f7a25ed7e50a04de"
-  },
-  {
-    "title": "Trump throws out power plant climate pollution rules",
-    "normalized": "trump throws out power plant climate pollution rules",
-    "content_hash": "05534aece49ad48f4355d0bacfd30c9c"
-  },
-  {
-    "title": "macOS 27 is available now",
-    "normalized": "macos 27 is available now",
-    "content_hash": "517e68205227101d1e0bee6dba7b4a91"
-  },
-  {
-    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "normalized": "openai bots knew about the rubygems caching vulnerability",
-    "content_hash": "5c9b7360723b3bbdd26b5f74ed857bd7"
-  },
-  {
-    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-    "normalized": "gpt-5.6 luna vs. gpt-6 astra: is a $1.20 model good enough for code review?",
-    "content_hash": "35ff1f2dd051c3c5c5eb89e861752490"
-  },
-  {
-    "title": "OpenAI DevDay 2026",
-    "normalized": "openai devday 2026",
-    "content_hash": "176a905b712ac40e0f150d7a64d65fcb"
-  },
-  {
-    "title": "Duplex Cue: Does a voice agent adapt while speaking?",
-    "normalized": "duplex cue: does a voice agent adapt while speaking?",
-    "content_hash": "2f83865f47ddc9e37242f6da37139176"
-  },
-  {
-    "title": "AI Agent Wallet Offboarding Checklist",
-    "normalized": "ai agent wallet offboarding checklist",
-    "content_hash": "26c47d1bc1991dacc14ea0f8fca7c13d"
-  },
-  {
-    "title": "OpenAI's malicious bot swarm attacked RubyGems",
-    "normalized": "openai's malicious bot swarm attacked rubygems",
-    "content_hash": "9d635bcda9272d638837f4b977c77d60"
-  },
-  {
-    "title": "Show HN: Nowdex \u2013 AI agent usage on your iPhone",
-    "normalized": "show hn: nowdex - ai agent usage on your iphone",
-    "content_hash": "24f42f6ed945d50c619771b8ec03d38e"
-  },
-  {
-    "title": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
-    "normalized": "rooflang: enabling ai-driven architecting of llm inference systems",
-    "content_hash": "2a0e41ae03017235bc6b6fddd60f49d6"
-  },
-  {
     "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
     "normalized": "openai, anthropic, google have been in talks on ai safety for weeks",
     "content_hash": "e8fe7c18a2ea17667d56a7388aed605d"
@@ -2498,5 +2373,130 @@
     "title": "The vibes are bad for Flock in Washington",
     "normalized": "the vibes are bad for flock in washington",
     "content_hash": "fcfb2e6539cf43e22879806cf93deefb"
+  },
+  {
+    "title": "Jensen Huang talks about AI and climate change like a supervillain",
+    "normalized": "jensen huang talks about ai and climate change like a supervillain",
+    "content_hash": "120afadc9fadeafcc451199f09483ed3"
+  },
+  {
+    "title": "OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
+    "normalized": "openai and microsoft admits llms are destroying the web and built on theft",
+    "content_hash": "249c6382fff08faa519917296e18f100"
+  },
+  {
+    "title": "Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users",
+    "normalized": "reverse engineering chatgpt web: how openai built for a billion users",
+    "content_hash": "c27307ef394fb314845e83787c6bd744"
+  },
+  {
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "normalized": "prismml brings its tiny llms to qualcomm-powered smart glasses",
+    "content_hash": "c163bc77927452ff9e401f16eba0a4d7"
+  },
+  {
+    "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+    "normalized": "databricks buys row zero and is scouting for more startups to acquire",
+    "content_hash": "0c7f047616121dcd64f7f6ba5b03874d"
+  },
+  {
+    "title": "Google Photos \u2018Clueless\u2019-inspired virtual closet is now available on Android and iOS",
+    "normalized": "google photos 'clueless'-inspired virtual closet is now available on android and ios",
+    "content_hash": "287b739f2249191a6c7fd96ac55c1fe4"
+  },
+  {
+    "title": "Microsoft is killing off the \u2018Copilot Plus PC\u2019 brand",
+    "normalized": "microsoft is killing off the 'copilot plus pc' brand",
+    "content_hash": "10a11f808f49d40978485bbf9f91c341"
+  },
+  {
+    "title": "Microsoft puts Brad Smith in charge of communications",
+    "normalized": "microsoft puts brad smith in charge of communications",
+    "content_hash": "d1ffe7bdf89ff4111211dcb4f14f3892"
+  },
+  {
+    "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+    "normalized": "gemini 3.8 live with live avatar gives google's ai a face",
+    "content_hash": "212ed2358cc364fc6f30e07289f9d503"
+  },
+  {
+    "title": "SkillOpt: Training Loop for Agent Skills",
+    "normalized": "skillopt: training loop for agent skills",
+    "content_hash": "3ced0f2d2f42681d09c1e612123c5025"
+  },
+  {
+    "title": "OpenAI, Anthropic CEOs urge UN countries to cooperate on AI safety standards",
+    "normalized": "openai, anthropic ceos urge un countries to cooperate on ai safety standards",
+    "content_hash": "e95821a612f3b08483a86139d7799234"
+  },
+  {
+    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+    "normalized": "nexterity wants to automate the hard, dangerous part of pipefitting",
+    "content_hash": "f8134bc8e068d58d621f7a361af73d27"
+  },
+  {
+    "title": "Meet Feather, the startup building the \u2018Android of robotics\u2019 for developers",
+    "normalized": "meet feather, the startup building the 'android of robotics' for developers",
+    "content_hash": "cb84b8deb20f31886923638de86ef9ff"
+  },
+  {
+    "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
+    "normalized": "meta's muse charm looks like a tamagotchi, but it's tapping into a much newer trend",
+    "content_hash": "52b2154f8bd980504cf74234b1bbb8c3"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "normalized": "techcrunch founder summit 2026: everything you need to know",
+    "content_hash": "99511864032637dd32e16753a98f86ec"
+  },
+  {
+    "title": "ElevenLabs\u2019 CEO on margins, IPO timing, and telling customers they\u2019re talking to a bot",
+    "normalized": "elevenlabs' ceo on margins, ipo timing, and telling customers they're talking to a bot",
+    "content_hash": "0026a83c71f38cdefc2f135481ba01d5"
+  },
+  {
+    "title": "I Think I Found an AI Agent Worth the Risk",
+    "normalized": "i think i found an ai agent worth the risk",
+    "content_hash": "ca57d6fe81fabf4678b962acacbaf5c5"
+  },
+  {
+    "title": "OpenAI agent \u201cdidn\u2019t accept no for an answer\u201d in Australian government breach",
+    "normalized": "openai agent \"didn't accept no for an answer\" in australian government breach",
+    "content_hash": "d5692e3d9dba14840defa7db52b7d477"
+  },
+  {
+    "title": "Google is sending a teensy-tiny AI data center to space",
+    "normalized": "google is sending a teensy-tiny ai data center to space",
+    "content_hash": "e2838610aa9a97099b4b46f82e710e71"
+  },
+  {
+    "title": "Here\u2019s the Tesla Semi\u2026 again",
+    "normalized": "here's the tesla semi... again",
+    "content_hash": "eda396359fd38967c9d3a616df10256d"
+  },
+  {
+    "title": "Meta employees ordered \u2018attorney/client privilege\u2019 hats while fighting child safety disclosures",
+    "normalized": "meta employees ordered 'attorney/client privilege' hats while fighting child safety disclosures",
+    "content_hash": "46d95159a7a0b83b645d904bed3de948"
+  },
+  {
+    "title": "Qualcomm\u2019s new \u2018Elite\u2019 sound chip might finally deliver the Wi-Fi earbud dream",
+    "normalized": "qualcomm's new 'elite' sound chip might finally deliver the wi-fi earbud dream",
+    "content_hash": "aeeafdd78d5b500394d9435b1ab7b775"
+  },
+  {
+    "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+    "normalized": "sadly, this $1,549 rtx 5070-equipped gaming pc is a very good deal",
+    "content_hash": "4e05497460e0bdd9c5f093713589f15a"
+  },
+  {
+    "title": "Meta is going to let you build games with AI right on your phone",
+    "normalized": "meta is going to let you build games with ai right on your phone",
+    "content_hash": "d68c58df663ee30da2440be4f78a802e"
+  },
+  {
+    "title": "Muse will apparently let you download its entire filesystem",
+    "normalized": "muse will apparently let you download its entire filesystem",
+    "content_hash": "ac92645fcac73f14160fd4d95f93e725"
   }
 ]
