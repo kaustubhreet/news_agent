@@ -1,130 +1,5 @@
 [
   {
-    "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
-    "normalized": "we don't need ai regulation -- leave safety to us, nvidia's jensen huang says",
-    "content_hash": "a2c3db400cc5d7ce6c49b331355041e9"
-  },
-  {
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "normalized": "meta now lets ai agents handle the boring parts of whatsapp business setup",
-    "content_hash": "c8cc4e7b2cc501b545e5b3adc747be51"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-    "normalized": "the ai graveyard: a running list of projects and startups that didn't make it",
-    "content_hash": "d14790faa76bdeff3bfb22d5aa426274"
-  },
-  {
-    "title": "AI agents now have a place to snitch",
-    "normalized": "ai agents now have a place to snitch",
-    "content_hash": "ce5137184c82c40344e619200e0efda4"
-  },
-  {
-    "title": "Microsoft announces Windows and Surface event for October 7th",
-    "normalized": "microsoft announces windows and surface event for october 7th",
-    "content_hash": "9cd7e64366ff174ee98a10f231d13751"
-  },
-  {
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "normalized": "the ai data center boom is colliding with cities scarred by big industry",
-    "content_hash": "e8154136a8eb48af33b70844a047d4db"
-  },
-  {
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "normalized": "us data centers could consume more natural gas than germany and japan combined by 2035",
-    "content_hash": "56529dd34ea859b3419ba5765357a3fc"
-  },
-  {
-    "title": "Meta expands subscription push with new AI-focused plans",
-    "normalized": "meta expands subscription push with new ai-focused plans",
-    "content_hash": "54c41296bb71e9c707103df2984a21df"
-  },
-  {
-    "title": "Microsoft will hold a Windows and Surface event on October 7",
-    "normalized": "microsoft will hold a windows and surface event on october 7",
-    "content_hash": "c38c86950af20d0b7a7088ca19166131"
-  },
-  {
-    "title": "AI and data centers are incredibly unpopular in every poll",
-    "normalized": "ai and data centers are incredibly unpopular in every poll",
-    "content_hash": "581db53d7c8201e5d1c00778ce0e3e27"
-  },
-  {
-    "title": "What if social media isn\u2019t hurting kids?",
-    "normalized": "what if social media isn't hurting kids?",
-    "content_hash": "8e48476e2bce6bf52f77fefc11ec3872"
-  },
-  {
-    "title": "How The Oregon Trail became a generational icon",
-    "normalized": "how the oregon trail became a generational icon",
-    "content_hash": "156ef6465b7c538a32098f15af4047e5"
-  },
-  {
-    "title": "Show HN: Pizza Bot \u2013 An inbox for AI agents that work in the background",
-    "normalized": "show hn: pizza bot - an inbox for ai agents that work in the background",
-    "content_hash": "14915c58e2f4ed0ce65ea7446d6136c3"
-  },
-  {
-    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-    "normalized": "why i'm still bearish on llms after navier-stokes",
-    "content_hash": "0225f62ac51b9a972a8a10e1500d058a"
-  },
-  {
-    "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
-    "normalized": "vibe patenting: evaluating llm judges for professional patent-drafting agents",
-    "content_hash": "df5e4643a1a8c800fa494b5ebfbd5bc7"
-  },
-  {
-    "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
-    "normalized": "toward self-adaptive physical ai: can llm agents manage long-horizon physical tasks?",
-    "content_hash": "cf180fcda8f04c2e8ce8982ce765bd34"
-  },
-  {
-    "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
-    "normalized": "orchslm: probing the dynamics of small language model orchestration",
-    "content_hash": "12390567487c420c86841e1179415196"
-  },
-  {
-    "title": "Grounded Adjudication of Variations across Extracted TimeLines (GAVEL): Comparing Clinical Timelines Against Their Case Reports",
-    "normalized": "grounded adjudication of variations across extracted timelines (gavel): comparing clinical timelines against their case reports",
-    "content_hash": "00007ef8fd14fb8a06bc76c88e7e45d5"
-  },
-  {
-    "title": "Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents",
-    "normalized": "asclepius: an adaptive harness for long-horizon clinical agents",
-    "content_hash": "d7e91b3e3ab0f65c6142478e33e169a4"
-  },
-  {
-    "title": "Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems",
-    "normalized": "carbon-aware routing for function calling in edge-cloud llm systems",
-    "content_hash": "8c90b9fd785219fd23d15bc1dd579b8d"
-  },
-  {
-    "title": "A Hybrid Agentic AI Framework for Intelligent Supply Chain Analytics",
-    "normalized": "a hybrid agentic ai framework for intelligent supply chain analytics",
-    "content_hash": "5831ec5a2acedee1e29f4e77f185724c"
-  },
-  {
-    "title": "Identity Is More Than Recall: A Benchmark for Persistent Identity in Deployed AI Agents",
-    "normalized": "identity is more than recall: a benchmark for persistent identity in deployed ai agents",
-    "content_hash": "5c0bb69f227698f6253989e8f614d0a0"
-  },
-  {
-    "title": "BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents",
-    "normalized": "budgetbench: a budget-tiered protocol and pilot harness for memory strategy evaluation in local large language model agents",
-    "content_hash": "d3f0a3d09de32b46e48706056aa154bd"
-  },
-  {
-    "title": "Evaluating LLM-Generated Rules for Heart Disease Prediction",
-    "normalized": "evaluating llm-generated rules for heart disease prediction",
-    "content_hash": "5a68ba70b66cceaac1eeae1a152c8d4f"
-  },
-  {
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "normalized": "the ai industry has taken a doomer turn. what now?",
-    "content_hash": "80e40691b6bd45ffefea788e0919e882"
-  },
-  {
     "title": "A brief history of AI executives calling for regulation",
     "normalized": "a brief history of ai executives calling for regulation",
     "content_hash": "8d101b99e1de122cc2ff3fdfd84496c3"
@@ -2498,5 +2373,130 @@
     "title": "Kilo for JetBrains is now a multi-agent control room",
     "normalized": "kilo for jetbrains is now a multi-agent control room",
     "content_hash": "56d8ff7a8ddf20cb82ad0f73f8122eb0"
+  },
+  {
+    "title": "Meta\u2019s AI Tamagotchi bet is\u2026working?",
+    "normalized": "meta's ai tamagotchi bet is...working?",
+    "content_hash": "a2ba9b6583655366f2a9248ade14665c"
+  },
+  {
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "normalized": "ahead of us ipo, british ai neocloud nscale secures $3.36b in convertible financing",
+    "content_hash": "46b156232e2fd1104873f3e4ea7deb88"
+  },
+  {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
+    "normalized": "unsecured openai agents posted 53 user images on the internet without the lab's knowledge",
+    "content_hash": "5419d76f5219b3c3bfe7bd1db2436a63"
+  },
+  {
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "normalized": "anthropic to pay akamai $11.6 billion over seven years in cloud deal",
+    "content_hash": "e18e723990e7111bbb5fc28a64e6e9d5"
+  },
+  {
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "normalized": "meta is putting its muscle behind muse as the ai app takes off",
+    "content_hash": "6d988fd0cda45c21048485370fa90ed4"
+  },
+  {
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "normalized": "revealing the details of how openai agents hacked hugging face",
+    "content_hash": "efdef4ae24d827db7063379d121d58b4"
+  },
+  {
+    "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+    "normalized": "openai investigating 'dozens' of instances of agents acting improperly",
+    "content_hash": "532537db71f54e49ee5f5b851ffadfb4"
+  },
+  {
+    "title": "How OpenAI's Rogue A.I. Agents Tried to Trick a Robot Detector",
+    "normalized": "how openai's rogue a.i. agents tried to trick a robot detector",
+    "content_hash": "f25834e869b1934a51c294cf71d47113"
+  },
+  {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet",
+    "normalized": "unsecured openai agents posted 53 user images on the internet",
+    "content_hash": "1cb9bd39b2630977fd9b35ddb2c597f5"
+  },
+  {
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "normalized": "crusoe abandons $1.25b plan to use boom turbines at ai data centers",
+    "content_hash": "0436c4959e9f54e7b0d13a6c30aad8c5"
+  },
+  {
+    "title": "Automattic has a new board after failed attempt to put CEO on leave",
+    "normalized": "automattic has a new board after failed attempt to put ceo on leave",
+    "content_hash": "0e7efa08218055bcb7031f9ee70e9990"
+  },
+  {
+    "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
+    "normalized": "some supabase customers are publicly exposing reams of people's data to the web",
+    "content_hash": "1fb098513256124cde8af1b0415aee85"
+  },
+  {
+    "title": "Astra and Opus just passed Turing\u2019s other test",
+    "normalized": "astra and opus just passed turing's other test",
+    "content_hash": "660967bedc7fd90415fd188fe4095777"
+  },
+  {
+    "title": "Thieves Stole \u2018Nvidia\u2019 Trailers. They Got 20 Tons of Sand",
+    "normalized": "thieves stole 'nvidia' trailers. they got 20 tons of sand",
+    "content_hash": "9379cabf283e73678011673e4a0b4cb6"
+  },
+  {
+    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "normalized": "appeals court lets the pentagon designate anthropic a supply-chain risk",
+    "content_hash": "5b42f0d10843c08a6bf9e9e658633401"
+  },
+  {
+    "title": "These camera apps give you more control over the iPhone 18 Pro\u2019s aperture",
+    "normalized": "these camera apps give you more control over the iphone 18 pro's aperture",
+    "content_hash": "8b717e575bcc5c6e0cba5789fa22619e"
+  },
+  {
+    "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+    "normalized": "tesla's optimus robot is going through growing pains",
+    "content_hash": "b3c7441cebdcb2f96b67df70bad40465"
+  },
+  {
+    "title": "Meta makes the Muse filesystem even more accessible",
+    "normalized": "meta makes the muse filesystem even more accessible",
+    "content_hash": "4ebbef0027cb3633dce548aaf3e6f6e9"
+  },
+  {
+    "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+    "normalized": "leaks reveal a new apple homepod mini, ipad mini, and apple tv 4k",
+    "content_hash": "c225883e2ed6c55272ca665cc186bab7"
+  },
+  {
+    "title": "Show HN: KISS \u2013 A highly performant agent harness inspired off Pi built in Rust",
+    "normalized": "show hn: kiss - a highly performant agent harness inspired off pi built in rust",
+    "content_hash": "2b965f9f455c830c3675db9e778170eb"
+  },
+  {
+    "title": "OpenAI\u2019s Systems Went Rogue and Meddled With U.S. Government Websites",
+    "normalized": "openai's systems went rogue and meddled with u.s. government websites",
+    "content_hash": "f8cefd56fb938dd891e1f6d4bb0251b8"
+  },
+  {
+    "title": "OpenAI Codex 401 Outage",
+    "normalized": "openai codex 401 outage",
+    "content_hash": "6cc7cd9ed621764f12e1f69f2a80b8d8"
+  },
+  {
+    "title": "OpenAI's A.I. Tried Breaching 4 Other Targets, Without Prompting",
+    "normalized": "openai's a.i. tried breaching 4 other targets, without prompting",
+    "content_hash": "6a22f6d3e9f5b8cfed29b818f5685e30"
+  },
+  {
+    "title": "Anthropic's AI biolab finds 'CRISPR-like' DNA in viruses. What's next?",
+    "normalized": "anthropic's ai biolab finds 'crispr-like' dna in viruses. what's next?",
+    "content_hash": "c41aff9c9984c3da77eded4f9295cedb"
+  },
+  {
+    "title": "Skill-Guided Mining and Compilation of LLM Agent Traces",
+    "normalized": "skill-guided mining and compilation of llm agent traces",
+    "content_hash": "4e1c98aa5154be923cdc49e41f8d9a22"
   }
 ]
