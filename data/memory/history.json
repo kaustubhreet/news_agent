@@ -1,130 +1,5 @@
 [
   {
-    "title": "A brief history of AI executives calling for regulation",
-    "normalized": "a brief history of ai executives calling for regulation",
-    "content_hash": "8d101b99e1de122cc2ff3fdfd84496c3"
-  },
-  {
-    "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch\u00a0Disrupt 2026",
-    "normalized": "robots are waiting for a chatgpt moment: nvidia's les karpas explains why at techcrunch disrupt 2026",
-    "content_hash": "1cef8f401db55865066eb38c574e3c7c"
-  },
-  {
-    "title": "CoreWeave Connects Hundreds of Rubin GPUs in One Multi-Rack Cluster",
-    "normalized": "coreweave connects hundreds of rubin gpus in one multi-rack cluster",
-    "content_hash": "1d0e66510d381a24eadf1483928f9629"
-  },
-  {
-    "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
-    "normalized": "google says some pixel phone owners were hacked in zero-day attacks",
-    "content_hash": "0a702edcf8991b540935d07c565f22ff"
-  },
-  {
-    "title": "Former Infosys chief\u2019s AI startup nabs another $53M",
-    "normalized": "former infosys chief's ai startup nabs another $53m",
-    "content_hash": "fb0c02c2abaf8e9dd082f82e074172d7"
-  },
-  {
-    "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-    "normalized": "microsoft says ai rival anthropic could have 'disastrous impact' on humanity",
-    "content_hash": "79818035d4d9491deb4afb7d04227587"
-  },
-  {
-    "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
-    "normalized": "calibrate, then route: a measured study of learned request routing for disaggregated llm serving",
-    "content_hash": "ab7b6513a692bf40b5403e2663c958b0"
-  },
-  {
-    "title": "OpenAI Tests Sponsored Agents and Rolls Out AI Tools for ChatGPT Ads",
-    "normalized": "openai tests sponsored agents and rolls out ai tools for chatgpt ads",
-    "content_hash": "ed97fb2f901303cbc2d3149bf18ba48e"
-  },
-  {
-    "title": "NVIDIA, Google and Emerald AI Form AI Energy Management Alliance",
-    "normalized": "nvidia, google and emerald ai form ai energy management alliance",
-    "content_hash": "68561f1cbe566efbc003eb2e848685be"
-  },
-  {
-    "title": "May Mobility is going public in a $1.4B SPAC deal",
-    "normalized": "may mobility is going public in a $1.4b spac deal",
-    "content_hash": "011a7f1c93a0d964570e60d5999d2f59"
-  },
-  {
-    "title": "Amazon gives its workers a raise of $1 per hour",
-    "normalized": "amazon gives its workers a raise of $1 per hour",
-    "content_hash": "e3a24f4df94d25f99f5da8481d215dbe"
-  },
-  {
-    "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-    "normalized": "next wave of vcs judging startup battlefield 200 contenders at techcrunch disrupt 2026 revealed",
-    "content_hash": "d768d27d0d396ae1eee106735758594d"
-  },
-  {
-    "title": "3 days left to exhibit: Get your brand in front of VCs and\u00a0high-value\u00a0leads at TechCrunch Disrupt 2026",
-    "normalized": "3 days left to exhibit: get your brand in front of vcs and high-value leads at techcrunch disrupt 2026",
-    "content_hash": "1801f2c3f9f451d0d9e038b29eac15ef"
-  },
-  {
-    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-    "normalized": "sk hynix reportedly in talks with intel to build memory chips in us",
-    "content_hash": "98c8b3b60dd962ed426b42692248347e"
-  },
-  {
-    "title": "Clean tech startup Fluxnium found a way to tap 50,000 years\u2019 worth of nuclear fuel",
-    "normalized": "clean tech startup fluxnium found a way to tap 50,000 years' worth of nuclear fuel",
-    "content_hash": "55adf72aced6374f57d65a312a7dfa7d"
-  },
-  {
-    "title": "Amazon launches Alexa+ in India with Hindi support",
-    "normalized": "amazon launches alexa+ in india with hindi support",
-    "content_hash": "264f089a47f41cda0d189065410ad27e"
-  },
-  {
-    "title": "Weave Router 2.0",
-    "normalized": "weave router 2.0",
-    "content_hash": "2a158e122c1408f58c56f92b536bf54a"
-  },
-  {
-    "title": "The sexy AI-powered dating app scams are here",
-    "normalized": "the sexy ai-powered dating app scams are here",
-    "content_hash": "81d46452adbd961d1fc86da80e469093"
-  },
-  {
-    "title": "Xreal\u2019s well-rounded 1S glasses are back down to their lowest price",
-    "normalized": "xreal's well-rounded 1s glasses are back down to their lowest price",
-    "content_hash": "2c79091543bdfb75863002b0f3202727"
-  },
-  {
-    "title": "The iPhone 18 Pro\u2019s big camera update is all about the small gains",
-    "normalized": "the iphone 18 pro's big camera update is all about the small gains",
-    "content_hash": "065f40e529d51da02302e9ed9f1685bf"
-  },
-  {
-    "title": "Meta is reportedly ready to launch less pervy smart glasses",
-    "normalized": "meta is reportedly ready to launch less pervy smart glasses",
-    "content_hash": "0c40b48deb2a9e9b07fba21125339b02"
-  },
-  {
-    "title": "Show HN: Free WhatsApp MCP (+UI) \u2013 Give Your AI Agents Access to WhatsApp",
-    "normalized": "show hn: free whatsapp mcp (+ui) - give your ai agents access to whatsapp",
-    "content_hash": "1d116575c29288b828ec6975eb198e8c"
-  },
-  {
-    "title": "Helping older adults use AI in everyday life",
-    "normalized": "helping older adults use ai in everyday life",
-    "content_hash": "75508082560254bff31fe1e1fd39db66"
-  },
-  {
-    "title": "Reimagining advertising with AI",
-    "normalized": "reimagining advertising with ai",
-    "content_hash": "11c1cfe4a96d474f2bdbcc4c674f11f1"
-  },
-  {
-    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-    "normalized": "empowering india's next generation of innovators with atl saathi",
-    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
-  },
-  {
     "title": "Your AI agents can now control your Google Home devices",
     "normalized": "your ai agents can now control your google home devices",
     "content_hash": "b44e724ec6ea249a0d8fcfcd2bc65648"
@@ -2498,5 +2373,130 @@
     "title": "Skill-Guided Mining and Compilation of LLM Agent Traces",
     "normalized": "skill-guided mining and compilation of llm agent traces",
     "content_hash": "4e1c98aa5154be923cdc49e41f8d9a22"
+  },
+  {
+    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+    "normalized": "zero trust for ai agents starts with fixing zero visibility",
+    "content_hash": "29711db4032bac20fa4c898d138537b4"
+  },
+  {
+    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+    "normalized": "understanding the impact of llm watermarking on ai agent behavior",
+    "content_hash": "0772bbf31f804677a15940fb442b277c"
+  },
+  {
+    "title": "The Notice Had Nowhere to Land: The OpenAI Agent Breach in Australia",
+    "normalized": "the notice had nowhere to land: the openai agent breach in australia",
+    "content_hash": "fbbe0d6eb8bffc301c7ec7293f5b5aae"
+  },
+  {
+    "title": "Oxford University lets OpenAI train its AI models on Bodleian Library",
+    "normalized": "oxford university lets openai train its ai models on bodleian library",
+    "content_hash": "bb02698c91f4dd2645a6615502e7ecc4"
+  },
+  {
+    "title": "OpenAI Accuses Plaintiffs' Lawyers of Funding and Laundering Copyright Evidence",
+    "normalized": "openai accuses plaintiffs' lawyers of funding and laundering copyright evidence",
+    "content_hash": "11ce1917e98842db1d30eb1f6ec07fd0"
+  },
+  {
+    "title": "OpenAI says its AI agents posted user images online in error",
+    "normalized": "openai says its ai agents posted user images online in error",
+    "content_hash": "2087a889e01542fa46647f7a4cb6d78c"
+  },
+  {
+    "title": "LLM Red-temaing vs. Agent Red teaming",
+    "normalized": "llm red-temaing vs. agent red teaming",
+    "content_hash": "3f4d350d2bd1b592a3e459dacda83900"
+  },
+  {
+    "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
+    "normalized": "linux kernel developers consider adding agents.md to help guide ai/llm agents",
+    "content_hash": "483d8b860b13a7689477c39c656b3bf6"
+  },
+  {
+    "title": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
+    "normalized": "i created an interactive digital avatar of myself -- and you can talk to it",
+    "content_hash": "0a9cf4811cc9e9afddde76beaae793e3"
+  },
+  {
+    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+    "normalized": "attackers bypass wafs to exploit oracle peoplesoft flaw and deploy web shells",
+    "content_hash": "cc5ef1673d2059e311f149f585ce7790"
+  },
+  {
+    "title": "OpenAI's agents targeted and infiltrated US government websites",
+    "normalized": "openai's agents targeted and infiltrated us government websites",
+    "content_hash": "9f7b43405a628fb0d5be1ba50fe06709"
+  },
+  {
+    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "normalized": "can cloudflare ceo matthew prince save the web from ai?",
+    "content_hash": "98da68fadf9e6adb54691e4a14d0280d"
+  },
+  {
+    "title": "Control Resonant is a great game \u2014 it\u2019s even better when you read everything",
+    "normalized": "control resonant is a great game -- it's even better when you read everything",
+    "content_hash": "8f2a315b1dd22c80bfe67dc99601594c"
+  },
+  {
+    "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
+    "normalized": "can 'esuv' e-bikes really go from trail to town?",
+    "content_hash": "67abcddf998195302ae7d748e08da075"
+  },
+  {
+    "title": "The Copilot+ PC brand is dead",
+    "normalized": "the copilot+ pc brand is dead",
+    "content_hash": "46d8766b129572865d1bb84b7f49dc1e"
+  },
+  {
+    "title": "Show HN: Ogre MCP \u2013 Let your AI agent see your WoW Classic game state",
+    "normalized": "show hn: ogre mcp - let your ai agent see your wow classic game state",
+    "content_hash": "4f067abb6ab9a2061320b395d0131c07"
+  },
+  {
+    "title": "OpenAI bots meddled with multiple US Government agency sites",
+    "normalized": "openai bots meddled with multiple us government agency sites",
+    "content_hash": "ddb3b7efae93b9e0a639e2582e450955"
+  },
+  {
+    "title": "OpenAI says its models engaged with US Government websites in new disclosure",
+    "normalized": "openai says its models engaged with us government websites in new disclosure",
+    "content_hash": "d88816897245b3537c6db4af096b4b56"
+  },
+  {
+    "title": "OpenAI: Astra Model Is Nerfed",
+    "normalized": "openai: astra model is nerfed",
+    "content_hash": "b61af109fd5e51cebdb6968f4fb14c47"
+  },
+  {
+    "title": "Show HN: Causal analyst agent skill for Claude",
+    "normalized": "show hn: causal analyst agent skill for claude",
+    "content_hash": "45ff2530a559b251e2ae33c0945ec9c4"
+  },
+  {
+    "title": "The OpenAI \"Hack\" of Australia's Medicare That Wasn't",
+    "normalized": "the openai \"hack\" of australia's medicare that wasn't",
+    "content_hash": "3a3b0414faaa0c301414cbbf2dcf9714"
+  },
+  {
+    "title": "From portal-hopping to instant answers: HEMA\u2019s journey with MCP and Amazon Bedrock",
+    "normalized": "from portal-hopping to instant answers: hema's journey with mcp and amazon bedrock",
+    "content_hash": "5b00f2ac3a6f2fcf8bb85e546dbc0ead"
+  },
+  {
+    "title": "Claude Opus 5.5 is now available on AWS",
+    "normalized": "claude opus 5.5 is now available on aws",
+    "content_hash": "ddc736ce23c997a9bf561f6da8d87564"
+  },
+  {
+    "title": "Don\u2019t be fooled by this summer of AI hype",
+    "normalized": "don't be fooled by this summer of ai hype",
+    "content_hash": "327e5901615526bced4713ca4a5bb9f8"
+  },
+  {
+    "title": "GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level",
+    "normalized": "gpt-6 astra just hit openai's highest cybersecurity risk level",
+    "content_hash": "ae107729cad16b5f630cd9b676c5e9e5"
   }
 ]
