@@ -1,130 +1,5 @@
 [
   {
-    "title": "Your AI agents can now control your Google Home devices",
-    "normalized": "your ai agents can now control your google home devices",
-    "content_hash": "b44e724ec6ea249a0d8fcfcd2bc65648"
-  },
-  {
-    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "normalized": "anthropic and openai want to embed safety evaluators. will they really be independent?",
-    "content_hash": "e91a8b1b7d732cd2b303a58ac9ce1b47"
-  },
-  {
-    "title": "Apple might make servers again to cash in on the AI rush",
-    "normalized": "apple might make servers again to cash in on the ai rush",
-    "content_hash": "378631fd4fc503c01681bc8fefd0202f"
-  },
-  {
-    "title": "Google will now let any AI agent run your smart home",
-    "normalized": "google will now let any ai agent run your smart home",
-    "content_hash": "5b1daf7189e7bc24f1cb20b8fe8777c5"
-  },
-  {
-    "title": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
-    "normalized": "ai labs want in-house auditors -- but maybe they should shut the front door first",
-    "content_hash": "433241c35e9c0b6361126ae358bd499b"
-  },
-  {
-    "title": "How\u00a0Fortell\u00a0is using AI (and $163M) to crack a hearing aid monopoly",
-    "normalized": "how fortell is using ai (and $163m) to crack a hearing aid monopoly",
-    "content_hash": "ea72d8c4d5b1dc20eb91e54e592743e1"
-  },
-  {
-    "title": "Claude comes for Gemini with its own take on Docs and Slides",
-    "normalized": "claude comes for gemini with its own take on docs and slides",
-    "content_hash": "5758ba75fea94d5196ded0f060140736"
-  },
-  {
-    "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
-    "normalized": "michael burry slams openai, anthropic for 'self-serving' calls to slow ai",
-    "content_hash": "4ebe50bdce9120ffbe1c8bf97089644a"
-  },
-  {
-    "title": "OpenAI's rogue agents probed Hugging Face weaknesses months before major hack",
-    "normalized": "openai's rogue agents probed hugging face weaknesses months before major hack",
-    "content_hash": "7bcb695aa89cf74b4328b25885cafa62"
-  },
-  {
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "normalized": "snap tries to make the case again for its $2,200 smart glasses",
-    "content_hash": "a627a4d3347b4749148bea3b4d4b70f2"
-  },
-  {
-    "title": "Al Gore says the real AI risk isn\u2019t data centers \u2014 it\u2019s what industry leaders are warning about",
-    "normalized": "al gore says the real ai risk isn't data centers -- it's what industry leaders are warning about",
-    "content_hash": "d3bcc1aa9110d6fab9c6628769b2f524"
-  },
-  {
-    "title": "Noise wants to help everyday people  become paid content creators",
-    "normalized": "noise wants to help everyday people become paid content creators",
-    "content_hash": "e7ea70ad9dcd3af6e08c180493244f51"
-  },
-  {
-    "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera",
-    "normalized": "after accusations of selling 'perv glasses,' meta prepares to sell a pair without a camera",
-    "content_hash": "56270c1f9b203db622507e95162d49a4"
-  },
-  {
-    "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-    "normalized": "former waymo cfo jumps to self-driving startup wayve",
-    "content_hash": "9eca07c6a17031456ff1d658257cf574"
-  },
-  {
-    "title": "Anthropic merges Claude chat and Cowork in one interface",
-    "normalized": "anthropic merges claude chat and cowork in one interface",
-    "content_hash": "fa08c306d059198be3e5b5292801133d"
-  },
-  {
-    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
-    "normalized": "openai creates a new framework to disclose bad ai behavior",
-    "content_hash": "ce033e5165e56494bc40bd5e4a1aa559"
-  },
-  {
-    "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
-    "normalized": "chipotle is working with palantir to track food safety risks",
-    "content_hash": "25553b455dd6124b68eb552de7eb78dd"
-  },
-  {
-    "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-    "normalized": "one extension could hijack ai assistants across chrome, comet, edge, opera neon and claude",
-    "content_hash": "3eab89aad39951112f12b58aa8ae253c"
-  },
-  {
-    "title": "Snap is launching a new Specs AI tool, and it\u2019s coming to iOS and Mac",
-    "normalized": "snap is launching a new specs ai tool, and it's coming to ios and mac",
-    "content_hash": "29e4b50ce9f405405ade19186d1f56d8"
-  },
-  {
-    "title": "I wore Snap\u2019s $2,200 smart glasses",
-    "normalized": "i wore snap's $2,200 smart glasses",
-    "content_hash": "e7e8ff5117191a8321e5717c52ca1cce"
-  },
-  {
-    "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-    "normalized": "the 2.5-hour ai-generated odyssey movie is 2.5 hours too long",
-    "content_hash": "0db949b31f4975f032011a6a5632dfd9"
-  },
-  {
-    "title": "The AI data center e-waste problem is huge \u2014 and getting bigger",
-    "normalized": "the ai data center e-waste problem is huge -- and getting bigger",
-    "content_hash": "79acbac9707ef3a8b409a1de3b14a839"
-  },
-  {
-    "title": "Resident Evil is a comedy first and a thrilling nightmare second",
-    "normalized": "resident evil is a comedy first and a thrilling nightmare second",
-    "content_hash": "66c7323992b9ef6cdf14e6520da0a532"
-  },
-  {
-    "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
-    "normalized": "walmart takes a bite off the cost of metroid ravenous physical preorders",
-    "content_hash": "d17134376d900349a87a479505ecb69a"
-  },
-  {
-    "title": "Nvidia announces native GPU programming in Rust",
-    "normalized": "nvidia announces native gpu programming in rust",
-    "content_hash": "843aa8eef86298855da40be5c71a96b7"
-  },
-  {
     "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
     "normalized": "google, nvidia, and anthropic want emerald ai to find space on the grid for more data centers",
     "content_hash": "6fe1ff9d47a17dbbfb60f7a406ebf3e9"
@@ -2498,5 +2373,130 @@
     "title": "GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level",
     "normalized": "gpt-6 astra just hit openai's highest cybersecurity risk level",
     "content_hash": "ae107729cad16b5f630cd9b676c5e9e5"
+  },
+  {
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "normalized": "google tests buying from walmart-owned flipkart through gemini and ai mode in india",
+    "content_hash": "0c8805d333231fc22b27136bdd0c75d3"
+  },
+  {
+    "title": "PNOE\u2019s new face mask wants to make lab-grade breath testing a self-serve affair",
+    "normalized": "pnoe's new face mask wants to make lab-grade breath testing a self-serve affair",
+    "content_hash": "e5286523264aff9300dc2edcac016d27"
+  },
+  {
+    "title": "OpenAI pauses training of its \u2018most capable models\u2019",
+    "normalized": "openai pauses training of its 'most capable models'",
+    "content_hash": "426675396351af20f8623b424d4145a6"
+  },
+  {
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "normalized": "insurers claim ai is already increasing healthcare costs",
+    "content_hash": "17525535f767d094431b5e2100ef9e10"
+  },
+  {
+    "title": "Levoit\u2019s new air purifier is for the pet odors that have taken over your apartment",
+    "normalized": "levoit's new air purifier is for the pet odors that have taken over your apartment",
+    "content_hash": "2eea3542bf7db7885cf55b5ffb073cbb"
+  },
+  {
+    "title": "Helping older adults use AI in everyday life",
+    "normalized": "helping older adults use ai in everyday life",
+    "content_hash": "75508082560254bff31fe1e1fd39db66"
+  },
+  {
+    "title": "Reimagining advertising with AI",
+    "normalized": "reimagining advertising with ai",
+    "content_hash": "11c1cfe4a96d474f2bdbcc4c674f11f1"
+  },
+  {
+    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+    "normalized": "empowering india's next generation of innovators with atl saathi",
+    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
+  },
+  {
+    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+    "normalized": "tiktok agrees to pay at least $100m in alabama settlement",
+    "content_hash": "297333e0fe7fd13cf62bff976529b93d"
+  },
+  {
+    "title": "Meta and YouTube say they will run ads for \u2018Musk\u2019 documentary after all",
+    "normalized": "meta and youtube say they will run ads for 'musk' documentary after all",
+    "content_hash": "1ca7d740e93cf2f112f5b8c0bb3dbf10"
+  },
+  {
+    "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
+    "normalized": "at meta connect, the company's smart glasses were everywhere",
+    "content_hash": "73d43be7195056f7bdc657031bcf1b18"
+  },
+  {
+    "title": "Meta opens early access program for new Muse features",
+    "normalized": "meta opens early access program for new muse features",
+    "content_hash": "7db75bb058c863318f0cc96cd9124e43"
+  },
+  {
+    "title": "The hottest new hangout for middle schoolers is NPR\u2019s comment section?",
+    "normalized": "the hottest new hangout for middle schoolers is npr's comment section?",
+    "content_hash": "3942ad52b0bed76550946a110a890916"
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "normalized": "mark wahlberg is coming to techcrunch disrupt 2026, and he wants to talk about your work, not his",
+    "content_hash": "37e1bee543aa72552ec449ab61c79b2e"
+  },
+  {
+    "title": "The Aeropod automates soil aeration without robotics \u2014 see it at TechCrunch Disrupt",
+    "normalized": "the aeropod automates soil aeration without robotics -- see it at techcrunch disrupt",
+    "content_hash": "c20829fb86d9b71bd763b132048e78b0"
+  },
+  {
+    "title": "Old-School Credit Card Scams Are Far From Dead",
+    "normalized": "old-school credit card scams are far from dead",
+    "content_hash": "55c043efe795c9de0253baffe6dd748b"
+  },
+  {
+    "title": "Meta\u2019s Muse Is Adults-Only. Why Does It Look Like a Kids\u2019 Toy?",
+    "normalized": "meta's muse is adults-only. why does it look like a kids' toy?",
+    "content_hash": "fbbf5f6dbd563df59a349ac8799edd62"
+  },
+  {
+    "title": "This Browser Extension Lets You Snooze Open Tabs Until Later",
+    "normalized": "this browser extension lets you snooze open tabs until later",
+    "content_hash": "386e2b45b912cd362d4b968f31aec633"
+  },
+  {
+    "title": "Quince Luggage Is Affordable but Doesn\u2019t Feel Cheap (2026)",
+    "normalized": "quince luggage is affordable but doesn't feel cheap (2026)",
+    "content_hash": "a799802345e4a29c31421f1a6bc932fa"
+  },
+  {
+    "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
+    "normalized": "the trump administration is trying to get musk and x out of a $137 million eu fine",
+    "content_hash": "2085fac03cf4d705ac139a13eb8e6809"
+  },
+  {
+    "title": "Party Invite Phishing Scams Are the New Missed Connections",
+    "normalized": "party invite phishing scams are the new missed connections",
+    "content_hash": "aaeeab9b6a4abff8eb1a7bf714879fd9"
+  },
+  {
+    "title": "\u2018Primetime\u2019 Exposes the Ego-Driven Core of Vigilante Pedophile Hunting",
+    "normalized": "'primetime' exposes the ego-driven core of vigilante pedophile hunting",
+    "content_hash": "adb639eab4e36a70bdfa3d7a09f2895d"
+  },
+  {
+    "title": "Nearly a Decade Later, the Electric Tesla Semi Is Here",
+    "normalized": "nearly a decade later, the electric tesla semi is here",
+    "content_hash": "9fbbad2f3145d3a7c8edcd45f3eb7e37"
+  },
+  {
+    "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+    "normalized": "lunex stealer abuses amd driver to disable security monitoring and steal browser credentials",
+    "content_hash": "4998784cc9d3f228487ecc3cbe72df95"
+  },
+  {
+    "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+    "normalized": "elementor csrf flaw lets attackers take over sites after admin clicks crafted link",
+    "content_hash": "5dd50141218008f5bf796804e9bd0594"
   }
 ]
