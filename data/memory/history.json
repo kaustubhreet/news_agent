@@ -1,130 +1,5 @@
 [
   {
-    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-    "normalized": "google, nvidia, and anthropic want emerald ai to find space on the grid for more data centers",
-    "content_hash": "6fe1ff9d47a17dbbfb60f7a406ebf3e9"
-  },
-  {
-    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-    "normalized": "huawei plans q1 2027 launch of new ai chip as it takes on nvidia",
-    "content_hash": "c9453d2b4d3b61f5c8bc29dd228aa136"
-  },
-  {
-    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-    "normalized": "comp ai sets eyes on a continuously agentic future for security and compliance",
-    "content_hash": "3c5064b0a5b47c8863f335350b0bcaba"
-  },
-  {
-    "title": "Your startup\u2019s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-    "normalized": "your startup's next teammate might be an ai agent: gusto, insight partners, and leland explain what that changes at techcrunch disrupt 2026",
-    "content_hash": "84422ad458ce748eb4fe91cddb8aff5a"
-  },
-  {
-    "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-    "normalized": "microsoft ai ceo says ai threats are real, and anthropic is making it worse",
-    "content_hash": "88ef76a94d5c367cbb22d017ed2e5eb8"
-  },
-  {
-    "title": "Rival AI agents, Instinct and Meta\u2019s Muse, both add the ability to make calls",
-    "normalized": "rival ai agents, instinct and meta's muse, both add the ability to make calls",
-    "content_hash": "59fae4c95591195e7761a242b6191696"
-  },
-  {
-    "title": "An OpenAI Agent Tried to Jailbreak Itself",
-    "normalized": "an openai agent tried to jailbreak itself",
-    "content_hash": "9e1aa6495f82b3a69e4de43a5b21eba5"
-  },
-  {
-    "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-    "normalized": "ciso's expert guide to agentic pentesting for websites",
-    "content_hash": "4a99a0073834645095d3e8b3d48ff1f8"
-  },
-  {
-    "title": "NVIDIA and Google's new coalition wants to speed up AI data center power grid connections",
-    "normalized": "nvidia and google's new coalition wants to speed up ai data center power grid connections",
-    "content_hash": "2bf9e925e6556e532704f798980e2b57"
-  },
-  {
-    "title": "Inside the suddenly explosive world of AI safety",
-    "normalized": "inside the suddenly explosive world of ai safety",
-    "content_hash": "b527181d9f66ec0a9e8577c9c8a96121"
-  },
-  {
-    "title": "When to Call an LLM: A Confidence-Gated Hybrid for Cost-Effective Emotion Recognition in Conversational AI",
-    "normalized": "when to call an llm: a confidence-gated hybrid for cost-effective emotion recognition in conversational ai",
-    "content_hash": "e6bb49db7fa8f22d01635edd441de9f9"
-  },
-  {
-    "title": "Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs",
-    "normalized": "beyond static rag: an adaptive, tri-metric routing framework for efficient long-context inference on commodity gpus",
-    "content_hash": "5e82498049b2c1a72563eb4ff710d8b7"
-  },
-  {
-    "title": "Z.ai Details GLM-5.3-Flash Inference Build on 100,000 Chinese Chips",
-    "normalized": "z.ai details glm-5.3-flash inference build on 100,000 chinese chips",
-    "content_hash": "4ba4212ff7bd619f043464bf0aef2cab"
-  },
-  {
-    "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-    "normalized": "2 days left to exhibit at techcrunch disrupt 2026",
-    "content_hash": "cea0390c40510362c7db68f4b06fe6df"
-  },
-  {
-    "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
-    "normalized": "how bain capital ventures plans to deploy its fresh $1.6b fund",
-    "content_hash": "1626b8ad6c30f01ad0df4fb7367b8cd9"
-  },
-  {
-    "title": "Spotify expands its partner program for podcasts to 35 new countries",
-    "normalized": "spotify expands its partner program for podcasts to 35 new countries",
-    "content_hash": "d5333361bf66adaf0851f69b8c078160"
-  },
-  {
-    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-    "normalized": "iceland-based treble raises $18 million for its voice simulation platform",
-    "content_hash": "21096ed23c70c185eb09623c73f9e1ad"
-  },
-  {
-    "title": "Al Gore says the real AI risk isn\u2019t data centers",
-    "normalized": "al gore says the real ai risk isn't data centers",
-    "content_hash": "fbe550bce89dac0d67f42fd4ec9762e2"
-  },
-  {
-    "title": "The EU Wants to Break Up Kids and Their Chatbots",
-    "normalized": "the eu wants to break up kids and their chatbots",
-    "content_hash": "837c251c66a6b90c0f676d18272de6ee"
-  },
-  {
-    "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
-    "normalized": "openai reveals six model incidents involving hidden failures and unauthorized uploads",
-    "content_hash": "e185933d012568be38fee386dda9cdbb"
-  },
-  {
-    "title": "Camp Snap\u2019s 110D gives slim retro film cameras a digital upgrade",
-    "normalized": "camp snap's 110d gives slim retro film cameras a digital upgrade",
-    "content_hash": "e736490024e6a988e002137ae9a4feec"
-  },
-  {
-    "title": "Your robotaxi might be a narc",
-    "normalized": "your robotaxi might be a narc",
-    "content_hash": "b1e34528f3fb7de75c7010271f4be4a1"
-  },
-  {
-    "title": "AI is feared globally as the destroyer of jobs",
-    "normalized": "ai is feared globally as the destroyer of jobs",
-    "content_hash": "812a2a5f8c17af817cba1c22f17f0742"
-  },
-  {
-    "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
-    "normalized": "lunacy audio nova is a place to build and sell your own ai-powered music plug-ins",
-    "content_hash": "29a298767e0b4449cd412ddb5af02487"
-  },
-  {
-    "title": "Spotify\u2019s Fresh Finds Forward gives artists free studio time and more",
-    "normalized": "spotify's fresh finds forward gives artists free studio time and more",
-    "content_hash": "2a72797d9566ed82801fefbabe543f88"
-  },
-  {
     "title": "The AI Slowdown Debate Crashed Salesforce\u2019s Party",
     "normalized": "the ai slowdown debate crashed salesforce's party",
     "content_hash": "37ec6b22a96e84f6488a8ef190d78f6e"
@@ -2498,5 +2373,130 @@
     "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
     "normalized": "elementor csrf flaw lets attackers take over sites after admin clicks crafted link",
     "content_hash": "5dd50141218008f5bf796804e9bd0594"
+  },
+  {
+    "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+    "normalized": "openai pauses training of latest models after agents probed us government sites",
+    "content_hash": "d8d71407985ee352530520f21e4e27c5"
+  },
+  {
+    "title": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
+    "normalized": "gemini live vs. chatgpt voice: which ai offers a more natural conversation?",
+    "content_hash": "5d25af65fb9502eca2f0e0ba99b8266e"
+  },
+  {
+    "title": "Unsealed Briefs in Authors\u2019 Case v. Microsoft/OpenAI",
+    "normalized": "unsealed briefs in authors' case v. microsoft/openai",
+    "content_hash": "0064eb71c1e8d69f14cfdceb3b5065ef"
+  },
+  {
+    "title": "An agent used DNS to reach an external chatbot",
+    "normalized": "an agent used dns to reach an external chatbot",
+    "content_hash": "a406da28ae37aa2556c34af735f6ee22"
+  },
+  {
+    "title": "Show HN: An OpenAI-compatible, model-agnostic agent API",
+    "normalized": "show hn: an openai-compatible, model-agnostic agent api",
+    "content_hash": "707e6bba8dce50f073582b31bb3336d3"
+  },
+  {
+    "title": "OpenAI is pausing training for a second time",
+    "normalized": "openai is pausing training for a second time",
+    "content_hash": "c3449f72aabdbc42265d1f0a1a2c1e05"
+  },
+  {
+    "title": "OpenAI halts training of latest models",
+    "normalized": "openai halts training of latest models",
+    "content_hash": "a962cb73ab77d11068754fd378ee3360"
+  },
+  {
+    "title": "OpenAI and Anthropic are investigating cases of AI misbehaving, report says",
+    "normalized": "openai and anthropic are investigating cases of ai misbehaving, report says",
+    "content_hash": "520fd699250a8dc2397dab947166175d"
+  },
+  {
+    "title": "TechCrunch Mobility: AV companies pick their lanes",
+    "normalized": "techcrunch mobility: av companies pick their lanes",
+    "content_hash": "8c0ac8f128910224f4c8317d1b0404b9"
+  },
+  {
+    "title": "Sennheiser Momentum 5\u00a0review: Great sound, incredible battery life, and few compromises",
+    "normalized": "sennheiser momentum 5 review: great sound, incredible battery life, and few compromises",
+    "content_hash": "46c0eefafc1f3a1994341d630f12bb67"
+  },
+  {
+    "title": "GPT-6 Sol & Luna",
+    "normalized": "gpt-6 sol & luna",
+    "content_hash": "11207f6269e83d5cb6763575157bf553"
+  },
+  {
+    "title": "Googlebooks might be the real deal",
+    "normalized": "googlebooks might be the real deal",
+    "content_hash": "eeb7808b76043065bfb3cb30293ebfa1"
+  },
+  {
+    "title": "I Gave My Life over to Meta's A.I. Agent and Was Blown Away",
+    "normalized": "i gave my life over to meta's a.i. agent and was blown away",
+    "content_hash": "992fadadd9f97036627b186a510f3cc2"
+  },
+  {
+    "title": "Show HN: AI agent running cost calculator (and when a SaaS platform is cheaper)",
+    "normalized": "show hn: ai agent running cost calculator (and when a saas platform is cheaper)",
+    "content_hash": "e720a912a423c76265be5057a5101ae6"
+  },
+  {
+    "title": "Your AI Agent Forgot Half of What You Told It",
+    "normalized": "your ai agent forgot half of what you told it",
+    "content_hash": "5113ebb7c0999ccbe9318ef8dc2c929a"
+  },
+  {
+    "title": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
+    "normalized": "a wall that listens: the local-llm pipeline behind an ai party in vilnius",
+    "content_hash": "6dedbdd9908e2954b00272205ef8a5bc"
+  },
+  {
+    "title": "The BR essays that foresaw OpenAI's latest scandal",
+    "normalized": "the br essays that foresaw openai's latest scandal",
+    "content_hash": "4c7928c6e0bd91d0eb11161bb87e298f"
+  },
+  {
+    "title": "Anthropic's Secretive AI-Powered Wet Lab Breaks Cover and Makes First Discovery",
+    "normalized": "anthropic's secretive ai-powered wet lab breaks cover and makes first discovery",
+    "content_hash": "1a0dcfc06b5b066121a038c71501d983"
+  },
+  {
+    "title": "Australia's Deputy PM Defends Data Security After OpenAI Hack",
+    "normalized": "australia's deputy pm defends data security after openai hack",
+    "content_hash": "ff753ae8a8506b9351005105a519f0ff"
+  },
+  {
+    "title": "'Gen Z wants answers, not intimidation': CJP slams Delhi minister after viral video shows him slapping man",
+    "normalized": "'gen z wants answers, not intimidation': cjp slams delhi minister after viral video shows him slapping man",
+    "content_hash": "81e8d5b5aaeb918183c2843113d70790"
+  },
+  {
+    "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn\u2019t Yet",
+    "normalized": "the data center backlash should also be a climate reckoning. it isn't yet",
+    "content_hash": "7a3de8d95048b1fb1316e3cd93da6e92"
+  },
+  {
+    "title": "Nicotine Is Mounting a Comeback in the Wellness Movement",
+    "normalized": "nicotine is mounting a comeback in the wellness movement",
+    "content_hash": "7ce506081d3d41d88fb3e31e8578ba47"
+  },
+  {
+    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+    "normalized": "warning: two unpatched citrix netscaler rce zero-days under active exploitation",
+    "content_hash": "36ad2e165b57b4825ec9b4e2a3bfabb8"
+  },
+  {
+    "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+    "normalized": "sharepoint rce and mikrotik routeros flaws actively exploited in the wild",
+    "content_hash": "14943a7da5ce5df78aa2822bdcc5b1f3"
+  },
+  {
+    "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+    "normalized": "kiteworks urges customers to shut down systems for 9 hours over possible cyber attack",
+    "content_hash": "7fe221bf04f37b96e2352818d351a29b"
   }
 ]
