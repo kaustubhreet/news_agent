@@ -1,130 +1,5 @@
 [
   {
-    "title": "The AI Slowdown Debate Crashed Salesforce\u2019s Party",
-    "normalized": "the ai slowdown debate crashed salesforce's party",
-    "content_hash": "37ec6b22a96e84f6488a8ef190d78f6e"
-  },
-  {
-    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "normalized": "openai caught its models leaving notes to successors to hide bad behavior",
-    "content_hash": "8e7cdfee6193a5b77153ae71ac352048"
-  },
-  {
-    "title": "UN turns to Google to make its global data ready for AI agents",
-    "normalized": "un turns to google to make its global data ready for ai agents",
-    "content_hash": "4f82e6e1636a8646e63e7558f24da2a9"
-  },
-  {
-    "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
-    "normalized": "microsoft exec called ai scraping 'the largest theft of labor in human history,' new unredacted filings reveal",
-    "content_hash": "799888a6c4e1f495ffb0266f695a7141"
-  },
-  {
-    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-    "normalized": "khosla-backed mazama energy just raised $135m to drill deeper into super-hot-rock geothermal",
-    "content_hash": "4218647de6760a52f7477af022a0a728"
-  },
-  {
-    "title": "Google DeepMind launches institute to widen the AGI debate",
-    "normalized": "google deepmind launches institute to widen the agi debate",
-    "content_hash": "1e1019b4d6ef3739e620d302c23a7e6c"
-  },
-  {
-    "title": "PrismML hopes its tiny LLM will change how we all use AI",
-    "normalized": "prismml hopes its tiny llm will change how we all use ai",
-    "content_hash": "82cde6655fada06abddcff26e72fd289"
-  },
-  {
-    "title": "The fix for rogue AI agents could be more AI",
-    "normalized": "the fix for rogue ai agents could be more ai",
-    "content_hash": "5ae72c1d54f6842f85384b53420f4c08"
-  },
-  {
-    "title": "The AI Superintelligence Slowdown",
-    "normalized": "the ai superintelligence slowdown",
-    "content_hash": "bb17a1f51b610990c149d3d88efc5de6"
-  },
-  {
-    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-    "normalized": "claude code relaunches projects to manage multiple ai agents in the cloud",
-    "content_hash": "590e8b720dc34f7a12036cf0c9f76475"
-  },
-  {
-    "title": "Launch HN: Skillsync (YC W26) \u2013 AI chat sessions made portable across agents",
-    "normalized": "launch hn: skillsync (yc w26) - ai chat sessions made portable across agents",
-    "content_hash": "a6b4ccbc12cfdf977a37c10e4d016929"
-  },
-  {
-    "title": "Show HN: Share your AI Setup, Learn from others",
-    "normalized": "show hn: share your ai setup, learn from others",
-    "content_hash": "9bf7974b5b2f09045cb0756ec6949de0"
-  },
-  {
-    "title": "Crusoe Secures $3.9B Series F at $30.9B Valuation to Build AI Factories",
-    "normalized": "crusoe secures $3.9b series f at $30.9b valuation to build ai factories",
-    "content_hash": "5b9b262b50c51a72e42d488a867f024f"
-  },
-  {
-    "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
-    "normalized": "crusoe raises $3.9b to build massive data centers and small modular 'ai factories'",
-    "content_hash": "ac8d3ce8f2b208c3ecc847b0065d0efa"
-  },
-  {
-    "title": "The FAA\u2019s plan to fix air traffic? $875M worth of AI",
-    "normalized": "the faa's plan to fix air traffic? $875m worth of ai",
-    "content_hash": "485b3f667e5d4e31da8bfe22c479a30d"
-  },
-  {
-    "title": "Is the AI safety debate about safety or control?",
-    "normalized": "is the ai safety debate about safety or control?",
-    "content_hash": "feefeed5eb47f47bc76572e0642b2b41"
-  },
-  {
-    "title": "Even the king of England has his hesitations about AI",
-    "normalized": "even the king of england has his hesitations about ai",
-    "content_hash": "c99762be1f34b8f3bd559b7756a346a6"
-  },
-  {
-    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-    "normalized": "base labs launches an open-weight ai safety partnership with hugging face and goodfire",
-    "content_hash": "0a6ec16b93b947060f8839e0f9ecb6a1"
-  },
-  {
-    "title": "Pinterest teases a new \u2018Restyle\u2019 feature that lets you redesign your room with AI",
-    "normalized": "pinterest teases a new 'restyle' feature that lets you redesign your room with ai",
-    "content_hash": "0ba6b0ff4bad68c7fd72d22be8799b0c"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
-    "normalized": "techcrunch disrupt 2026 side events schedule: nmi, backblaze, peakxv partners, augment, and more to host",
-    "content_hash": "38680b598169846c9d23e8244fecf674"
-  },
-  {
-    "title": "Apple will let EU apps use less-alarming tracking-consent screens",
-    "normalized": "apple will let eu apps use less-alarming tracking-consent screens",
-    "content_hash": "00645556d8bc7e3d929afcb160f6dc7a"
-  },
-  {
-    "title": "Google's revamped CC is an AI agent for families and groups",
-    "normalized": "google's revamped cc is an ai agent for families and groups",
-    "content_hash": "8ce74746317df9012b50804ef4220213"
-  },
-  {
-    "title": "Save $30 or more on a refurbished Apple TV 4K",
-    "normalized": "save $30 or more on a refurbished apple tv 4k",
-    "content_hash": "6d8c49a7a8d56994f3ddfb88eb3c28f5"
-  },
-  {
-    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-    "normalized": "zettascale (yc s24) is hiring asic/fpga engineers to build chips for asi",
-    "content_hash": "8a1d80c056b89daf8e2e53f82046492a"
-  },
-  {
-    "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
-    "normalized": "implementing defense-in-depth authorization for mcp tools on amazon quick",
-    "content_hash": "4cececb5bcdc83c6abdae116b4650bc3"
-  },
-  {
     "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
     "normalized": "researchers used anthropic's claude to hack into openai",
     "content_hash": "6c47a485c5aef264f31f3d81ea0b7605"
@@ -2498,5 +2373,130 @@
     "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
     "normalized": "kiteworks urges customers to shut down systems for 9 hours over possible cyber attack",
     "content_hash": "7fe221bf04f37b96e2352818d351a29b"
+  },
+  {
+    "title": "Can Muse overcome Meta\u2019s trust issues?",
+    "normalized": "can muse overcome meta's trust issues?",
+    "content_hash": "d91c7e35ac3b5c5e09299656f87f249b"
+  },
+  {
+    "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
+    "normalized": "openai agents tried to 'bruteforce' a un website",
+    "content_hash": "4fa1c54c031241a39ae031043506e93f"
+  },
+  {
+    "title": "Google OpenAI Anthropic Begin Forming SAFA \u2013 Standards Authority for Frontier AI",
+    "normalized": "google openai anthropic begin forming safa - standards authority for frontier ai",
+    "content_hash": "121ee41dc4e560918ac8ae0e5716ba0f"
+  },
+  {
+    "title": "Engram is a sampler that turns broken AI hallucinations into music",
+    "normalized": "engram is a sampler that turns broken ai hallucinations into music",
+    "content_hash": "02f7479e42a8ea826a5048ac9c3f700d"
+  },
+  {
+    "title": "An OpenAI Engineer and His Friends Debate the Future",
+    "normalized": "an openai engineer and his friends debate the future",
+    "content_hash": "4a171908157f496bf1fa92698a393a63"
+  },
+  {
+    "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+    "normalized": "anthropic/openai sound alarm on ai safety and seek to shape how to control it",
+    "content_hash": "a662371af0d7a7e6fe45f6552269f0ec"
+  },
+  {
+    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+    "normalized": "openai halts training of latest models as reports mount of ai agents going rogue",
+    "content_hash": "6b662dc7959d12fbf7de69f16610f8d1"
+  },
+  {
+    "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
+    "normalized": "anthropic's ceo is about to have dinner with president trump",
+    "content_hash": "90291cf66986d6e2a0370076b556e243"
+  },
+  {
+    "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
+    "normalized": "anthropic's dario amodei gets the snl treatment",
+    "content_hash": "282607cc9b8ae0d1994f0664e3059983"
+  },
+  {
+    "title": "OpenAI pauses top-model work after AI bypasses internet safeguards [video]",
+    "normalized": "openai pauses top-model work after ai bypasses internet safeguards [video]",
+    "content_hash": "4307385d379869ae414ff092c7a82d70"
+  },
+  {
+    "title": "OpenAI to Halt Training of Some Models",
+    "normalized": "openai to halt training of some models",
+    "content_hash": "927b2fb5b55448f2bfa0f4207b16875d"
+  },
+  {
+    "title": "Anthropic is a supply chain risk for all of us",
+    "normalized": "anthropic is a supply chain risk for all of us",
+    "content_hash": "a184b143549caa48be7554513c00d90d"
+  },
+  {
+    "title": "Trump and Anthropic CEO Dario Amodei Set for White House Dinner",
+    "normalized": "trump and anthropic ceo dario amodei set for white house dinner",
+    "content_hash": "2611868c0697cf3e1f1e098db9591ebc"
+  },
+  {
+    "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+    "normalized": "amazon blocks meta's muse ai agent from its retail site",
+    "content_hash": "fce6f948bef3a76102e95435a1428af2"
+  },
+  {
+    "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+    "normalized": "meta's muse agent is attacking one of the economy's most profitable weak spots",
+    "content_hash": "b90f499285afda6e62d204e3c1948c54"
+  },
+  {
+    "title": "Some of Anthropic's first employees are eyeing remote land to escape to",
+    "normalized": "some of anthropic's first employees are eyeing remote land to escape to",
+    "content_hash": "56c31549ae9ebc5362dc12974ed1bd6b"
+  },
+  {
+    "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+    "normalized": "compromised github actions came back online and resumed executing mini shai-hulud malware",
+    "content_hash": "50589b7f135bdd87ef05b55b68f2572e"
+  },
+  {
+    "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
+    "normalized": "pamstealer macos malware adds live c2 payload decryption and multi-layer persistence",
+    "content_hash": "40c482eb158ec087bc5c9136c5143eb3"
+  },
+  {
+    "title": "The SOC Doesn't Need to Start Over with Every Alert",
+    "normalized": "the soc doesn't need to start over with every alert",
+    "content_hash": "c79b304d3a79e9b657f3225dadeaf5e2"
+  },
+  {
+    "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+    "normalized": "bitget says suspected north korean hackers stole $351.6m after backend compromise",
+    "content_hash": "9a06929f23be1cd4ab9d7b638e07bd30"
+  },
+  {
+    "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+    "normalized": "roundcube pre-auth sql injection flaw actively exploited in the wild",
+    "content_hash": "5dc760df928c936bc66f40c8bce21ab1"
+  },
+  {
+    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+    "normalized": "cloudflare fixes flaw that let one container read another customer's leftover disk data",
+    "content_hash": "f19c7082bcf58375e2386e1f51f54422"
+  },
+  {
+    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+    "normalized": "wso2 and adobe commerce flaws exploited in attacks, added to cisa kev",
+    "content_hash": "d8c05a1f4de5298d3bfb833886afed64"
+  },
+  {
+    "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+    "normalized": "unpatched oneplus flaws let installed android apps gain root without permissions",
+    "content_hash": "5cb2873deff455587654cfc4f2ef357b"
+  },
+  {
+    "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+    "normalized": "threatsday: ai search poisoning, ai coding tool leaking repos, one-click code execution and 13 more stories",
+    "content_hash": "752576a4044005c0e30840be460e12fa"
   }
 ]
