@@ -1,130 +1,5 @@
 [
   {
-    "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
-    "normalized": "researchers used anthropic's claude to hack into openai",
-    "content_hash": "6c47a485c5aef264f31f3d81ea0b7605"
-  },
-  {
-    "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-    "normalized": "plugin4shell lets repository owners swap pinned plugin code across four ai coding agents",
-    "content_hash": "e3e008456fb6b8dd13499fd428f0889e"
-  },
-  {
-    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal",
-    "normalized": "khosla-backed mazama energy just raised $135m to drill deeper into superhot-rock geothermal",
-    "content_hash": "b2778f08625d07df44460926b2d50b8a"
-  },
-  {
-    "title": "Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'",
-    "normalized": "microsoft executive called openai's web scraping the 'largest theft of labor in human history'",
-    "content_hash": "38456a0a6aeddb852a2412623430a188"
-  },
-  {
-    "title": "Flash floods can strike without warning \u2014 this new technology could change that",
-    "normalized": "flash floods can strike without warning -- this new technology could change that",
-    "content_hash": "1f85d86de9c90886b054552cea959954"
-  },
-  {
-    "title": "OpenAI 'ethically hacked' with help of Anthropic's Claude chatbot",
-    "normalized": "openai 'ethically hacked' with help of anthropic's claude chatbot",
-    "content_hash": "aa43b12a131c86c847f749b65305c946"
-  },
-  {
-    "title": "The new CC, an AI agent built for families",
-    "normalized": "the new cc, an ai agent built for families",
-    "content_hash": "8f367a1f8b28193eb15591a245688671"
-  },
-  {
-    "title": "OpenAI's latest AI revelation is a 'serious situation,' says Microsoft",
-    "normalized": "openai's latest ai revelation is a 'serious situation,' says microsoft",
-    "content_hash": "be4578ec072a1d38d397a000f98cec7d"
-  },
-  {
-    "title": "OpenAI lost the plot on boring LLM use cases (2025)",
-    "normalized": "openai lost the plot on boring llm use cases (2025)",
-    "content_hash": "6d2a80bfb811ed2e1869af169a906c43"
-  },
-  {
-    "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-    "normalized": "characterizing web search by conversational llm agents: from search decisions and strategies to results and responses",
-    "content_hash": "c3939973805f1d1d895bf7b6eaf9369c"
-  },
-  {
-    "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
-    "normalized": "mags: multi-agent auto-formalization guarantees safety for agentic outputs",
-    "content_hash": "7fad007361328251e51f21af3c76d032"
-  },
-  {
-    "title": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
-    "normalized": "meta's muse hits mac, letting the ai take actions on your computer",
-    "content_hash": "d7d255883a8eb6f453a77587dbe240c0"
-  },
-  {
-    "title": "I\u2019m so mad that I love Orion\u2019s $2,195 AI mattress pad",
-    "normalized": "i'm so mad that i love orion's $2,195 ai mattress pad",
-    "content_hash": "bfa33c1a0f5941de06270cb0c07fd328"
-  },
-  {
-    "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-    "normalized": "the clock is ticking: final 24 hours to exhibit at techcrunch disrupt 2026",
-    "content_hash": "9c9b815f4df53828fa19d57d227194a1"
-  },
-  {
-    "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-    "normalized": "if the ai industry followed its own research, it might have paused already",
-    "content_hash": "cefa2d08492dc300fbeeffbaba417765"
-  },
-  {
-    "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-    "normalized": "microsoft patches cvss 10.0 azure ai foundry flaw enabling unauthorized privilege escalation",
-    "content_hash": "4794cf5f9d36a384e81da619f0a489e6"
-  },
-  {
-    "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-    "normalized": "claimed bug bounty hunter likely used llm to build phantomraven npm stealer",
-    "content_hash": "cc7a04141121d56624268677a87ef14b"
-  },
-  {
-    "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-    "normalized": "threatsday: self-rewriting agents, 800+ flaws patched, insider sim swaps and 22 more new stories",
-    "content_hash": "2a9d5fe67241f5ae8a89608ea674d67b"
-  },
-  {
-    "title": "Google announces new experimental \"CC\" AI agent for families",
-    "normalized": "google announces new experimental \"cc\" ai agent for families",
-    "content_hash": "5ef5e6f248e023bf32d2a2a867be3b18"
-  },
-  {
-    "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
-    "normalized": "microsoft exec called ai scraping the \"largest theft of labor in human history\"",
-    "content_hash": "e5ca4e4c85651b69d1415b74a0a791f0"
-  },
-  {
-    "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-    "normalized": "covert uploads and megalomania: openai details new \"misaligned\" agent incidents",
-    "content_hash": "65ffcd732ecc825ba914672df2344bf4"
-  },
-  {
-    "title": "Brendan Carr\u2019s FCC is more worried about who The View interviews than foreign governments owning Paramount",
-    "normalized": "brendan carr's fcc is more worried about who the view interviews than foreign governments owning paramount",
-    "content_hash": "e28c2fe4f99faaf42ce29dc1dad1470a"
-  },
-  {
-    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-    "normalized": "microsoft exec called ai scraping 'the largest theft of labor in human history'",
-    "content_hash": "81887d95e3a11b7b303de7a1faa50161"
-  },
-  {
-    "title": "Cutting our agent's harness cost 10x without breaking the product",
-    "normalized": "cutting our agent's harness cost 10x without breaking the product",
-    "content_hash": "65d779af1c38bb7b593a9614fb646135"
-  },
-  {
-    "title": "US judge denies OpenAI bid to review X Corp's settlement with Apple",
-    "normalized": "us judge denies openai bid to review x corp's settlement with apple",
-    "content_hash": "70888b67afae91699e47c25293a507d5"
-  },
-  {
     "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
     "normalized": "dario amodei and other ai leaders want to 'pace the frontier' but...how?",
     "content_hash": "baea27c2ba7d1d4badc742eeadd44551"
@@ -2498,5 +2373,130 @@
     "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
     "normalized": "threatsday: ai search poisoning, ai coding tool leaking repos, one-click code execution and 13 more stories",
     "content_hash": "752576a4044005c0e30840be460e12fa"
+  },
+  {
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "normalized": "nvidia launches new platform for reining in rogue ai agents",
+    "content_hash": "61a6b1110b9e53b1a9c5cffb312662e8"
+  },
+  {
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "normalized": "nvidia wants to put a watchdog chip next to every ai agent",
+    "content_hash": "ee574408b6ed845dd22eb9fe68cc789f"
+  },
+  {
+    "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
+    "normalized": "google is killing off gemini's gems in favor of 'skills'",
+    "content_hash": "6077c32e94160ac196e9e355051bccf2"
+  },
+  {
+    "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+    "normalized": "physical ai chip developer sima ai hits $1.45b valuation",
+    "content_hash": "7dbfd0227a3ff750078446f477056e42"
+  },
+  {
+    "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "normalized": "nvidia's answer to rogue agents is an open-source ai security system",
+    "content_hash": "83f36eec74bc95683e935f6c33f92f70"
+  },
+  {
+    "title": "OpenAI\u2019s AI agents need to catch up",
+    "normalized": "openai's ai agents need to catch up",
+    "content_hash": "e0fa34228b1567c26867cf4da397277c"
+  },
+  {
+    "title": "Florida seeks a ban on ChatGPT acting like a person",
+    "normalized": "florida seeks a ban on chatgpt acting like a person",
+    "content_hash": "e9df21c1a34a8a6b023b72e04b92be45"
+  },
+  {
+    "title": "Nvidia Open Agent Safety Platform",
+    "normalized": "nvidia open agent safety platform",
+    "content_hash": "9710f2fb2114da4d7a1cc48d8e90c066"
+  },
+  {
+    "title": "AI agent startup Instinct raises $1B Series C at $10B valuation",
+    "normalized": "ai agent startup instinct raises $1b series c at $10b valuation",
+    "content_hash": "f5b8a92b2106a6e56adba3552e2373e8"
+  },
+  {
+    "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
+    "normalized": "openai still doesn't seem to have a handle on all of its rogue ai activity",
+    "content_hash": "0789180507230b11d1786d1c4a24ddba"
+  },
+  {
+    "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
+    "normalized": "meta launches enterprise ai platform, hires mongodb ceo to lead new initiative",
+    "content_hash": "6c39cc99b53323dca3261ae079cdbe74"
+  },
+  {
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "normalized": "anthropic, gamma, and clay share what happens when enterprises actually deploy ai at techcrunch disrupt 2026",
+    "content_hash": "d4b39d4f7873960f71c7b4ace76f8315"
+  },
+  {
+    "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+    "normalized": "mavi bets on the ai boom creating demand for a new kind of accountant",
+    "content_hash": "5383406c06853c4f51c8e550cf8c9840"
+  },
+  {
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "normalized": "after a deepfake voice fooled her grandfather, this founder sprang into action",
+    "content_hash": "6e944b2b2d0791b7af92b32a647704f3"
+  },
+  {
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "normalized": "next 5 vcs judging startup battlefield 200 contenders at techcrunch disrupt 2026",
+    "content_hash": "53c8199c1fd4a9e0e1a8969684b91731"
+  },
+  {
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "normalized": "insurtech outmarket raises $34.5m just months after prior round",
+    "content_hash": "1b890246d465c5c8455ab6c283092a0a"
+  },
+  {
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "normalized": "viral ai agent instinct raises $1b series c at a $10b valuation",
+    "content_hash": "8b29b30ccec12bd4aa46719460a77a72"
+  },
+  {
+    "title": "Maritime intelligence startup Quartermaster raises another $140M",
+    "normalized": "maritime intelligence startup quartermaster raises another $140m",
+    "content_hash": "db5b3f8b8226bb518f06e856db1fcd4a"
+  },
+  {
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "normalized": "openai pauses training its most powerful models after rogue agents target government",
+    "content_hash": "0477aec766fd2997b7f25c9472f7c5cc"
+  },
+  {
+    "title": "OpenAI keeps bulldozing mathematicians",
+    "normalized": "openai keeps bulldozing mathematicians",
+    "content_hash": "914ebe179114d1198982707e7d97b16d"
+  },
+  {
+    "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
+    "normalized": "the perfect crime: llm agents can easily tamper with their own traces",
+    "content_hash": "e9dd06539fa6f4d4894d487e4d3c9c3a"
+  },
+  {
+    "title": "Show HN: Assay \u2013 a QA CLI that finds bugs with no LLM and no tests written",
+    "normalized": "show hn: assay - a qa cli that finds bugs with no llm and no tests written",
+    "content_hash": "1f9beccffb66dcb235d73de8ff712b0d"
+  },
+  {
+    "title": "AI agent firm Instinct raises $1B in latest funding round",
+    "normalized": "ai agent firm instinct raises $1b in latest funding round",
+    "content_hash": "cdd360249d1fc8006ea70c810747088e"
+  },
+  {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "normalized": "the lenfest institute grows landmark program with expanded openai support",
+    "content_hash": "8253503cec765ce0eced3b301c21a2dc"
+  },
+  {
+    "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+    "normalized": "bioeval: a global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+    "content_hash": "d1b27dfedf3f7e5eda72fed8982570b4"
   }
 ]
