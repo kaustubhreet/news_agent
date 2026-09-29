@@ -1,130 +1,5 @@
 [
   {
-    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-    "normalized": "claude opus 5 helped researchers take over openai staff accounts via chained flaws",
-    "content_hash": "077cadc1ed69f074fe6e0884c7d481e3"
-  },
-  {
-    "title": "The AI regulation smackdown isn\u2019t over",
-    "normalized": "the ai regulation smackdown isn't over",
-    "content_hash": "06c3b5357508fca78bd4672afa68808e"
-  },
-  {
-    "title": "Consumers Sue Anthropic, OpenAI, SpaceXAI and Google Over Alleged AI Pact",
-    "normalized": "consumers sue anthropic, openai, spacexai and google over alleged ai pact",
-    "content_hash": "c7c00ec407ac69b5707cf860e3a41f33"
-  },
-  {
-    "title": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
-    "normalized": "petlibro's new ai-powered feeder is a game changer for multi-cat homes",
-    "content_hash": "e34faa788b603c42c04e22ee9dd0f083"
-  },
-  {
-    "title": "AI safety conversations have gotten unbelievable",
-    "normalized": "ai safety conversations have gotten unbelievable",
-    "content_hash": "0302379d55c3597eef77504a71da1e61"
-  },
-  {
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "normalized": "vals, backed by andreessen horowitz, is looking to become the gold standard for ai benchmarking",
-    "content_hash": "5e3ce300ecd8290ccb8c8609e5212db2"
-  },
-  {
-    "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-    "normalized": "google gemini broke into real company systems after security test domain mix-up",
-    "content_hash": "80e89fde4bae497aaffedbe6e6332f95"
-  },
-  {
-    "title": "Anamanaguchi has \u2018too goddamn many\u2019 browser tabs open right now",
-    "normalized": "anamanaguchi has 'too goddamn many' browser tabs open right now",
-    "content_hash": "4fe99df053a44582419984af6cd1cbec"
-  },
-  {
-    "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-    "normalized": "does ai need an antitrust exemption so it doesn't kill everyone????",
-    "content_hash": "d58af98a889e8ccf53a6d39793d97573"
-  },
-  {
-    "title": "It\u2019s not just LG. Every TV company is spying on you",
-    "normalized": "it's not just lg. every tv company is spying on you",
-    "content_hash": "69ebdf60407a040028ccb6ab21a8dcba"
-  },
-  {
-    "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
-    "normalized": "fault tolerant distributed training on amazon eks using nvrx",
-    "content_hash": "641e5bcbb5eb9cf1524a7a668e0ad785"
-  },
-  {
-    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-    "normalized": "this ai entrepreneur is developing agents that can plan ahead for the unexpected",
-    "content_hash": "6e3a24b4e070e9c2c7d624dc9b6c0828"
-  },
-  {
-    "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
-    "normalized": "gguf vs gptq vs awq vs exl2: llm model formats explained (2026)",
-    "content_hash": "5e5d169d11818fcce14a0835ba76b17d"
-  },
-  {
-    "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
-    "normalized": "microsoft open-sources taugrid: a kubernetes-native stack for gpu ai workloads",
-    "content_hash": "1f65fd5f19b4121fa87184d9c65a7808"
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella hails Seattle\u2019s tech growth, deepening India ties at 'IDEAS4INDIA' forum",
-    "normalized": "microsoft ceo satya nadella hails seattle's tech growth, deepening india ties at 'ideas4india' forum",
-    "content_hash": "3e7681ccd71e38e09fdca87263337a8f"
-  },
-  {
-    "title": "Context and Coordination: The Missing Layer in Enterprise Automation",
-    "normalized": "context and coordination: the missing layer in enterprise automation",
-    "content_hash": "c76de3bffa70cbb1dccdd377137e592c"
-  },
-  {
-    "title": "Anthropic Says Claude Leads 26% of Its AI Research and Development",
-    "normalized": "anthropic says claude leads 26% of its ai research and development",
-    "content_hash": "7a9f4fa793064f676f0837f60569ceec"
-  },
-  {
-    "title": "Automattic names interim CFO after exec departures",
-    "normalized": "automattic names interim cfo after exec departures",
-    "content_hash": "276a0fe45452b0766771a64ea9a4ac80"
-  },
-  {
-    "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-    "normalized": "y combinator insurance tech alum angle health hits $2.7b valuation",
-    "content_hash": "7341a1d91b38f7c922fb7a03a2c90b1b"
-  },
-  {
-    "title": "World model companies are keeping a lot of secrets",
-    "normalized": "world model companies are keeping a lot of secrets",
-    "content_hash": "b3f80f39afaff9609b7bc0966c5f19a8"
-  },
-  {
-    "title": "Forget the AI Slowdown\u2014the Vulnerability Explosion Is Already Happening",
-    "normalized": "forget the ai slowdown--the vulnerability explosion is already happening",
-    "content_hash": "1a4d5f50f079a9a083a81bd6135c715a"
-  },
-  {
-    "title": "Mathematicians Hate AI. They Can\u2019t Quit It",
-    "normalized": "mathematicians hate ai. they can't quit it",
-    "content_hash": "42f3a343a1aff0290487d09e4d3418b6"
-  },
-  {
-    "title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
-    "normalized": "residents harmed by oil drilling may soon receive reparations under new california law",
-    "content_hash": "af98422a0d066abf5eaff552e7bb0fab"
-  },
-  {
-    "title": "Join the WIRED World Fair in Miami on November 4",
-    "normalized": "join the wired world fair in miami on november 4",
-    "content_hash": "e7870b7fee2a9f29b4a91d26c7a490ff"
-  },
-  {
-    "title": "KitchenAid Promo Codes: Save Up to 20%",
-    "normalized": "kitchenaid promo codes: save up to 20%",
-    "content_hash": "1a2746b1f5019c0fcf73e451c5be5316"
-  },
-  {
     "title": "Gemini went rogue, hacked three companies, and Google hid it",
     "normalized": "gemini went rogue, hacked three companies, and google hid it",
     "content_hash": "5e9dacf3f75e8802c74fc35d9aa93a0c"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
     "normalized": "openai halts frontier-model training amid string of agent misalignment incidents",
     "content_hash": "b2c98da55a8a6fbd16adf801e33dfd16"
+  },
+  {
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "normalized": "reco raises $55m as ai agent security startups crowd the market",
+    "content_hash": "300c2eebe41ef97a0fa510078fc9b4b0"
+  },
+  {
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "normalized": "openai launches dots, its muse competitor",
+    "content_hash": "8d429eb9618a084792e79a87a1b40a35"
+  },
+  {
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "normalized": "openai launches gpt-6.1 sol, says it nearly matches gpt-6 astra and costs less",
+    "content_hash": "275dc49225c049580d48172979dae661"
+  },
+  {
+    "title": "OpenAI expands ChatGPT\u2019s plugins with app-like interfaces and automations",
+    "normalized": "openai expands chatgpt's plugins with app-like interfaces and automations",
+    "content_hash": "f964e8e366852eb484ef0dfc78fce8ec"
+  },
+  {
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "normalized": "openai apologizes to australia after its ai agents breached government sites",
+    "content_hash": "b460f50e20da7e69a17e88b5c43d463e"
+  },
+  {
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "normalized": "openai gives codex reusable cloud environments that work across devices",
+    "content_hash": "37354ecbb403b022dd575fbc84bfdd63"
+  },
+  {
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "normalized": "meta is expanding its ai agent muse to small businesses",
+    "content_hash": "b894fa55fe39cfb1e5c74fb86b7dc131"
+  },
+  {
+    "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+    "normalized": "ex-tesla team raises $12.5m to put supply chains on autopilot",
+    "content_hash": "6414086654ab9894d0694c1891b6ebb0"
+  },
+  {
+    "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "normalized": "anthropic's prospectus details losses, growth, and, yes, a warning that its ai could end humanity",
+    "content_hash": "bd3f61f811e1c4868506c0ed6ec910d8"
+  },
+  {
+    "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+    "normalized": "openai shelves gpt-6.1 astra after tests find deception and unauthorized actions",
+    "content_hash": "06c18a06e9518c86f4b0bdca1446f521"
+  },
+  {
+    "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+    "normalized": "openai pauses tool use after agent bypasses internet controls to reach external chatbot",
+    "content_hash": "9a129d411e942fd087e75c34ac748571"
+  },
+  {
+    "title": "Protesters gather at OpenAI\u2019s DevDay",
+    "normalized": "protesters gather at openai's devday",
+    "content_hash": "0f5646e0ccb0ccfb98261d815f6286b1"
+  },
+  {
+    "title": "Xbox\u2019s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
+    "normalized": "xbox's mythic achievements are here and they're just like playstation platinum trophies",
+    "content_hash": "49105c0d5061cd6babb915629b0592ed"
+  },
+  {
+    "title": "OpenAI DevDay 2026: The biggest news and announcements",
+    "normalized": "openai devday 2026: the biggest news and announcements",
+    "content_hash": "ddc2736265bc9fab8b1329ee5735b2e6"
+  },
+  {
+    "title": "Meta&#8217;s Muse AI sent a YouTuber\u2019s address to a stranger",
+    "normalized": "meta's muse ai sent a youtuber's address to a stranger",
+    "content_hash": "52a3a690cd2b1f82c0a653d3cbc8caca"
+  },
+  {
+    "title": "OpenAI Sept 29 Release Notes",
+    "normalized": "openai sept 29 release notes",
+    "content_hash": "72d4eaabd62905fe43fb9b1601ab65eb"
+  },
+  {
+    "title": "OpenAI blocked its agent's web access. Then it tunneled out through DNS",
+    "normalized": "openai blocked its agent's web access. then it tunneled out through dns",
+    "content_hash": "82b4d1f897d71d9fc45196464ca864a3"
+  },
+  {
+    "title": "Microsoft Azure OpenAI Service Down in EU",
+    "normalized": "microsoft azure openai service down in eu",
+    "content_hash": "61db9ecb30af431397d5b72488f9d87b"
+  },
+  {
+    "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Prizes, Nine Judges, and an October 25 Deadline",
+    "normalized": "nebius opens 2026 physical ai awards: five $150k compute prizes, nine judges, and an october 25 deadline",
+    "content_hash": "8601a9085fe55fbfb6e91a7ec58559db"
+  },
+  {
+    "title": "Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting",
+    "normalized": "google research open-sources rrsi: ai agents that improve their own harness without overfitting",
+    "content_hash": "bf9d942fdfea6a6cf4c246707bb3904c"
+  },
+  {
+    "title": "NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds",
+    "normalized": "nvidia launches open agent safety platform: openshell sandboxes agents on vera cpus while sentry on bluefield-4 quarantines them in milliseconds",
+    "content_hash": "8065c1b382a582ed8539bb1bb60dcb97"
+  },
+  {
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "normalized": "can a chatbot fix the government maze? the white house is about to find out",
+    "content_hash": "eb257ff6c7d561dae84655389332344b"
+  },
+  {
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "normalized": "instinct founder said more than 50% of transactions on the platform are travel-related",
+    "content_hash": "d3c5559b9e99f14909e988fc070cf241"
+  },
+  {
+    "title": "After losing his voice to cancer, this founder is building \u2018glasses for voice\u2019",
+    "normalized": "after losing his voice to cancer, this founder is building 'glasses for voice'",
+    "content_hash": "6cda15092352402a200bd389dc490402"
+  },
+  {
+    "title": "Oura shelves its $2.2B IPO, citing \u2018uncertainty\u2019 in the market",
+    "normalized": "oura shelves its $2.2b ipo, citing 'uncertainty' in the market",
+    "content_hash": "e3311f25fae9e85dfaa157f0f237855f"
   }
 ]
