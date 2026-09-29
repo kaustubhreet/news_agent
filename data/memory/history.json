@@ -1,130 +1,5 @@
 [
   {
-    "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
-    "normalized": "dario amodei and other ai leaders want to 'pace the frontier' but...how?",
-    "content_hash": "baea27c2ba7d1d4badc742eeadd44551"
-  },
-  {
-    "title": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-    "normalized": "open or closed ai? nvidia's nader khalil and sydney sykes take on one of the decisions shaping next-gen startups at techcrunch disrupt 2026",
-    "content_hash": "910555984f7ef4a7f52ede1a591ce4f7"
-  },
-  {
-    "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
-    "normalized": "google's new 'cc' is an ai agent that helps families run their households",
-    "content_hash": "9afafb5662e563a661b2f56535026ac3"
-  },
-  {
-    "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
-    "normalized": "openai and microsoft knew they were starting a 'doom loop' for the web",
-    "content_hash": "d707de08530b09651a5e0fee63072e98"
-  },
-  {
-    "title": "Security researchers used Claude to help them hack into OpenAI",
-    "normalized": "security researchers used claude to help them hack into openai",
-    "content_hash": "0a16a0bf923e8d8ee39193ec1efef84e"
-  },
-  {
-    "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
-    "normalized": "how openai used its own llms to design its jalape\u00f1o chip",
-    "content_hash": "25b8a23f0380c6f62ffdec51702a6be1"
-  },
-  {
-    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "normalized": "a startup that builds other startups raised $100m and is all-in on physical ai",
-    "content_hash": "871ca10c9168699b80ff203398021e88"
-  },
-  {
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "normalized": "anthropic is operating a lab that conducts biology experiments",
-    "content_hash": "81d7e0419e48bcf5626bdc87e5d642df"
-  },
-  {
-    "title": "AI hallucination nearly triggers US military operation",
-    "normalized": "ai hallucination nearly triggers us military operation",
-    "content_hash": "7fea524751e9f1513e45c8f85728bb07"
-  },
-  {
-    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-    "normalized": "a new kind of ai model from a chatgpt inventor is thrilling developers",
-    "content_hash": "f0ed51fbb13a40fe6e37f7fee85ee844"
-  },
-  {
-    "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
-    "normalized": "disney's first cto led an ai startup it once accused of copying its characters",
-    "content_hash": "8d15a82b2747a686876e560f883a7a54"
-  },
-  {
-    "title": "In India, the new iPhone can arrive faster than a pizza",
-    "normalized": "in india, the new iphone can arrive faster than a pizza",
-    "content_hash": "b7e387c78b148298df0c20b87eff5be8"
-  },
-  {
-    "title": "What Hollywood thinks about existential AI warnings",
-    "normalized": "what hollywood thinks about existential ai warnings",
-    "content_hash": "739aa2ab41d61d783de309c2d1bf9124"
-  },
-  {
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "normalized": "india forces caller-id apps to feed spam reports to telcos",
-    "content_hash": "74bd71a34898a6f4757cdf49d2ab2f76"
-  },
-  {
-    "title": "Tilly Norwood\u2019s press tour is going about as well as you\u2019d expect for an AI",
-    "normalized": "tilly norwood's press tour is going about as well as you'd expect for an ai",
-    "content_hash": "d74e0cfb23e1459409afc616bba9fead"
-  },
-  {
-    "title": "Anthropic\u2019s first embedded evaluator is\u00a0\u2026 Accenture?",
-    "normalized": "anthropic's first embedded evaluator is ... accenture?",
-    "content_hash": "6cc38fb70f20b01b8993ba094f20cca7"
-  },
-  {
-    "title": "Joby Aviation\u2019s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-    "normalized": "joby aviation's 3,100-mile autonomous flight signals its push beyond electric air taxis",
-    "content_hash": "076971864a77e57b6ba709ed438ffa47"
-  },
-  {
-    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-    "normalized": "manus seeks $4b valuation in new $500m fundraise as it resumes independent ops",
-    "content_hash": "31724aadec5a74eed4d6fc82a0e256e6"
-  },
-  {
-    "title": "Family offices are clamoring for AI investments",
-    "normalized": "family offices are clamoring for ai investments",
-    "content_hash": "765d829e868d76eeebffc3473254399a"
-  },
-  {
-    "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
-    "normalized": "fbi, coast guard boarded hacked oil tankers heading toward us coast",
-    "content_hash": "faab1e2b4434a7941e3605db6bfe5e4f"
-  },
-  {
-    "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-    "normalized": "an undercover google analyst infiltrated a notorious supply-chain hacking gang",
-    "content_hash": "85cc24bc1dbe439aa34598bcebf54705"
-  },
-  {
-    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-    "normalized": "virginia governor creates an ai task force and moves to restrain data centers",
-    "content_hash": "44b693487babfc32822151a7c6a1a390"
-  },
-  {
-    "title": "Disney\u2019s first CTO is Character.AI\u2019s former CEO",
-    "normalized": "disney's first cto is character.ai's former ceo",
-    "content_hash": "403b267ca403d19cbe5e3d608bc8bbed"
-  },
-  {
-    "title": "The real story of the iPhone 18 Pro&#8217;s camera",
-    "normalized": "the real story of the iphone 18 pro's camera",
-    "content_hash": "7d027312d29c407340d76b1964bd8e48"
-  },
-  {
-    "title": "Gavin Newsom is pushing for an AI kill switch",
-    "normalized": "gavin newsom is pushing for an ai kill switch",
-    "content_hash": "3ce819b56f01174b5acd774a432c73e1"
-  },
-  {
     "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
     "normalized": "claude opus 5 helped researchers take over openai staff accounts via chained flaws",
     "content_hash": "077cadc1ed69f074fe6e0884c7d481e3"
@@ -2498,5 +2373,130 @@
     "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
     "normalized": "bioeval: a global, multi-institutional benchmark of large language and multimodal models for bioengineering",
     "content_hash": "d1b27dfedf3f7e5eda72fed8982570b4"
+  },
+  {
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "normalized": "peak xv ups surge seed investment ceiling to $5m, unveils 18-startup cohort",
+    "content_hash": "cbf435d910726a193ee80181778454db"
+  },
+  {
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "normalized": "openai reportedly ditches model over safety concerns",
+    "content_hash": "7c13d7d16efcadbfa5ceb3c3b4163a91"
+  },
+  {
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "normalized": "source: inference provider modal labs closing in on $750m round at $15.75b valuation",
+    "content_hash": "6534baaa6dae06c3d7abd4009d8e037d"
+  },
+  {
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "normalized": "shopify opens checkout to browser-based ai agents",
+    "content_hash": "f3375fd5ad419035c7c385d933692f8f"
+  },
+  {
+    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+    "normalized": "experts worry about nvidia's ai chip sales in china and influence over trump",
+    "content_hash": "6c9f4fc4faac505f1542016e859598cd"
+  },
+  {
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "normalized": "amd is acquiring ai company world labs in a deal worth more than $8 billion",
+    "content_hash": "d41d97ec48e7f1b3b6420435177bba05"
+  },
+  {
+    "title": "OpenAI apologises for Medicare hack and reveals extent of attack",
+    "normalized": "openai apologises for medicare hack and reveals extent of attack",
+    "content_hash": "78f2ab63f77fa0938325ca50ae7d7600"
+  },
+  {
+    "title": "OpenAI scraps release of Astra 6.1 model over safety issues",
+    "normalized": "openai scraps release of astra 6.1 model over safety issues",
+    "content_hash": "b5b856c18b67760d89172dab00484646"
+  },
+  {
+    "title": "WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns",
+    "normalized": "wsj reports openai scrapped gpt-6.1 astra over safety concerns",
+    "content_hash": "d305bda0b07c483d1c43c872e12e2e10"
+  },
+  {
+    "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn\u2019t as far-fetched as it sounds",
+    "normalized": "aurora cfo says 30,000 driverless trucks by 2030 isn't as far-fetched as it sounds",
+    "content_hash": "091f657bdb67fda812149021cec2f1f0"
+  },
+  {
+    "title": "AMD will acquire Fei-Fei Li\u2019s World Labs for $8.2 billion",
+    "normalized": "amd will acquire fei-fei li's world labs for $8.2 billion",
+    "content_hash": "553a29bc4b619dd34818fd61c59e87cd"
+  },
+  {
+    "title": "Tesla delays Roadster 2 event again due to bad weather",
+    "normalized": "tesla delays roadster 2 event again due to bad weather",
+    "content_hash": "9b2c6d8c8129c90b1fe7980c87f0c6df"
+  },
+  {
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "normalized": "the ai boom took over climate week and not everyone is happy about it",
+    "content_hash": "3bec44b4fd23be8aad012b82c68d3c6f"
+  },
+  {
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "normalized": "anthropic releases sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "content_hash": "52b48bf7e3e3a76ab115000433ebd379"
+  },
+  {
+    "title": "Commonwealth Fusion Systems\u2019 Brandon Sorbom and Helion\u2019s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+    "normalized": "commonwealth fusion systems' brandon sorbom and helion's david kirtley on bringing fusion to the grid at techcrunch disrupt 2026",
+    "content_hash": "5f4279970cc7a87b90aa45e44185bab8"
+  },
+  {
+    "title": "FBI reportedly declares \u2018cyber security incident\u2019 after hackers steal agents\u2019 personal data",
+    "normalized": "fbi reportedly declares 'cyber security incident' after hackers steal agents' personal data",
+    "content_hash": "1ab86fcdee57ce9b0dacd78f8f3e1244"
+  },
+  {
+    "title": "AI Agents Are About to Flood the Workforce. No One\u2019s Ready for It",
+    "normalized": "ai agents are about to flood the workforce. no one's ready for it",
+    "content_hash": "cd488f8414fc5ee94057c3062169042c"
+  },
+  {
+    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+    "normalized": "the next evolution of ai is learning from your dodgy gaming skills",
+    "content_hash": "3fa9d51d7f521bd160cdafad348d882e"
+  },
+  {
+    "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+    "normalized": "hackers use needymantis to maintain long-term access in breached networks",
+    "content_hash": "1e605393394eed49b39deda264ede9c1"
+  },
+  {
+    "title": "IAM for AI agents: A Practical Enterprise Framework",
+    "normalized": "iam for ai agents: a practical enterprise framework",
+    "content_hash": "9cd817e8af7d1357462754e32e317d92"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+    "normalized": "\u26a1 weekly recap: $387m crypto hack, citrix exploits, ai agents go off-script, and more threats",
+    "content_hash": "73109625fed0d0043626f9b899b34c46"
+  },
+  {
+    "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+    "normalized": "webinar: how to govern ai agents, reduce excessive access, and control shadow ai",
+    "content_hash": "e52b2c981c768d7522e73bd93dca39dc"
+  },
+  {
+    "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+    "normalized": "carbonato botnet compromises docker hosts to deploy telegram-controlled hermes ai agent",
+    "content_hash": "5fce0c2eb0216fad18cd54038fdc24f4"
+  },
+  {
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+    "normalized": "florida invokes extinction fears in legal bid to halt openai development",
+    "content_hash": "ba11b85b979708ac09e86c7776047ebf"
+  },
+  {
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "normalized": "openai halts frontier-model training amid string of agent misalignment incidents",
+    "content_hash": "b2c98da55a8a6fbd16adf801e33dfd16"
   }
 ]
