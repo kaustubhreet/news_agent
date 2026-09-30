@@ -1,130 +1,5 @@
 [
   {
-    "title": "Gemini went rogue, hacked three companies, and Google hid it",
-    "normalized": "gemini went rogue, hacked three companies, and google hid it",
-    "content_hash": "5e9dacf3f75e8802c74fc35d9aa93a0c"
-  },
-  {
-    "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-    "normalized": "lawsuit says anthropic, openai and others made illegal agreement on ai slowdown",
-    "content_hash": "798106ada87d00f27fe929b7cf9cfd4d"
-  },
-  {
-    "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",
-    "normalized": "lawsuit: illegal agreement of anthropic, openai, spacexai, google on ai slowdown",
-    "content_hash": "1c3c0f35b69e5cf06a1c83a1897e5ae7"
-  },
-  {
-    "title": "Lawsuit Accuses Anthropic, OpenAI, SpaceXAI, Google of AI Pacing 'Collusion'",
-    "normalized": "lawsuit accuses anthropic, openai, spacexai, google of ai pacing 'collusion'",
-    "content_hash": "52ebb26f85f826a877c5ff69fb567896"
-  },
-  {
-    "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
-    "normalized": "anthropic, openai, spacexai, google sued over call to 'pace' ai development",
-    "content_hash": "96152ba81dee48fdcddbc713389b3ea5"
-  },
-  {
-    "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
-    "normalized": "google's gemini is the latest ai model to hack other companies",
-    "content_hash": "b374f72bfd2adc1dfb59c56495ff92fb"
-  },
-  {
-    "title": "The US Navy just told us what\u2019s on its tech wish list for the next several years",
-    "normalized": "the us navy just told us what's on its tech wish list for the next several years",
-    "content_hash": "7c5580af8c61eeda5c4c7c8817d006d0"
-  },
-  {
-    "title": "OpenAI and Anthropic oversold AI security breaches",
-    "normalized": "openai and anthropic oversold ai security breaches",
-    "content_hash": "4420c24013bc9248cfac1fa8895c994c"
-  },
-  {
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "normalized": "flock reportedly tries to shrink workforce with employee buyouts",
-    "content_hash": "c75e125111fff9360475d8901693872c"
-  },
-  {
-    "title": "Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force",
-    "normalized": "trump says it's time to rebrand ai with a new name -- and he's also creating an ai force",
-    "content_hash": "94fbcb87cb42fa94aae307a48aaa6df3"
-  },
-  {
-    "title": "Meta\u2019s Muse is creepy, but maybe not for the reasons you think",
-    "normalized": "meta's muse is creepy, but maybe not for the reasons you think",
-    "content_hash": "f703d360f84527f48f3c721f7b610a75"
-  },
-  {
-    "title": "Show HN: Text-me: a personal agent that learns your pace",
-    "normalized": "show hn: text-me: a personal agent that learns your pace",
-    "content_hash": "8509e3894401497e4213f91cee784d39"
-  },
-  {
-    "title": "AI agent governance patterns as executable decision tables (MIT license)",
-    "normalized": "ai agent governance patterns as executable decision tables (mit license)",
-    "content_hash": "7ec5a782b76c8a474e96d9a723656ff8"
-  },
-  {
-    "title": "The Doomsday Cult Inside OpenAI \u2013 Patrick Boyle [video]",
-    "normalized": "the doomsday cult inside openai - patrick boyle [video]",
-    "content_hash": "bbd43d0795f815959ab37affe7c1d49a"
-  },
-  {
-    "title": "Certify the Conversation, Not Just the AI Agent",
-    "normalized": "certify the conversation, not just the ai agent",
-    "content_hash": "be914b1466446fcdac55387c478f1a1a"
-  },
-  {
-    "title": "'Sketchy AF': What to Know About How OpenAI Staff Discussed Book-Pirating",
-    "normalized": "'sketchy af': what to know about how openai staff discussed book-pirating",
-    "content_hash": "033f8853f4de8c523a6240effd77858b"
-  },
-  {
-    "title": "How should we evaluate whether an AI agent's memory is still current?",
-    "normalized": "how should we evaluate whether an ai agent's memory is still current?",
-    "content_hash": "d789580b88014001b3f30699168b2266"
-  },
-  {
-    "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
-    "normalized": "openclaw releases 2026.9.5 with atomic updates, plugin hot reload, conversation sharing, and expanded gpt live",
-    "content_hash": "d6daa946cebea6cb108c16ffc455230a"
-  },
-  {
-    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-    "normalized": "prices go up in 7 days. get your disrupt ticket now.",
-    "content_hash": "3a70cb205ba8ca641034b7c9f7402610"
-  },
-  {
-    "title": "Here\u2019s How an AI Slowdown Could Actually Be Enforced",
-    "normalized": "here's how an ai slowdown could actually be enforced",
-    "content_hash": "6ea36f7da80e33fe556d06baa0117fda"
-  },
-  {
-    "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-    "normalized": "ai pacs have dumped nearly $1 million into an obscure senate race",
-    "content_hash": "a20a9789cf05664a02b60669b713066f"
-  },
-  {
-    "title": "Meta\u2019s Copyright System Is Being Weaponized Against Albanian Protesters",
-    "normalized": "meta's copyright system is being weaponized against albanian protesters",
-    "content_hash": "498a790d86fce6a5e29762636ff63ad8"
-  },
-  {
-    "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-    "normalized": "can you prove a new cve is exploitable before attackers do? learn how in this webinar",
-    "content_hash": "c4142deb14f4a4a3c866836a35dbfac3"
-  },
-  {
-    "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-    "normalized": "identity visibility in 2026: the foundation of identity security",
-    "content_hash": "95f279927095aefe602c7c6bd6809ae5"
-  },
-  {
-    "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-    "normalized": "critical pre-auth rce in orkes conductor workflow platform exploited in the wild",
-    "content_hash": "e865a1992c097bedffdb6e3719613ca1"
-  },
-  {
     "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here\u2019s How to Change That",
     "normalized": "what chatgpt thinks it knows about you is affecting its answers. here's how to change that",
     "content_hash": "2558b5ea8b12ecf1ae44a43f4e7ebb9e"
@@ -2498,5 +2373,130 @@
     "title": "Oura shelves its $2.2B IPO, citing \u2018uncertainty\u2019 in the market",
     "normalized": "oura shelves its $2.2b ipo, citing 'uncertainty' in the market",
     "content_hash": "e3311f25fae9e85dfaa157f0f237855f"
+  },
+  {
+    "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+    "normalized": "here's why openai is absent from nvidia's industry-wide effort to end rogue ai agents",
+    "content_hash": "c3dc14dfe5938c54b100122595c1db77"
+  },
+  {
+    "title": "OpenAI\u2019s latest features take direct aim at the app store model",
+    "normalized": "openai's latest features take direct aim at the app store model",
+    "content_hash": "66da208c74eb9e6ea03521e16f55f383"
+  },
+  {
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+    "normalized": "openai takes on microsoft with the launch of what feels a whole lot like chatgpt's own office suite",
+    "content_hash": "e272c11eedfec6a77b948d53353ae609"
+  },
+  {
+    "title": "AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",
+    "normalized": "ai researchers put out videos saying superintelligence is 'exactly as dangerous as it sounds'",
+    "content_hash": "356974507c4e5d50a1297aac8097d820"
+  },
+  {
+    "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+    "normalized": "the internet is convinced elon musk's xai trolled openai's 'dots' launch",
+    "content_hash": "b5ec10a8009332a62ca0b1835a9d2944"
+  },
+  {
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "normalized": "openai launches dots, its bubbly agentic avatar",
+    "content_hash": "59d258b031138028480ce7386b5fef33"
+  },
+  {
+    "title": "OpenAI expands ChatGPT\u2019s plug-ins with app-like interfaces and automations",
+    "normalized": "openai expands chatgpt's plug-ins with app-like interfaces and automations",
+    "content_hash": "3d1f421a7ce3f7eedc43702f70eb5bdb"
+  },
+  {
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "normalized": "openai reportedly in talks to raise $30b round at $1.4t valuation",
+    "content_hash": "032557e1a3f81dddc037e1907d39a2e5"
+  },
+  {
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "normalized": "ai-powered app maker wabi pivots to a messaging experience",
+    "content_hash": "79ae77b51f7b34f2a1d9e997765cd97c"
+  },
+  {
+    "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+    "normalized": "openai gets sued over the hugging face hack",
+    "content_hash": "32300632aa65ab68719f4f71f30dfd44"
+  },
+  {
+    "title": "OpenAI\u2019s Dots Are Always-On AI Agents\u2014and Its Answer to Meta\u2019s Muse",
+    "normalized": "openai's dots are always-on ai agents--and its answer to meta's muse",
+    "content_hash": "bb525df871318c9b0eb15d09b465d754"
+  },
+  {
+    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+    "normalized": "amd acquires world labs ai startup, upping the ante against nvidia",
+    "content_hash": "a7d19cd51e8780c2afe4ce1aca91808c"
+  },
+  {
+    "title": "ChatGPT Space is a shared hub for work projects and personal AI agents",
+    "normalized": "chatgpt space is a shared hub for work projects and personal ai agents",
+    "content_hash": "b80a2c2cae9811fc48108f5a22462c68"
+  },
+  {
+    "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
+    "normalized": "sam altman says openai won't go public until its models are safe",
+    "content_hash": "d45e538366254eea428774c87814a883"
+  },
+  {
+    "title": "OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers",
+    "normalized": "openai launches dots: always-on gpt-6 astra agents that work from their own cloud computers",
+    "content_hash": "ff8316f2753432925556c51b9f5b6b5f"
+  },
+  {
+    "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes",
+    "normalized": "nebius opens 2026 physical ai awards: five $150k compute credit prizes",
+    "content_hash": "eba01e2ac17d94383440cd377da6d83a"
+  },
+  {
+    "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+    "normalized": "your car and its mobile app are probably handing over all kinds of data to tech companies",
+    "content_hash": "46baab1be13366bc09e1b20cfd957525"
+  },
+  {
+    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+    "normalized": "a16z-backed eliseai raises $350m, doubles valuation to $4b",
+    "content_hash": "f1a2eec978d8e797d5802897d6314102"
+  },
+  {
+    "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+    "normalized": "apple pay set to launch in india with axis bank today, sources say",
+    "content_hash": "fd58ea54fc769dd2f2fd26389c179347"
+  },
+  {
+    "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+    "normalized": "dutch police arrest shinyhunters hacker accused of planning two murders",
+    "content_hash": "bc3c245ba8b579b0dc988e0316cb4dac"
+  },
+  {
+    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "normalized": "openai delays release of latest model over safety concerns",
+    "content_hash": "241cc61ffe7418d8e22480470d19f4aa"
+  },
+  {
+    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+    "normalized": "russia's star blizzard targets 100+ organizations with fake event invites to deliver backdoor",
+    "content_hash": "e3fd8b4b1324abd2db9fc794337f0f08"
+  },
+  {
+    "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+    "normalized": "here's what actually happened in openai's australian gov't server hack",
+    "content_hash": "cb1cc46aa013fc16991fb36e3e542575"
+  },
+  {
+    "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+    "normalized": "openai says planned gpt-6.1 is too insecure to release",
+    "content_hash": "955ed0943724bde02748fe996e914c60"
+  },
+  {
+    "title": "Trump orders US government to call AI \u2018Super Intelligence\u2019",
+    "normalized": "trump orders us government to call ai 'super intelligence'",
+    "content_hash": "77ce8438c58114051a4b373890e7138a"
   }
 ]
