@@ -1,130 +1,5 @@
 [
   {
-    "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-    "normalized": "no one is surprised that nvidia's jensen huang thinks ai fears are overblown.",
-    "content_hash": "69817c5b50c0f7e4296f2836c5657c09"
-  },
-  {
-    "title": "Is the AI industry really ready to slow down?",
-    "normalized": "is the ai industry really ready to slow down?",
-    "content_hash": "3282e0f87653d3e5b6f76e3cbba119ee"
-  },
-  {
-    "title": "ScrollEd wants to turn textbooks into TikTok",
-    "normalized": "scrolled wants to turn textbooks into tiktok",
-    "content_hash": "096328fbcb5d47291fd59dcfd0231785"
-  },
-  {
-    "title": "New California law will penalize influencers who don\u2019t disclose political ads",
-    "normalized": "new california law will penalize influencers who don't disclose political ads",
-    "content_hash": "dda6ff9a6c4107739a411ed60c75f4fb"
-  },
-  {
-    "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
-    "normalized": "techcrunch mobility: how do we know when an av is safe enough?",
-    "content_hash": "619942fff1b1c7118cb08f8664884054"
-  },
-  {
-    "title": "Trump now says he wants to form an \u2018AI Force\u2019",
-    "normalized": "trump now says he wants to form an 'ai force'",
-    "content_hash": "4ed0afd4155d73c15cba4cc48559f0d1"
-  },
-  {
-    "title": "Google's Open Agentic Orchestrator",
-    "normalized": "google's open agentic orchestrator",
-    "content_hash": "384b29705403b971e31f2360befdbd61"
-  },
-  {
-    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-    "normalized": "6 days left to save up to $200 to techcrunch disrupt 2026",
-    "content_hash": "2528228ff2e3fcf35596b4f73566fbe6"
-  },
-  {
-    "title": "Elon Musk\u2019s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
-    "normalized": "elon musk's latest boring company pitch involves a hyperloop between austin and san antonio",
-    "content_hash": "28432b008b07275dd2cad3694ed748b2"
-  },
-  {
-    "title": "Vocci\u2019s ring adds a new form factor to meeting note-taking",
-    "normalized": "vocci's ring adds a new form factor to meeting note-taking",
-    "content_hash": "608f95d82f3bb3d800630e1cd548fbd2"
-  },
-  {
-    "title": "How to use ChatGPT to make stickers for iMessage and WhatsApp",
-    "normalized": "how to use chatgpt to make stickers for imessage and whatsapp",
-    "content_hash": "1c87e2b95b88f09cd3f6bba6f5ebf1a4"
-  },
-  {
-    "title": "Joby Aviation completed a fully autonomous flight from California to North Carolina",
-    "normalized": "joby aviation completed a fully autonomous flight from california to north carolina",
-    "content_hash": "fb2f547508fa3b7d1d0ae814fa6675b6"
-  },
-  {
-    "title": "No Dogs in Space is back to feed your need for obsessive music history",
-    "normalized": "no dogs in space is back to feed your need for obsessive music history",
-    "content_hash": "cc071ea9a43a14afa3ff4d905c397893"
-  },
-  {
-    "title": "Kojima Productions disputes reports the studio is in trouble",
-    "normalized": "kojima productions disputes reports the studio is in trouble",
-    "content_hash": "41524d6f5225e0d556824616c729d5b3"
-  },
-  {
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "normalized": "chatgpt now knows what you do on other websites via ad collector",
-    "content_hash": "1184ab4ae4e79dd6b2e24cd3c2b5b9db"
-  },
-  {
-    "title": "Amiga Unix, Again",
-    "normalized": "amiga unix, again",
-    "content_hash": "8b96517ed0df677077c2d02b03742dd7"
-  },
-  {
-    "title": "Pirate Face Rescues LLM Models from Deletion",
-    "normalized": "pirate face rescues llm models from deletion",
-    "content_hash": "060f1b6920473462d0187b52eb9f2fa8"
-  },
-  {
-    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-    "normalized": "spain orders blocks on archive.today and its mirrors",
-    "content_hash": "76ec67817bd5192880c4cff476c5328c"
-  },
-  {
-    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-    "normalized": "dapo: an open-source rl system from bytedance seed and tsinghua air",
-    "content_hash": "53b8eaf48edd7937816991d9b7367aa8"
-  },
-  {
-    "title": "Show HN: Radius \u2013 A Meetup.com Alternative",
-    "normalized": "show hn: radius - a meetup.com alternative",
-    "content_hash": "8570477eb8562fc762747872da335bd3"
-  },
-  {
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "normalized": "introducing the australian youth safety blueprint",
-    "content_hash": "9e587d69f6c8775d67da7de7fb8d4fa5"
-  },
-  {
-    "title": "Introducing Astra for Law",
-    "normalized": "introducing astra for law",
-    "content_hash": "b8381f748450402ec3a8c2d6a0b7412a"
-  },
-  {
-    "title": "Hex turns complex analysis into visual reports with GPT\u20116 Astra",
-    "normalized": "hex turns complex analysis into visual reports with gpt\u20116 astra",
-    "content_hash": "65e5e10e4478b1f0aa2d39b8be121abb"
-  },
-  {
-    "title": "How to connect AI usage to business value",
-    "normalized": "how to connect ai usage to business value",
-    "content_hash": "e5ecab4b6444c74bf533dd300de5ff6d"
-  },
-  {
-    "title": "Our framework for reporting model misalignment",
-    "normalized": "our framework for reporting model misalignment",
-    "content_hash": "d297cda731f2dc4d70816cd7a5a52b15"
-  },
-  {
     "title": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in at TechCrunch Disrupt 2026",
     "normalized": "where will the next breakout startup come from? benchmark's full partnership weighs in at techcrunch disrupt 2026",
     "content_hash": "4949a25bbe9ff7612589a3f36302e3f0"
@@ -2498,5 +2373,130 @@
     "title": "Instagram is adding an AI \u2018assistant\u2019 to tell you how to post",
     "normalized": "instagram is adding an ai 'assistant' to tell you how to post",
     "content_hash": "a74f9cb5b388f825229a00b08ee47371"
+  },
+  {
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "normalized": "valor, atreides, and sequoia back ai startup flow engineering at $750m valuation",
+    "content_hash": "efb477cfc1ed0a84a3aa41696d6cc27b"
+  },
+  {
+    "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+    "normalized": "openai's jev clone could help the frontier lab stop its swarming agents",
+    "content_hash": "0983968b0a4e2c037ff198eb15970f8f"
+  },
+  {
+    "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+    "normalized": "google announces gemini 4 and says it's so capable that only 'trusted cyber defenders' can have it right now",
+    "content_hash": "fd05a413a12bf8e190278cb32eb2c352"
+  },
+  {
+    "title": "The AI Tamagotchis are coming",
+    "normalized": "the ai tamagotchis are coming",
+    "content_hash": "178e1931a96e4461652ee1780a8df635"
+  },
+  {
+    "title": "Is Neko Health\u2019s body scan worth it?\u00a0Spotify billionaire\u2019s\u00a0startup\u00a0has\u00a0come to America",
+    "normalized": "is neko health's body scan worth it? spotify billionaire's startup has come to america",
+    "content_hash": "ad612c34fd98d801691ae4a4e5ebe054"
+  },
+  {
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "normalized": "ai voice startup elevenlabs doubles valuation to $22b",
+    "content_hash": "24a3f380c7a7d8a444b24559a587b596"
+  },
+  {
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "normalized": "the battle to be your personal ai agent is here",
+    "content_hash": "d3d197b0a2967f0777483b4cad63d741"
+  },
+  {
+    "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+    "normalized": "attackers abuse msp360 to deploy screenconnect in dual-rmm phishing attacks",
+    "content_hash": "742dd60f5584bc05e7ea7c1c69f1ea9b"
+  },
+  {
+    "title": "Ask HN: My agent went haywire, does this output mean anything?",
+    "normalized": "ask hn: my agent went haywire, does this output mean anything?",
+    "content_hash": "6844750a5ea52719e0f1a5917276b983"
+  },
+  {
+    "title": "The Man Who Built OpenAI's First Chip",
+    "normalized": "the man who built openai's first chip",
+    "content_hash": "114eb25e0f07cbb470648092198cfba2"
+  },
+  {
+    "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra\u2019s Token Price",
+    "normalized": "openai releases gpt-6.1 sol: near-astra coding and computer use at one-fifth of astra's token price",
+    "content_hash": "c4e1132bdbbe3d7e980d334c830b80d3"
+  },
+  {
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "normalized": "google releases gemini 4 argon, called its most powerful model yet",
+    "content_hash": "eba9cdf9fb46daa6611991e8a01dde81"
+  },
+  {
+    "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+    "normalized": "factory ceo just accused his vc board adviser of spying for cognition",
+    "content_hash": "b5c3ac2198002d36f02fa3df686f3347"
+  },
+  {
+    "title": "DoorDash\u2019s drone strategy started on the ground",
+    "normalized": "doordash's drone strategy started on the ground",
+    "content_hash": "bc20e5bb4420f070295d041bb52a4d8d"
+  },
+  {
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "normalized": "reddit is killing rss feeds and ending public api access because of ai bots",
+    "content_hash": "b1122d8326d240022ceaeea96b88a2b2"
+  },
+  {
+    "title": "The ugly economics of consumer AI",
+    "normalized": "the ugly economics of consumer ai",
+    "content_hash": "d4dd706041a96411facaf2055465c79e"
+  },
+  {
+    "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+    "normalized": "attackers exploit zimbra flaw to deploy web shells and harvest authentication secrets",
+    "content_hash": "36d2ae9839543b3c1ac9142355453d86"
+  },
+  {
+    "title": "Elon Musk\u2019s Grokipedia has a \u2018newly refreshed\u2019 design",
+    "normalized": "elon musk's grokipedia has a 'newly refreshed' design",
+    "content_hash": "0cf3b3feea3bd101a62fc810756116a3"
+  },
+  {
+    "title": "The new and huger Paramount has a new co-CEO",
+    "normalized": "the new and huger paramount has a new co-ceo",
+    "content_hash": "4c9818091455ef86f8a8e33e1b4cd774"
+  },
+  {
+    "title": "Reddit says it has to cut back access to \u2018Old Reddit\u2019 because of AI bots",
+    "normalized": "reddit says it has to cut back access to 'old reddit' because of ai bots",
+    "content_hash": "ed9c6c57d3acc0f323db9e235e5de59e"
+  },
+  {
+    "title": "Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;",
+    "normalized": "amazon's delivery driver smart glasses will reportedly take photos 'almost constantly'",
+    "content_hash": "1ea36aecf7bc2ea30a5b96d9658473b5"
+  },
+  {
+    "title": "Here&#8217;s what AI leaders are saying about Trump\u2019s new safety plan",
+    "normalized": "here's what ai leaders are saying about trump's new safety plan",
+    "content_hash": "f3e7a6044ee7e0bd347e6eec2a21d6b5"
+  },
+  {
+    "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+    "normalized": "bild ai (yc w25) is hiring a founding product engineer",
+    "content_hash": "5adb6cd354c0896ff680dc9ec65fefa6"
+  },
+  {
+    "title": "Polytoken is a local-first AI coding agent daemon",
+    "normalized": "polytoken is a local-first ai coding agent daemon",
+    "content_hash": "51da8c2e08392bf3fd06791fce621084"
+  },
+  {
+    "title": "Universal Modder: Let Any AI Coding Agent Mod Almost Any PC Game",
+    "normalized": "universal modder: let any ai coding agent mod almost any pc game",
+    "content_hash": "48734a52bebd0afbcd25b55067558f03"
   }
 ]
