@@ -1,130 +1,5 @@
 [
   {
-    "title": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in at TechCrunch Disrupt 2026",
-    "normalized": "where will the next breakout startup come from? benchmark's full partnership weighs in at techcrunch disrupt 2026",
-    "content_hash": "4949a25bbe9ff7612589a3f36302e3f0"
-  },
-  {
-    "title": "Google\u2019s $899 Googlebook is a bet that you\u2019ll buy a new laptop for Gemini",
-    "normalized": "google's $899 googlebook is a bet that you'll buy a new laptop for gemini",
-    "content_hash": "02f797e1e57ef8bf234a0186e7e52c51"
-  },
-  {
-    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-    "normalized": "meet the next wave of vcs judging startup battlefield 200 at techcrunch disrupt 2026",
-    "content_hash": "90c54270916271bb13c0c3e47c2b9022"
-  },
-  {
-    "title": "These are the first five Googlebook laptops",
-    "normalized": "these are the first five googlebook laptops",
-    "content_hash": "362def32e4000bd5c4614a4082b704ce"
-  },
-  {
-    "title": "The long dream of the Googlebook",
-    "normalized": "the long dream of the googlebook",
-    "content_hash": "ed533a9510bdc44df630d88b95fb5641"
-  },
-  {
-    "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
-    "normalized": "the m5 ultra mac studio tears through our benchmark tests",
-    "content_hash": "8e8f06a15b910cd2879085d03d729b2f"
-  },
-  {
-    "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
-    "normalized": "can agents design better chips with a higher level abstraction?",
-    "content_hash": "5d68297e16e071f2d792faa57a64fd58"
-  },
-  {
-    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "normalized": "with tabby, a former accountant is using ai to make accountants obsolete",
-    "content_hash": "b80d63e5fdcd568ff978a2f99782b81e"
-  },
-  {
-    "title": "From first users to billions: Google\u2019s Robby Stein joins TechCrunch Disrupt 2026",
-    "normalized": "from first users to billions: google's robby stein joins techcrunch disrupt 2026",
-    "content_hash": "a38e04ad1f96a53a01d2a518eb4bfa0e"
-  },
-  {
-    "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
-    "normalized": "corridor raises $25m seed to build a health benefits brokerage for smbs",
-    "content_hash": "a6f6111ca0eb31e64655a0e4a0a7ed81"
-  },
-  {
-    "title": "Apple Mac Mini (M6) Review: For the AI Curious",
-    "normalized": "apple mac mini (m6) review: for the ai curious",
-    "content_hash": "666057d5186577e9298f80d99f537622"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-    "normalized": "\u26a1 weekly recap: cisco 0-day, ai agent rce, clickfix attacks, clickfix surge, and browser hijacks",
-    "content_hash": "541fe3c90f46372afc5bfe25f3caf158"
-  },
-  {
-    "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-    "normalized": "clickfix lures deploy chainscript rat using polygon to rotate c2 infrastructure",
-    "content_hash": "66978b61bbc6e8c4121427968d8b51d9"
-  },
-  {
-    "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-    "normalized": "jade sleet linked to indian it provider breach with flatroof and roofdeck backdoors",
-    "content_hash": "4938497665ed66763c540989bd1afde2"
-  },
-  {
-    "title": "CC",
-    "normalized": "cc",
-    "content_hash": "e0323a9039add2978bf5b49550572c7c"
-  },
-  {
-    "title": "Bungie says it\u2019s \u2018not done with Destiny\u2019 and will bring back vaulted content",
-    "normalized": "bungie says it's 'not done with destiny' and will bring back vaulted content",
-    "content_hash": "32d275627cf6b321b45360e66af92a61"
-  },
-  {
-    "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-    "normalized": "grab an xbox controller and a $50 xbox gift card together for just $80",
-    "content_hash": "fad33c76ddfb798b480e32afed2129b7"
-  },
-  {
-    "title": "Can John Ternus find Apple\u2019s next big thing?",
-    "normalized": "can john ternus find apple's next big thing?",
-    "content_hash": "38012c287830a5e39bb7af1cf3f181d7"
-  },
-  {
-    "title": "iPhone owners can now submit claims in Apple\u2019s $250 million Siri AI settlement",
-    "normalized": "iphone owners can now submit claims in apple's $250 million siri ai settlement",
-    "content_hash": "bb86ca3ec562b93c369b590e66cdda76"
-  },
-  {
-    "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
-    "normalized": "i got to see google's wild ideas about the future of laptops",
-    "content_hash": "4a28699882bb1dcb79bcbee6d748d3dc"
-  },
-  {
-    "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
-    "normalized": "ax - google's open agentic orchestrator",
-    "content_hash": "eb9f12932c3f2c2ad0477effb985bd71"
-  },
-  {
-    "title": "Amazon Blocks Meta's New Muse AI Agent from Shopping on Amazon.com",
-    "normalized": "amazon blocks meta's new muse ai agent from shopping on amazon.com",
-    "content_hash": "10a16d90828b02027c5bf9e4aa24d6a1"
-  },
-  {
-    "title": "How V7 gives AI agents institutional memory",
-    "normalized": "how v7 gives ai agents institutional memory",
-    "content_hash": "bed66a6c0916edd0b6ef1df1fd0f2a3c"
-  },
-  {
-    "title": "Now everyone can put data to work",
-    "normalized": "now everyone can put data to work",
-    "content_hash": "b4bcd6c10ae90197f761c57b414d5edf"
-  },
-  {
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "normalized": "gpt-6 astra: the next generation in intelligence for work",
-    "content_hash": "9ca584098331c2993db24bfd842d4aaa"
-  },
-  {
     "title": "Meta\u2019s Muse is outpacing ChatGPT\u2019s early mobile launch",
     "normalized": "meta's muse is outpacing chatgpt's early mobile launch",
     "content_hash": "cb81db6366aaf928a6191a790366e0bf"
@@ -2498,5 +2373,130 @@
     "title": "Universal Modder: Let Any AI Coding Agent Mod Almost Any PC Game",
     "normalized": "universal modder: let any ai coding agent mod almost any pc game",
     "content_hash": "48734a52bebd0afbcd25b55067558f03"
+  },
+  {
+    "title": "OpenAI\u2019s new agent is a shot at Meta \u2014 but can it compete with free?",
+    "normalized": "openai's new agent is a shot at meta -- but can it compete with free?",
+    "content_hash": "5e89da0d7bd61da1f8f9a1291c43e24c"
+  },
+  {
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "normalized": "photon held a funeral for mobile apps. now it has $4.5m to help replace them with agents.",
+    "content_hash": "424633baf41eab5a6700c89933726d91"
+  },
+  {
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "normalized": "shopify debuts canvas, a way to build online stores by chatting with ai",
+    "content_hash": "6045f461aa72c9707093377577113b72"
+  },
+  {
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "normalized": "brian chesky interview: ai agents need their own operating system",
+    "content_hash": "0d45794f128ca86e370f9ece5e660f4b"
+  },
+  {
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "normalized": "hearing tech startup legato launches its ai hearing glasses",
+    "content_hash": "4ec206aa8e3d79162f76fecb707e9fbb"
+  },
+  {
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "normalized": "satlyt, founded by a former google and spacex product manager, raises $8m to run ai on satellites",
+    "content_hash": "362893d4735880d30678e782f9c58391"
+  },
+  {
+    "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+    "normalized": "google rolls out gemini 4 argon to trusted cyber defenders, plans guardrail-free version",
+    "content_hash": "793a9ba9d01b85c905347e9e3395b4d8"
+  },
+  {
+    "title": "Judge dismisses antitrust lawsuits over Google\u2019s AI Overviews",
+    "normalized": "judge dismisses antitrust lawsuits over google's ai overviews",
+    "content_hash": "e8f949b4d67cd84fc6f7f6075ee40d83"
+  },
+  {
+    "title": "Inside Microsoft\u2019s big Copilot rethink",
+    "normalized": "inside microsoft's big copilot rethink",
+    "content_hash": "3be35e5916a68aa8da0d00f14ee862c0"
+  },
+  {
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "normalized": "ftc is investigating openai, anthropic and other ai companies over product risks",
+    "content_hash": "ef53bcae9ce1e883fc3853bd337b5b8c"
+  },
+  {
+    "title": "Decode-Latency Feedback Prefill: A Model-Free Controller and Its Generalization Limits",
+    "normalized": "decode-latency feedback prefill: a model-free controller and its generalization limits",
+    "content_hash": "dce5572cac628ad990a2eedba2c5d23f"
+  },
+  {
+    "title": "AIM: Agentic Idea Management for Automated Research",
+    "normalized": "aim: agentic idea management for automated research",
+    "content_hash": "75ba787be715c649e35d823f38265904"
+  },
+  {
+    "title": "VAmoS Part Deux: Harder, More Realistic Voice-Agent Simulation",
+    "normalized": "vamos part deux: harder, more realistic voice-agent simulation",
+    "content_hash": "5927f1869103db401d6be1fc78c31239"
+  },
+  {
+    "title": "NVIDIA Releases Kumo Tabular: Open Tabular Foundation Models That Predict New Rows in a Single Forward Pass",
+    "normalized": "nvidia releases kumo tabular: open tabular foundation models that predict new rows in a single forward pass",
+    "content_hash": "18e854cf0b69258d4d4c6184710f6fb5"
+  },
+  {
+    "title": "This startup wants to turn idle user car inventory into rental revenue",
+    "normalized": "this startup wants to turn idle user car inventory into rental revenue",
+    "content_hash": "74098dc613ffdde5df3daa5f79cc1449"
+  },
+  {
+    "title": "One year later, Tesla and Musk still don\u2019t have a good definition of \u2018abundance\u2019",
+    "normalized": "one year later, tesla and musk still don't have a good definition of 'abundance'",
+    "content_hash": "2277c678886f74db48909dbedae1360d"
+  },
+  {
+    "title": "Audible\u2019s new features let you explore book worlds \u2014 and use AI to talk to characters",
+    "normalized": "audible's new features let you explore book worlds -- and use ai to talk to characters",
+    "content_hash": "463e611c7697c80e0ad85bebc3028445"
+  },
+  {
+    "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+    "normalized": "the new kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+    "content_hash": "9079b269181a00447bfa016d91ce3be1"
+  },
+  {
+    "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+    "normalized": "how financial services companies can modernize their software supply chain",
+    "content_hash": "8d8cfa3fde3fb2ed1abd882d446c2f44"
+  },
+  {
+    "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+    "normalized": "openai disrupts reasoning extraction campaign linked to moonshot ai associates",
+    "content_hash": "dfc74d3332fb98195ab35e501ea01012"
+  },
+  {
+    "title": "Dots by OpenAI",
+    "normalized": "dots by openai",
+    "content_hash": "378eae7ff9ef4703f182b67471a3c562"
+  },
+  {
+    "title": "Sony brings AI graphics upscaling to the regular PS5",
+    "normalized": "sony brings ai graphics upscaling to the regular ps5",
+    "content_hash": "bb8c7e927e5faf18f8b7391df3c95a1c"
+  },
+  {
+    "title": "Microsoft\u2019s Office and Teams chief is leaving",
+    "normalized": "microsoft's office and teams chief is leaving",
+    "content_hash": "6f73e34f54db45773150642df8a0ce87"
+  },
+  {
+    "title": "NYC is now the first city in America that bans sketchy subscriptions",
+    "normalized": "nyc is now the first city in america that bans sketchy subscriptions",
+    "content_hash": "75f2de733fa7bb192ace35c6c216238b"
+  },
+  {
+    "title": "Inside our months-long investigation into Kevin O\u2019Leary\u2019s Utah data center debacle",
+    "normalized": "inside our months-long investigation into kevin o'leary's utah data center debacle",
+    "content_hash": "9e4759255a98b2cd095f0712026e49c4"
   }
 ]
