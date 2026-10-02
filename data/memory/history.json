@@ -1,130 +1,5 @@
 [
   {
-    "title": "Meta\u2019s Muse is outpacing ChatGPT\u2019s early mobile launch",
-    "normalized": "meta's muse is outpacing chatgpt's early mobile launch",
-    "content_hash": "cb81db6366aaf928a6191a790366e0bf"
-  },
-  {
-    "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
-    "normalized": "anthropic, openai et al. face antitrust suit for agreeing to slow ai development",
-    "content_hash": "c8713066f06996698e17c6cd0b0b2cc9"
-  },
-  {
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "normalized": "openai forms math advisory group as its ai resolves more than 100 open problems",
-    "content_hash": "c3ab6f8a9a43f46d36a37e8c826e1b28"
-  },
-  {
-    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-    "normalized": "kairos power gets up to $100m from samsung group to build nuclear reactor for google",
-    "content_hash": "01f1f3bb89ed012df0a7dd8a300dc6d9"
-  },
-  {
-    "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
-    "normalized": "meta's ai agent has been blocked from using amazon.com",
-    "content_hash": "d0d05768e821ba3b661b419fe728353b"
-  },
-  {
-    "title": "Google CC, an AI agent built for families",
-    "normalized": "google cc, an ai agent built for families",
-    "content_hash": "9e720e206266081aeb9b8296f0d56082"
-  },
-  {
-    "title": "Unsealed files describe OpenAI \"research mission\" to supplant human authors",
-    "normalized": "unsealed files describe openai \"research mission\" to supplant human authors",
-    "content_hash": "f67025ab684506f3adbb86a0e6eb9e48"
-  },
-  {
-    "title": "The man who built Apple\u2019s stores doesn\u2019t buy Silicon Valley\u2019s bet on AI shopping",
-    "normalized": "the man who built apple's stores doesn't buy silicon valley's bet on ai shopping",
-    "content_hash": "18db2dd8f1a3e9284f7a35ab0188fe1b"
-  },
-  {
-    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump\u2019s Upcoming Summit With Xi Jinping",
-    "normalized": "ai, tariffs, rare minerals: what to expect from trump's upcoming summit with xi jinping",
-    "content_hash": "12cb6c8e224224bb4dc39c1fef7d2ba0"
-  },
-  {
-    "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-    "normalized": "fake lastpass authenticator installer abuses microsoft-signed driver to kill antivirus and edr",
-    "content_hash": "171322efe4d9060299308e5eb8debbd4"
-  },
-  {
-    "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-    "normalized": "contagious interview campaign compromises 30,000 devices, steals $10.71m in crypto",
-    "content_hash": "ef1a1c58725459fd43c6e3f4ae7487f1"
-  },
-  {
-    "title": "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data",
-    "normalized": "google fined \u20ac403 million over gdpr violations tied to location data",
-    "content_hash": "107cde8475e195ab31340d0f901de1a7"
-  },
-  {
-    "title": "A cut cable disrupted hundreds of flights across the US",
-    "normalized": "a cut cable disrupted hundreds of flights across the us",
-    "content_hash": "205e55e273bc3c4d9bbd83094e50358c"
-  },
-  {
-    "title": "California tightens rules on AI data center energy and water use",
-    "normalized": "california tightens rules on ai data center energy and water use",
-    "content_hash": "f920ca5c99d019ee92e04dc649c3e113"
-  },
-  {
-    "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
-    "normalized": "paramount settles lawsuit blocking $110 billion warner bros. merger",
-    "content_hash": "75a30baa3bfa6f0b7be596367b5dcb4e"
-  },
-  {
-    "title": "A 7B fact-checker beat 30B LLM reviewers and deleted no true claims",
-    "normalized": "a 7b fact-checker beat 30b llm reviewers and deleted no true claims",
-    "content_hash": "c2ef7aec3037d79d99974df7d4f2faf2"
-  },
-  {
-    "title": "Something bugs me about AGI AI LLM, what if we back paddled 1000 year",
-    "normalized": "something bugs me about agi ai llm, what if we back paddled 1000 year",
-    "content_hash": "55740feae05ff71ada7dbcfee0a3a182"
-  },
-  {
-    "title": "OpenAI flags 6 new incidents of 'concerning' behavior, unveils plan to track it",
-    "normalized": "openai flags 6 new incidents of 'concerning' behavior, unveils plan to track it",
-    "content_hash": "1574439b934518bdfa8cb9808aac5f11"
-  },
-  {
-    "title": "Escaping the OpenAI Codex sandbox, twice",
-    "normalized": "escaping the openai codex sandbox, twice",
-    "content_hash": "76b953fd8c6829cb04b743d03e7a9ee5"
-  },
-  {
-    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-    "normalized": "did openai solve the wrong navier-stokes problem?",
-    "content_hash": "48aa8adb7dc53d90ee2a741295c2033c"
-  },
-  {
-    "title": "IA Agent Arthur \u2013 Developed an OfflineAIagent",
-    "normalized": "ia agent arthur - developed an offlineaiagent",
-    "content_hash": "69317c31f5c2e3dec5235c2a26c1d71b"
-  },
-  {
-    "title": "OpenAI doesn't cryptographically sign its API responses",
-    "normalized": "openai doesn't cryptographically sign its api responses",
-    "content_hash": "aca5e1febb4444dcfb3c86c9bdc776f9"
-  },
-  {
-    "title": "Self-hosted AI agent that builds internal apps on your own data",
-    "normalized": "self-hosted ai agent that builds internal apps on your own data",
-    "content_hash": "91ec533ec4afd31421eae06befe16e50"
-  },
-  {
-    "title": "B.C. government to sue OpenAI after Tumbler Ridge mass shooting",
-    "normalized": "b.c. government to sue openai after tumbler ridge mass shooting",
-    "content_hash": "48573d8b94fe1cc1a463508ab7e9cbc7"
-  },
-  {
-    "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-    "normalized": "clinician-grounded quality assurance for ai-assisted psychiatric intake",
-    "content_hash": "dc2272dc6f3ed74c9af3d8015ae4ba0f"
-  },
-  {
     "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
     "normalized": "five ai safety sessions every founder should have on their techcrunch disrupt 2026 agenda",
     "content_hash": "4b7871c6fb157bd8b93c551676e66d78"
@@ -2498,5 +2373,130 @@
     "title": "Inside our months-long investigation into Kevin O\u2019Leary\u2019s Utah data center debacle",
     "normalized": "inside our months-long investigation into kevin o'leary's utah data center debacle",
     "content_hash": "9e4759255a98b2cd095f0712026e49c4"
+  },
+  {
+    "title": "Kevin Mandia\u2019s new \u2018agent swarm\u2019 security startup Armadin raises $255.5M at $2.5B valuation",
+    "normalized": "kevin mandia's new 'agent swarm' security startup armadin raises $255.5m at $2.5b valuation",
+    "content_hash": "5373c8589eab8e2e83e73f60397e30e7"
+  },
+  {
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "normalized": "chatgpt can now virtually try on clothes for you",
+    "content_hash": "ca3e13eee4477413c9de78f2df081258"
+  },
+  {
+    "title": "Google thinks SpaceX\u2019s Starship has to launch 1,800 times before space data centers get off the ground",
+    "normalized": "google thinks spacex's starship has to launch 1,800 times before space data centers get off the ground",
+    "content_hash": "f1c74a7e857a2a337c5d0e27e869cb3e"
+  },
+  {
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "normalized": "openai cuts ties with 3 safety researchers, wsj reports",
+    "content_hash": "d55ba02dbe7eb46ebe9f9eaef188debf"
+  },
+  {
+    "title": "Google\u2019s new Guided Vision feature can help you read the fine print",
+    "normalized": "google's new guided vision feature can help you read the fine print",
+    "content_hash": "33e163c6de1e697e237b2f90331f2c9d"
+  },
+  {
+    "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
+    "normalized": "android central 'will continue' despite laying off its staff",
+    "content_hash": "5cab97c1884102702d656f8c70a76521"
+  },
+  {
+    "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
+    "normalized": "steam deck 2: is amd gainsborough the chip valve's been waiting for?",
+    "content_hash": "313944c9c776a2d7a52e2bce2ee48695"
+  },
+  {
+    "title": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "normalized": "the founder's guide to techcrunch disrupt 2026: everything you need to know",
+    "content_hash": "d98af549cc7cb39104a396c1feac25af"
+  },
+  {
+    "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
+    "normalized": "musk's ai chatbot grok reportedly encouraged trump to capture venezuela's president",
+    "content_hash": "213b838e469733442ce31339deb1e8d8"
+  },
+  {
+    "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
+    "normalized": "opus 5.5 loves to tell you 'this matters' (and other ai writing tells)",
+    "content_hash": "f6a5a7dccf6a96c7a9aaec26d21918aa"
+  },
+  {
+    "title": "This startup wants to turn idle car inventory into rental revenue",
+    "normalized": "this startup wants to turn idle car inventory into rental revenue",
+    "content_hash": "3679cb6a32c699205311aafbce773d61"
+  },
+  {
+    "title": "Trump\u2019s \u2018Morally Binding\u2019 AI \u2018Accord,\u2019 the Rise of AI Agents, and Extremists on the Ballot",
+    "normalized": "trump's 'morally binding' ai 'accord,' the rise of ai agents, and extremists on the ballot",
+    "content_hash": "5106759613907f8e63ade6db07f7b219"
+  },
+  {
+    "title": "ChatGPT can now help you virtually try on clothes",
+    "normalized": "chatgpt can now help you virtually try on clothes",
+    "content_hash": "f3ba579519aefb0ff05c023bf4bcc85b"
+  },
+  {
+    "title": "Apple\u2019s reportedly developing a smart home camera that doesn\u2019t record video",
+    "normalized": "apple's reportedly developing a smart home camera that doesn't record video",
+    "content_hash": "bf3c285108fb2c9e180182278eccc119"
+  },
+  {
+    "title": "Show HN: Janus \u2013 Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+    "normalized": "show hn: janus - go binary that runs gguf models via vulkan on amd/intel/nvidia",
+    "content_hash": "7a3d12e58f846a7b7011a61a43df54af"
+  },
+  {
+    "title": "Aweb \u2013 Communication for AI Agents",
+    "normalized": "aweb - communication for ai agents",
+    "content_hash": "ef1d1ef59219cf5bee971aa5480aafc8"
+  },
+  {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "normalized": "how albertsons companies is reimagining retail from the inside out",
+    "content_hash": "40e308bdc50eb350de8b2c585dd42511"
+  },
+  {
+    "title": "DevDay 2026 Recap",
+    "normalized": "devday 2026 recap",
+    "content_hash": "a618cce109412b18f717eed517b171ae"
+  },
+  {
+    "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
+    "normalized": "build agent memory with nvidia nemo agent toolkit and amazon s3 vectors",
+    "content_hash": "dfc59ab1b803b27aef326be1c3b070ff"
+  },
+  {
+    "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
+    "normalized": "amazon bedrock expands claude model availability to in-country inferencing in india",
+    "content_hash": "9d0efe827c288d525e9002861806e308"
+  },
+  {
+    "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+    "normalized": "arex-2: advancing self-improving agents through long-horizon reflective tasks",
+    "content_hash": "1932087b418a34159531c961634e185c"
+  },
+  {
+    "title": "AI Agents are Vulnerable to Radicalization",
+    "normalized": "ai agents are vulnerable to radicalization",
+    "content_hash": "8c5c9a167db30bcfa884c7e4b1a4129b"
+  },
+  {
+    "title": "MetaPersona: Task-Grounded Synthetic Populations from Empirical Social Science",
+    "normalized": "metapersona: task-grounded synthetic populations from empirical social science",
+    "content_hash": "cfe31276750d33eb35c57608bb6c0aee"
+  },
+  {
+    "title": "PrivMeSA: Privacy-Aware Self-Evolving Multi-Agent System for Medicine via Local-Remote LLM Collaboration",
+    "normalized": "privmesa: privacy-aware self-evolving multi-agent system for medicine via local-remote llm collaboration",
+    "content_hash": "a475b50b1871bae68d0784a682f413e3"
+  },
+  {
+    "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
+    "normalized": "\"we're not going to shoot ourselves in the foot\" over hack fallout, says openai's chief research officer",
+    "content_hash": "8b11f48b19435f9bcf1d0a3df2e9e383"
   }
 ]
