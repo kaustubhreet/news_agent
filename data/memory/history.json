@@ -1,130 +1,5 @@
 [
   {
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "normalized": "five ai safety sessions every founder should have on their techcrunch disrupt 2026 agenda",
-    "content_hash": "4b7871c6fb157bd8b93c551676e66d78"
-  },
-  {
-    "title": "Show HN: Kado \u2013 Search to Allow Personal Agents to Find Agent Apps",
-    "normalized": "show hn: kado - search to allow personal agents to find agent apps",
-    "content_hash": "b86012bd86ad24cbd6dd1f37c6d7cf97"
-  },
-  {
-    "title": "Singapore\u2019s Nexstrom wants to bring 2D semiconductors to chip fabs",
-    "normalized": "singapore's nexstrom wants to bring 2d semiconductors to chip fabs",
-    "content_hash": "7179fa7eeb47734437970de2473fed98"
-  },
-  {
-    "title": "Nscale\u2019s IPO will test Wall Street\u2019s appetite for concentrated AI bets once again",
-    "normalized": "nscale's ipo will test wall street's appetite for concentrated ai bets once again",
-    "content_hash": "a24014fd2e92ae5e4ff4052c7d9f4cd8"
-  },
-  {
-    "title": "Show HN: Piary \u2013 Rethinking the human-agent interface beyond chat",
-    "normalized": "show hn: piary - rethinking the human-agent interface beyond chat",
-    "content_hash": "228bff90f32f7f1647ece847bbdbfff8"
-  },
-  {
-    "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%",
-    "normalized": "nvidia introduces sol-pi: auto-research loops that cut coding agent token traffic by up to 49%",
-    "content_hash": "70c43aa7d99423e0161b2382237d21f2"
-  },
-  {
-    "title": "Bill Gates\u2019 Breakthrough Energy bets these 21 startups will shape energy\u2019s future",
-    "normalized": "bill gates' breakthrough energy bets these 21 startups will shape energy's future",
-    "content_hash": "0f4884e389a8278a41a069d646351dde"
-  },
-  {
-    "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
-    "normalized": "microsoft is laying off 268 xbox staffers and ninja theory may close",
-    "content_hash": "b9d339b7a02ad866bfac59c868c682ef"
-  },
-  {
-    "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-    "normalized": "openai gpt-6 astra breaks enigma message that has resisted solution since 2005",
-    "content_hash": "9e0eaa60fb3982dfe779acbe7ced448d"
-  },
-  {
-    "title": "British Columbia Sues OpenAI, Alleging ChatGPT Aided Mass School Shooting",
-    "normalized": "british columbia sues openai, alleging chatgpt aided mass school shooting",
-    "content_hash": "9407c695c8871e0686f568903010eb0d"
-  },
-  {
-    "title": "Show HN: Relay \u2013 a self-hosted LLM gateway with smart routing and request pacing",
-    "normalized": "show hn: relay - a self-hosted llm gateway with smart routing and request pacing",
-    "content_hash": "709fdebf22ce9d84235aa391c6d9ab6e"
-  },
-  {
-    "title": "Noble Carbon will show how it\u2019s making EV charger installs painless at TechCrunch Disrupt",
-    "normalized": "noble carbon will show how it's making ev charger installs painless at techcrunch disrupt",
-    "content_hash": "cbf77bd015a84bc3b434ee8f2ffd92b1"
-  },
-  {
-    "title": "AstroForge is putting AI in command of its next spacecraft",
-    "normalized": "astroforge is putting ai in command of its next spacecraft",
-    "content_hash": "d8946a7e23962915b429c97d8dfc0819"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot\u2019s Stretch 4 to life onstage",
-    "normalized": "techcrunch disrupt 2026: aaron edsinger brings hello robot's stretch 4 to life onstage",
-    "content_hash": "3a9ba910572cbdee63e850f4a40c1214"
-  },
-  {
-    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-    "normalized": "exhibit tables added: one last chance to showcase your startup at techcrunch disrupt 2026",
-    "content_hash": "bde4aac7c1cd83a2351d13d58a0f1ec7"
-  },
-  {
-    "title": "Everyone can find a reason to dislike data center construction",
-    "normalized": "everyone can find a reason to dislike data center construction",
-    "content_hash": "993fe15d9273ce006bcf10e70ecb15de"
-  },
-  {
-    "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
-    "normalized": "meta deal will help plastics recycling startup macrocycle build its first factory",
-    "content_hash": "96b79e735381defcab0911e3b1dae3bd"
-  },
-  {
-    "title": "Morphotonics raises \u20ac40M to expand its display tech into data centers",
-    "normalized": "morphotonics raises \u20ac40m to expand its display tech into data centers",
-    "content_hash": "3f309f5e4791ea767eb3cf1c04fe68e7"
-  },
-  {
-    "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
-    "normalized": "ai agents are rewriting the rules of lateral movement",
-    "content_hash": "48559dbecf5aa91400f05113eececdaa"
-  },
-  {
-    "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-    "normalized": "sharepoint flaw initially listed as spoofing by microsoft enables authenticated rce",
-    "content_hash": "5d51809651c6c21170126c81dc0c08eb"
-  },
-  {
-    "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-    "normalized": "sidecopy broadens india targeting to academia with reverserat spear-phishing",
-    "content_hash": "06a5b88299b26f65d83d90f56f52a509"
-  },
-  {
-    "title": "Xbox is merging its Forza developers into a single studio",
-    "normalized": "xbox is merging its forza developers into a single studio",
-    "content_hash": "f5187ab0e8248c2642b88129ce1dcd28"
-  },
-  {
-    "title": "Activision is taking over Halo as part of a massive Xbox shake-up",
-    "normalized": "activision is taking over halo as part of a massive xbox shake-up",
-    "content_hash": "2d7e907c53622ef9e2e8979bef7f5f80"
-  },
-  {
-    "title": "&#8216;Trump TV&#8217; is just reruns of the president on YouTube",
-    "normalized": "'trump tv' is just reruns of the president on youtube",
-    "content_hash": "aa07bc5aee4044ed5ff5bc1ec0c19bf6"
-  },
-  {
-    "title": "Waymo is offering transit discounts again, this time with Visa",
-    "normalized": "waymo is offering transit discounts again, this time with visa",
-    "content_hash": "3c42603dbb236a01eaf14a48e7670c02"
-  },
-  {
     "title": "Launch HN: Coverage Cat (YC S22) \u2013 Umbrella insurance via your personal agent",
     "normalized": "launch hn: coverage cat (yc s22) - umbrella insurance via your personal agent",
     "content_hash": "11902d9c0ca0a03981bb5c20c2f883dc"
@@ -2498,5 +2373,130 @@
     "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
     "normalized": "\"we're not going to shoot ourselves in the foot\" over hack fallout, says openai's chief research officer",
     "content_hash": "8b11f48b19435f9bcf1d0a3df2e9e383"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Clay\u2019s Kareem Amin on the rise of the GTM engineer",
+    "normalized": "techcrunch disrupt 2026: clay's kareem amin on the rise of the gtm engineer",
+    "content_hash": "12aca44dd10d740c231cf246b4fc945f"
+  },
+  {
+    "title": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "normalized": "a flaw in chatgpt's mac app could have let hackers grab sensitive data",
+    "content_hash": "013b8fab90d18e6ff989b40cb13c442d"
+  },
+  {
+    "title": "What to expect at Microsoft's Windows, Surface and AI event on October 7",
+    "normalized": "what to expect at microsoft's windows, surface and ai event on october 7",
+    "content_hash": "097300f5383c33a3adfe3ede1e450f4a"
+  },
+  {
+    "title": "Dots get up in Muse\u2019s business",
+    "normalized": "dots get up in muse's business",
+    "content_hash": "fffcae61dd5ee60937240060fa53ac79"
+  },
+  {
+    "title": "OpenAI's wandering AI agents earn it a California subpoena",
+    "normalized": "openai's wandering ai agents earn it a california subpoena",
+    "content_hash": "2ffabaf53254fc324624206c575729ae"
+  },
+  {
+    "title": "What Dots Choose: OpenAI's Agent Has a Stack",
+    "normalized": "what dots choose: openai's agent has a stack",
+    "content_hash": "29585168abffba2717a68b604c973640"
+  },
+  {
+    "title": "OpenAI notifies 100 orgs about its AI agents bypassing their security controls",
+    "normalized": "openai notifies 100 orgs about its ai agents bypassing their security controls",
+    "content_hash": "5d476a44b25f0c68ecbb2f3e4434e162"
+  },
+  {
+    "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+    "normalized": "measuring the microtask eligibility gap: when is an off-the-shelf slm enough for an agent harness?",
+    "content_hash": "e2344b26bb1097c865da0e3c2b1fcd6f"
+  },
+  {
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "normalized": "circuit breaker labs hopes to make ai safer for your kids (and you)",
+    "content_hash": "331d6138cd335e8b8553f29e2e7e371b"
+  },
+  {
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "normalized": "pope leo xiv is not a fan of ai-generated art",
+    "content_hash": "613855f1f30b1f7953d96b851d2da0c4"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
+    "normalized": "techcrunch disrupt 2026: blackstone's jas khaira on building the next generation of ai giants",
+    "content_hash": "b4816e11720178a6eab404c7854e9ed1"
+  },
+  {
+    "title": "Slovenia\u2019s .si domain sees a surge in registrations after Trump\u2019s \u2018super intelligence\u2019 order",
+    "normalized": "slovenia's .si domain sees a surge in registrations after trump's 'super intelligence' order",
+    "content_hash": "98a535c7f5501afad095975118937bf5"
+  },
+  {
+    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+    "normalized": "last 24 hours: exhibit at techcrunch disrupt 2026 and reach 10,000+ tech leaders",
+    "content_hash": "147389e96c42fc42f5d5eac59a68e0b6"
+  },
+  {
+    "title": "Less than 24 hours to apply\u00a0for a  Side Event at Founder Summit\u00a02026",
+    "normalized": "less than 24 hours to apply for a side event at founder summit 2026",
+    "content_hash": "c4f4f860455ebb9937b7b1ff14ecdc51"
+  },
+  {
+    "title": "Tesla sustains its EV sales momentum despite US troubles",
+    "normalized": "tesla sustains its ev sales momentum despite us troubles",
+    "content_hash": "1185a9c7a1ee3f6bc0c848ee276324ed"
+  },
+  {
+    "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+    "normalized": "openai parts ways with three safety researchers over sensitive information mishandling",
+    "content_hash": "5bd38a063ed4f4b5dbdacd7bff3cf02b"
+  },
+  {
+    "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+    "normalized": "android 17 advanced protection locks accessibility services to verified accessibility tools",
+    "content_hash": "830e9baaf33cd86853321fc00463213c"
+  },
+  {
+    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+    "normalized": "the 7-year-old nvidia shield tv is now $100 more expensive thanks to ai",
+    "content_hash": "d157247150b32144a4520d27489178e9"
+  },
+  {
+    "title": "Nacon\u2019s new PS5 controller can mix audio from your phone and console",
+    "normalized": "nacon's new ps5 controller can mix audio from your phone and console",
+    "content_hash": "e3e7551c51b047439a7fe0347c0283d6"
+  },
+  {
+    "title": "Tesla\u2019s recovery hits a speed bump",
+    "normalized": "tesla's recovery hits a speed bump",
+    "content_hash": "181dda390563992f4e10f258745e4155"
+  },
+  {
+    "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
+    "normalized": "star wars: galactic racer is my childhood podracing dream come true",
+    "content_hash": "e203ba02d070a616818882ea332448cd"
+  },
+  {
+    "title": "AI hallucinations are making entitled customers even worse",
+    "normalized": "ai hallucinations are making entitled customers even worse",
+    "content_hash": "f3cada9b1cc58ae86303b6fcd74e2cba"
+  },
+  {
+    "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
+    "normalized": "gpt-6 astra plays world of warcraft for the first time with agent-wow",
+    "content_hash": "3fc083120430ac93f192ab650a15c047"
+  },
+  {
+    "title": "OpenAI Deprecations",
+    "normalized": "openai deprecations",
+    "content_hash": "4566c83b03040854a7cdfd0fe51c4b71"
+  },
+  {
+    "title": "OpenAI's Astra model is shockingly good at robotics",
+    "normalized": "openai's astra model is shockingly good at robotics",
+    "content_hash": "bc8efc4a65884340903f3fc6d659f275"
   }
 ]
