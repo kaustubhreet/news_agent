@@ -1,130 +1,5 @@
 [
   {
-    "title": "Launch HN: Coverage Cat (YC S22) \u2013 Umbrella insurance via your personal agent",
-    "normalized": "launch hn: coverage cat (yc s22) - umbrella insurance via your personal agent",
-    "content_hash": "11902d9c0ca0a03981bb5c20c2f883dc"
-  },
-  {
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "normalized": "openai launches gpt-6 sol and luna, boasting lower cost and fewer mistakes",
-    "content_hash": "cdd6a033f8cddeca20e4f233be113cc7"
-  },
-  {
-    "title": "Rabbit\u2019s new AI agent doesn\u2019t need an R1 to run",
-    "normalized": "rabbit's new ai agent doesn't need an r1 to run",
-    "content_hash": "3b1bb7f2a13740cb76748bb66b2a384c"
-  },
-  {
-    "title": "Show HN: Jade Email. Unlimited emails for your domain plus AI Agent support",
-    "normalized": "show hn: jade email. unlimited emails for your domain plus ai agent support",
-    "content_hash": "6a8ac5d64e764da94e26d13f7916edb0"
-  },
-  {
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "normalized": "snorkel ai triples valuation to $3.5b as demand for ai training data booms",
-    "content_hash": "784c54b8cb8a4eb8aac1f5826a5fada1"
-  },
-  {
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "normalized": "qualcomm launches two new smartphone chips with emphasis on ai",
-    "content_hash": "4e49299e067a61df65df267e90b1e907"
-  },
-  {
-    "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents\u2019 and applicants\u2019 data",
-    "normalized": "hacking group shinyhunters claims it breached the fbi, stole agents' and applicants' data",
-    "content_hash": "15e6683b5a803122d600c0c8cb3e9116"
-  },
-  {
-    "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-    "normalized": "microsoft takes down eviltokens device-code phishing service tied to 12,000 inbox compromises",
-    "content_hash": "7dbd180db3f54d679bda7d2e9de4e72e"
-  },
-  {
-    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-    "normalized": "openai wants to consult elite mathematicians about how to not fumble again",
-    "content_hash": "9bc096220c62fd1a845bbb7006991763"
-  },
-  {
-    "title": "Saudi Arabia\u2019s new Exobot EVs make the Cybertruck look normal",
-    "normalized": "saudi arabia's new exobot evs make the cybertruck look normal",
-    "content_hash": "eadcbc434e2ee9cbae8ff6f62b31a0b3"
-  },
-  {
-    "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-    "normalized": "qualcomm's snapdragon 8 elite gen 6 comes in an extreme version too",
-    "content_hash": "529a86b3945355c7e302b8203a8c6b6a"
-  },
-  {
-    "title": "Motorola\u2019s wild-looking Signature 27 runs Qualcomm\u2019s new Extreme chipset",
-    "normalized": "motorola's wild-looking signature 27 runs qualcomm's new extreme chipset",
-    "content_hash": "db01a638fe333f455a61626c1096197c"
-  },
-  {
-    "title": "TechCrunch Founder Summit\u2019s agenda revealed: Unlock\u00a0fundraising, hiring, and AI\u00a0insights in Boston on November 4",
-    "normalized": "techcrunch founder summit's agenda revealed: unlock fundraising, hiring, and ai insights in boston on november 4",
-    "content_hash": "6d64cd332c939492ce4e730b5f9b98e3"
-  },
-  {
-    "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
-    "normalized": "meta admits muse's likeness to openclaw isn't a coincidence",
-    "content_hash": "c4167be3338a5314bb6e60170e987b07"
-  },
-  {
-    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-    "normalized": "anthropic releases opus 5.5 with lower prices and fable-level performance",
-    "content_hash": "f4fe84700ee0b01142dfe9b8e2e8e96b"
-  },
-  {
-    "title": "Rabbit Is Back, This Time With an AI Agent App",
-    "normalized": "rabbit is back, this time with an ai agent app",
-    "content_hash": "f57999403834c1e81e18670d985ff5be"
-  },
-  {
-    "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-    "normalized": "critical bifrost ai gateway flaw lets attackers run commands without credentials",
-    "content_hash": "150dca9c8ccb8f99b55767871f0e0086"
-  },
-  {
-    "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-    "normalized": "researcher drops bigdiskbuster zero-day poc that blocks microsoft defender updates",
-    "content_hash": "5c0c34040355ffa57b927fef72a3527b"
-  },
-  {
-    "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-    "normalized": "new anthropic, openai models make same promise: a little more for a lot less money",
-    "content_hash": "651361560a1ef9c352d0174307e52493"
-  },
-  {
-    "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-    "normalized": "lawsuit demands openai pay for new school after chatgpt used in shooting",
-    "content_hash": "a5c135d85846f34ba9e7f425e5c63154"
-  },
-  {
-    "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
-    "normalized": "anthropic and openai announce more powerful (and cheaper) ai models",
-    "content_hash": "21773e570a1c185e036a5983102f5bb9"
-  },
-  {
-    "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones\u2019 cameras",
-    "normalized": "apple clarifies that texture and grain controls are exclusive to the latest iphones' cameras",
-    "content_hash": "45961473c2f68eaaae280d6126a4db24"
-  },
-  {
-    "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
-    "normalized": "score free pixel buds 2a when you preorder a googlebook at best buy",
-    "content_hash": "0d350106ec5efd3f5702d657795d970f"
-  },
-  {
-    "title": "San Francisco sues Trump Media for selling early access to Trump posts",
-    "normalized": "san francisco sues trump media for selling early access to trump posts",
-    "content_hash": "99fafac35c084a4dff2d8dd2f55c0b7e"
-  },
-  {
-    "title": "OpenAI is well positioned to fast-follow Jev",
-    "normalized": "openai is well positioned to fast-follow jev",
-    "content_hash": "0235eca5d6dc298a00d33304a95a4aee"
-  },
-  {
     "title": "Ema raises $77M as AI starts eating into enterprise software and services",
     "normalized": "ema raises $77m as ai starts eating into enterprise software and services",
     "content_hash": "9c7c437cf064684095e01ef1dd32e7a0"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI's Astra model is shockingly good at robotics",
     "normalized": "openai's astra model is shockingly good at robotics",
     "content_hash": "bc8efc4a65884340903f3fc6d659f275"
+  },
+  {
+    "title": "It\u2019s\u00a0not AI anymore,\u00a0it\u2019s\u00a0\u2018super intelligence\u2019 (according to the White House)",
+    "normalized": "it's not ai anymore, it's 'super intelligence' (according to the white house)",
+    "content_hash": "5010631fe5cc796199f86a0ff005bb8f"
+  },
+  {
+    "title": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
+    "normalized": "openai's dot agent is enterprise software that can also order your dinner",
+    "content_hash": "c10cd60552b03b786d61db94eb50c9ef"
+  },
+  {
+    "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
+    "normalized": "apple says it's tightening macos 'full disk access' controls due to new risks from ai agents",
+    "content_hash": "81c9be56f0f461875e76d58e519456ae"
+  },
+  {
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "normalized": "meta open sources code to let you make muse ai gadgets",
+    "content_hash": "7c95d97d6718c2ca1e72ea4b9ede68ce"
+  },
+  {
+    "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+    "normalized": "apple will limit mac disk access as ai agents 'substantially' increase risk",
+    "content_hash": "397333bfad714dded492d1b5e928bf4d"
+  },
+  {
+    "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
+    "normalized": "nvidia announces dgx spark 64gb: a 1-petaflop grace blackwell desktop for local ai agents, fine-tuning, and inference",
+    "content_hash": "29621e8f4a4bfcf6012ed24b591ea819"
+  },
+  {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "normalized": "sean parker is rebuilding stability ai around music",
+    "content_hash": "cf64e565c27ed9c88d19b996ba3076ec"
+  },
+  {
+    "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
+    "normalized": "ice has been dumping protester photos into a palantir database",
+    "content_hash": "4c8731b256fea03c770ba7497266b868"
+  },
+  {
+    "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+    "normalized": "gitlab patches critical 9.9 ai gateway flaw allowing command execution on self-hosted servers",
+    "content_hash": "be1e42c5b2871814b6e2c775817c1ff2"
+  },
+  {
+    "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+    "normalized": "antino backdoor uses outlook and onedrive for c2 in china-nexus espionage campaign",
+    "content_hash": "5661a34ead64d860b92aa8fa83618ba5"
+  },
+  {
+    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "normalized": "us arrests tech ceo accused of smuggling $300m in nvidia chips into china",
+    "content_hash": "d8f10d7690c87fb08cac521fbe59bd1d"
+  },
+  {
+    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+    "normalized": "the 7-year-old nvidia shield tv is now $100 more expensive due to ai",
+    "content_hash": "74be59f7274fa393640c0ff9b1cda269"
+  },
+  {
+    "title": "Netflix is pivoting away from prestige",
+    "normalized": "netflix is pivoting away from prestige",
+    "content_hash": "6049bd9bd46b8834ccd3118112b2ee21"
+  },
+  {
+    "title": "Beehiiv creators are buzzing about a new price increase",
+    "normalized": "beehiiv creators are buzzing about a new price increase",
+    "content_hash": "430610c1f0c6a3802b93b782cb232346"
+  },
+  {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "normalized": "chatham scales its capital markets expertise with openai",
+    "content_hash": "b16075432c7239089c245c7609e73698"
+  },
+  {
+    "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+    "normalized": "fine-tune a search agent with multi-turn rl on amazon sagemaker ai",
+    "content_hash": "dfdd3235a3bcead744b86a8971dbf259"
+  },
+  {
+    "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+    "normalized": "heavy-tailed memory traces in long-horizon language agents",
+    "content_hash": "9da97b8c2e967fc4f0905ff1a8c56bd0"
+  },
+  {
+    "title": "When Do Causal World Models Help Modular LLM Agents",
+    "normalized": "when do causal world models help modular llm agents",
+    "content_hash": "715723496828a538fb594f1b9f1042b6"
+  },
+  {
+    "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+    "normalized": "rules to tools: executable checks for llm agents in scientific computing",
+    "content_hash": "33a01e06945f7b155b000b45d296870d"
+  },
+  {
+    "title": "When Harnesses Lose the Signal: Causal Evaluation of Recovery in LLM Agents",
+    "normalized": "when harnesses lose the signal: causal evaluation of recovery in llm agents",
+    "content_hash": "7cef4cb4a9a5833aeb71bf1d7e1df67d"
+  },
+  {
+    "title": "JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces",
+    "normalized": "jevspawn: adaptive agentic inference through compositional action spaces",
+    "content_hash": "bd0205c93acd1e9f3aa9651922c7d5cd"
+  },
+  {
+    "title": "MILO: Automated Harness Discovery via Orchestrated Multi-Agent Evolution",
+    "normalized": "milo: automated harness discovery via orchestrated multi-agent evolution",
+    "content_hash": "c3d85a7fa158996a1b7b9e9b2e9af553"
+  },
+  {
+    "title": "Synthesis Without Training: An Inference-Only Pipeline for Tabular, Temporal, and Relational Synthetic Data",
+    "normalized": "synthesis without training: an inference-only pipeline for tabular, temporal, and relational synthetic data",
+    "content_hash": "05cc7ee016671cd21488a9c4e4f8531b"
+  },
+  {
+    "title": "When can we say AI made a scientific discovery?",
+    "normalized": "when can we say ai made a scientific discovery?",
+    "content_hash": "5dbb2108c21312519856814827b84d4f"
+  },
+  {
+    "title": "Who\u2019s liable when AI agents go rogue?",
+    "normalized": "who's liable when ai agents go rogue?",
+    "content_hash": "073d56d1bf32e465128a35a3653f9799"
   }
 ]
