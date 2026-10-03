@@ -1,130 +1,5 @@
 [
   {
-    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-    "normalized": "ema raises $77m as ai starts eating into enterprise software and services",
-    "content_hash": "9c7c437cf064684095e01ef1dd32e7a0"
-  },
-  {
-    "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-    "normalized": "openai nabs key patreon execs ahead of upcoming announcement",
-    "content_hash": "cea147f9b514ca7ac715b5b22711931a"
-  },
-  {
-    "title": "Trains but Doesn't Learn: A Post-Training Delivery Benchmark for LLM Agents as Forward-Deployed Engineers",
-    "normalized": "trains but doesn't learn: a post-training delivery benchmark for llm agents as forward-deployed engineers",
-    "content_hash": "46c2a024ba4d5b7ff28dc734236920c0"
-  },
-  {
-    "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-    "normalized": "anthropic and openai models still attempt restricted actions in safety tests",
-    "content_hash": "002da6417c13c94f1300bd7667c3f56f"
-  },
-  {
-    "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-    "normalized": "chinese hackers exploit chrome-windows zero-day chain to deploy cleangulp malware",
-    "content_hash": "a1012a04a1f36a82a74d98d49b6ed59d"
-  },
-  {
-    "title": "YouTube\u2019s conversational video editing tool lets creators make edits in natural language",
-    "normalized": "youtube's conversational video editing tool lets creators make edits in natural language",
-    "content_hash": "66b332c29aef1033e7e31ca19a52b8a1"
-  },
-  {
-    "title": "YouTube Music gets more conversational with new AI features",
-    "normalized": "youtube music gets more conversational with new ai features",
-    "content_hash": "42fbb2af6acd457274fac94101bf2bff"
-  },
-  {
-    "title": "Eight Sleep\u2019s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
-    "normalized": "eight sleep's new pod 6 comes in smaller and solo sizes, starting at $1,999",
-    "content_hash": "e75750dc143f86765c6ff59c8ef3be92"
-  },
-  {
-    "title": "YouTube releases new AI features for creators within its Studio app",
-    "normalized": "youtube releases new ai features for creators within its studio app",
-    "content_hash": "d54edcf37b4862f95deab561fcf51d32"
-  },
-  {
-    "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
-    "normalized": "youtube adds new creator tools like video a/b testing, dynamic thumbnails, and live dubbing",
-    "content_hash": "467e8281d32e842304ad6da4451b96a6"
-  },
-  {
-    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-    "normalized": "strictlyvc at techcrunch disrupt 2026: inside the changing rules of venture capital",
-    "content_hash": "e2a49398811385ddd69b2e5e65db6de6"
-  },
-  {
-    "title": "YouTube will let you build your own algorithm with AI",
-    "normalized": "youtube will let you build your own algorithm with ai",
-    "content_hash": "1c1fa7414a1b99a4ced46bf9b9575641"
-  },
-  {
-    "title": "YouTube doubles down on video shopping with AI-powered \u2018Ask YouTube\u2019 feature",
-    "normalized": "youtube doubles down on video shopping with ai-powered 'ask youtube' feature",
-    "content_hash": "df95ad08daa241cf94fcf99dd1ab7cdb"
-  },
-  {
-    "title": "Here\u2019s the trailer for Nathan Fielder\u2019s Elizabeth Holmes documentary, in theaters October 16",
-    "normalized": "here's the trailer for nathan fielder's elizabeth holmes documentary, in theaters october 16",
-    "content_hash": "98576a0a11dd479541a6042c373ce615"
-  },
-  {
-    "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
-    "normalized": "linkedin adds new tools to fight fake profiles and bogus work histories",
-    "content_hash": "251335d3daf0b5e7da43b42a30ec7b62"
-  },
-  {
-    "title": "PitPro\u2019s first tire-changing robot goes live in Canada",
-    "normalized": "pitpro's first tire-changing robot goes live in canada",
-    "content_hash": "37dbd9abe22d7f0dcad1867e5fda1306"
-  },
-  {
-    "title": "\u2018We\u2019re already fighting yesterday\u2019s battle\u2019: Greece\u2019s prime minister gets candid about AI",
-    "normalized": "'we're already fighting yesterday's battle': greece's prime minister gets candid about ai",
-    "content_hash": "5a90ba6447da1c97eee7f9a535ae7ca6"
-  },
-  {
-    "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-    "normalized": "545 hackers tested it first. now xranges for ai scores your security agent",
-    "content_hash": "e78535fb6b54225b99bd0f767bb893ea"
-  },
-  {
-    "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-    "normalized": "shinyhunters claims fbi breach, says it stole data on agents and job applicants",
-    "content_hash": "c3960d1d9680c8c3e328c07dfe71efde"
-  },
-  {
-    "title": "RankControl",
-    "normalized": "rankcontrol",
-    "content_hash": "499decfbb251db726342ddbf218359c3"
-  },
-  {
-    "title": "This $199 GPS sports watch is repairable, modular, and open-source",
-    "normalized": "this $199 gps sports watch is repairable, modular, and open-source",
-    "content_hash": "9cf39afaa9494a8cbc04a4d633120a9d"
-  },
-  {
-    "title": "YouTube is building AI creator tools that do almost everything for them",
-    "normalized": "youtube is building ai creator tools that do almost everything for them",
-    "content_hash": "a3691bac67fdbceae7118395c415fbc4"
-  },
-  {
-    "title": "McDonald\u2019s is testing ads on its drive-thru menus",
-    "normalized": "mcdonald's is testing ads on its drive-thru menus",
-    "content_hash": "f3b8ddc6b12eeeebeb73f2c1174ef2e5"
-  },
-  {
-    "title": "Nobody does it like Remedy",
-    "normalized": "nobody does it like remedy",
-    "content_hash": "f7e17d60123f38d04e83280b469863d0"
-  },
-  {
-    "title": "Xiaomi\u2019s new 18 Pro phones improve on Samsung\u2019s privacy display",
-    "normalized": "xiaomi's new 18 pro phones improve on samsung's privacy display",
-    "content_hash": "1b9bb5e58d1bfd1ab30d4130aba0176c"
-  },
-  {
     "title": "The old cybersecurity model is breaking",
     "normalized": "the old cybersecurity model is breaking",
     "content_hash": "7cd2f3e98b9ed74397bb988ce122243f"
@@ -2498,5 +2373,130 @@
     "title": "Who\u2019s liable when AI agents go rogue?",
     "normalized": "who's liable when ai agents go rogue?",
     "content_hash": "073d56d1bf32e465128a35a3653f9799"
+  },
+  {
+    "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+    "normalized": "ibm brings bob to self-hosted and air-gapped environments: agentic software development without moving your code",
+    "content_hash": "71cdb04acc3814f39b69ac2c39d2c4aa"
+  },
+  {
+    "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
+    "normalized": "prime intellect launches prime inference: serverless and reserved serving for frontier open models",
+    "content_hash": "4d3499de7d8aa1bfe085e4b733878d1c"
+  },
+  {
+    "title": "Jack Dorsey\u2019s Bitchat disappears from app stores in India after government order",
+    "normalized": "jack dorsey's bitchat disappears from app stores in india after government order",
+    "content_hash": "aae22d61ba9dcc485fb4daae4196793a"
+  },
+  {
+    "title": "All the AI agents that can live in your text messages",
+    "normalized": "all the ai agents that can live in your text messages",
+    "content_hash": "41f9591cfbe8faef0714bce092b3cc85"
+  },
+  {
+    "title": "Spotify billionaire\u2019s body scan startup has come to America",
+    "normalized": "spotify billionaire's body scan startup has come to america",
+    "content_hash": "a0ded9990c100f5e0e5de363a4d7b364"
+  },
+  {
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "normalized": "an openai safety employee has quit and is sounding the alarm",
+    "content_hash": "9b0365193b7cbd77eaecbe28b0fd573c"
+  },
+  {
+    "title": "Agent Pool M2M economy where AI agents bid, execute work, and earn autonomously",
+    "normalized": "agent pool m2m economy where ai agents bid, execute work, and earn autonomously",
+    "content_hash": "639c33ebfbf396a6a751bfe34626e1c5"
+  },
+  {
+    "title": "Anthropic commits $100M to Claude Frontier Academy to train 10k FDEs by 2028",
+    "normalized": "anthropic commits $100m to claude frontier academy to train 10k fdes by 2028",
+    "content_hash": "fa71ba7d91fdceb6345c13f27ab50d03"
+  },
+  {
+    "title": "You cannot align an organization one agent at a time",
+    "normalized": "you cannot align an organization one agent at a time",
+    "content_hash": "8297fc21f6bc93f3525667789187b9ab"
+  },
+  {
+    "title": "Fast Polynomial Transcendentals for LLMs",
+    "normalized": "fast polynomial transcendentals for llms",
+    "content_hash": "6717f814071c9f2fa6ea9da4ba33d967"
+  },
+  {
+    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "normalized": "muse creates detailed profiles of all your friends and family",
+    "content_hash": "5c01ccd8d0ed642c7deb59c0e090ee49"
+  },
+  {
+    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "normalized": "splice ceo kakul srivastava thinks ai emails are killing conversations",
+    "content_hash": "1d2f9bc4aadb0741d02e929ec6be9a0c"
+  },
+  {
+    "title": "Jabhook \u2013 Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
+    "normalized": "jabhook - boxing training (computer vision, 3d biomechanics, local llm)",
+    "content_hash": "508f555f2b12abd83aa256e00246daad"
+  },
+  {
+    "title": "What Kubernetes' \"monolith\" lesson means for AI agent harnesses",
+    "normalized": "what kubernetes' \"monolith\" lesson means for ai agent harnesses",
+    "content_hash": "799a6d5544c71837bf9989b0c351a71a"
+  },
+  {
+    "title": "I Quit OpenAI Because Its Culture Is Broken",
+    "normalized": "i quit openai because its culture is broken",
+    "content_hash": "682aa577d94e2c9fe4618a43ff7c29fe"
+  },
+  {
+    "title": "OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
+    "normalized": "openai fires researchers for allegedly sharing information with ai safety group",
+    "content_hash": "c2d8738a5521579c88a29547cbb2e0ab"
+  },
+  {
+    "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
+    "normalized": "anthropic claims popular chinese ai model has mythos-class hacking abilities",
+    "content_hash": "19c73783862cbab50f6a9e0791281d85"
+  },
+  {
+    "title": "An AI agent emailed researchers for help. It told us why",
+    "normalized": "an ai agent emailed researchers for help. it told us why",
+    "content_hash": "1cb9b4aa0cef48e73ef9eae2019d7fb4"
+  },
+  {
+    "title": "OpenAI says hacking at scale is expensive to investigate",
+    "normalized": "openai says hacking at scale is expensive to investigate",
+    "content_hash": "9ef7fc917aaa03e54c96c04f11b92b05"
+  },
+  {
+    "title": "California Attorney General Serves Investigative Subpoena on OpenAI",
+    "normalized": "california attorney general serves investigative subpoena on openai",
+    "content_hash": "342ceef076c7695338c517ab7321739e"
+  },
+  {
+    "title": "Backend programming languages ranked by LLM recommendations",
+    "normalized": "backend programming languages ranked by llm recommendations",
+    "content_hash": "27b42335fe596ef8926fafcbfd99bb0a"
+  },
+  {
+    "title": "Show HN: 80s Choplifter game ported to Vision Pro as an agent eval (WIP)",
+    "normalized": "show hn: 80s choplifter game ported to vision pro as an agent eval (wip)",
+    "content_hash": "212d7679e50c3e02d1184be30a422ff3"
+  },
+  {
+    "title": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
+    "normalized": "meta, openai and uber just taught ai agents to talk first. what about when to stay quiet?",
+    "content_hash": "933d3261a7c0eef0ae2afaff0f40f3b3"
+  },
+  {
+    "title": "How to Build a Control Plane for AI Agents",
+    "normalized": "how to build a control plane for ai agents",
+    "content_hash": "4cf7cc37b773e9eb8afeea50ab05d094"
+  },
+  {
+    "title": "How to Design Architectural Guardrails Around AI Agents",
+    "normalized": "how to design architectural guardrails around ai agents",
+    "content_hash": "0cd1eba7186a9ec2bbb0f424274932ab"
   }
 ]
