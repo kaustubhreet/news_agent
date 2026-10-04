@@ -1,130 +1,5 @@
 [
   {
-    "title": "The old cybersecurity model is breaking",
-    "normalized": "the old cybersecurity model is breaking",
-    "content_hash": "7cd2f3e98b9ed74397bb988ce122243f"
-  },
-  {
-    "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm\u2019s X2 Plus",
-    "normalized": "microsoft refreshes its smaller surface pro and laptop with qualcomm's x2 plus",
-    "content_hash": "10661fc805f9e3c3fa0638f5b35d1691"
-  },
-  {
-    "title": "Everything new coming to Meta\u2019s AI agent Muse",
-    "normalized": "everything new coming to meta's ai agent muse",
-    "content_hash": "39fe61db6983a072c0d49a0326e90c0d"
-  },
-  {
-    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "normalized": "meta made a tamagotchi-like wearable for its muse ai agent",
-    "content_hash": "6d37083c1e405015a59fe789cd83e536"
-  },
-  {
-    "title": "ChatGPT mobile app gets voice-based agentic features",
-    "normalized": "chatgpt mobile app gets voice-based agentic features",
-    "content_hash": "3f33d5762f71b6999f0e891d6cc2ff96"
-  },
-  {
-    "title": "Meta is making a standalone Muse AI gadget",
-    "normalized": "meta is making a standalone muse ai gadget",
-    "content_hash": "b51dc066a7b5008574907ad01c8b5393"
-  },
-  {
-    "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-    "normalized": "meta is making muse more powerful and will let you video chat with it, too",
-    "content_hash": "e986d54f0dae70eb340bbeaf1eacc039"
-  },
-  {
-    "title": "Australia says OpenAI agent hacked into government website",
-    "normalized": "australia says openai agent hacked into government website",
-    "content_hash": "f802a415f562098f595698367cb772d9"
-  },
-  {
-    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-    "normalized": "ringg's ai agents resolve up to 65% of customer calls with openai",
-    "content_hash": "196a4cbf89c6140ac6d7e21e92818444"
-  },
-  {
-    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-    "normalized": "airbnb widens access to gpt-6 astra and openai frontier models",
-    "content_hash": "5887baa9e5d1d7b056b5c28358ab10c6"
-  },
-  {
-    "title": "The AI Hype Index: AI loves cheating",
-    "normalized": "the ai hype index: ai loves cheating",
-    "content_hash": "0e4277e8724075cf2d835560ca28a2bf"
-  },
-  {
-    "title": "Meta is trying VR glasses (again), this time with more IMAX",
-    "normalized": "meta is trying vr glasses (again), this time with more imax",
-    "content_hash": "0317824efd5abc2d3b38588e70a32e3a"
-  },
-  {
-    "title": "Meta introduces camera-free AI glasses",
-    "normalized": "meta introduces camera-free ai glasses",
-    "content_hash": "8ab2ec8ffa507f715cf481c99a3bd61b"
-  },
-  {
-    "title": "Anthropic says its biology lab has already found something big",
-    "normalized": "anthropic says its biology lab has already found something big",
-    "content_hash": "0469bd81d4f982ebfbd09e39936dfbaa"
-  },
-  {
-    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-    "normalized": "vc firm bessemer now has another $5.75b to invest in (what else?) ai",
-    "content_hash": "97f8ee95480b08a6e1a01b2e1dd82d19"
-  },
-  {
-    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-    "normalized": "enveda secures $311m to bring more nature-derived ai drugs into clinical trials",
-    "content_hash": "9fd7721f39203c361b7f0241b2f9058c"
-  },
-  {
-    "title": "Modal Motors is trying to cut China out of electric motors entirely",
-    "normalized": "modal motors is trying to cut china out of electric motors entirely",
-    "content_hash": "0cff68720e6a60342364fc87a3850aea"
-  },
-  {
-    "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-    "normalized": "disney+ and hulu add to the growing trend of streaming inflation",
-    "content_hash": "32564add7bd43d036ddf093e28974d62"
-  },
-  {
-    "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
-    "normalized": "zoox grounds atlanta test fleet after workers report toxic gas exposure symptoms",
-    "content_hash": "30bfc730d8288c13ad2f5fd3744781f1"
-  },
-  {
-    "title": "Even Americans who use AI every day are worried about it",
-    "normalized": "even americans who use ai every day are worried about it",
-    "content_hash": "927803cee88c5d0e8a409ae0d1670af5"
-  },
-  {
-    "title": "YouTube is making comments more fun \u2014 and fandom more lucrative for creators",
-    "normalized": "youtube is making comments more fun -- and fandom more lucrative for creators",
-    "content_hash": "e65b41de622e0c31e83df852a5b41af8"
-  },
-  {
-    "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-    "normalized": "ai agents teamed up to cheat at blackjack. their collusion is getting harder to spot",
-    "content_hash": "077d3321d95ac365c1fcda32df99e477"
-  },
-  {
-    "title": "Meta Connect 2026: The 7 biggest announcements",
-    "normalized": "meta connect 2026: the 7 biggest announcements",
-    "content_hash": "4236a39b29548cff16c7579e2358630b"
-  },
-  {
-    "title": "Meta\u2019s next VR device isn\u2019t a headset \u2014 it\u2019s glasses",
-    "normalized": "meta's next vr device isn't a headset -- it's glasses",
-    "content_hash": "60faea195f4f9961b0e1498dff419a0f"
-  },
-  {
-    "title": "Muse is coming to Meta smart glasses",
-    "normalized": "muse is coming to meta smart glasses",
-    "content_hash": "7c94d6eef8d69c2c40149161d964110c"
-  },
-  {
     "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
     "normalized": "ando wants to take on slack with a team messaging app that lets humans and agents work together",
     "content_hash": "c8c4740b4d542bd68f99922103393473"
@@ -2498,5 +2373,130 @@
     "title": "How to Design Architectural Guardrails Around AI Agents",
     "normalized": "how to design architectural guardrails around ai agents",
     "content_hash": "0cd1eba7186a9ec2bbb0f424274932ab"
+  },
+  {
+    "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+    "normalized": "openai safety employee resigns, claiming the company's 'culture is broken'",
+    "content_hash": "3f2ebe05e1f8c9c40f9190dffd386df5"
+  },
+  {
+    "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+    "normalized": "the nvidia shield tv is 7 years old. it just got a $100 price hike",
+    "content_hash": "e65ca86c079330806f20a55774bfc94c"
+  },
+  {
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "normalized": "amazon responds to data center backlash, says it no longer uses ndas",
+    "content_hash": "a0f1e4ac54a1ab77529d9a5527729c49"
+  },
+  {
+    "title": "Capcom is preparing for a \u2018future where we create games together with AI\u2019",
+    "normalized": "capcom is preparing for a 'future where we create games together with ai'",
+    "content_hash": "5c0cc3e2d336163e0a3fcd0f0ea3f07d"
+  },
+  {
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "normalized": "openai safety leader quits, warning ai company's culture is 'broken'",
+    "content_hash": "5e7a6e79806d77905be4819212312519"
+  },
+  {
+    "title": "Three AI agents, two countries, and one uneven world wide web",
+    "normalized": "three ai agents, two countries, and one uneven world wide web",
+    "content_hash": "1b928a76a19cc92934be1f52ef053858"
+  },
+  {
+    "title": "Decagon Joins OpenAI\u2019s B2B Marketplace as a Launch Partner",
+    "normalized": "decagon joins openai's b2b marketplace as a launch partner",
+    "content_hash": "c8e1f9bc61bce8b08e1497d7b1dd4a51"
+  },
+  {
+    "title": "Chatham Financial Builds Capital Markets Tools with OpenAI Codex",
+    "normalized": "chatham financial builds capital markets tools with openai codex",
+    "content_hash": "e78670207d8f71f933a724f7bc289215"
+  },
+  {
+    "title": "New Anthropic Academy Backs 10,000 Engineer Residencies With $100M",
+    "normalized": "new anthropic academy backs 10,000 engineer residencies with $100m",
+    "content_hash": "1c424ee0d8a50b6aaf56f97b6867cbb7"
+  },
+  {
+    "title": "Federal judge calls Flock \u2018indiscriminate mass surveillance\u2019",
+    "normalized": "federal judge calls flock 'indiscriminate mass surveillance'",
+    "content_hash": "c41998017ad8b2a354e8158b269f370c"
+  },
+  {
+    "title": "Vessev built an electric ferry that almost flies",
+    "normalized": "vessev built an electric ferry that almost flies",
+    "content_hash": "19d3b5056f2a0f2ed5ffa14c0aa09487"
+  },
+  {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "normalized": "meta wants your next gadget to be muse-infused",
+    "content_hash": "38c880547dd085579e480857d2adbdac"
+  },
+  {
+    "title": "Sanders introduces bill to ban the federal government from using Flock",
+    "normalized": "sanders introduces bill to ban the federal government from using flock",
+    "content_hash": "4edaf44aa955647b95978e98b1d55309"
+  },
+  {
+    "title": "Paramount and Warner Bros. Discovery to become Skydance",
+    "normalized": "paramount and warner bros. discovery to become skydance",
+    "content_hash": "af3eda1e1c7e685f89db60caa4f92887"
+  },
+  {
+    "title": "Laytr\u2019s new app lets you save anything you find online, not just articles to read",
+    "normalized": "laytr's new app lets you save anything you find online, not just articles to read",
+    "content_hash": "75624f5554c61a4a4ed723188859b718"
+  },
+  {
+    "title": "This Shoe Company\u2019s Instagram Ad With a Frat Is Pissing People Off",
+    "normalized": "this shoe company's instagram ad with a frat is pissing people off",
+    "content_hash": "275e83634244a3d725157524278e9b05"
+  },
+  {
+    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "normalized": "these ai experts want to do high-stakes research out in the open",
+    "content_hash": "28a3bf792aa2c4e639b345f4707c2fb1"
+  },
+  {
+    "title": "Trump\u2019s Crazy AI Rebrand Was a Loyalty Test for Tech Execs\u2014and It Worked",
+    "normalized": "trump's crazy ai rebrand was a loyalty test for tech execs--and it worked",
+    "content_hash": "69e2d9d091f9ec9be3287f3c01bc2fde"
+  },
+  {
+    "title": "AI Is Making a Mess of Nurses\u2019 Schedules. They Say It\u2019s a Safety Issue",
+    "normalized": "ai is making a mess of nurses' schedules. they say it's a safety issue",
+    "content_hash": "4745b3d3f72c96959bb4a8a82b3620b5"
+  },
+  {
+    "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+    "normalized": "mi5 says china's mss funded research involving 100+ u.k.-linked academics",
+    "content_hash": "9541764549565c96f8baed714cb1963c"
+  },
+  {
+    "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+    "normalized": "warlock exploits sharepoint flaws to disable security tools and deploy ransomware",
+    "content_hash": "3bc608f13312028c288dd5b6b17a684b"
+  },
+  {
+    "title": "The State of Cybersecurity in 2026:\u00a0Key Segments, Insights, and Innovations",
+    "normalized": "the state of cybersecurity in 2026: key segments, insights, and innovations",
+    "content_hash": "7d83bb04872f0cf2cc938745d49c628e"
+  },
+  {
+    "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+    "normalized": "dell csm flaws enable unauthenticated admin access and root on kubernetes nodes",
+    "content_hash": "57b4ab6954a1a0a8d5dc276bb0332eff"
+  },
+  {
+    "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+    "normalized": "critical fortimail zero-day flaw exploited in attacks allows unauthenticated arbitrary file writes",
+    "content_hash": "5bacbb2fd4a0ed6ae20ed1a804efdc60"
+  },
+  {
+    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+    "normalized": "police arrest 16-year-old suspected of running killsec, seize ransomware leak site and servers",
+    "content_hash": "917daa9c94a6ba9631bc7fc78fee5e9f"
   }
 ]
