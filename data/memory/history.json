@@ -1,130 +1,5 @@
 [
   {
-    "title": "Jensen Huang talks about AI and climate change like a supervillain",
-    "normalized": "jensen huang talks about ai and climate change like a supervillain",
-    "content_hash": "120afadc9fadeafcc451199f09483ed3"
-  },
-  {
-    "title": "OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-    "normalized": "openai and microsoft admits llms are destroying the web and built on theft",
-    "content_hash": "249c6382fff08faa519917296e18f100"
-  },
-  {
-    "title": "Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users",
-    "normalized": "reverse engineering chatgpt web: how openai built for a billion users",
-    "content_hash": "c27307ef394fb314845e83787c6bd744"
-  },
-  {
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "normalized": "prismml brings its tiny llms to qualcomm-powered smart glasses",
-    "content_hash": "c163bc77927452ff9e401f16eba0a4d7"
-  },
-  {
-    "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-    "normalized": "databricks buys row zero and is scouting for more startups to acquire",
-    "content_hash": "0c7f047616121dcd64f7f6ba5b03874d"
-  },
-  {
-    "title": "Google Photos \u2018Clueless\u2019-inspired virtual closet is now available on Android and iOS",
-    "normalized": "google photos 'clueless'-inspired virtual closet is now available on android and ios",
-    "content_hash": "287b739f2249191a6c7fd96ac55c1fe4"
-  },
-  {
-    "title": "Microsoft is killing off the \u2018Copilot Plus PC\u2019 brand",
-    "normalized": "microsoft is killing off the 'copilot plus pc' brand",
-    "content_hash": "10a11f808f49d40978485bbf9f91c341"
-  },
-  {
-    "title": "Microsoft puts Brad Smith in charge of communications",
-    "normalized": "microsoft puts brad smith in charge of communications",
-    "content_hash": "d1ffe7bdf89ff4111211dcb4f14f3892"
-  },
-  {
-    "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-    "normalized": "gemini 3.8 live with live avatar gives google's ai a face",
-    "content_hash": "212ed2358cc364fc6f30e07289f9d503"
-  },
-  {
-    "title": "SkillOpt: Training Loop for Agent Skills",
-    "normalized": "skillopt: training loop for agent skills",
-    "content_hash": "3ced0f2d2f42681d09c1e612123c5025"
-  },
-  {
-    "title": "OpenAI, Anthropic CEOs urge UN countries to cooperate on AI safety standards",
-    "normalized": "openai, anthropic ceos urge un countries to cooperate on ai safety standards",
-    "content_hash": "e95821a612f3b08483a86139d7799234"
-  },
-  {
-    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-    "normalized": "nexterity wants to automate the hard, dangerous part of pipefitting",
-    "content_hash": "f8134bc8e068d58d621f7a361af73d27"
-  },
-  {
-    "title": "Meet Feather, the startup building the \u2018Android of robotics\u2019 for developers",
-    "normalized": "meet feather, the startup building the 'android of robotics' for developers",
-    "content_hash": "cb84b8deb20f31886923638de86ef9ff"
-  },
-  {
-    "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
-    "normalized": "meta's muse charm looks like a tamagotchi, but it's tapping into a much newer trend",
-    "content_hash": "52b2154f8bd980504cf74234b1bbb8c3"
-  },
-  {
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "normalized": "techcrunch founder summit 2026: everything you need to know",
-    "content_hash": "99511864032637dd32e16753a98f86ec"
-  },
-  {
-    "title": "ElevenLabs\u2019 CEO on margins, IPO timing, and telling customers they\u2019re talking to a bot",
-    "normalized": "elevenlabs' ceo on margins, ipo timing, and telling customers they're talking to a bot",
-    "content_hash": "0026a83c71f38cdefc2f135481ba01d5"
-  },
-  {
-    "title": "I Think I Found an AI Agent Worth the Risk",
-    "normalized": "i think i found an ai agent worth the risk",
-    "content_hash": "ca57d6fe81fabf4678b962acacbaf5c5"
-  },
-  {
-    "title": "OpenAI agent \u201cdidn\u2019t accept no for an answer\u201d in Australian government breach",
-    "normalized": "openai agent \"didn't accept no for an answer\" in australian government breach",
-    "content_hash": "d5692e3d9dba14840defa7db52b7d477"
-  },
-  {
-    "title": "Google is sending a teensy-tiny AI data center to space",
-    "normalized": "google is sending a teensy-tiny ai data center to space",
-    "content_hash": "e2838610aa9a97099b4b46f82e710e71"
-  },
-  {
-    "title": "Here\u2019s the Tesla Semi\u2026 again",
-    "normalized": "here's the tesla semi... again",
-    "content_hash": "eda396359fd38967c9d3a616df10256d"
-  },
-  {
-    "title": "Meta employees ordered \u2018attorney/client privilege\u2019 hats while fighting child safety disclosures",
-    "normalized": "meta employees ordered 'attorney/client privilege' hats while fighting child safety disclosures",
-    "content_hash": "46d95159a7a0b83b645d904bed3de948"
-  },
-  {
-    "title": "Qualcomm\u2019s new \u2018Elite\u2019 sound chip might finally deliver the Wi-Fi earbud dream",
-    "normalized": "qualcomm's new 'elite' sound chip might finally deliver the wi-fi earbud dream",
-    "content_hash": "aeeafdd78d5b500394d9435b1ab7b775"
-  },
-  {
-    "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
-    "normalized": "sadly, this $1,549 rtx 5070-equipped gaming pc is a very good deal",
-    "content_hash": "4e05497460e0bdd9c5f093713589f15a"
-  },
-  {
-    "title": "Meta is going to let you build games with AI right on your phone",
-    "normalized": "meta is going to let you build games with ai right on your phone",
-    "content_hash": "d68c58df663ee30da2440be4f78a802e"
-  },
-  {
-    "title": "Muse will apparently let you download its entire filesystem",
-    "normalized": "muse will apparently let you download its entire filesystem",
-    "content_hash": "ac92645fcac73f14160fd4d95f93e725"
-  },
-  {
     "title": "One company is at the center of a wave of rogue AI attacks",
     "normalized": "one company is at the center of a wave of rogue ai attacks",
     "content_hash": "59949e2bab8943ea3d43b9834a8a011b"
@@ -2498,5 +2373,130 @@
     "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
     "normalized": "deepseek harness v0.2 brings official desktop apps to its open-source agent harness",
     "content_hash": "7f74e7e1901bf9e146118d99c4eb9fe1"
+  },
+  {
+    "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
+    "normalized": "google froze its open source bug bounty program due to a 'significant rise' in ai submissions",
+    "content_hash": "821f442de888c77507a559c3d247d14c"
+  },
+  {
+    "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+    "normalized": "openai's gpt-6 astra gets frustrated losing at starcraft and decides to cheat",
+    "content_hash": "f58fc3256705ce383c8021160be59a0b"
+  },
+  {
+    "title": "An OpenAI agent reached four Australian government systems. Nobody noticed",
+    "normalized": "an openai agent reached four australian government systems. nobody noticed",
+    "content_hash": "0c5acee3b88730ace648b03caeda8756"
+  },
+  {
+    "title": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
+    "normalized": "can 'super intelligence' and a non-binding safety pact solve ai's image problem?",
+    "content_hash": "7f65a69f1a01d637cb899ea1f2906f50"
+  },
+  {
+    "title": "The new Fitbit Edge leaks",
+    "normalized": "the new fitbit edge leaks",
+    "content_hash": "4a3fe3dcf0fd8250f622e09c5d93f669"
+  },
+  {
+    "title": "NJ\u2019s former Lt Gov is using AI to say he\u2019s innocent of sexual harassment",
+    "normalized": "nj's former lt gov is using ai to say he's innocent of sexual harassment",
+    "content_hash": "2e43deaccff289730313181655e39af3"
+  },
+  {
+    "title": "Show HN: Moching \u2013 AI desktop agent with 219 built-in tools (Rust)",
+    "normalized": "show hn: moching - ai desktop agent with 219 built-in tools (rust)",
+    "content_hash": "c09e2c9d30edcd57bccdd3774d0a449c"
+  },
+  {
+    "title": "Lockheed Taps OpenAI to Solve F-35 Challenges",
+    "normalized": "lockheed taps openai to solve f-35 challenges",
+    "content_hash": "bf9fd66bbed18908a908b2d66575f321"
+  },
+  {
+    "title": "Show HN: Ranking the most AI agent friendly tools",
+    "normalized": "show hn: ranking the most ai agent friendly tools",
+    "content_hash": "54ea1a5d841ccaf9a7edf620313a07d0"
+  },
+  {
+    "title": "Explainer videos and product demos made by your AI agent. Free and open source",
+    "normalized": "explainer videos and product demos made by your ai agent. free and open source",
+    "content_hash": "1ffe55028fb5cac8dac72e9f7b63e0f3"
+  },
+  {
+    "title": "Looking Glass Universe: The Real Story Behind What Happened at OpenAI [video]",
+    "normalized": "looking glass universe: the real story behind what happened at openai [video]",
+    "content_hash": "434fdbf8b7a642017dcbd5c1de765b6c"
+  },
+  {
+    "title": "1 dead as Russian drones hit desi pharma plant in Ukraine",
+    "normalized": "1 dead as russian drones hit desi pharma plant in ukraine",
+    "content_hash": "76cbff93063179081420638cdd885e3b"
+  },
+  {
+    "title": "15 Best Office Chairs of 2026\u2014We Tested 70 to Pick Them",
+    "normalized": "15 best office chairs of 2026--we tested 70 to pick them",
+    "content_hash": "509153f49251baaa6c1d51d03a3e0e76"
+  },
+  {
+    "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+    "normalized": "shinyhunters suspect rey reportedly detained in jordan, helping fbi identify group members",
+    "content_hash": "e0b2cc1963e2da1530129e32aaca2ee4"
+  },
+  {
+    "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+    "normalized": "threatsday: ai-powered zero-day chain, 543k live secrets, model inspection rce and 13 more stories",
+    "content_hash": "672b7606f4131a319186627a4611c6ee"
+  },
+  {
+    "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+    "normalized": "wordpress backdoor rebuilds itself after cleanup using files, database, and shared memory",
+    "content_hash": "08c653fc189aa7627b3992663ae20165"
+  },
+  {
+    "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+    "normalized": "apple coregraphics poc emerges as whatsapp pdf checks hint at possible delivery path",
+    "content_hash": "bdfe0912b08de8e45bdc59a84e6c7d8b"
+  },
+  {
+    "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+    "normalized": "metamask security incident prompts exit of affected ethereum validators",
+    "content_hash": "1d7391d1321053b1ad0a3d1001f229d4"
+  },
+  {
+    "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+    "normalized": "citrix netscaler post-exploitation payload creates superuser, maps web shell to css-like urls",
+    "content_hash": "9092474b3811cbc97f9dd666ea5d3ce6"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "normalized": "apple changes full-disk access permissions to curb abuse from ai agents",
+    "content_hash": "c72b0b6d862de781ac9082e0712989da"
+  },
+  {
+    "title": "This startup pays NYC residents to run air conditioners on free batteries",
+    "normalized": "this startup pays nyc residents to run air conditioners on free batteries",
+    "content_hash": "075c3d046298ce10beb5566c0367cd39"
+  },
+  {
+    "title": "Blume 2.0",
+    "normalized": "blume 2.0",
+    "content_hash": "c6620fcf63e1995de8510d9add705c9f"
+  },
+  {
+    "title": "Sellio",
+    "normalized": "sellio",
+    "content_hash": "f3105c9ee327e7fce77d2b6a9e3dda10"
+  },
+  {
+    "title": "ChatGPT Space",
+    "normalized": "chatgpt space",
+    "content_hash": "15b7bed962df9ab0aece4041a7b99a08"
+  },
+  {
+    "title": "CoreSpeed",
+    "normalized": "corespeed",
+    "content_hash": "51a1501de4c2475b98071ac133995d15"
   }
 ]
