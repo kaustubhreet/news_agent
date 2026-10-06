@@ -1,130 +1,5 @@
 [
   {
-    "title": "Meta\u2019s AI Tamagotchi bet is\u2026working?",
-    "normalized": "meta's ai tamagotchi bet is...working?",
-    "content_hash": "a2ba9b6583655366f2a9248ade14665c"
-  },
-  {
-    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "normalized": "ahead of us ipo, british ai neocloud nscale secures $3.36b in convertible financing",
-    "content_hash": "46b156232e2fd1104873f3e4ea7deb88"
-  },
-  {
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
-    "normalized": "unsecured openai agents posted 53 user images on the internet without the lab's knowledge",
-    "content_hash": "5419d76f5219b3c3bfe7bd1db2436a63"
-  },
-  {
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "normalized": "anthropic to pay akamai $11.6 billion over seven years in cloud deal",
-    "content_hash": "e18e723990e7111bbb5fc28a64e6e9d5"
-  },
-  {
-    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-    "normalized": "meta is putting its muscle behind muse as the ai app takes off",
-    "content_hash": "6d988fd0cda45c21048485370fa90ed4"
-  },
-  {
-    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "normalized": "revealing the details of how openai agents hacked hugging face",
-    "content_hash": "efdef4ae24d827db7063379d121d58b4"
-  },
-  {
-    "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-    "normalized": "openai investigating 'dozens' of instances of agents acting improperly",
-    "content_hash": "532537db71f54e49ee5f5b851ffadfb4"
-  },
-  {
-    "title": "How OpenAI's Rogue A.I. Agents Tried to Trick a Robot Detector",
-    "normalized": "how openai's rogue a.i. agents tried to trick a robot detector",
-    "content_hash": "f25834e869b1934a51c294cf71d47113"
-  },
-  {
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet",
-    "normalized": "unsecured openai agents posted 53 user images on the internet",
-    "content_hash": "1cb9bd39b2630977fd9b35ddb2c597f5"
-  },
-  {
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "normalized": "crusoe abandons $1.25b plan to use boom turbines at ai data centers",
-    "content_hash": "0436c4959e9f54e7b0d13a6c30aad8c5"
-  },
-  {
-    "title": "Automattic has a new board after failed attempt to put CEO on leave",
-    "normalized": "automattic has a new board after failed attempt to put ceo on leave",
-    "content_hash": "0e7efa08218055bcb7031f9ee70e9990"
-  },
-  {
-    "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
-    "normalized": "some supabase customers are publicly exposing reams of people's data to the web",
-    "content_hash": "1fb098513256124cde8af1b0415aee85"
-  },
-  {
-    "title": "Astra and Opus just passed Turing\u2019s other test",
-    "normalized": "astra and opus just passed turing's other test",
-    "content_hash": "660967bedc7fd90415fd188fe4095777"
-  },
-  {
-    "title": "Thieves Stole \u2018Nvidia\u2019 Trailers. They Got 20 Tons of Sand",
-    "normalized": "thieves stole 'nvidia' trailers. they got 20 tons of sand",
-    "content_hash": "9379cabf283e73678011673e4a0b4cb6"
-  },
-  {
-    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-    "normalized": "appeals court lets the pentagon designate anthropic a supply-chain risk",
-    "content_hash": "5b42f0d10843c08a6bf9e9e658633401"
-  },
-  {
-    "title": "These camera apps give you more control over the iPhone 18 Pro\u2019s aperture",
-    "normalized": "these camera apps give you more control over the iphone 18 pro's aperture",
-    "content_hash": "8b717e575bcc5c6e0cba5789fa22619e"
-  },
-  {
-    "title": "Tesla&#8217;s Optimus robot is going through growing pains",
-    "normalized": "tesla's optimus robot is going through growing pains",
-    "content_hash": "b3c7441cebdcb2f96b67df70bad40465"
-  },
-  {
-    "title": "Meta makes the Muse filesystem even more accessible",
-    "normalized": "meta makes the muse filesystem even more accessible",
-    "content_hash": "4ebbef0027cb3633dce548aaf3e6f6e9"
-  },
-  {
-    "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
-    "normalized": "leaks reveal a new apple homepod mini, ipad mini, and apple tv 4k",
-    "content_hash": "c225883e2ed6c55272ca665cc186bab7"
-  },
-  {
-    "title": "Show HN: KISS \u2013 A highly performant agent harness inspired off Pi built in Rust",
-    "normalized": "show hn: kiss - a highly performant agent harness inspired off pi built in rust",
-    "content_hash": "2b965f9f455c830c3675db9e778170eb"
-  },
-  {
-    "title": "OpenAI\u2019s Systems Went Rogue and Meddled With U.S. Government Websites",
-    "normalized": "openai's systems went rogue and meddled with u.s. government websites",
-    "content_hash": "f8cefd56fb938dd891e1f6d4bb0251b8"
-  },
-  {
-    "title": "OpenAI Codex 401 Outage",
-    "normalized": "openai codex 401 outage",
-    "content_hash": "6cc7cd9ed621764f12e1f69f2a80b8d8"
-  },
-  {
-    "title": "OpenAI's A.I. Tried Breaching 4 Other Targets, Without Prompting",
-    "normalized": "openai's a.i. tried breaching 4 other targets, without prompting",
-    "content_hash": "6a22f6d3e9f5b8cfed29b818f5685e30"
-  },
-  {
-    "title": "Anthropic's AI biolab finds 'CRISPR-like' DNA in viruses. What's next?",
-    "normalized": "anthropic's ai biolab finds 'crispr-like' dna in viruses. what's next?",
-    "content_hash": "c41aff9c9984c3da77eded4f9295cedb"
-  },
-  {
-    "title": "Skill-Guided Mining and Compilation of LLM Agent Traces",
-    "normalized": "skill-guided mining and compilation of llm agent traces",
-    "content_hash": "4e1c98aa5154be923cdc49e41f8d9a22"
-  },
-  {
     "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
     "normalized": "zero trust for ai agents starts with fixing zero visibility",
     "content_hash": "29711db4032bac20fa4c898d138537b4"
@@ -2498,5 +2373,130 @@
     "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
     "normalized": "microsoft exchange flaw lets authenticated attackers read other users' mailboxes",
     "content_hash": "647c3f73d47c4391675d530e7d7bcc4d"
+  },
+  {
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "normalized": "anthropic is giving startups a free year of claude team and $1,000 in credits",
+    "content_hash": "151e227a549170c3b7fc1a9b07c1782e"
+  },
+  {
+    "title": "Precisely Debuts AI Studio with Ready-Made Apps, Agents, and Skills",
+    "normalized": "precisely debuts ai studio with ready-made apps, agents, and skills",
+    "content_hash": "0570c4a1d2bb3fc418d7851611d6da75"
+  },
+  {
+    "title": "Mirror Particle is building a \u2018world model\u2019 of human behavior",
+    "normalized": "mirror particle is building a 'world model' of human behavior",
+    "content_hash": "6fc7b37bb47966b0d51013f7c6a4bfcb"
+  },
+  {
+    "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+    "normalized": "learn all about scaling, fundraising, founder how-tos, and more at techcrunch founder summit, november 4",
+    "content_hash": "076f28a127288ac127d6dac6547ab0c8"
+  },
+  {
+    "title": "Vinod Khosla believes ex-DeepMind engineer\u2019s Wajo will win agent market on trust",
+    "normalized": "vinod khosla believes ex-deepmind engineer's wajo will win agent market on trust",
+    "content_hash": "434ac230ccacdf00493debcfce273f54"
+  },
+  {
+    "title": "Flai\u2019s AI dealership software is booking 50,000 appointments per month",
+    "normalized": "flai's ai dealership software is booking 50,000 appointments per month",
+    "content_hash": "c3f969853f67f8930188c1eea1d0f4ae"
+  },
+  {
+    "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+    "normalized": "wikimedia says openai agents tried to compromise etherpad and use wiki tools as proxies",
+    "content_hash": "309d06d3b28adedc3e1552fc2fa7e48e"
+  },
+  {
+    "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+    "normalized": "welcome to the jungle: what we found inside 15,465 public mcp servers",
+    "content_hash": "613ac9b90b82937e1d34fba62005bb1a"
+  },
+  {
+    "title": "New leaks reveal more details about the Fitbit Edge including its price",
+    "normalized": "new leaks reveal more details about the fitbit edge including its price",
+    "content_hash": "7e446a7492170cce81d5cb60b6447726"
+  },
+  {
+    "title": "India\u2019s JioHotstar takes partnership route for Middle East expansion",
+    "normalized": "india's jiohotstar takes partnership route for middle east expansion",
+    "content_hash": "f5deed0b470a19a982cae8082c69dd82"
+  },
+  {
+    "title": "LibreOffice says \u2018no AI\u2019 is now a software feature",
+    "normalized": "libreoffice says 'no ai' is now a software feature",
+    "content_hash": "9dbea0366618c0d0f9b8e277afb95c45"
+  },
+  {
+    "title": "Bluesky wants to give you your own domain on the open web",
+    "normalized": "bluesky wants to give you your own domain on the open web",
+    "content_hash": "1126e6eb8f9861552a2f7acfb3b43e5b"
+  },
+  {
+    "title": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
+    "normalized": "mistral's new 1t model aims to leapfrog closed and open rivals",
+    "content_hash": "61a119acd225f9da10d3945e39062383"
+  },
+  {
+    "title": "Pinterest\u2019s AI now turns beauty Pins into action plans",
+    "normalized": "pinterest's ai now turns beauty pins into action plans",
+    "content_hash": "6b3a906f2cbc68b075842a084701dc43"
+  },
+  {
+    "title": "Facebook tests going Reels-first in India",
+    "normalized": "facebook tests going reels-first in india",
+    "content_hash": "fd39d998caebe32a9c34f0bfe568d56b"
+  },
+  {
+    "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+    "normalized": "type one energy raised $200m to build a fusion power plant by 2034",
+    "content_hash": "cd73878c838c29533f833749af02f3ee"
+  },
+  {
+    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians\u2014Again",
+    "normalized": "openai is pissing off a bunch of mathematicians--again",
+    "content_hash": "c0e07523e0d34081a2fc80b42a7ef78d"
+  },
+  {
+    "title": "A New Neurotech Startup Launches to Rival Sam Altman\u2019s Merge Labs",
+    "normalized": "a new neurotech startup launches to rival sam altman's merge labs",
+    "content_hash": "a24fb515d0d0e5f3b833c48a097f275b"
+  },
+  {
+    "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+    "normalized": "google pauses oss product bug bounty rewards after surge in invalid automated reports",
+    "content_hash": "996671b7ea6d68445bf530aeeca4494e"
+  },
+  {
+    "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+    "normalized": "clickfix smuggles payloads through browser cache to bypass windows run limits",
+    "content_hash": "ce4d2d94fdd4c1dbedad3dc9cb23809d"
+  },
+  {
+    "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+    "normalized": "apple plans tighter macos full disk access controls over ai agent data access",
+    "content_hash": "22e35663098dd1744ae8f9c58796c245"
+  },
+  {
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "normalized": "openai agents tried to hack wikipedia tools and flooded it with traffic",
+    "content_hash": "8a388fbf0f6ce6f1bbdeb13d0071f5e8"
+  },
+  {
+    "title": "Our first five impressions of Googlebooks \u2014 exciting but underbaked",
+    "normalized": "our first five impressions of googlebooks -- exciting but underbaked",
+    "content_hash": "b6e7d73f964332a209acb98ca102ca1d"
+  },
+  {
+    "title": "Our favorite headphones and earbuds are cheaper during October Prime Day",
+    "normalized": "our favorite headphones and earbuds are cheaper during october prime day",
+    "content_hash": "75df4de710676d80099d01b3929b43c9"
+  },
+  {
+    "title": "We can\u2019t just change the definition of \u2018recording\u2019",
+    "normalized": "we can't just change the definition of 'recording'",
+    "content_hash": "f8f374f028889d726dcf2df677c66480"
   }
 ]
