@@ -1,130 +1,5 @@
 [
   {
-    "title": "One company is at the center of a wave of rogue AI attacks",
-    "normalized": "one company is at the center of a wave of rogue ai attacks",
-    "content_hash": "59949e2bab8943ea3d43b9834a8a011b"
-  },
-  {
-    "title": "For months, OpenAI\u2019s agent swarms have been attacking online databases to find obscure facts",
-    "normalized": "for months, openai's agent swarms have been attacking online databases to find obscure facts",
-    "content_hash": "8bfa85318d300a8a50bad544f0d8dfe4"
-  },
-  {
-    "title": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office",
-    "normalized": "microsoft thinks its new copilot 'super app' will be as influential as office",
-    "content_hash": "7d0f0a7fe405ceba3fb1d85a3a44fd6b"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence\u2019s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-    "normalized": "techcrunch disrupt 2026: ricursive intelligence's anna goldie and azalia mirhoseini on when ai starts designing its own hardware",
-    "content_hash": "8fb5a47ce3179df69ba619aa123c5da7"
-  },
-  {
-    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-    "normalized": "lightspeed targets $250m for new india fund, focusing on early-stage ai",
-    "content_hash": "20d6537fe28b3e85662d62f263f13b7b"
-  },
-  {
-    "title": "Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test",
-    "normalized": "can apple home's ai camera features outsmart amazon's and google's? i put them to the test",
-    "content_hash": "e0bfd36f5236f99b870d45d3cdf4b2d7"
-  },
-  {
-    "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-    "normalized": "using llms to trace alchemical knowledge and decode 17th century letters",
-    "content_hash": "314921d529a657baf6b1b7e8d01db015"
-  },
-  {
-    "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
-    "normalized": "doubts grow over claims openai agent hacked australian medicare portal",
-    "content_hash": "251ea0fe7cdafb0cfc45b11a9225c458"
-  },
-  {
-    "title": "OpenAI $500 ProMax plan listed in API",
-    "normalized": "openai $500 promax plan listed in api",
-    "content_hash": "8d3f20011f01a4301dfc9438441a2289"
-  },
-  {
-    "title": "OpenAI prepares new $500/month Pro Max plan for ChatGPT",
-    "normalized": "openai prepares new $500/month pro max plan for chatgpt",
-    "content_hash": "419a8a2fb14f9ed4e157593dcf4c74ba"
-  },
-  {
-    "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise",
-    "normalized": "control the harness, control the cost: routing and governing ai coding agents in the enterprise",
-    "content_hash": "835007bb26d869b1cf6a47de29c71a9b"
-  },
-  {
-    "title": "Kiteworks urges customers to shut down their servers amid \u2018imminent\u2019 threat of cyberattack",
-    "normalized": "kiteworks urges customers to shut down their servers amid 'imminent' threat of cyberattack",
-    "content_hash": "ea4a18ce4481a1e6527d4cdb069750f7"
-  },
-  {
-    "title": "Anthropic\u2019s founders seek voting control ahead of IPO",
-    "normalized": "anthropic's founders seek voting control ahead of ipo",
-    "content_hash": "bda58f28e901bb5e864051e1bb5dced9"
-  },
-  {
-    "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "normalized": "affected by layoffs? don't miss this $75 deal for your techcrunch disrupt 2026 expo+ pass",
-    "content_hash": "d54bd829564b6d5b9f4b97ec70474581"
-  },
-  {
-    "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
-    "normalized": "meadow lets you leave your smartphone at home without sacrificing the essentials",
-    "content_hash": "6a9040e5cfb9deef488916e5adb5048b"
-  },
-  {
-    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-    "normalized": "last 24 hours to save up to $200 on techcrunch disrupt 2026. reason 5 of 5 to attend: momentum",
-    "content_hash": "c02b70f85ff9114b9fd9e8465e8aca76"
-  },
-  {
-    "title": "Sony and UMG are suing Suno again",
-    "normalized": "sony and umg are suing suno again",
-    "content_hash": "c430d908098d42d4d8fde86e176b7c3f"
-  },
-  {
-    "title": "Gaming\u2019s biggest horror series are more vital than ever",
-    "normalized": "gaming's biggest horror series are more vital than ever",
-    "content_hash": "9f3acc71cb162f25cc0b89b404249a59"
-  },
-  {
-    "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-    "normalized": "microsoft abandons personal ai chatbot race with copilot reboot",
-    "content_hash": "a91aa39e63bf2bae6789f72567588da4"
-  },
-  {
-    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-    "normalized": "u.s. appeals court upholds designation of anthropic as supply chain risk",
-    "content_hash": "6ca6e9912cef9d4c14e6cb39af9ac809"
-  },
-  {
-    "title": "OpenAI Hires Patreon Execs for Creators",
-    "normalized": "openai hires patreon execs for creators",
-    "content_hash": "9099e9f5984a009aec13acc45c15518e"
-  },
-  {
-    "title": "Ask HN: Anyone elses OpenAI and Claude API keys mysteriously leaked last night?",
-    "normalized": "ask hn: anyone elses openai and claude api keys mysteriously leaked last night?",
-    "content_hash": "e3bf61f24a3532875d90b1fe6437eed8"
-  },
-  {
-    "title": "Entropy-Based Guided Collaboration in Heterogeneous LLM Multi-Agent Systems",
-    "normalized": "entropy-based guided collaboration in heterogeneous llm multi-agent systems",
-    "content_hash": "ada0f1c5d0688962473044cf04c1a1f4"
-  },
-  {
-    "title": "Why Australia chose the biggest political stage to reveal OpenAI hack",
-    "normalized": "why australia chose the biggest political stage to reveal openai hack",
-    "content_hash": "604b16880d9a4fc02e85cde7cc094cd4"
-  },
-  {
-    "title": "Kilo for JetBrains is now a multi-agent control room",
-    "normalized": "kilo for jetbrains is now a multi-agent control room",
-    "content_hash": "56d8ff7a8ddf20cb82ad0f73f8122eb0"
-  },
-  {
     "title": "Meta\u2019s AI Tamagotchi bet is\u2026working?",
     "normalized": "meta's ai tamagotchi bet is...working?",
     "content_hash": "a2ba9b6583655366f2a9248ade14665c"
@@ -2498,5 +2373,130 @@
     "title": "CoreSpeed",
     "normalized": "corespeed",
     "content_hash": "51a1501de4c2475b98071ac133995d15"
+  },
+  {
+    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "normalized": "openai is adding text watermarking in chatgpt and codex",
+    "content_hash": "02c2039adfd33271a9c651b5afc6892c"
+  },
+  {
+    "title": "Etched fields funding offers at $40B+ valuation, sources say",
+    "normalized": "etched fields funding offers at $40b+ valuation, sources say",
+    "content_hash": "ee1b8fc88ff72068c06f3a7e919a2f91"
+  },
+  {
+    "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
+    "normalized": "openai will start watermarking chatgpt's text in the eu",
+    "content_hash": "a6ef4da095deefe28fd1ab9363f1bd69"
+  },
+  {
+    "title": "5 startups that caught VCs\u2019 attention at the latest PearX demo day",
+    "normalized": "5 startups that caught vcs' attention at the latest pearx demo day",
+    "content_hash": "1d5474d3feea8dea4414cf5486eef94e"
+  },
+  {
+    "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+    "normalized": "lola vision systems is trying to make it easier to run ai models on chips",
+    "content_hash": "d49a77ffe1d6bdbcd608f8dde4d493d3"
+  },
+  {
+    "title": "All the drama around AI&#8217;s takeover of mathematics",
+    "normalized": "all the drama around ai's takeover of mathematics",
+    "content_hash": "1f052f34e315a2c498d9015626495123"
+  },
+  {
+    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+    "normalized": "wikipedia operator says openai's 'rogue' bots may be linked to a may outage",
+    "content_hash": "aa6b72a01e21014b61d1eb3e36fc95c6"
+  },
+  {
+    "title": "OpenAI PR tells journalist to \u2018move on\u2019 while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+    "normalized": "openai pr tells journalist to 'move on' while asking sam altman about a chatgpt user's suicide",
+    "content_hash": "3f7139429c72a8237c5b114eaf0f9916"
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "normalized": "instinct brings its ai agent to group chats, even for friends without an account",
+    "content_hash": "797da3ca63540501b8fa29f2edf325a0"
+  },
+  {
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "normalized": "tiktok rolls out an ai shopping assistant and one-click checkout",
+    "content_hash": "9c2ff4eec49799806eda041d774e6038"
+  },
+  {
+    "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+    "normalized": "at 19, founder raises $11m for ghost, maker of a $3,499 computer for personal ai",
+    "content_hash": "8a148172f919fa1ef9ac932b510715a7"
+  },
+  {
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "normalized": "openai launches visual ads that appear alongside image generation results",
+    "content_hash": "4374e74fd6fa844de8c128b286d4fe01"
+  },
+  {
+    "title": "Researchers are tracking a Chinese AI \u2018agent fleet\u2019",
+    "normalized": "researchers are tracking a chinese ai 'agent fleet'",
+    "content_hash": "ea4dc411e29e4c1516a6c569c6184bc6"
+  },
+  {
+    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "normalized": "gemini call for me might tell your mom you're running late",
+    "content_hash": "31c94bbdc70d0798fe6d80404c5ceffe"
+  },
+  {
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "normalized": "this startup is issuing ai-generated acne prescriptions",
+    "content_hash": "249a963a0a55e56413310b329c9e7bab"
+  },
+  {
+    "title": "Sam Altman says \u2018some bad things&#8217; will happen, but AI is totally worth it",
+    "normalized": "sam altman says 'some bad things' will happen, but ai is totally worth it",
+    "content_hash": "06af239f647b1b863dfe39057df25061"
+  },
+  {
+    "title": "NYC Council Hearing Puts Anthropic, OpenAI, Google, Meta Under Oath",
+    "normalized": "nyc council hearing puts anthropic, openai, google, meta under oath",
+    "content_hash": "00d8aaed6f80f98d66f06c0d3e732881"
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "normalized": "reflection debuts beam, an open-weight ai model to rival chinese models at lower compute cost",
+    "content_hash": "b118735a712e928e35f0b60ac8b0b681"
+  },
+  {
+    "title": "Hot Girl Hotline is like \u2018Dear Abby\u2019 for the AI era",
+    "normalized": "hot girl hotline is like 'dear abby' for the ai era",
+    "content_hash": "c44ca46b0038654ce1a6b0c50d983023"
+  },
+  {
+    "title": "HackerRank\u2019s AI interviewer offers a glimpse into what job interviews could become",
+    "normalized": "hackerrank's ai interviewer offers a glimpse into what job interviews could become",
+    "content_hash": "32997d52e65b8f53947ec23cd24778d9"
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "normalized": "open or closed ai? how founders are choosing what to build on at techcrunch disrupt 2026",
+    "content_hash": "005b6f1566997f0bf8b0a99234cf3f91"
+  },
+  {
+    "title": "Hackers steal 8 million citizens\u2019 records from Danish government database",
+    "normalized": "hackers steal 8 million citizens' records from danish government database",
+    "content_hash": "f1d978c06f736296ce86ccd4d48f1b7a"
+  },
+  {
+    "title": "Meet the Startup Battlefield 200 judges who\u2019ll decide the winner at TechCrunch Disrupt 2026",
+    "normalized": "meet the startup battlefield 200 judges who'll decide the winner at techcrunch disrupt 2026",
+    "content_hash": "ed2bae0a88ca9043301cb94bbffdb8e1"
+  },
+  {
+    "title": "Can Safeworld convince people that GenAI robots won\u2019t hurt them?",
+    "normalized": "can safeworld convince people that genai robots won't hurt them?",
+    "content_hash": "80f6d98f253648811c15df0bb97762c6"
+  },
+  {
+    "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+    "normalized": "microsoft exchange flaw lets authenticated attackers read other users' mailboxes",
+    "content_hash": "647c3f73d47c4391675d530e7d7bcc4d"
   }
 ]
