@@ -1,130 +1,5 @@
 [
   {
-    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-    "normalized": "zero trust for ai agents starts with fixing zero visibility",
-    "content_hash": "29711db4032bac20fa4c898d138537b4"
-  },
-  {
-    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-    "normalized": "understanding the impact of llm watermarking on ai agent behavior",
-    "content_hash": "0772bbf31f804677a15940fb442b277c"
-  },
-  {
-    "title": "The Notice Had Nowhere to Land: The OpenAI Agent Breach in Australia",
-    "normalized": "the notice had nowhere to land: the openai agent breach in australia",
-    "content_hash": "fbbe0d6eb8bffc301c7ec7293f5b5aae"
-  },
-  {
-    "title": "Oxford University lets OpenAI train its AI models on Bodleian Library",
-    "normalized": "oxford university lets openai train its ai models on bodleian library",
-    "content_hash": "bb02698c91f4dd2645a6615502e7ecc4"
-  },
-  {
-    "title": "OpenAI Accuses Plaintiffs' Lawyers of Funding and Laundering Copyright Evidence",
-    "normalized": "openai accuses plaintiffs' lawyers of funding and laundering copyright evidence",
-    "content_hash": "11ce1917e98842db1d30eb1f6ec07fd0"
-  },
-  {
-    "title": "OpenAI says its AI agents posted user images online in error",
-    "normalized": "openai says its ai agents posted user images online in error",
-    "content_hash": "2087a889e01542fa46647f7a4cb6d78c"
-  },
-  {
-    "title": "LLM Red-temaing vs. Agent Red teaming",
-    "normalized": "llm red-temaing vs. agent red teaming",
-    "content_hash": "3f4d350d2bd1b592a3e459dacda83900"
-  },
-  {
-    "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
-    "normalized": "linux kernel developers consider adding agents.md to help guide ai/llm agents",
-    "content_hash": "483d8b860b13a7689477c39c656b3bf6"
-  },
-  {
-    "title": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
-    "normalized": "i created an interactive digital avatar of myself -- and you can talk to it",
-    "content_hash": "0a9cf4811cc9e9afddde76beaae793e3"
-  },
-  {
-    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-    "normalized": "attackers bypass wafs to exploit oracle peoplesoft flaw and deploy web shells",
-    "content_hash": "cc5ef1673d2059e311f149f585ce7790"
-  },
-  {
-    "title": "OpenAI's agents targeted and infiltrated US government websites",
-    "normalized": "openai's agents targeted and infiltrated us government websites",
-    "content_hash": "9f7b43405a628fb0d5be1ba50fe06709"
-  },
-  {
-    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-    "normalized": "can cloudflare ceo matthew prince save the web from ai?",
-    "content_hash": "98da68fadf9e6adb54691e4a14d0280d"
-  },
-  {
-    "title": "Control Resonant is a great game \u2014 it\u2019s even better when you read everything",
-    "normalized": "control resonant is a great game -- it's even better when you read everything",
-    "content_hash": "8f2a315b1dd22c80bfe67dc99601594c"
-  },
-  {
-    "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
-    "normalized": "can 'esuv' e-bikes really go from trail to town?",
-    "content_hash": "67abcddf998195302ae7d748e08da075"
-  },
-  {
-    "title": "The Copilot+ PC brand is dead",
-    "normalized": "the copilot+ pc brand is dead",
-    "content_hash": "46d8766b129572865d1bb84b7f49dc1e"
-  },
-  {
-    "title": "Show HN: Ogre MCP \u2013 Let your AI agent see your WoW Classic game state",
-    "normalized": "show hn: ogre mcp - let your ai agent see your wow classic game state",
-    "content_hash": "4f067abb6ab9a2061320b395d0131c07"
-  },
-  {
-    "title": "OpenAI bots meddled with multiple US Government agency sites",
-    "normalized": "openai bots meddled with multiple us government agency sites",
-    "content_hash": "ddb3b7efae93b9e0a639e2582e450955"
-  },
-  {
-    "title": "OpenAI says its models engaged with US Government websites in new disclosure",
-    "normalized": "openai says its models engaged with us government websites in new disclosure",
-    "content_hash": "d88816897245b3537c6db4af096b4b56"
-  },
-  {
-    "title": "OpenAI: Astra Model Is Nerfed",
-    "normalized": "openai: astra model is nerfed",
-    "content_hash": "b61af109fd5e51cebdb6968f4fb14c47"
-  },
-  {
-    "title": "Show HN: Causal analyst agent skill for Claude",
-    "normalized": "show hn: causal analyst agent skill for claude",
-    "content_hash": "45ff2530a559b251e2ae33c0945ec9c4"
-  },
-  {
-    "title": "The OpenAI \"Hack\" of Australia's Medicare That Wasn't",
-    "normalized": "the openai \"hack\" of australia's medicare that wasn't",
-    "content_hash": "3a3b0414faaa0c301414cbbf2dcf9714"
-  },
-  {
-    "title": "From portal-hopping to instant answers: HEMA\u2019s journey with MCP and Amazon Bedrock",
-    "normalized": "from portal-hopping to instant answers: hema's journey with mcp and amazon bedrock",
-    "content_hash": "5b00f2ac3a6f2fcf8bb85e546dbc0ead"
-  },
-  {
-    "title": "Claude Opus 5.5 is now available on AWS",
-    "normalized": "claude opus 5.5 is now available on aws",
-    "content_hash": "ddc736ce23c997a9bf561f6da8d87564"
-  },
-  {
-    "title": "Don\u2019t be fooled by this summer of AI hype",
-    "normalized": "don't be fooled by this summer of ai hype",
-    "content_hash": "327e5901615526bced4713ca4a5bb9f8"
-  },
-  {
-    "title": "GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level",
-    "normalized": "gpt-6 astra just hit openai's highest cybersecurity risk level",
-    "content_hash": "ae107729cad16b5f630cd9b676c5e9e5"
-  },
-  {
     "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
     "normalized": "google tests buying from walmart-owned flipkart through gemini and ai mode in india",
     "content_hash": "0c8805d333231fc22b27136bdd0c75d3"
@@ -2498,5 +2373,130 @@
     "title": "We can\u2019t just change the definition of \u2018recording\u2019",
     "normalized": "we can't just change the definition of 'recording'",
     "content_hash": "f8f374f028889d726dcf2df677c66480"
+  },
+  {
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "normalized": "ai computing startup lambda to raise $4b ahead of planned ipo",
+    "content_hash": "344dfd6acde82b988307921fab94690a"
+  },
+  {
+    "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+    "normalized": "fake chatgpt, gemini, and claude ad portals capture credentials and mfa codes",
+    "content_hash": "0a6083caa66b615d3f2feb6a31c0afee"
+  },
+  {
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "normalized": "ex-ramp engineers raise $20m for platform melius after scrapping their first product",
+    "content_hash": "9ff57e9c85570962f4eea09346bbeabf"
+  },
+  {
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "normalized": "the next hurdle for ai agents: getting websites to let them in",
+    "content_hash": "49cd5d52ddc18afa4462a4f5cf4b99c0"
+  },
+  {
+    "title": "Introducing GLM 5.3 on Amazon Bedrock",
+    "normalized": "introducing glm 5.3 on amazon bedrock",
+    "content_hash": "dfcd8024a54bfa17d603383755b7113e"
+  },
+  {
+    "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+    "normalized": "supercharge regulated workloads with claude code and amazon bedrock",
+    "content_hash": "2a06b180718d6300ccceef6bf179c26a"
+  },
+  {
+    "title": "How to find out if Amazon thinks you have \u2018flat buttocks\u2019",
+    "normalized": "how to find out if amazon thinks you have 'flat buttocks'",
+    "content_hash": "8c267f4c97be29e1599230f7af6a615f"
+  },
+  {
+    "title": "Best Amazon Prime Day Vacuum Deals: Dyson, Shark, and Robot Vacuums (2026)",
+    "normalized": "best amazon prime day vacuum deals: dyson, shark, and robot vacuums (2026)",
+    "content_hash": "d40fe5f2b2c8132dcfef201921dca9a5"
+  },
+  {
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "normalized": "openai drops another batch of mathematical breakthroughs",
+    "content_hash": "220ad5353748450f23f4f41a105767dc"
+  },
+  {
+    "title": "Silicon Valley\u2019s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+    "normalized": "silicon valley's ai wunderkind launches underdog, the most private instinct/muse competitor yet",
+    "content_hash": "14d34f8b68c29ee609249db35b8b5808"
+  },
+  {
+    "title": "How AI decision models could change content moderation",
+    "normalized": "how ai decision models could change content moderation",
+    "content_hash": "f1aacbca259abb27449ac5e25f9a4533"
+  },
+  {
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "normalized": "hark releases an ai personal assistant with a focus on privacy",
+    "content_hash": "ac71977b74c82e0571eb5a071ef8e713"
+  },
+  {
+    "title": "\u2018Artificial\u2019 Roasts AI\u2019s Creators\u2014and Sends a Dark Warning About Its Dangers",
+    "normalized": "'artificial' roasts ai's creators--and sends a dark warning about its dangers",
+    "content_hash": "ea1c68d9cee63212baa5d4948308373d"
+  },
+  {
+    "title": "Amazon\u2019s last-gen Kindle Paperwhite is 30 percent off",
+    "normalized": "amazon's last-gen kindle paperwhite is 30 percent off",
+    "content_hash": "6ed29516926b2b69cee01735d3c0f138"
+  },
+  {
+    "title": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
+    "normalized": "build a voice travel concierge with amazon bedrock agentcore, managed knowledge base and nova sonic",
+    "content_hash": "1127598987dd807a6710059c8e48e579"
+  },
+  {
+    "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+    "normalized": "new agent skill: amazon sagemaker optimized generative ai inference for your coding agent",
+    "content_hash": "0b1379f92c60585d701ace156133153b"
+  },
+  {
+    "title": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases",
+    "normalized": "agentic retrieval with langchain and amazon bedrock knowledge bases",
+    "content_hash": "1b86b64dc10219c1493cdd28337c2903"
+  },
+  {
+    "title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
+    "normalized": "evaluating multi-agent systems for explainability and helpfulness with amazon bedrock agentcore",
+    "content_hash": "96d00acd94abe8b8130383729b0efe1f"
+  },
+  {
+    "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+    "normalized": "sweep thousands of leases for compliance using amazon quick and the adjudicated query pattern",
+    "content_hash": "5e44ac47ed7f6ae6b273ec4422ae6810"
+  },
+  {
+    "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+    "normalized": "scaling cloud migrations with agentic ai on amazon bedrock agentcore",
+    "content_hash": "005ec72e0a5ef09c6beb0f2c0fd8327f"
+  },
+  {
+    "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
+    "normalized": "building ambient agents with amazon bedrock agentcore: from event-driven signals to human-in-the-loop workflows",
+    "content_hash": "fcd63285e18303df615d6006b11afa16"
+  },
+  {
+    "title": "OpenAI will watermark ChatGPT outputs by default\u2014but only in the EU",
+    "normalized": "openai will watermark chatgpt outputs by default--but only in the eu",
+    "content_hash": "ae2990a2261ec66faef18be1ae2d88b6"
+  },
+  {
+    "title": "The Best Anti\u2013Prime Day Deals for Amazon Haters",
+    "normalized": "the best anti-prime day deals for amazon haters",
+    "content_hash": "70ab8a4975d8b8dfc4b6303e39b6732b"
+  },
+  {
+    "title": "Amazon Prime Day Deals Under $50 in October 2026",
+    "normalized": "amazon prime day deals under $50 in october 2026",
+    "content_hash": "819b6f719aaa84422304d7222091ecf3"
+  },
+  {
+    "title": "Yeti Coolers and Cups Are Up to $100 Off for Amazon Prime Day (2026)",
+    "normalized": "yeti coolers and cups are up to $100 off for amazon prime day (2026)",
+    "content_hash": "1a558c0b3d2d9ea8b050d089916d8d74"
   }
 ]
