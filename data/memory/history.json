@@ -1,130 +1,5 @@
 [
   {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "normalized": "google tests buying from walmart-owned flipkart through gemini and ai mode in india",
-    "content_hash": "0c8805d333231fc22b27136bdd0c75d3"
-  },
-  {
-    "title": "PNOE\u2019s new face mask wants to make lab-grade breath testing a self-serve affair",
-    "normalized": "pnoe's new face mask wants to make lab-grade breath testing a self-serve affair",
-    "content_hash": "e5286523264aff9300dc2edcac016d27"
-  },
-  {
-    "title": "OpenAI pauses training of its \u2018most capable models\u2019",
-    "normalized": "openai pauses training of its 'most capable models'",
-    "content_hash": "426675396351af20f8623b424d4145a6"
-  },
-  {
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "normalized": "insurers claim ai is already increasing healthcare costs",
-    "content_hash": "17525535f767d094431b5e2100ef9e10"
-  },
-  {
-    "title": "Levoit\u2019s new air purifier is for the pet odors that have taken over your apartment",
-    "normalized": "levoit's new air purifier is for the pet odors that have taken over your apartment",
-    "content_hash": "2eea3542bf7db7885cf55b5ffb073cbb"
-  },
-  {
-    "title": "Helping older adults use AI in everyday life",
-    "normalized": "helping older adults use ai in everyday life",
-    "content_hash": "75508082560254bff31fe1e1fd39db66"
-  },
-  {
-    "title": "Reimagining advertising with AI",
-    "normalized": "reimagining advertising with ai",
-    "content_hash": "11c1cfe4a96d474f2bdbcc4c674f11f1"
-  },
-  {
-    "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-    "normalized": "empowering india's next generation of innovators with atl saathi",
-    "content_hash": "49d8e3c8577d5edbfe43436f423c02a5"
-  },
-  {
-    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-    "normalized": "tiktok agrees to pay at least $100m in alabama settlement",
-    "content_hash": "297333e0fe7fd13cf62bff976529b93d"
-  },
-  {
-    "title": "Meta and YouTube say they will run ads for \u2018Musk\u2019 documentary after all",
-    "normalized": "meta and youtube say they will run ads for 'musk' documentary after all",
-    "content_hash": "1ca7d740e93cf2f112f5b8c0bb3dbf10"
-  },
-  {
-    "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
-    "normalized": "at meta connect, the company's smart glasses were everywhere",
-    "content_hash": "73d43be7195056f7bdc657031bcf1b18"
-  },
-  {
-    "title": "Meta opens early access program for new Muse features",
-    "normalized": "meta opens early access program for new muse features",
-    "content_hash": "7db75bb058c863318f0cc96cd9124e43"
-  },
-  {
-    "title": "The hottest new hangout for middle schoolers is NPR\u2019s comment section?",
-    "normalized": "the hottest new hangout for middle schoolers is npr's comment section?",
-    "content_hash": "3942ad52b0bed76550946a110a890916"
-  },
-  {
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "normalized": "mark wahlberg is coming to techcrunch disrupt 2026, and he wants to talk about your work, not his",
-    "content_hash": "37e1bee543aa72552ec449ab61c79b2e"
-  },
-  {
-    "title": "The Aeropod automates soil aeration without robotics \u2014 see it at TechCrunch Disrupt",
-    "normalized": "the aeropod automates soil aeration without robotics -- see it at techcrunch disrupt",
-    "content_hash": "c20829fb86d9b71bd763b132048e78b0"
-  },
-  {
-    "title": "Old-School Credit Card Scams Are Far From Dead",
-    "normalized": "old-school credit card scams are far from dead",
-    "content_hash": "55c043efe795c9de0253baffe6dd748b"
-  },
-  {
-    "title": "Meta\u2019s Muse Is Adults-Only. Why Does It Look Like a Kids\u2019 Toy?",
-    "normalized": "meta's muse is adults-only. why does it look like a kids' toy?",
-    "content_hash": "fbbf5f6dbd563df59a349ac8799edd62"
-  },
-  {
-    "title": "This Browser Extension Lets You Snooze Open Tabs Until Later",
-    "normalized": "this browser extension lets you snooze open tabs until later",
-    "content_hash": "386e2b45b912cd362d4b968f31aec633"
-  },
-  {
-    "title": "Quince Luggage Is Affordable but Doesn\u2019t Feel Cheap (2026)",
-    "normalized": "quince luggage is affordable but doesn't feel cheap (2026)",
-    "content_hash": "a799802345e4a29c31421f1a6bc932fa"
-  },
-  {
-    "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
-    "normalized": "the trump administration is trying to get musk and x out of a $137 million eu fine",
-    "content_hash": "2085fac03cf4d705ac139a13eb8e6809"
-  },
-  {
-    "title": "Party Invite Phishing Scams Are the New Missed Connections",
-    "normalized": "party invite phishing scams are the new missed connections",
-    "content_hash": "aaeeab9b6a4abff8eb1a7bf714879fd9"
-  },
-  {
-    "title": "\u2018Primetime\u2019 Exposes the Ego-Driven Core of Vigilante Pedophile Hunting",
-    "normalized": "'primetime' exposes the ego-driven core of vigilante pedophile hunting",
-    "content_hash": "adb639eab4e36a70bdfa3d7a09f2895d"
-  },
-  {
-    "title": "Nearly a Decade Later, the Electric Tesla Semi Is Here",
-    "normalized": "nearly a decade later, the electric tesla semi is here",
-    "content_hash": "9fbbad2f3145d3a7c8edcd45f3eb7e37"
-  },
-  {
-    "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
-    "normalized": "lunex stealer abuses amd driver to disable security monitoring and steal browser credentials",
-    "content_hash": "4998784cc9d3f228487ecc3cbe72df95"
-  },
-  {
-    "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-    "normalized": "elementor csrf flaw lets attackers take over sites after admin clicks crafted link",
-    "content_hash": "5dd50141218008f5bf796804e9bd0594"
-  },
-  {
     "title": "OpenAI pauses training of latest models after agents probed US Government sites",
     "normalized": "openai pauses training of latest models after agents probed us government sites",
     "content_hash": "d8d71407985ee352530520f21e4e27c5"
@@ -2498,5 +2373,130 @@
     "title": "Yeti Coolers and Cups Are Up to $100 Off for Amazon Prime Day (2026)",
     "normalized": "yeti coolers and cups are up to $100 off for amazon prime day (2026)",
     "content_hash": "1a558c0b3d2d9ea8b050d089916d8d74"
+  },
+  {
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "normalized": "surface rtx spark dev box is available for preorder for $5,999",
+    "content_hash": "cc0d2b542595b1129ad39120ae033fea"
+  },
+  {
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "normalized": "chatgpt is getting a lot more visual, with the launch of a new interface",
+    "content_hash": "99976f1a15264e92574dbc2478281ebc"
+  },
+  {
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "normalized": "get hands-on: the full lineup of interactive roundtables at techcrunch disrupt 2026",
+    "content_hash": "a567adcc8436fc24d7fcba30b67bd7a2"
+  },
+  {
+    "title": "The Pentagon Hopes to Speed Up \u2018Kill Chain\u2019 AI Buys With 5-Minute Videos",
+    "normalized": "the pentagon hopes to speed up 'kill chain' ai buys with 5-minute videos",
+    "content_hash": "cd852cd6fa42d278235806fad379b7b3"
+  },
+  {
+    "title": "The Surface Laptop Ultra finally has a release date \u2014 and a starting price of $2,599",
+    "normalized": "the surface laptop ultra finally has a release date -- and a starting price of $2,599",
+    "content_hash": "a5e12cd02852672276b12bec755dba2f"
+  },
+  {
+    "title": "NVIDIA Research Finds AI Agents Become Less Safe When Using Tools",
+    "normalized": "nvidia research finds ai agents become less safe when using tools",
+    "content_hash": "33ecd5633a0b3ec8510c647428cb127c"
+  },
+  {
+    "title": "Google Opens SynthID Detector Globally With Partner AI Content Checks",
+    "normalized": "google opens synthid detector globally with partner ai content checks",
+    "content_hash": "653f0171980bfbcb5a23284ef819d4b9"
+  },
+  {
+    "title": "Bloom raises $3.6M to become the \u2018Alibaba\u2019 of American manufacturing",
+    "normalized": "bloom raises $3.6m to become the 'alibaba' of american manufacturing",
+    "content_hash": "6b791dc5ebf37c47e0f00bf3afcf68e1"
+  },
+  {
+    "title": "Google experiments with an AI-powered gaming platform",
+    "normalized": "google experiments with an ai-powered gaming platform",
+    "content_hash": "c3875af3eaca262986c7bd0c019731c8"
+  },
+  {
+    "title": "OpenAI\u2019s Alexander Embiricos is coming to TechCrunch Disrupt 2026 \u2014 days after the launch of Dots",
+    "normalized": "openai's alexander embiricos is coming to techcrunch disrupt 2026 -- days after the launch of dots",
+    "content_hash": "0108c54ce66016a45062da81003a4858"
+  },
+  {
+    "title": "Google\u2019s new SynthID website can identify AI-generated media",
+    "normalized": "google's new synthid website can identify ai-generated media",
+    "content_hash": "62a63385c3a8458d6e3cdcc407efb1d0"
+  },
+  {
+    "title": "The New ChatGPT Is More Show Than Tell",
+    "normalized": "the new chatgpt is more show than tell",
+    "content_hash": "9aed8539d2ce10f20fd98d351936e799"
+  },
+  {
+    "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+    "normalized": "openai wants its new agent to run your life. mine said it loved me",
+    "content_hash": "923fade0a95353e05b5d0c55f4822175"
+  },
+  {
+    "title": "Microsoft Windows and Surface event 2026: Live updates on the Surface Laptop Ultra and NVIDIA RTX Spark",
+    "normalized": "microsoft windows and surface event 2026: live updates on the surface laptop ultra and nvidia rtx spark",
+    "content_hash": "bff1915dcf023bbc0baf42265a331c65"
+  },
+  {
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "normalized": "microsoft is giving copilot more control over windows and your files",
+    "content_hash": "85919375ab1f8c3eb0f161d80ac23248"
+  },
+  {
+    "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+    "normalized": "aegisflow: a multi-agent agentic ai framework for autonomous remediation and self-healing in fragile data ecosystems",
+    "content_hash": "70b20418ae303993526f536d330d8c18"
+  },
+  {
+    "title": "Greenairy is building smart plant towers to clean the air in your office",
+    "normalized": "greenairy is building smart plant towers to clean the air in your office",
+    "content_hash": "548660f8b25939c07f4e65f307072072"
+  },
+  {
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "normalized": "meta rolls out new ai tools to detect ads that secretly lead to child sexual abuse material",
+    "content_hash": "4a57b8cfc69f364d7caad743969c6d7a"
+  },
+  {
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "normalized": "healthleap raises $38m for its ai that flags hospital patients who may need a closer look",
+    "content_hash": "7e1a3ce7de2ebd3c6fab5caee53caa28"
+  },
+  {
+    "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+    "normalized": "spacex alumni nab $100m to rethink shipping with autonomous freight trains",
+    "content_hash": "2f6a07f7ab1fe84ef504ff62a851ac4e"
+  },
+  {
+    "title": "Tony Fadell on why the first wave of AI gadgets failed \u2014 and what comes next",
+    "normalized": "tony fadell on why the first wave of ai gadgets failed -- and what comes next",
+    "content_hash": "6311c6e5c48341dfd2af7b62fcea5b55"
+  },
+  {
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "normalized": "6 days to techcrunch disrupt 2026: save on your pass before doors open",
+    "content_hash": "c24faf5bc0f6abcee0b70e8125a638d9"
+  },
+  {
+    "title": "Another personal AI assistant has launched \u2014 Meet Tab, which emerged from stealth with a $300M valuation",
+    "normalized": "another personal ai assistant has launched -- meet tab, which emerged from stealth with a $300m valuation",
+    "content_hash": "e0bde84f06038ad450b439a719b611b7"
+  },
+  {
+    "title": "Spotify expands audiobooks to over 180 markets",
+    "normalized": "spotify expands audiobooks to over 180 markets",
+    "content_hash": "737a7b6d55fdc770cbd6d5994960fa32"
+  },
+  {
+    "title": "A Startup Has a Plan to Make Water From Air Using Data Centers\u2019 Waste Heat",
+    "normalized": "a startup has a plan to make water from air using data centers' waste heat",
+    "content_hash": "0fbcc277997b0fe49414af5ab78eb490"
   }
 ]
