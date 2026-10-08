@@ -1,130 +1,5 @@
 [
   {
-    "title": "OpenAI pauses training of latest models after agents probed US Government sites",
-    "normalized": "openai pauses training of latest models after agents probed us government sites",
-    "content_hash": "d8d71407985ee352530520f21e4e27c5"
-  },
-  {
-    "title": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
-    "normalized": "gemini live vs. chatgpt voice: which ai offers a more natural conversation?",
-    "content_hash": "5d25af65fb9502eca2f0e0ba99b8266e"
-  },
-  {
-    "title": "Unsealed Briefs in Authors\u2019 Case v. Microsoft/OpenAI",
-    "normalized": "unsealed briefs in authors' case v. microsoft/openai",
-    "content_hash": "0064eb71c1e8d69f14cfdceb3b5065ef"
-  },
-  {
-    "title": "An agent used DNS to reach an external chatbot",
-    "normalized": "an agent used dns to reach an external chatbot",
-    "content_hash": "a406da28ae37aa2556c34af735f6ee22"
-  },
-  {
-    "title": "Show HN: An OpenAI-compatible, model-agnostic agent API",
-    "normalized": "show hn: an openai-compatible, model-agnostic agent api",
-    "content_hash": "707e6bba8dce50f073582b31bb3336d3"
-  },
-  {
-    "title": "OpenAI is pausing training for a second time",
-    "normalized": "openai is pausing training for a second time",
-    "content_hash": "c3449f72aabdbc42265d1f0a1a2c1e05"
-  },
-  {
-    "title": "OpenAI halts training of latest models",
-    "normalized": "openai halts training of latest models",
-    "content_hash": "a962cb73ab77d11068754fd378ee3360"
-  },
-  {
-    "title": "OpenAI and Anthropic are investigating cases of AI misbehaving, report says",
-    "normalized": "openai and anthropic are investigating cases of ai misbehaving, report says",
-    "content_hash": "520fd699250a8dc2397dab947166175d"
-  },
-  {
-    "title": "TechCrunch Mobility: AV companies pick their lanes",
-    "normalized": "techcrunch mobility: av companies pick their lanes",
-    "content_hash": "8c0ac8f128910224f4c8317d1b0404b9"
-  },
-  {
-    "title": "Sennheiser Momentum 5\u00a0review: Great sound, incredible battery life, and few compromises",
-    "normalized": "sennheiser momentum 5 review: great sound, incredible battery life, and few compromises",
-    "content_hash": "46c0eefafc1f3a1994341d630f12bb67"
-  },
-  {
-    "title": "GPT-6 Sol & Luna",
-    "normalized": "gpt-6 sol & luna",
-    "content_hash": "11207f6269e83d5cb6763575157bf553"
-  },
-  {
-    "title": "Googlebooks might be the real deal",
-    "normalized": "googlebooks might be the real deal",
-    "content_hash": "eeb7808b76043065bfb3cb30293ebfa1"
-  },
-  {
-    "title": "I Gave My Life over to Meta's A.I. Agent and Was Blown Away",
-    "normalized": "i gave my life over to meta's a.i. agent and was blown away",
-    "content_hash": "992fadadd9f97036627b186a510f3cc2"
-  },
-  {
-    "title": "Show HN: AI agent running cost calculator (and when a SaaS platform is cheaper)",
-    "normalized": "show hn: ai agent running cost calculator (and when a saas platform is cheaper)",
-    "content_hash": "e720a912a423c76265be5057a5101ae6"
-  },
-  {
-    "title": "Your AI Agent Forgot Half of What You Told It",
-    "normalized": "your ai agent forgot half of what you told it",
-    "content_hash": "5113ebb7c0999ccbe9318ef8dc2c929a"
-  },
-  {
-    "title": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
-    "normalized": "a wall that listens: the local-llm pipeline behind an ai party in vilnius",
-    "content_hash": "6dedbdd9908e2954b00272205ef8a5bc"
-  },
-  {
-    "title": "The BR essays that foresaw OpenAI's latest scandal",
-    "normalized": "the br essays that foresaw openai's latest scandal",
-    "content_hash": "4c7928c6e0bd91d0eb11161bb87e298f"
-  },
-  {
-    "title": "Anthropic's Secretive AI-Powered Wet Lab Breaks Cover and Makes First Discovery",
-    "normalized": "anthropic's secretive ai-powered wet lab breaks cover and makes first discovery",
-    "content_hash": "1a0dcfc06b5b066121a038c71501d983"
-  },
-  {
-    "title": "Australia's Deputy PM Defends Data Security After OpenAI Hack",
-    "normalized": "australia's deputy pm defends data security after openai hack",
-    "content_hash": "ff753ae8a8506b9351005105a519f0ff"
-  },
-  {
-    "title": "'Gen Z wants answers, not intimidation': CJP slams Delhi minister after viral video shows him slapping man",
-    "normalized": "'gen z wants answers, not intimidation': cjp slams delhi minister after viral video shows him slapping man",
-    "content_hash": "81e8d5b5aaeb918183c2843113d70790"
-  },
-  {
-    "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn\u2019t Yet",
-    "normalized": "the data center backlash should also be a climate reckoning. it isn't yet",
-    "content_hash": "7a3de8d95048b1fb1316e3cd93da6e92"
-  },
-  {
-    "title": "Nicotine Is Mounting a Comeback in the Wellness Movement",
-    "normalized": "nicotine is mounting a comeback in the wellness movement",
-    "content_hash": "7ce506081d3d41d88fb3e31e8578ba47"
-  },
-  {
-    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-    "normalized": "warning: two unpatched citrix netscaler rce zero-days under active exploitation",
-    "content_hash": "36ad2e165b57b4825ec9b4e2a3bfabb8"
-  },
-  {
-    "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-    "normalized": "sharepoint rce and mikrotik routeros flaws actively exploited in the wild",
-    "content_hash": "14943a7da5ce5df78aa2822bdcc5b1f3"
-  },
-  {
-    "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-    "normalized": "kiteworks urges customers to shut down systems for 9 hours over possible cyber attack",
-    "content_hash": "7fe221bf04f37b96e2352818d351a29b"
-  },
-  {
     "title": "Can Muse overcome Meta\u2019s trust issues?",
     "normalized": "can muse overcome meta's trust issues?",
     "content_hash": "d91c7e35ac3b5c5e09299656f87f249b"
@@ -2498,5 +2373,130 @@
     "title": "A Startup Has a Plan to Make Water From Air Using Data Centers\u2019 Waste Heat",
     "normalized": "a startup has a plan to make water from air using data centers' waste heat",
     "content_hash": "0fbcc277997b0fe49414af5ab78eb490"
+  },
+  {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "normalized": "microsoft releases new nvidia-chip ai pcs with revamped windows 11",
+    "content_hash": "4c4171db39b7ac9af94f5034f2b0bdfd"
+  },
+  {
+    "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+    "normalized": "everything announced at microsoft's surface laptop ultra event",
+    "content_hash": "d1bbe7daafcc217bb1614500e589ee73"
+  },
+  {
+    "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+    "normalized": "chatgpt's 'intelligent ui' update fills its responses with pictures, charts, and buttons",
+    "content_hash": "f93927985b597091d2fea3ce6ce592a0"
+  },
+  {
+    "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
+    "normalized": "the first nvidia rtx spark laptops cost up to $7,000",
+    "content_hash": "4940690a1e45b94efed9ef89128e0594"
+  },
+  {
+    "title": "NVIDIA and Microsoft Bring RTX Spark Laptops, AI Agents to Windows PCs",
+    "normalized": "nvidia and microsoft bring rtx spark laptops, ai agents to windows pcs",
+    "content_hash": "63c05014891d143751783ed0151bee1c"
+  },
+  {
+    "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+    "normalized": "robot data startup mecka ai nabs $60m from sequoia",
+    "content_hash": "835cec38f7a623f4385f4008432c401a"
+  },
+  {
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "normalized": "nous research confirms it hit $1.5b valuation, launches ai agents for business users",
+    "content_hash": "620ee65e59f0345517ea236158daacc8"
+  },
+  {
+    "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
+    "normalized": "meta's muse launches on ipad just a month after its mobile debut",
+    "content_hash": "a787b1f2be58c32d775c9e3ae8ab8327"
+  },
+  {
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "normalized": "chatgpt for teens keeps teens talking, even during mental health crises",
+    "content_hash": "f200d38c21aa3b82ffc73031934a4153"
+  },
+  {
+    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "normalized": "these researchers made ai drive a toyota corolla to get in-n-out",
+    "content_hash": "03e5388d30b363529c21ecab43a445f4"
+  },
+  {
+    "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
+    "normalized": "android's physical navigation buttons are back on googlebooks, but not the way you think",
+    "content_hash": "eeb0c86eec08b4c03623c6c3efdc4729"
+  },
+  {
+    "title": "It appears .agent and .agi are about to be the hot new domains",
+    "normalized": "it appears .agent and .agi are about to be the hot new domains",
+    "content_hash": "0e0db493bf02282efa64fadd94b78259"
+  },
+  {
+    "title": "Mecka Raises $60M Series B to Scale Robot Data and Deployment",
+    "normalized": "mecka raises $60m series b to scale robot data and deployment",
+    "content_hash": "f6d98a9a3b56215c43d2ba070fb26f9d"
+  },
+  {
+    "title": "Anthropic Releases Claude Haiku 5.5, Cutting Small-Model API Prices",
+    "normalized": "anthropic releases claude haiku 5.5, cutting small-model api prices",
+    "content_hash": "0f22ec8b95a413a9ba4d3e364a3d720d"
+  },
+  {
+    "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders \u2018elsewhere\u2019",
+    "normalized": "while vcs crowd into san francisco, endeavor catalyst raises $320m for founders 'elsewhere'",
+    "content_hash": "bad7de679497b9b67bb41e107b721e14"
+  },
+  {
+    "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+    "normalized": "attackers hijack .gh, .sl, and .as registries to obtain certificates for google domains",
+    "content_hash": "1cde43feb59650e8efe7e85876d25d72"
+  },
+  {
+    "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+    "normalized": "unpatched critical lmcache flaw lets unauthenticated attackers run code remotely",
+    "content_hash": "a5c5072fae6642462c7f2e50326e5bbc"
+  },
+  {
+    "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+    "normalized": "poellm malware infects 3,400+ servers to expand crypto mining botnet",
+    "content_hash": "d3ca79d871b5a4c9ea0d586db783d06f"
+  },
+  {
+    "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+    "normalized": "anthropic expands claude access for vetted cyber teams as glasswing finds 129,000 flaws",
+    "content_hash": "b9dc6211a1c627ec5e065423429f5fdd"
+  },
+  {
+    "title": "Google rolls out improved SynthID AI content detector, now available globally",
+    "normalized": "google rolls out improved synthid ai content detector, now available globally",
+    "content_hash": "94bcf7f1b6b502644082064fe19f4633"
+  },
+  {
+    "title": "Everything announced at Microsoft's Windows and Surface event",
+    "normalized": "everything announced at microsoft's windows and surface event",
+    "content_hash": "73bf1ed68735ba71648a5b872ad9ed5b"
+  },
+  {
+    "title": "Google's AI detection website is now available",
+    "normalized": "google's ai detection website is now available",
+    "content_hash": "a72963e8238148ad05707240d6d0ca3d"
+  },
+  {
+    "title": "OpenAI just posted hundreds more results on major math problems",
+    "normalized": "openai just posted hundreds more results on major math problems",
+    "content_hash": "94a92491862eb34a16d4241c79016e35"
+  },
+  {
+    "title": "How to watch the Microsoft Windows and Surface event",
+    "normalized": "how to watch the microsoft windows and surface event",
+    "content_hash": "5f50fad10b912bfbcbeb403fae5cebe3"
+  },
+  {
+    "title": "BMW\u2019s iX4 SUV is a 428-mile defensive weapon against China\u2019s EV takeover",
+    "normalized": "bmw's ix4 suv is a 428-mile defensive weapon against china's ev takeover",
+    "content_hash": "b3deb0c14610a47d9462563b05210a2b"
   }
 ]
