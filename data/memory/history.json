@@ -1,130 +1,5 @@
 [
   {
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "normalized": "nvidia launches new platform for reining in rogue ai agents",
-    "content_hash": "61a6b1110b9e53b1a9c5cffb312662e8"
-  },
-  {
-    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-    "normalized": "nvidia wants to put a watchdog chip next to every ai agent",
-    "content_hash": "ee574408b6ed845dd22eb9fe68cc789f"
-  },
-  {
-    "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
-    "normalized": "google is killing off gemini's gems in favor of 'skills'",
-    "content_hash": "6077c32e94160ac196e9e355051bccf2"
-  },
-  {
-    "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
-    "normalized": "physical ai chip developer sima ai hits $1.45b valuation",
-    "content_hash": "7dbfd0227a3ff750078446f477056e42"
-  },
-  {
-    "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
-    "normalized": "nvidia's answer to rogue agents is an open-source ai security system",
-    "content_hash": "83f36eec74bc95683e935f6c33f92f70"
-  },
-  {
-    "title": "OpenAI\u2019s AI agents need to catch up",
-    "normalized": "openai's ai agents need to catch up",
-    "content_hash": "e0fa34228b1567c26867cf4da397277c"
-  },
-  {
-    "title": "Florida seeks a ban on ChatGPT acting like a person",
-    "normalized": "florida seeks a ban on chatgpt acting like a person",
-    "content_hash": "e9df21c1a34a8a6b023b72e04b92be45"
-  },
-  {
-    "title": "Nvidia Open Agent Safety Platform",
-    "normalized": "nvidia open agent safety platform",
-    "content_hash": "9710f2fb2114da4d7a1cc48d8e90c066"
-  },
-  {
-    "title": "AI agent startup Instinct raises $1B Series C at $10B valuation",
-    "normalized": "ai agent startup instinct raises $1b series c at $10b valuation",
-    "content_hash": "f5b8a92b2106a6e56adba3552e2373e8"
-  },
-  {
-    "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
-    "normalized": "openai still doesn't seem to have a handle on all of its rogue ai activity",
-    "content_hash": "0789180507230b11d1786d1c4a24ddba"
-  },
-  {
-    "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
-    "normalized": "meta launches enterprise ai platform, hires mongodb ceo to lead new initiative",
-    "content_hash": "6c39cc99b53323dca3261ae079cdbe74"
-  },
-  {
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "normalized": "anthropic, gamma, and clay share what happens when enterprises actually deploy ai at techcrunch disrupt 2026",
-    "content_hash": "d4b39d4f7873960f71c7b4ace76f8315"
-  },
-  {
-    "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-    "normalized": "mavi bets on the ai boom creating demand for a new kind of accountant",
-    "content_hash": "5383406c06853c4f51c8e550cf8c9840"
-  },
-  {
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "normalized": "after a deepfake voice fooled her grandfather, this founder sprang into action",
-    "content_hash": "6e944b2b2d0791b7af92b32a647704f3"
-  },
-  {
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "normalized": "next 5 vcs judging startup battlefield 200 contenders at techcrunch disrupt 2026",
-    "content_hash": "53c8199c1fd4a9e0e1a8969684b91731"
-  },
-  {
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "normalized": "insurtech outmarket raises $34.5m just months after prior round",
-    "content_hash": "1b890246d465c5c8455ab6c283092a0a"
-  },
-  {
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "normalized": "viral ai agent instinct raises $1b series c at a $10b valuation",
-    "content_hash": "8b29b30ccec12bd4aa46719460a77a72"
-  },
-  {
-    "title": "Maritime intelligence startup Quartermaster raises another $140M",
-    "normalized": "maritime intelligence startup quartermaster raises another $140m",
-    "content_hash": "db5b3f8b8226bb518f06e856db1fcd4a"
-  },
-  {
-    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "normalized": "openai pauses training its most powerful models after rogue agents target government",
-    "content_hash": "0477aec766fd2997b7f25c9472f7c5cc"
-  },
-  {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "normalized": "openai keeps bulldozing mathematicians",
-    "content_hash": "914ebe179114d1198982707e7d97b16d"
-  },
-  {
-    "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
-    "normalized": "the perfect crime: llm agents can easily tamper with their own traces",
-    "content_hash": "e9dd06539fa6f4d4894d487e4d3c9c3a"
-  },
-  {
-    "title": "Show HN: Assay \u2013 a QA CLI that finds bugs with no LLM and no tests written",
-    "normalized": "show hn: assay - a qa cli that finds bugs with no llm and no tests written",
-    "content_hash": "1f9beccffb66dcb235d73de8ff712b0d"
-  },
-  {
-    "title": "AI agent firm Instinct raises $1B in latest funding round",
-    "normalized": "ai agent firm instinct raises $1b in latest funding round",
-    "content_hash": "cdd360249d1fc8006ea70c810747088e"
-  },
-  {
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "normalized": "the lenfest institute grows landmark program with expanded openai support",
-    "content_hash": "8253503cec765ce0eced3b301c21a2dc"
-  },
-  {
-    "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
-    "normalized": "bioeval: a global, multi-institutional benchmark of large language and multimodal models for bioengineering",
-    "content_hash": "d1b27dfedf3f7e5eda72fed8982570b4"
-  },
-  {
     "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
     "normalized": "peak xv ups surge seed investment ceiling to $5m, unveils 18-startup cohort",
     "content_hash": "cbf435d910726a193ee80181778454db"
@@ -2498,5 +2373,130 @@
     "title": "Uber and China\u2019s Pony.ai plan to launch robotaxis in London",
     "normalized": "uber and china's pony.ai plan to launch robotaxis in london",
     "content_hash": "36130639e5ff73f4b74fcbf872121b0d"
+  },
+  {
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "normalized": "google brings agentic ai to gemini, starting with businesses",
+    "content_hash": "a52e16e665b8612631b0449e2c80e0f7"
+  },
+  {
+    "title": "Pretend you\u2019re sitting at Elizabeth Holmes\u2019 desk on this weirdly detailed website",
+    "normalized": "pretend you're sitting at elizabeth holmes' desk on this weirdly detailed website",
+    "content_hash": "e4bc5a7d7521083b9a15af7a07275ad4"
+  },
+  {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "normalized": "fired openai safety researchers dispute misconduct claims, warn of chilling effect",
+    "content_hash": "5796803679a41bcc87c81818ac1e5259"
+  },
+  {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "normalized": "ben affleck is an ai nerd, and the internet is impressed",
+    "content_hash": "b5fd67e468220f3913ae9d4b0297bf40"
+  },
+  {
+    "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
+    "normalized": "openai's revenue is reportedly $20 billion less than previously projected",
+    "content_hash": "07fbb5d6c30ffb81325ad18009e4af2e"
+  },
+  {
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "normalized": "anthropic changes usage policy to ban model abuse and election interference",
+    "content_hash": "b6c8e0f84db8a7633d1545ebbff801c3"
+  },
+  {
+    "title": "OpenAI\u2019s math solutions aren\u2019t meeting the field\u2019s standards yet",
+    "normalized": "openai's math solutions aren't meeting the field's standards yet",
+    "content_hash": "08473d63e0015bc4787e960716625b43"
+  },
+  {
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "normalized": "anthropic launches free ai security scans for open-source projects",
+    "content_hash": "5a427f31b2e7fd4ca326d4659a8e1a0a"
+  },
+  {
+    "title": "California is trying to shut down robot vs. human cage matches",
+    "normalized": "california is trying to shut down robot vs. human cage matches",
+    "content_hash": "8beb2fcd17a52e14801389ab4d67d716"
+  },
+  {
+    "title": "Watch the trailer for \u2018The Altruists,\u2019 Netflix\u2019s show about the FTX scandal",
+    "normalized": "watch the trailer for 'the altruists,' netflix's show about the ftx scandal",
+    "content_hash": "1ee91fcbbfed752e7345d1eab05ded2c"
+  },
+  {
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "normalized": "popular ai leaderboard arena nearly doubles valuation to $3.1b valuation in 10 months",
+    "content_hash": "454dcb8286b4084e4b97054d96fb312c"
+  },
+  {
+    "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
+    "normalized": "trump administration cuts off access to a major immigration program for workers at microsoft and adobe",
+    "content_hash": "22c4c9c90513aac1aee566d9d1456fcc"
+  },
+  {
+    "title": "WIRED\u2019s Midterms Races to Watch",
+    "normalized": "wired's midterms races to watch",
+    "content_hash": "38fe32b33a28c95192f4057f2e0d62f7"
+  },
+  {
+    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+    "normalized": "nvidia's big bet on physical ai aims for safer robotaxis, humanoid robots",
+    "content_hash": "e01e8467ab35a689653e97c7c71a7438"
+  },
+  {
+    "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+    "normalized": "amd will bring fsr 4 to handhelds by the end of 2026",
+    "content_hash": "fb7b068d3d9e9bbed12f91dd3a594f6d"
+  },
+  {
+    "title": "ICE detainees in Georgia used the facility\u2019s video calling software to expose the conditions inside",
+    "normalized": "ice detainees in georgia used the facility's video calling software to expose the conditions inside",
+    "content_hash": "a99c8d0ae06684b069732be60b1ebd37"
+  },
+  {
+    "title": "Microsoft\u2019s new Windows Search is exactly what Windows 11 needs",
+    "normalized": "microsoft's new windows search is exactly what windows 11 needs",
+    "content_hash": "cc3355a3b019ebabe0d15624c1ce351d"
+  },
+  {
+    "title": "Paramount is making a Cyberpunk 2077 film",
+    "normalized": "paramount is making a cyberpunk 2077 film",
+    "content_hash": "f2a16f4eea16b1fb14a87635996cad4d"
+  },
+  {
+    "title": "Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business",
+    "normalized": "tim cook says 'i'm not meddling' in the new apple ceo's business",
+    "content_hash": "0ba2801501f30b0a9e9f44858b68bb10"
+  },
+  {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "normalized": "pollo ai turns creative ideas into campaigns with openai",
+    "content_hash": "0fb07bcf83f800e8d5440f101d06df19"
+  },
+  {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "normalized": "radisson hotel group brings hotel discovery into chatgpt",
+    "content_hash": "bac2e6f235cce1b0f76ddb3edc3171e9"
+  },
+  {
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "normalized": "how jump trading is scaling quant research with chatgpt",
+    "content_hash": "46908fddae6abcb12127275b028ceb4d"
+  },
+  {
+    "title": "Advancing computer use with Ironclad",
+    "normalized": "advancing computer use with ironclad",
+    "content_hash": "5f02c32cae40d6eec10afee4ac28ed08"
+  },
+  {
+    "title": "Building advertising for the way people use AI",
+    "normalized": "building advertising for the way people use ai",
+    "content_hash": "afb804a0b35411e3b7890d33808c51ae"
+  },
+  {
+    "title": "Introducing Claude Haiku 5.5 on AWS",
+    "normalized": "introducing claude haiku 5.5 on aws",
+    "content_hash": "816fe7e29663a211cec7e5a5983e18e4"
   }
 ]
