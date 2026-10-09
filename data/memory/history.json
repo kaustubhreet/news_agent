@@ -1,130 +1,5 @@
 [
   {
-    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "normalized": "peak xv ups surge seed investment ceiling to $5m, unveils 18-startup cohort",
-    "content_hash": "cbf435d910726a193ee80181778454db"
-  },
-  {
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "normalized": "openai reportedly ditches model over safety concerns",
-    "content_hash": "7c13d7d16efcadbfa5ceb3c3b4163a91"
-  },
-  {
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "normalized": "source: inference provider modal labs closing in on $750m round at $15.75b valuation",
-    "content_hash": "6534baaa6dae06c3d7abd4009d8e037d"
-  },
-  {
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "normalized": "shopify opens checkout to browser-based ai agents",
-    "content_hash": "f3375fd5ad419035c7c385d933692f8f"
-  },
-  {
-    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-    "normalized": "experts worry about nvidia's ai chip sales in china and influence over trump",
-    "content_hash": "6c9f4fc4faac505f1542016e859598cd"
-  },
-  {
-    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "normalized": "amd is acquiring ai company world labs in a deal worth more than $8 billion",
-    "content_hash": "d41d97ec48e7f1b3b6420435177bba05"
-  },
-  {
-    "title": "OpenAI apologises for Medicare hack and reveals extent of attack",
-    "normalized": "openai apologises for medicare hack and reveals extent of attack",
-    "content_hash": "78f2ab63f77fa0938325ca50ae7d7600"
-  },
-  {
-    "title": "OpenAI scraps release of Astra 6.1 model over safety issues",
-    "normalized": "openai scraps release of astra 6.1 model over safety issues",
-    "content_hash": "b5b856c18b67760d89172dab00484646"
-  },
-  {
-    "title": "WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns",
-    "normalized": "wsj reports openai scrapped gpt-6.1 astra over safety concerns",
-    "content_hash": "d305bda0b07c483d1c43c872e12e2e10"
-  },
-  {
-    "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn\u2019t as far-fetched as it sounds",
-    "normalized": "aurora cfo says 30,000 driverless trucks by 2030 isn't as far-fetched as it sounds",
-    "content_hash": "091f657bdb67fda812149021cec2f1f0"
-  },
-  {
-    "title": "AMD will acquire Fei-Fei Li\u2019s World Labs for $8.2 billion",
-    "normalized": "amd will acquire fei-fei li's world labs for $8.2 billion",
-    "content_hash": "553a29bc4b619dd34818fd61c59e87cd"
-  },
-  {
-    "title": "Tesla delays Roadster 2 event again due to bad weather",
-    "normalized": "tesla delays roadster 2 event again due to bad weather",
-    "content_hash": "9b2c6d8c8129c90b1fe7980c87f0c6df"
-  },
-  {
-    "title": "The AI boom took over Climate Week and not everyone is happy about it",
-    "normalized": "the ai boom took over climate week and not everyone is happy about it",
-    "content_hash": "3bec44b4fd23be8aad012b82c68d3c6f"
-  },
-  {
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "normalized": "anthropic releases sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "content_hash": "52b48bf7e3e3a76ab115000433ebd379"
-  },
-  {
-    "title": "Commonwealth Fusion Systems\u2019 Brandon Sorbom and Helion\u2019s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-    "normalized": "commonwealth fusion systems' brandon sorbom and helion's david kirtley on bringing fusion to the grid at techcrunch disrupt 2026",
-    "content_hash": "5f4279970cc7a87b90aa45e44185bab8"
-  },
-  {
-    "title": "FBI reportedly declares \u2018cyber security incident\u2019 after hackers steal agents\u2019 personal data",
-    "normalized": "fbi reportedly declares 'cyber security incident' after hackers steal agents' personal data",
-    "content_hash": "1ab86fcdee57ce9b0dacd78f8f3e1244"
-  },
-  {
-    "title": "AI Agents Are About to Flood the Workforce. No One\u2019s Ready for It",
-    "normalized": "ai agents are about to flood the workforce. no one's ready for it",
-    "content_hash": "cd488f8414fc5ee94057c3062169042c"
-  },
-  {
-    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-    "normalized": "the next evolution of ai is learning from your dodgy gaming skills",
-    "content_hash": "3fa9d51d7f521bd160cdafad348d882e"
-  },
-  {
-    "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-    "normalized": "hackers use needymantis to maintain long-term access in breached networks",
-    "content_hash": "1e605393394eed49b39deda264ede9c1"
-  },
-  {
-    "title": "IAM for AI agents: A Practical Enterprise Framework",
-    "normalized": "iam for ai agents: a practical enterprise framework",
-    "content_hash": "9cd817e8af7d1357462754e32e317d92"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-    "normalized": "\u26a1 weekly recap: $387m crypto hack, citrix exploits, ai agents go off-script, and more threats",
-    "content_hash": "73109625fed0d0043626f9b899b34c46"
-  },
-  {
-    "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-    "normalized": "webinar: how to govern ai agents, reduce excessive access, and control shadow ai",
-    "content_hash": "e52b2c981c768d7522e73bd93dca39dc"
-  },
-  {
-    "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-    "normalized": "carbonato botnet compromises docker hosts to deploy telegram-controlled hermes ai agent",
-    "content_hash": "5fce0c2eb0216fad18cd54038fdc24f4"
-  },
-  {
-    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-    "normalized": "florida invokes extinction fears in legal bid to halt openai development",
-    "content_hash": "ba11b85b979708ac09e86c7776047ebf"
-  },
-  {
-    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-    "normalized": "openai halts frontier-model training amid string of agent misalignment incidents",
-    "content_hash": "b2c98da55a8a6fbd16adf801e33dfd16"
-  },
-  {
     "title": "Reco raises $55M as AI agent security startups crowd the market",
     "normalized": "reco raises $55m as ai agent security startups crowd the market",
     "content_hash": "300c2eebe41ef97a0fa510078fc9b4b0"
@@ -2498,5 +2373,130 @@
     "title": "Introducing Claude Haiku 5.5 on AWS",
     "normalized": "introducing claude haiku 5.5 on aws",
     "content_hash": "816fe7e29663a211cec7e5a5983e18e4"
+  },
+  {
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "normalized": "amazon and others are done keeping data center deals secret. is it enough to build trust?",
+    "content_hash": "f23b4a5197fbad8d6053bf4112298919"
+  },
+  {
+    "title": "Who Gets to Audit Frontier AI? The White House Accord\u2019s Missing Definition",
+    "normalized": "who gets to audit frontier ai? the white house accord's missing definition",
+    "content_hash": "1b6ff54d840dcb509a5871bb25b353cf"
+  },
+  {
+    "title": "The AI is in the computer",
+    "normalized": "the ai is in the computer",
+    "content_hash": "ee8ac5df7958953e6656d48521dbc248"
+  },
+  {
+    "title": "Instinct was the buzziest AI agent around \u2014 can it survive Muse?",
+    "normalized": "instinct was the buzziest ai agent around -- can it survive muse?",
+    "content_hash": "cef585aabe077ed17f9fda6dd5bce986"
+  },
+  {
+    "title": "Show HN: Liquid Inference \u2013 auto-routing to competitive LLM marketplace",
+    "normalized": "show hn: liquid inference - auto-routing to competitive llm marketplace",
+    "content_hash": "734124216e6530b97304d588d63551fa"
+  },
+  {
+    "title": "Show HN: CircleIt \u2013 Circle something on a web page, your coding agent fixes it",
+    "normalized": "show hn: circleit - circle something on a web page, your coding agent fixes it",
+    "content_hash": "e8f13c5dd97cf42d99829104b60a9af0"
+  },
+  {
+    "title": "LumenUs helps automate tedious paperwork in times of grief",
+    "normalized": "lumenus helps automate tedious paperwork in times of grief",
+    "content_hash": "f36ed9ece01f1e4341eff5a945a7be04"
+  },
+  {
+    "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
+    "normalized": "we can't help treating ai like it's human. but should we?",
+    "content_hash": "8aa0e1dd48c2d1f5118edded78706659"
+  },
+  {
+    "title": "Remember Orkut? Its founder wants to bring it back",
+    "normalized": "remember orkut? its founder wants to bring it back",
+    "content_hash": "f433cebb3b513ccd7376efc699754e2b"
+  },
+  {
+    "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
+    "normalized": "a16z's olivia moore on the state of consumer ai",
+    "content_hash": "92cbced2c4aef6374fa0923459893eb8"
+  },
+  {
+    "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can\u2019t Miss",
+    "normalized": "beyond techcrunch disrupt 2026: the side events, parties & networking you can't miss",
+    "content_hash": "2c785bbbae5c927cb055d78cb9d16c26"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Gamma\u2019s Grant Lee, Engine\u2019s Elia Wallen, and GV\u2019s Crystal Huang on landing your first 1,000 customers",
+    "normalized": "techcrunch disrupt 2026: gamma's grant lee, engine's elia wallen, and gv's crystal huang on landing your first 1,000 customers",
+    "content_hash": "92b24562c1e43cfef33b5d1c514882e9"
+  },
+  {
+    "title": "The Best Mac Desktop to Buy (2026): Mac Mini, Mac Studio, or iMac?",
+    "normalized": "the best mac desktop to buy (2026): mac mini, mac studio, or imac?",
+    "content_hash": "44becbd968a9bc112792a2b149c154ea"
+  },
+  {
+    "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+    "normalized": "anthropic launches free ai vulnerability scanner for open-source projects",
+    "content_hash": "e9c7ed70c7400e674a46dd63024f6ef2"
+  },
+  {
+    "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+    "normalized": "attackers exploit ahsaycbs flaws to deploy xmrig miners disguised as microsoft edge",
+    "content_hash": "80c8caffae63296cea0a9b79856f6034"
+  },
+  {
+    "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+    "normalized": "the ai velocity paradox: why security is decades behind ai ambition",
+    "content_hash": "c8a4cdccb1322a26333746bc55f4e560"
+  },
+  {
+    "title": "Gemini Agent for Google Cloud",
+    "normalized": "gemini agent for google cloud",
+    "content_hash": "11320271ca534a42b338238cfe71c9b3"
+  },
+  {
+    "title": "Microsoft tries to spark new life into Windows",
+    "normalized": "microsoft tries to spark new life into windows",
+    "content_hash": "690b3095a9e12b74f5953717916a2652"
+  },
+  {
+    "title": "Apple and LG leak shows new &#8216;tap to control&#8217; HomeKit features",
+    "normalized": "apple and lg leak shows new 'tap to control' homekit features",
+    "content_hash": "0a2f0cffbbb182ff76ce0d89b6c2075a"
+  },
+  {
+    "title": "YouTube, Meta, and Twitch won&#8217;t say if they&#8217;ll allow the US government to livestream an execution",
+    "normalized": "youtube, meta, and twitch won't say if they'll allow the us government to livestream an execution",
+    "content_hash": "56b4501727e99ea440c4d3203c55243e"
+  },
+  {
+    "title": "Trump\u2019s attempt to rename AI is looking awfully artificial",
+    "normalized": "trump's attempt to rename ai is looking awfully artificial",
+    "content_hash": "a262832f97aacaaa0d71c652c694f536"
+  },
+  {
+    "title": "A week with Googlebooks: four notes from our testing so far",
+    "normalized": "a week with googlebooks: four notes from our testing so far",
+    "content_hash": "83ffd3fec1bdef266e6af37e06731ee9"
+  },
+  {
+    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+    "normalized": "show hn: let your ai agents paint big arrows, boxes and text on your screen",
+    "content_hash": "b0f9973e4c972d5437138cc4ef300ec5"
+  },
+  {
+    "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
+    "normalized": "tomek korbak: openai's head of safety told they no longer trust me",
+    "content_hash": "fddf7f75e9f89e29a04b3c99cbc57c32"
+  },
+  {
+    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+    "normalized": "openai fires three safety researchers for \"mishandling research information\"",
+    "content_hash": "e0a6670ed17ab194bf499698ff7da700"
   }
 ]
