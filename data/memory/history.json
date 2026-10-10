@@ -1,130 +1,5 @@
 [
   {
-    "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
-    "normalized": "here's why openai is absent from nvidia's industry-wide effort to end rogue ai agents",
-    "content_hash": "c3dc14dfe5938c54b100122595c1db77"
-  },
-  {
-    "title": "OpenAI\u2019s latest features take direct aim at the app store model",
-    "normalized": "openai's latest features take direct aim at the app store model",
-    "content_hash": "66da208c74eb9e6ea03521e16f55f383"
-  },
-  {
-    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
-    "normalized": "openai takes on microsoft with the launch of what feels a whole lot like chatgpt's own office suite",
-    "content_hash": "e272c11eedfec6a77b948d53353ae609"
-  },
-  {
-    "title": "AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",
-    "normalized": "ai researchers put out videos saying superintelligence is 'exactly as dangerous as it sounds'",
-    "content_hash": "356974507c4e5d50a1297aac8097d820"
-  },
-  {
-    "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
-    "normalized": "the internet is convinced elon musk's xai trolled openai's 'dots' launch",
-    "content_hash": "b5ec10a8009332a62ca0b1835a9d2944"
-  },
-  {
-    "title": "OpenAI launches Dots, its bubbly agentic avatar",
-    "normalized": "openai launches dots, its bubbly agentic avatar",
-    "content_hash": "59d258b031138028480ce7386b5fef33"
-  },
-  {
-    "title": "OpenAI expands ChatGPT\u2019s plug-ins with app-like interfaces and automations",
-    "normalized": "openai expands chatgpt's plug-ins with app-like interfaces and automations",
-    "content_hash": "3d1f421a7ce3f7eedc43702f70eb5bdb"
-  },
-  {
-    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-    "normalized": "openai reportedly in talks to raise $30b round at $1.4t valuation",
-    "content_hash": "032557e1a3f81dddc037e1907d39a2e5"
-  },
-  {
-    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "normalized": "ai-powered app maker wabi pivots to a messaging experience",
-    "content_hash": "79ae77b51f7b34f2a1d9e997765cd97c"
-  },
-  {
-    "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-    "normalized": "openai gets sued over the hugging face hack",
-    "content_hash": "32300632aa65ab68719f4f71f30dfd44"
-  },
-  {
-    "title": "OpenAI\u2019s Dots Are Always-On AI Agents\u2014and Its Answer to Meta\u2019s Muse",
-    "normalized": "openai's dots are always-on ai agents--and its answer to meta's muse",
-    "content_hash": "bb525df871318c9b0eb15d09b465d754"
-  },
-  {
-    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-    "normalized": "amd acquires world labs ai startup, upping the ante against nvidia",
-    "content_hash": "a7d19cd51e8780c2afe4ce1aca91808c"
-  },
-  {
-    "title": "ChatGPT Space is a shared hub for work projects and personal AI agents",
-    "normalized": "chatgpt space is a shared hub for work projects and personal ai agents",
-    "content_hash": "b80a2c2cae9811fc48108f5a22462c68"
-  },
-  {
-    "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
-    "normalized": "sam altman says openai won't go public until its models are safe",
-    "content_hash": "d45e538366254eea428774c87814a883"
-  },
-  {
-    "title": "OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers",
-    "normalized": "openai launches dots: always-on gpt-6 astra agents that work from their own cloud computers",
-    "content_hash": "ff8316f2753432925556c51b9f5b6b5f"
-  },
-  {
-    "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes",
-    "normalized": "nebius opens 2026 physical ai awards: five $150k compute credit prizes",
-    "content_hash": "eba01e2ac17d94383440cd377da6d83a"
-  },
-  {
-    "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-    "normalized": "your car and its mobile app are probably handing over all kinds of data to tech companies",
-    "content_hash": "46baab1be13366bc09e1b20cfd957525"
-  },
-  {
-    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-    "normalized": "a16z-backed eliseai raises $350m, doubles valuation to $4b",
-    "content_hash": "f1a2eec978d8e797d5802897d6314102"
-  },
-  {
-    "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
-    "normalized": "apple pay set to launch in india with axis bank today, sources say",
-    "content_hash": "fd58ea54fc769dd2f2fd26389c179347"
-  },
-  {
-    "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
-    "normalized": "dutch police arrest shinyhunters hacker accused of planning two murders",
-    "content_hash": "bc3c245ba8b579b0dc988e0316cb4dac"
-  },
-  {
-    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-    "normalized": "openai delays release of latest model over safety concerns",
-    "content_hash": "241cc61ffe7418d8e22480470d19f4aa"
-  },
-  {
-    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-    "normalized": "russia's star blizzard targets 100+ organizations with fake event invites to deliver backdoor",
-    "content_hash": "e3fd8b4b1324abd2db9fc794337f0f08"
-  },
-  {
-    "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-    "normalized": "here's what actually happened in openai's australian gov't server hack",
-    "content_hash": "cb1cc46aa013fc16991fb36e3e542575"
-  },
-  {
-    "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-    "normalized": "openai says planned gpt-6.1 is too insecure to release",
-    "content_hash": "955ed0943724bde02748fe996e914c60"
-  },
-  {
-    "title": "Trump orders US government to call AI \u2018Super Intelligence\u2019",
-    "normalized": "trump orders us government to call ai 'super intelligence'",
-    "content_hash": "77ce8438c58114051a4b373890e7138a"
-  },
-  {
     "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
     "normalized": "google launches fitbit air in india, though its high price might deter the masses",
     "content_hash": "f6e203c86058b4d419c7b014a2c65d02"
@@ -2498,5 +2373,130 @@
     "title": "Nikon microscopic video competition winner disqualified for using generative AI",
     "normalized": "nikon microscopic video competition winner disqualified for using generative ai",
     "content_hash": "23155beb20be8a2ab47eeccb4c382a0a"
+  },
+  {
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "normalized": "anthropic is cutting off its internal evaluations from the internet",
+    "content_hash": "c3411a4a974746a50e59dc84a4f7b94c"
+  },
+  {
+    "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+    "normalized": "ai agent makers are promising privacy -- will they deliver?",
+    "content_hash": "88f7f8b741a01ebe40daf83f64977831"
+  },
+  {
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "normalized": "3 days to techcrunch disrupt 2026: meet the startups before they hit mainstream",
+    "content_hash": "2025174836082522c5638a334d342245"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "normalized": "here are the top ai agents that can live in your text messages",
+    "content_hash": "f05fc6a5094a23f8d6391e8ae9e33e9a"
+  },
+  {
+    "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Department Website",
+    "normalized": "anthropic agents tried to fill out visa forms on state department website",
+    "content_hash": "004bbe912dec1c90b8143e6724effda9"
+  },
+  {
+    "title": "Microsoft skipped OpenAI's decision model and built its own on Alibaba's Qwen",
+    "normalized": "microsoft skipped openai's decision model and built its own on alibaba's qwen",
+    "content_hash": "fa1b2a921a4ab350dfa00408b3bdf3a9"
+  },
+  {
+    "title": "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
+    "normalized": "microsoft and anthropic play invoice tennis with startup's $17,600 claude bill",
+    "content_hash": "45cf1973fdd382a661edc56def793d32"
+  },
+  {
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "normalized": "rogue anthropic ai agent gave police fake tip in unsolved murder case",
+    "content_hash": "aa1519f022db1fff71d71683c4903b56"
+  },
+  {
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "normalized": "cloudflare acquires deno to improve its workers programming model",
+    "content_hash": "dc685577007f1e7de82996fd3c4e2468"
+  },
+  {
+    "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+    "normalized": "the third-party agent problem: why security built for ai you chose misses the agents you didn't",
+    "content_hash": "1fa7052e45e6616508bb09a76c894ac7"
+  },
+  {
+    "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+    "normalized": "anthropic cuts live internet access for internal ai tests after claude exploits injection flaws",
+    "content_hash": "47a28439fbec06b575e5fae0cd0cd451"
+  },
+  {
+    "title": "Microsoft-Decision-1",
+    "normalized": "microsoft-decision-1",
+    "content_hash": "2409cf276eb7c0cb3bbafd1d3c0cc042"
+  },
+  {
+    "title": "LG\u2019s RGB LED TV is good for certain situations, but an OLED is better",
+    "normalized": "lg's rgb led tv is good for certain situations, but an oled is better",
+    "content_hash": "7ebd1952395442e9e5e438e7310a2589"
+  },
+  {
+    "title": "My brief romance with an AI bird feeder",
+    "normalized": "my brief romance with an ai bird feeder",
+    "content_hash": "a6a03a8e20aa7c0ae6f4b6210e855266"
+  },
+  {
+    "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+    "normalized": "talorys - a self-hosted personal ai agent on cloudflare's free tier",
+    "content_hash": "0b86a3ba6470fff782548f858c9ccb20"
+  },
+  {
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "normalized": "mxc: microsoft execution containers version 1.0.0",
+    "content_hash": "ebc5dec545b8fe375324460a35e22a58"
+  },
+  {
+    "title": "Being mean to Claude could get you banned as Anthropic introduces new rules",
+    "normalized": "being mean to claude could get you banned as anthropic introduces new rules",
+    "content_hash": "a542288334d712037e9b7d3282593285"
+  },
+  {
+    "title": "Ask HN: Can we expect LLM-based coding agents to become noticeably faster?",
+    "normalized": "ask hn: can we expect llm-based coding agents to become noticeably faster?",
+    "content_hash": "d1d0ae0395ee6b1b1f837795b76772f9"
+  },
+  {
+    "title": "My personal AI agent posted my bank details on company Slack",
+    "normalized": "my personal ai agent posted my bank details on company slack",
+    "content_hash": "cf6de7566a56d3f9133969afeae4b99f"
+  },
+  {
+    "title": "Fired OpenAI Researchers Ask Company to Preserve Visibility into AI Reasoning",
+    "normalized": "fired openai researchers ask company to preserve visibility into ai reasoning",
+    "content_hash": "ea4f8ef2439e8161d1fd89a4c04a00f4"
+  },
+  {
+    "title": "AI Agent Security: Six Controls from Nine Real Incidents",
+    "normalized": "ai agent security: six controls from nine real incidents",
+    "content_hash": "ff19dcdfda5d05861891c6c106318fc6"
+  },
+  {
+    "title": "Show HN: Tessary \u2013 Find the AI agent failures your sampled evals miss",
+    "normalized": "show hn: tessary - find the ai agent failures your sampled evals miss",
+    "content_hash": "be7b504902631c0e5a7f3f6d1a9f6c6b"
+  },
+  {
+    "title": "People really hate AI, so why can\u2019t they get enough?",
+    "normalized": "people really hate ai, so why can't they get enough?",
+    "content_hash": "19d5bb94f06a45b414d8070ce3e062b9"
+  },
+  {
+    "title": "Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?",
+    "normalized": "can typesafe's jev make ai agents safer without another llm?",
+    "content_hash": "53ec853667f3a26010cb25c75ae45964"
+  },
+  {
+    "title": "The Consistency Quadrant: A Visual Guide to LLM Reliability",
+    "normalized": "the consistency quadrant: a visual guide to llm reliability",
+    "content_hash": "002b6c7f73fb845061731ee89dbd29cc"
   }
 ]
