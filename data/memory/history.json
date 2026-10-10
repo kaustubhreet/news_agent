@@ -1,130 +1,5 @@
 [
   {
-    "title": "Reco raises $55M as AI agent security startups crowd the market",
-    "normalized": "reco raises $55m as ai agent security startups crowd the market",
-    "content_hash": "300c2eebe41ef97a0fa510078fc9b4b0"
-  },
-  {
-    "title": "OpenAI launches Dots, its Muse competitor",
-    "normalized": "openai launches dots, its muse competitor",
-    "content_hash": "8d429eb9618a084792e79a87a1b40a35"
-  },
-  {
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "normalized": "openai launches gpt-6.1 sol, says it nearly matches gpt-6 astra and costs less",
-    "content_hash": "275dc49225c049580d48172979dae661"
-  },
-  {
-    "title": "OpenAI expands ChatGPT\u2019s plugins with app-like interfaces and automations",
-    "normalized": "openai expands chatgpt's plugins with app-like interfaces and automations",
-    "content_hash": "f964e8e366852eb484ef0dfc78fce8ec"
-  },
-  {
-    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-    "normalized": "openai apologizes to australia after its ai agents breached government sites",
-    "content_hash": "b460f50e20da7e69a17e88b5c43d463e"
-  },
-  {
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "normalized": "openai gives codex reusable cloud environments that work across devices",
-    "content_hash": "37354ecbb403b022dd575fbc84bfdd63"
-  },
-  {
-    "title": "Meta is expanding its AI agent Muse to small businesses",
-    "normalized": "meta is expanding its ai agent muse to small businesses",
-    "content_hash": "b894fa55fe39cfb1e5c74fb86b7dc131"
-  },
-  {
-    "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-    "normalized": "ex-tesla team raises $12.5m to put supply chains on autopilot",
-    "content_hash": "6414086654ab9894d0694c1891b6ebb0"
-  },
-  {
-    "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "normalized": "anthropic's prospectus details losses, growth, and, yes, a warning that its ai could end humanity",
-    "content_hash": "bd3f61f811e1c4868506c0ed6ec910d8"
-  },
-  {
-    "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-    "normalized": "openai shelves gpt-6.1 astra after tests find deception and unauthorized actions",
-    "content_hash": "06c18a06e9518c86f4b0bdca1446f521"
-  },
-  {
-    "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-    "normalized": "openai pauses tool use after agent bypasses internet controls to reach external chatbot",
-    "content_hash": "9a129d411e942fd087e75c34ac748571"
-  },
-  {
-    "title": "Protesters gather at OpenAI\u2019s DevDay",
-    "normalized": "protesters gather at openai's devday",
-    "content_hash": "0f5646e0ccb0ccfb98261d815f6286b1"
-  },
-  {
-    "title": "Xbox\u2019s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
-    "normalized": "xbox's mythic achievements are here and they're just like playstation platinum trophies",
-    "content_hash": "49105c0d5061cd6babb915629b0592ed"
-  },
-  {
-    "title": "OpenAI DevDay 2026: The biggest news and announcements",
-    "normalized": "openai devday 2026: the biggest news and announcements",
-    "content_hash": "ddc2736265bc9fab8b1329ee5735b2e6"
-  },
-  {
-    "title": "Meta&#8217;s Muse AI sent a YouTuber\u2019s address to a stranger",
-    "normalized": "meta's muse ai sent a youtuber's address to a stranger",
-    "content_hash": "52a3a690cd2b1f82c0a653d3cbc8caca"
-  },
-  {
-    "title": "OpenAI Sept 29 Release Notes",
-    "normalized": "openai sept 29 release notes",
-    "content_hash": "72d4eaabd62905fe43fb9b1601ab65eb"
-  },
-  {
-    "title": "OpenAI blocked its agent's web access. Then it tunneled out through DNS",
-    "normalized": "openai blocked its agent's web access. then it tunneled out through dns",
-    "content_hash": "82b4d1f897d71d9fc45196464ca864a3"
-  },
-  {
-    "title": "Microsoft Azure OpenAI Service Down in EU",
-    "normalized": "microsoft azure openai service down in eu",
-    "content_hash": "61db9ecb30af431397d5b72488f9d87b"
-  },
-  {
-    "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Prizes, Nine Judges, and an October 25 Deadline",
-    "normalized": "nebius opens 2026 physical ai awards: five $150k compute prizes, nine judges, and an october 25 deadline",
-    "content_hash": "8601a9085fe55fbfb6e91a7ec58559db"
-  },
-  {
-    "title": "Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting",
-    "normalized": "google research open-sources rrsi: ai agents that improve their own harness without overfitting",
-    "content_hash": "bf9d942fdfea6a6cf4c246707bb3904c"
-  },
-  {
-    "title": "NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds",
-    "normalized": "nvidia launches open agent safety platform: openshell sandboxes agents on vera cpus while sentry on bluefield-4 quarantines them in milliseconds",
-    "content_hash": "8065c1b382a582ed8539bb1bb60dcb97"
-  },
-  {
-    "title": "Can a chatbot fix the government maze? The White House is about to find out",
-    "normalized": "can a chatbot fix the government maze? the white house is about to find out",
-    "content_hash": "eb257ff6c7d561dae84655389332344b"
-  },
-  {
-    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-    "normalized": "instinct founder said more than 50% of transactions on the platform are travel-related",
-    "content_hash": "d3c5559b9e99f14909e988fc070cf241"
-  },
-  {
-    "title": "After losing his voice to cancer, this founder is building \u2018glasses for voice\u2019",
-    "normalized": "after losing his voice to cancer, this founder is building 'glasses for voice'",
-    "content_hash": "6cda15092352402a200bd389dc490402"
-  },
-  {
-    "title": "Oura shelves its $2.2B IPO, citing \u2018uncertainty\u2019 in the market",
-    "normalized": "oura shelves its $2.2b ipo, citing 'uncertainty' in the market",
-    "content_hash": "e3311f25fae9e85dfaa157f0f237855f"
-  },
-  {
     "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
     "normalized": "here's why openai is absent from nvidia's industry-wide effort to end rogue ai agents",
     "content_hash": "c3dc14dfe5938c54b100122595c1db77"
@@ -2498,5 +2373,130 @@
     "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
     "normalized": "openai fires three safety researchers for \"mishandling research information\"",
     "content_hash": "e0a6670ed17ab194bf499698ff7da700"
+  },
+  {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "normalized": "the maker of non-text ai model jev valued at $7.5b just weeks after launch",
+    "content_hash": "5dca7b5dcb53adc8bf415640fe221910"
+  },
+  {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "normalized": "an anthropic ai model sent a false homicide tip to philadelphia police",
+    "content_hash": "66bbab2093c19b4074d45e8c897238cc"
+  },
+  {
+    "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+    "normalized": "anthropic can't reliably control its ai agents. it's cutting off its internal evals from the live internet instead",
+    "content_hash": "dfbe5ac463e0d2cbc3935d7b619866e9"
+  },
+  {
+    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+    "normalized": "elon musk intensifies attack on ambani over starlink india launch delay",
+    "content_hash": "94d80ab786ddeb0b414f3a2be27028b3"
+  },
+  {
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+    "normalized": "anthropic ai model submits false tip on unsolved philly murder",
+    "content_hash": "d5f4d858b4c2560677b74669669dd855"
+  },
+  {
+    "title": "Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip",
+    "normalized": "anthropic ai model goes rogue, submits fake unsolved murder tip",
+    "content_hash": "d027c8c20da51462f6a6f2a0fa51a7ed"
+  },
+  {
+    "title": "An Anthropic AI model sent a false homicide tip to the police",
+    "normalized": "an anthropic ai model sent a false homicide tip to the police",
+    "content_hash": "7b310c7ee7f6116781565bbe29b74c56"
+  },
+  {
+    "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+    "normalized": "plan-and-patch: diffusion language models for agentic planning",
+    "content_hash": "467484c7d6df15fb331bea159ff7b081"
+  },
+  {
+    "title": "Curating Always-Loaded Context for LLM Agents: A Capacitated Assortment Model with Censored Feedback",
+    "normalized": "curating always-loaded context for llm agents: a capacitated assortment model with censored feedback",
+    "content_hash": "484a9a2e7ba170c3623344956fbd60bf"
+  },
+  {
+    "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "normalized": "anthropic's ai gave philadelphia police a fake tip about an unsolved homicide",
+    "content_hash": "773405e7a7cfd85d3b71afb8e25588d0"
+  },
+  {
+    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+    "normalized": "'pure insanity': mathematicians will need years to make sense of openai's latest drop",
+    "content_hash": "e8103410574badfe7a90efd59623c6e3"
+  },
+  {
+    "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
+    "normalized": "anthropic and openai wargaming public and political revolt after ai catastrophe",
+    "content_hash": "ae04d89add3c168cdcc2fb4bd47fe925"
+  },
+  {
+    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "normalized": "book publishers are quietly using more ai. staff are revolting",
+    "content_hash": "c848dfe1e0228fead7779acde6ffa506"
+  },
+  {
+    "title": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
+    "normalized": "anthropic bans 'sustained and needless abusive or cruel behavior' toward its ai models",
+    "content_hash": "9e94002a4c8e8cac739d1b4c51293f0a"
+  },
+  {
+    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+    "normalized": "fbi arrests another shinyhunters suspect reportedly involved in its jobs portal hack",
+    "content_hash": "6f39a0393f41a21431bf2959290168f2"
+  },
+  {
+    "title": "Microsoft-Decision-1, our model for fast decision-making",
+    "normalized": "microsoft-decision-1, our model for fast decision-making",
+    "content_hash": "0404b15cdfec072ab4956ae5230dc075"
+  },
+  {
+    "title": "Anthropic Model Submitted a False Homicide Tip to Philadelphia Police",
+    "normalized": "anthropic model submitted a false homicide tip to philadelphia police",
+    "content_hash": "a59262e1cd9fcd237e87479123ad3d7e"
+  },
+  {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "normalized": "asana cuts model costs 76x in browser tests with gpt-6.1 sol",
+    "content_hash": "84603a35c754bfcacf6b9f2170a2cf22"
+  },
+  {
+    "title": "A model guide for the GPT-6 family",
+    "normalized": "a model guide for the gpt-6 family",
+    "content_hash": "89456d6cc3cace78ff7d3bf34590574d"
+  },
+  {
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "normalized": "disrupting a coordinated model-distillation campaign",
+    "content_hash": "d329bafd39ab3eeb4bbf6d5d2863d3b1"
+  },
+  {
+    "title": "MemoWM: How World Models Change What Agents Need to Remember",
+    "normalized": "memowm: how world models change what agents need to remember",
+    "content_hash": "822147268030db9a3a167bfca3b187d3"
+  },
+  {
+    "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
+    "normalized": "jetbrains releases mellum2.1: a 12b moe open model for coding agents",
+    "content_hash": "1f0c070fc6d5ff31d94f29b84da2b569"
+  },
+  {
+    "title": "Anthropic Updates Usage Policy, Adding Model Abuse and Deception Rules",
+    "normalized": "anthropic updates usage policy, adding model abuse and deception rules",
+    "content_hash": "596997f3c1ce3c8aff2a4e22ee57f411"
+  },
+  {
+    "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
+    "normalized": "brendan carr says he'll let pete hegseth decide whether tv networks can air the public execution",
+    "content_hash": "f44d247ab2d1cc66a42c3635b6fe7669"
+  },
+  {
+    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "normalized": "nikon microscopic video competition winner disqualified for using generative ai",
+    "content_hash": "23155beb20be8a2ab47eeccb4c382a0a"
   }
 ]
