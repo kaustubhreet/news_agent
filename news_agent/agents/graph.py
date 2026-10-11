@@ -27,7 +27,7 @@ def build_graph():
     builder.add_edge("filter", "rank")
     builder.add_edge("rank", "summarize")
     builder.add_edge("summarize", "critic")
-    builder.add_edge("critic", "memory")
-    builder.add_edge("memory", "notify")
+    builder.add_edge("critic", "notify")
+    builder.add_edge("notify", "memory")
 
     return builder.compile()

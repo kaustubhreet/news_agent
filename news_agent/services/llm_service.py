@@ -30,6 +30,14 @@ def hf_summarize_with_fallback(prompt):
                 },
                 timeout=30
             )
+            if not response.ok:
+                logger.warning(
+                    f"HF model {model} failed: "
+                    f"HTTP {response.status_code} - "
+                    f"{response.text[:500]}"
+                )
+                continue
+
 
             data = response.json()
 
@@ -38,9 +46,15 @@ def hf_summarize_with_fallback(prompt):
 
             choices = data.get("choices", [])
             if choices:
-                return choices[0]["message"]["content"]
+                content = choices[0].get("message", {}).get("content", "")
+                if content and content.strip():
+                    logger.info(f"HF model {model} succeeded")
+                    return content
 
-        except:
+            logger.warning(f"HF model {model} returned no content")
+
+        except Exception as e:
+            logger.warning(f"HF model {model} request failed: {e}")
             continue
 
     return ""

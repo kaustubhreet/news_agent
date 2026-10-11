@@ -112,10 +112,10 @@ def memory_node(state):
 
     # Also store ALL articles that were sent for summarization (even if LLM failed them)
     # This prevents re-fetching the same articles when LLM is temporarily down
-    if "ranked_articles" in state:
-        attempted = state["ranked_articles"][:25]
-        logger.info(f"Storing {len(attempted)} attempted articles in memory (incl. LLM failures)")
-        update_memory_attempts(attempted)
+    # if "ranked_articles" in state:
+    #     attempted = state["ranked_articles"][:25]
+    #     logger.info(f"Storing {len(attempted)} attempted articles in memory (incl. LLM failures)")
+    #     update_memory_attempts(attempted)
 
     logger.info("Memory updated successfully")
 
