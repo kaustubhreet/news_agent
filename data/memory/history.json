@@ -128,5 +128,130 @@
     "title": "Remember Orkut? Its founder wants to bring it back",
     "normalized": "remember orkut? its founder wants to bring it back",
     "content_hash": "f433cebb3b513ccd7376efc699754e2b"
+  },
+  {
+    "title": "These execs think voice AI hasn\u2019t reached its ChatGPT moment yet",
+    "normalized": "these execs think voice ai hasn't reached its chatgpt moment yet",
+    "content_hash": "92d28f4c80475462b825c565eb236610"
+  },
+  {
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "normalized": "can the ai industry persuade data center opponents by getting rid of ndas?",
+    "content_hash": "b79ede708773e94c494821899783a89b"
+  },
+  {
+    "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+    "normalized": "techcrunch mobility: a roadblock clears for self-driving trucks",
+    "content_hash": "26dc4fa09e83678e39da254084639dc7"
+  },
+  {
+    "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+    "normalized": "dawn myers is making it easier to style, detangle, and care for curly hair",
+    "content_hash": "e1c9e9c59d61c5f30175b23ed46fb1d1"
+  },
+  {
+    "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+    "normalized": "efferon wants to eradicate the devastating toll of pediatric sepsis",
+    "content_hash": "ebb3bf0193a008f1cbe6df3248cfd830"
+  },
+  {
+    "title": "What to know about the landmark Warner Bros.\u00a0Discovery sale",
+    "normalized": "what to know about the landmark warner bros. discovery sale",
+    "content_hash": "c9e6c39eb2cf7c9703a5e8cc27bdc263"
+  },
+  {
+    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "normalized": "book publishers are quietly using more ai. staff are revolting",
+    "content_hash": "c848dfe1e0228fead7779acde6ffa506"
+  },
+  {
+    "title": "The Best Mac Desktop to Buy (2026): Mac Mini, Mac Studio, or iMac?",
+    "normalized": "the best mac desktop to buy (2026): mac mini, mac studio, or imac?",
+    "content_hash": "44becbd968a9bc112792a2b149c154ea"
+  },
+  {
+    "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+    "normalized": "the third-party agent problem: why security built for ai you chose misses the agents you didn't",
+    "content_hash": "1fa7052e45e6616508bb09a76c894ac7"
+  },
+  {
+    "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+    "normalized": "anthropic cuts live internet access for internal ai tests after claude exploits injection flaws",
+    "content_hash": "47a28439fbec06b575e5fae0cd0cd451"
+  },
+  {
+    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+    "normalized": "fbi arrests another shinyhunters suspect reportedly involved in its jobs portal hack",
+    "content_hash": "6f39a0393f41a21431bf2959290168f2"
+  },
+  {
+    "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+    "normalized": "anthropic launches free ai vulnerability scanner for open-source projects",
+    "content_hash": "e9c7ed70c7400e674a46dd63024f6ef2"
+  },
+  {
+    "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+    "normalized": "attackers exploit ahsaycbs flaws to deploy xmrig miners disguised as microsoft edge",
+    "content_hash": "80c8caffae63296cea0a9b79856f6034"
+  },
+  {
+    "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+    "normalized": "the ai velocity paradox: why security is decades behind ai ambition",
+    "content_hash": "c8a4cdccb1322a26333746bc55f4e560"
+  },
+  {
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "normalized": "learning to use local ai is exciting, overwhelming, and frustrating",
+    "content_hash": "b848a5a9c2cf795a09bf4246cb609de2"
+  },
+  {
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "normalized": "distrokid has been quietly taking down songs in response to umg lawsuit",
+    "content_hash": "7344f17b094f0862a58075008e2a1f04"
+  },
+  {
+    "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+    "normalized": "ledger wallet tampering suspected after reports of crypto thefts",
+    "content_hash": "59c4e5643e07adacb5bd399082b07151"
+  },
+  {
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "normalized": "weave (yc w25) is hiring ml, ai, product, & design engineers",
+    "content_hash": "e83385280a2e91a4f78f5394b7c90885"
+  },
+  {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "normalized": "pollo ai turns creative ideas into campaigns with openai",
+    "content_hash": "0fb07bcf83f800e8d5440f101d06df19"
+  },
+  {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "normalized": "radisson hotel group brings hotel discovery into chatgpt",
+    "content_hash": "bac2e6f235cce1b0f76ddb3edc3171e9"
+  },
+  {
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "normalized": "how jump trading is scaling quant research with chatgpt",
+    "content_hash": "46908fddae6abcb12127275b028ceb4d"
+  },
+  {
+    "title": "Advancing computer use with Ironclad",
+    "normalized": "advancing computer use with ironclad",
+    "content_hash": "5f02c32cae40d6eec10afee4ac28ed08"
+  },
+  {
+    "title": "Building advertising for the way people use AI",
+    "normalized": "building advertising for the way people use ai",
+    "content_hash": "afb804a0b35411e3b7890d33808c51ae"
+  },
+  {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "normalized": "chatham scales its capital markets expertise with openai",
+    "content_hash": "7478a16ff41ab19c89e41d9939f3bff0"
+  },
+  {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "normalized": "how albertsons companies is reimagining retail from the inside out",
+    "content_hash": "0da830b8046a293f6e9f534d8e14deee"
   }
 ]
