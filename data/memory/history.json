@@ -3,5 +3,130 @@
     "title": "Even \u2018Law & Order\u2019 Is Terrified of AI",
     "normalized": "even 'law & order' is terrified of ai",
     "content_hash": "08aac29d19a27aa35d074c2346a6360a"
+  },
+  {
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "normalized": "amazon and others are done keeping data center deals secret. is it enough to build trust?",
+    "content_hash": "f23b4a5197fbad8d6053bf4112298919"
+  },
+  {
+    "title": "Who Gets to Audit Frontier AI? The White House Accord\u2019s Missing Definition",
+    "normalized": "who gets to audit frontier ai? the white house accord's missing definition",
+    "content_hash": "1b6ff54d840dcb509a5871bb25b353cf"
+  },
+  {
+    "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+    "normalized": "anthropic can't reliably control its ai agents. it's cutting off its internal evals from the live internet instead",
+    "content_hash": "dfbe5ac463e0d2cbc3935d7b619866e9"
+  },
+  {
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "normalized": "anthropic is cutting off its internal evaluations from the internet",
+    "content_hash": "c3411a4a974746a50e59dc84a4f7b94c"
+  },
+  {
+    "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+    "normalized": "ai agent makers are promising privacy -- will they deliver?",
+    "content_hash": "88f7f8b741a01ebe40daf83f64977831"
+  },
+  {
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "normalized": "nvidia in talks to acquire us 'open' model startup reflection ai",
+    "content_hash": "d8249dafa17dde0cf5ca2edcaf8b9622"
+  },
+  {
+    "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+    "normalized": "microsoft's satya nadella says ai models need an 'emergency brake'",
+    "content_hash": "d33a0d470f0e82fe5d1ce420cc7eccc6"
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "normalized": "apple discloses deal to hire team and license tech from personalized podcast startup huxe",
+    "content_hash": "4fa0e07423647186c813cc34802af917"
+  },
+  {
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "normalized": "3 days to techcrunch disrupt 2026: meet the startups before they hit mainstream",
+    "content_hash": "2025174836082522c5638a334d342245"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "normalized": "here are the top ai agents that can live in your text messages",
+    "content_hash": "f05fc6a5094a23f8d6391e8ae9e33e9a"
+  },
+  {
+    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+    "normalized": "elon musk intensifies attack on ambani over starlink india launch delay",
+    "content_hash": "94d80ab786ddeb0b414f3a2be27028b3"
+  },
+  {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "normalized": "the maker of non-text ai model jev valued at $7.5b just weeks after launch",
+    "content_hash": "5dca7b5dcb53adc8bf415640fe221910"
+  },
+  {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "normalized": "an anthropic ai model sent a false homicide tip to philadelphia police",
+    "content_hash": "66bbab2093c19b4074d45e8c897238cc"
+  },
+  {
+    "title": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
+    "normalized": "satya nadella says we should assume all ai models are 'compromised'",
+    "content_hash": "210dbcdd17c3c1204bab060bee11343a"
+  },
+  {
+    "title": "Ask HN: Best Local LLM Box ?",
+    "normalized": "ask hn: best local llm box ?",
+    "content_hash": "5183c09021ff8743e9e881cb69337919"
+  },
+  {
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "normalized": "rogue anthropic ai agent gave police fake tip in unsolved murder case",
+    "content_hash": "be357f51a5bd1a26901dc02a805b5cb3"
+  },
+  {
+    "title": "ShareBox \u2013 share the web tools your AI agent builds, like a Google Doc",
+    "normalized": "sharebox - share the web tools your ai agent builds, like a google doc",
+    "content_hash": "a9af12e385203f2208afed02ce077716"
+  },
+  {
+    "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Department Website",
+    "normalized": "anthropic agents tried to fill out visa forms on state department website",
+    "content_hash": "b9c576a44c7572767b46d638d231e985"
+  },
+  {
+    "title": "AI Agents Beat PyTorch: Writing Faster CUDA Kernels",
+    "normalized": "ai agents beat pytorch: writing faster cuda kernels",
+    "content_hash": "3d09403ab50767136c91b009ac47d27e"
+  },
+  {
+    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+    "normalized": "petra power looks to modernize energy for data centers and defense vehicles",
+    "content_hash": "471e9ac5d9451345807ba72480b75937"
+  },
+  {
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "normalized": "cloudflare acquires deno to improve its workers programming model",
+    "content_hash": "dc685577007f1e7de82996fd3c4e2468"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Gamma\u2019s Grant Lee, Engine\u2019s Elia Wallen, and GV\u2019s Crystal Huang on landing your first 1,000 customers",
+    "normalized": "techcrunch disrupt 2026: gamma's grant lee, engine's elia wallen, and gv's crystal huang on landing your first 1,000 customers",
+    "content_hash": "92b24562c1e43cfef33b5d1c514882e9"
+  },
+  {
+    "title": "LumenUs helps automate tedious paperwork in times of grief",
+    "normalized": "lumenus helps automate tedious paperwork in times of grief",
+    "content_hash": "f36ed9ece01f1e4341eff5a945a7be04"
+  },
+  {
+    "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
+    "normalized": "we can't help treating ai like it's human. but should we?",
+    "content_hash": "8aa0e1dd48c2d1f5118edded78706659"
+  },
+  {
+    "title": "Remember Orkut? Its founder wants to bring it back",
+    "normalized": "remember orkut? its founder wants to bring it back",
+    "content_hash": "f433cebb3b513ccd7376efc699754e2b"
   }
 ]
