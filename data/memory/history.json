@@ -1,130 +1,5 @@
 [
   {
-    "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
-    "normalized": "google launches fitbit air in india, though its high price might deter the masses",
-    "content_hash": "f6e203c86058b4d419c7b014a2c65d02"
-  },
-  {
-    "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-    "normalized": "two google alumni raise $11.3m to back ai startups that enterprises will actually pay for",
-    "content_hash": "01a856356b1a715f4e4bfb64dd916967"
-  },
-  {
-    "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
-    "normalized": "meta disputes claim that muse read a user's private messages without permission",
-    "content_hash": "118429219d820158140f2246dc4aea5e"
-  },
-  {
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "normalized": "doordash launches an ai agent you can text to order food",
-    "content_hash": "9514b678bb04adb1192f54708eb74464"
-  },
-  {
-    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "normalized": "restate lands $20m as the need for durable infrastructure increases with ai agents",
-    "content_hash": "a04ca62f563b5858acb9cd61b844559d"
-  },
-  {
-    "title": "All the latest news on Meta\u2019s cute, creepy Muse AI agent",
-    "normalized": "all the latest news on meta's cute, creepy muse ai agent",
-    "content_hash": "d2b374bbfbf99ec65960ae001f9340b7"
-  },
-  {
-    "title": "Google reportedly tests paying publishers for AI search results",
-    "normalized": "google reportedly tests paying publishers for ai search results",
-    "content_hash": "ba40c69958b9e62aa0d169763827d250"
-  },
-  {
-    "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-    "normalized": "openai-huggingface: a reproduction & lessons for alignment testing",
-    "content_hash": "97dbf1402dc5580d0bf7a54ed676931e"
-  },
-  {
-    "title": "Learn Now, Use Next, Trust Later: Prequential Test-Time Learning for LLM Agents",
-    "normalized": "learn now, use next, trust later: prequential test-time learning for llm agents",
-    "content_hash": "b68f2cecb1f9dbab66f4508a3fcb504f"
-  },
-  {
-    "title": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
-    "normalized": "destro ai's secret sauce is getting robots and humans on the same page",
-    "content_hash": "f05c7701f434edf573c11d3fbd1305d0"
-  },
-  {
-    "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
-    "normalized": "fedex orders 2,000 electric trucks from harbinger in $300m deal",
-    "content_hash": "b8e2ba79423263d79f1fb8ef0852d043"
-  },
-  {
-    "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-    "normalized": "pledge signed by president trump and top ai leaders misspells the united states",
-    "content_hash": "6988fde53b75e39a8fc57f1c58075bd6"
-  },
-  {
-    "title": "Instagram rolls out an AI video assistant for creators",
-    "normalized": "instagram rolls out an ai video assistant for creators",
-    "content_hash": "b977b8e8e7700a9fab5e7fbb88a40078"
-  },
-  {
-    "title": "Cerebras Systems\u2019 Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "normalized": "cerebras systems' andrew feldman on whether ai can keep scaling at techcrunch disrupt 2026",
-    "content_hash": "d46c720f0b204158f88a425d12a579c8"
-  },
-  {
-    "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-    "normalized": "3 days left to exhibit: turn visibility into your next opportunity at techcrunch disrupt 2026",
-    "content_hash": "9b6c0c0c5f07a4ab247bf230221dc78d"
-  },
-  {
-    "title": "Charter Space raises $5M to bring insurance to the stars",
-    "normalized": "charter space raises $5m to bring insurance to the stars",
-    "content_hash": "2371a5c425c4e5d5384ae9400447911f"
-  },
-  {
-    "title": "Airbnb adds AI search, more social features",
-    "normalized": "airbnb adds ai search, more social features",
-    "content_hash": "73d984a969bb28e3ca2370a483ddb871"
-  },
-  {
-    "title": "Apple Pay finally launches in India after years on the sidelines",
-    "normalized": "apple pay finally launches in india after years on the sidelines",
-    "content_hash": "a25340533ac253f454d5373ad683e49d"
-  },
-  {
-    "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-    "normalized": "attackers abuse chatgpt custom gpts to deliver rat via clickfix lures",
-    "content_hash": "5f4e9cb3e65f2c36041c767a7e77db74"
-  },
-  {
-    "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-    "normalized": "ai coding agents exposed 13,000 internal images, including billing records, on github",
-    "content_hash": "60f639d547f8aacf9d273284f98a4643"
-  },
-  {
-    "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-    "normalized": "us-focused csuite phishing steals microsoft 365 sessions and deploys rmm tools for remote access",
-    "content_hash": "5a85e44c318697ce535ede2bab75f0bb"
-  },
-  {
-    "title": "Asus won\u2019t say how it escaped the US router ban",
-    "normalized": "asus won't say how it escaped the us router ban",
-    "content_hash": "d93ab9ba157c77231e316f0b1920553d"
-  },
-  {
-    "title": "&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief",
-    "normalized": "'xbox is not for sale' says microsoft's gaming chief",
-    "content_hash": "3a923437afd63bd96cbd5fca3c0b6186"
-  },
-  {
-    "title": "The Halide camera app now offers full control of the iPhone 18 Pro\u2019s aperture",
-    "normalized": "the halide camera app now offers full control of the iphone 18 pro's aperture",
-    "content_hash": "fadb99dbd8d4ce9743937180fee64c76"
-  },
-  {
-    "title": "Instagram is adding an AI \u2018assistant\u2019 to tell you how to post",
-    "normalized": "instagram is adding an ai 'assistant' to tell you how to post",
-    "content_hash": "a74f9cb5b388f825229a00b08ee47371"
-  },
-  {
     "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
     "normalized": "valor, atreides, and sequoia back ai startup flow engineering at $750m valuation",
     "content_hash": "efb477cfc1ed0a84a3aa41696d6cc27b"
@@ -2498,5 +2373,130 @@
     "title": "The Consistency Quadrant: A Visual Guide to LLM Reliability",
     "normalized": "the consistency quadrant: a visual guide to llm reliability",
     "content_hash": "002b6c7f73fb845061731ee89dbd29cc"
+  },
+  {
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "normalized": "nvidia in talks to acquire us 'open' model startup reflection ai",
+    "content_hash": "134a1231def86de5d3bb6a9339286f7a"
+  },
+  {
+    "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+    "normalized": "microsoft's satya nadella says ai models need an 'emergency brake'",
+    "content_hash": "d33a0d470f0e82fe5d1ce420cc7eccc6"
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "normalized": "apple discloses deal to hire team and license tech from personalized podcast startup huxe",
+    "content_hash": "4fa0e07423647186c813cc34802af917"
+  },
+  {
+    "title": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
+    "normalized": "satya nadella says we should assume all ai models are 'compromised'",
+    "content_hash": "210dbcdd17c3c1204bab060bee11343a"
+  },
+  {
+    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+    "normalized": "petra power looks to modernize energy for data centers and defense vehicles",
+    "content_hash": "471e9ac5d9451345807ba72480b75937"
+  },
+  {
+    "title": "Anthropic says its AI agents tried to break into government websites",
+    "normalized": "anthropic says its ai agents tried to break into government websites",
+    "content_hash": "e3c9a0d73900d74b0b0d87e427312f0d"
+  },
+  {
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "normalized": "distrokid has been quietly taking down songs in response to umg lawsuit",
+    "content_hash": "7344f17b094f0862a58075008e2a1f04"
+  },
+  {
+    "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+    "normalized": "ledger wallet tampering suspected after reports of crypto thefts",
+    "content_hash": "59c4e5643e07adacb5bd399082b07151"
+  },
+  {
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "normalized": "500b tokens later: letting ai agents decompile a first-person shooter",
+    "content_hash": "581c503190a86f03f2e19ccfa259aa9c"
+  },
+  {
+    "title": "Sakana AI\u2019s LLM Peer Review System Catches 73% of Core-Claim Errors",
+    "normalized": "sakana ai's llm peer review system catches 73% of core-claim errors",
+    "content_hash": "12404ed343955560ed3e5944eaf5aa0e"
+  },
+  {
+    "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+    "normalized": "microsoft ai releases microsoft-decision-1: a qwen3.5-9b decision-scoring model",
+    "content_hash": "65fd73bc4b57f19f0b16e81f2f837c74"
+  },
+  {
+    "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+    "normalized": "openai decisions api hits public beta with 10x faster typed answers",
+    "content_hash": "4ccaab4999f9f6a1ad0f8b018793ef45"
+  },
+  {
+    "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
+    "normalized": "google research rrsi guide: mastering self-improving ai agents",
+    "content_hash": "1b4ab1011f0e04b65564ca06a804079c"
+  },
+  {
+    "title": "Sophos Says Daybreak AI Agents Cut Average Case Response to 89 Seconds",
+    "normalized": "sophos says daybreak ai agents cut average case response to 89 seconds",
+    "content_hash": "2654cf6687fb5cfbe1208d1f49cd490c"
+  },
+  {
+    "title": "Lava Finds Thousands of Exposed GPU Servers and a High-Severity NVIDIA Monitoring Flaw",
+    "normalized": "lava finds thousands of exposed gpu servers and a high-severity nvidia monitoring flaw",
+    "content_hash": "7858e86335f20a61db54bb12e06eeaf9"
+  },
+  {
+    "title": "Long live the mechanical keyboard",
+    "normalized": "long live the mechanical keyboard",
+    "content_hash": "e3078d4dbbcbf9b8b0132aef3e6e9cb0"
+  },
+  {
+    "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+    "normalized": "batteries are now cheaper than natural gas turbines used at many data centers",
+    "content_hash": "89bbebd5fabf7c26a81891a4b3e6d15c"
+  },
+  {
+    "title": "Danu Robotics\u2019 fight to build a better recycling robot",
+    "normalized": "danu robotics' fight to build a better recycling robot",
+    "content_hash": "d266a0c125316c301514bc647b096c73"
+  },
+  {
+    "title": "Tesla renames \u2018Full Self-Driving\u2019 to \u2018Tesla Assisted Driving\u2019 in Europe",
+    "normalized": "tesla renames 'full self-driving' to 'tesla assisted driving' in europe",
+    "content_hash": "ac1db60cbc54e5672b2b4a66e4488cb5"
+  },
+  {
+    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+    "normalized": "ai is getting really good at messing with cybercriminals",
+    "content_hash": "ef2089b236f27ef5de03227b394d21e5"
+  },
+  {
+    "title": "How This Tiny Startup Built the World\u2019s Safest Bike Helmet",
+    "normalized": "how this tiny startup built the world's safest bike helmet",
+    "content_hash": "92710b61783c393c97be7ee50e39d70e"
+  },
+  {
+    "title": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public",
+    "normalized": "nasa just made nearly 1 tb of artemis ii data available to the public",
+    "content_hash": "04f29e825220b9ce89fd24d7f7c7c1cb"
+  },
+  {
+    "title": "The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson",
+    "normalized": "the doj is weighing perjury charges against cassidy hutchinson",
+    "content_hash": "d6ad1e2f85cc9d98d7966b1b0d501bd7"
+  },
+  {
+    "title": "Best Battery-Powered Leaf Blowers (2026): Tested for Power, Battery Life, and Noise",
+    "normalized": "best battery-powered leaf blowers (2026): tested for power, battery life, and noise",
+    "content_hash": "04149da383e65930384b76013f7b20ad"
+  },
+  {
+    "title": "Even \u2018Law & Order\u2019 Is Terrified of AI",
+    "normalized": "even 'law & order' is terrified of ai",
+    "content_hash": "08aac29d19a27aa35d074c2346a6360a"
   }
 ]
