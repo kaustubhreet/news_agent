@@ -6,9 +6,9 @@ from news_agent.core.config import (
     OLLAMA_URL,
     MODEL_NAME,
     HF_API_KEY,
+    GOOGLE_API_KEY,
     MODEL_PROVIDER
 )
-from tests.test_model import GOOGLE_API_KEY
 
 HF_API_URL = "https://router.huggingface.co/v1/chat/completions"
 MODELS = [
