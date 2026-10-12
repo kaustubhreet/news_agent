@@ -8,6 +8,7 @@ from news_agent.core.config import (
     HF_API_KEY,
     MODEL_PROVIDER
 )
+from tests.test_model import GOOGLE_API_KEY
 
 HF_API_URL = "https://router.huggingface.co/v1/chat/completions"
 MODELS = [
@@ -15,6 +16,7 @@ MODELS = [
     "Qwen/Qwen2.5-7B-Instruct",
     "mistralai/Mistral-7B-Instruct-v0.3"
 ]
+
 
 def hf_summarize_with_fallback(prompt):
     for model in MODELS:
@@ -59,6 +61,50 @@ def hf_summarize_with_fallback(prompt):
 
     return ""
 
+def gemini_summarize_with_fallback(prompt):
+    for model in ["gemini-3.8-flash", "gemini-flash-latest", "gemini-2.5-flash-lite"]:
+        try:
+            logger.info(f"Trying model: {model}")
+    
+            response = requests.post(
+                f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                headers={"Authorization": f"Bearer {GOOGLE_API_KEY}"},
+                json={
+                    "model": model,
+                    "messages": [{"role": "user", "content": prompt}],
+                },
+                timeout=30
+            )
+            if not response.ok:
+                logger.warning(
+                    f"Gemini model {model} failed: "
+                    f"HTTP {response.status_code} - "
+                    f"{response.text[:500]}"
+                )
+                continue
+
+
+            data = response.json()
+
+            if "error" in data:
+                continue
+
+            choices = data.get("choices", [])
+            if choices:
+                content = choices[0].get("message", {}).get("content", "")
+                if content and content.strip():
+                    logger.info(f"Gemini model {model} succeeded")
+                    return content
+
+            logger.warning(f"Gemini model {model} returned no content")
+
+        except Exception as e:
+            logger.warning(f"Gemini model {model} request failed: {e}")
+            continue
+
+    return ""
+
+
 
 def _call_llm(prompt):
     """Internal helper: send a prompt to the configured LLM and return the raw response text."""
@@ -83,6 +129,10 @@ def _call_llm(prompt):
         elif MODEL_PROVIDER == "hf":
             logger.info("Using HuggingFace model")
             return hf_summarize_with_fallback(prompt)
+
+        elif MODEL_PROVIDER == "gemini":
+            logger.info("Using Gemini model")
+            return gemini_summarize_with_fallback(prompt)
 
         else:
             logger.error(f"Invalid MODEL_PROVIDER: {MODEL_PROVIDER}")
