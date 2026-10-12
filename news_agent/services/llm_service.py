@@ -65,13 +65,12 @@ def gemini_summarize_with_fallback(prompt):
     for model in ["gemini-3.8-flash", "gemini-flash-latest", "gemini-2.5-flash-lite"]:
         try:
             logger.info(f"Trying model: {model}")
-    
+
             response = requests.post(
                 f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-                headers={"Authorization": f"Bearer {GOOGLE_API_KEY}"},
+                headers={"x-goog-api-key": (GOOGLE_API_KEY or "").strip(), "Content-Type": "application/json"},
                 json={
-                    "model": model,
-                    "messages": [{"role": "user", "content": prompt}],
+                    "contents": [{"parts": [{"text": prompt}]}],
                 },
                 timeout=30
             )
@@ -87,14 +86,16 @@ def gemini_summarize_with_fallback(prompt):
             data = response.json()
 
             if "error" in data:
+                logger.warning(f"Gemini model {model} returned error: {data['error']}")
                 continue
 
-            choices = data.get("choices", [])
-            if choices:
-                content = choices[0].get("message", {}).get("content", "")
+            candidates = data.get("candidates", [])
+            if candidates:
+                parts = candidates[0].get("content", {}).get("parts", [])
+                content = "".join(p.get("text", "") for p in parts)
                 if content and content.strip():
                     logger.info(f"Gemini model {model} succeeded")
-                    return content
+                    return content.strip()
 
             logger.warning(f"Gemini model {model} returned no content")
 
