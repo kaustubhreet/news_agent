@@ -12,6 +12,7 @@ from news_agent.core.config import (
 
 HF_API_URL = "https://router.huggingface.co/v1/chat/completions"
 MODELS = [
+    "prism-ml/Ternary-Bonsai-27B-AWQ-4bit:together",
     "deepseek-ai/DeepSeek-V4-Flash:novita",
     "Qwen/Qwen2.5-7B-Instruct",
     "mistralai/Mistral-7B-Instruct-v0.3"
