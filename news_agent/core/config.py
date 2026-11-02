@@ -65,6 +65,6 @@ MODEL_NAME = "qwen2.5:1.5b"
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 PHONE_NO = os.getenv("PHONE_NO")
-MODEL_PROVIDER = os.getenv("MODEL_PROVIDER")
+MODEL_PROVIDER = os.getenv("MODEL_PROVIDER", "gemini").strip().lower()
 HF_API_KEY = os.getenv("HF_API_KEY")
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
