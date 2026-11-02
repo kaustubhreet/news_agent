@@ -63,7 +63,7 @@ def hf_summarize_with_fallback(prompt):
     return ""
 
 def gemini_summarize_with_fallback(prompt):
-    for model in ["gemini-3.8-flash", "gemini-flash-latest", "gemini-2.5-flash-lite"]:
+    for model in ["gemini-3.6-flash", "gemini-flash-latest", "gemini-2.5-flash-lite"]:
         try:
             logger.info(f"Trying model: {model}")
 
@@ -134,6 +134,9 @@ def _call_llm(prompt):
 
         elif MODEL_PROVIDER == "gemini":
             logger.info("Using Gemini model")
+            logger.info("gemini api key length: ") 
+            logger.info("len{GOOGLE_API_KEY}")
+
             return gemini_summarize_with_fallback(prompt)
 
         else:

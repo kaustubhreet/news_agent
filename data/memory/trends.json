@@ -1,1 +1,27 @@
-{}
+{
+  "openai": 15,
+  "chatgpt": 6,
+  "models": 6,
+  "codex": 5,
+  "agentic": 5,
+  "enterprise": 5,
+  "that": 5,
+  "agents": 5,
+  "work": 4,
+  "tech": 4,
+  "system": 4,
+  "million": 3,
+  "growing": 3,
+  "data": 3,
+  "usage": 3,
+  "user": 3,
+  "nvidia": 3,
+  "safety": 3,
+  "claude": 3,
+  "anthropic": 3,
+  "code": 3,
+  "billion": 3,
+  "servicenow": 3,
+  "partnership": 3,
+  "while": 3
+}

@@ -1023,3 +1023,69 @@
 2026-06-24 23:10:13,760 - ERROR - CRITICAL: Memory file corrupted (JSON parse error): Expecting property name enclosed in double quotes: line 139 column 1 (char 6711)
 2026-06-24 23:10:13,760 - ERROR - Attempting to repair memory file...
 2026-06-24 23:10:13,761 - ERROR - Memory file repair failed: Expecting ',' delimiter: line 545 column 5 (char 19752)
+2026-11-02 22:39:23,137 - INFO - App started
+2026-11-02 22:39:23,140 - INFO - \u2699\ufe0f Graph execution started
+2026-11-02 22:39:23,145 - INFO - Fetching articles... {}
+2026-11-02 22:39:45,148 - INFO - Fetched 355 articles
+2026-11-02 22:39:45,167 - INFO - Filter node...
+2026-11-02 22:39:45,167 - INFO - Filter node filter_new_articles start
+2026-11-02 22:39:45,180 - INFO - Loaded 51 entries from memory
+2026-11-02 22:39:45,180 - INFO - filter_new_articles: 354 new out of 354 total (0 filtered)
+2026-11-02 22:39:45,180 - INFO - rank node...
+2026-11-02 22:39:45,180 - INFO - summarize node (batched mode)
+2026-11-02 22:39:45,180 - INFO - Summarizing batch 1-5 (5 articles)
+2026-11-02 22:39:45,180 - INFO - Using Gemini model
+2026-11-02 22:39:45,180 - INFO - Trying model: gemini-3.6-flash
+2026-11-02 22:39:53,991 - INFO - Gemini model gemini-3.6-flash succeeded
+2026-11-02 22:39:53,991 - INFO - Batch response received (921 chars)
+2026-11-02 22:39:53,991 - INFO - Summarizing batch 6-10 (5 articles)
+2026-11-02 22:39:53,991 - INFO - Using Gemini model
+2026-11-02 22:39:53,991 - INFO - Trying model: gemini-3.6-flash
+2026-11-02 22:40:01,865 - INFO - Gemini model gemini-3.6-flash succeeded
+2026-11-02 22:40:01,867 - INFO - Batch response received (784 chars)
+2026-11-02 22:40:01,867 - INFO - Summarizing batch 11-15 (5 articles)
+2026-11-02 22:40:01,867 - INFO - Using Gemini model
+2026-11-02 22:40:01,867 - INFO - Trying model: gemini-3.6-flash
+2026-11-02 22:40:07,924 - INFO - Gemini model gemini-3.6-flash succeeded
+2026-11-02 22:40:07,924 - INFO - Batch response received (908 chars)
+2026-11-02 22:40:07,924 - INFO - Summarizing batch 16-20 (5 articles)
+2026-11-02 22:40:07,924 - INFO - Using Gemini model
+2026-11-02 22:40:07,924 - INFO - Trying model: gemini-3.6-flash
+2026-11-02 22:40:12,466 - WARNING - Gemini model gemini-3.6-flash failed: HTTP 503 - {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-11-02 22:40:12,466 - INFO - Trying model: gemini-flash-latest
+2026-11-02 22:40:42,523 - WARNING - Gemini model gemini-flash-latest request failed: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=30)
+2026-11-02 22:40:42,523 - INFO - Trying model: gemini-2.5-flash-lite
+2026-11-02 22:40:43,010 - WARNING - Gemini model gemini-2.5-flash-lite failed: HTTP 404 - {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).",
+    "status": "NOT_FOUND"
+  }
+}
+
+2026-11-02 22:40:43,010 - WARNING - Empty response for batch of 5 articles
+2026-11-02 22:40:43,010 - WARNING - Skipping article 16: empty or invalid summary
+2026-11-02 22:40:43,010 - WARNING - Skipping article 17: empty or invalid summary
+2026-11-02 22:40:43,010 - WARNING - Skipping article 18: empty or invalid summary
+2026-11-02 22:40:43,010 - WARNING - Skipping article 19: empty or invalid summary
+2026-11-02 22:40:43,010 - WARNING - Skipping article 20: empty or invalid summary
+2026-11-02 22:40:43,010 - INFO - Summarizing batch 21-25 (5 articles)
+2026-11-02 22:40:43,010 - INFO - Using Gemini model
+2026-11-02 22:40:43,010 - INFO - Trying model: gemini-3.6-flash
+2026-11-02 22:40:48,200 - INFO - Gemini model gemini-3.6-flash succeeded
+2026-11-02 22:40:48,200 - INFO - Batch response received (727 chars)
+2026-11-02 22:40:48,200 - INFO - Valid summaries: 20 out of 25 articles
+2026-11-02 22:40:48,200 - INFO - critic_node: 20 valid summaries out of 20
+2026-11-02 22:41:09,892 - INFO - Updating memory...
+2026-11-02 22:41:09,892 - INFO - Loaded 51 entries from memory
+2026-11-02 22:41:09,892 - INFO - update_memory: added 20 new entries (total: 71)
+2026-11-02 22:41:09,918 - INFO - Trends updated: ['openai', 'chatgpt', 'models', 'codex', 'agentic']
+2026-11-02 22:41:09,919 - INFO - Memory updated successfully
+2026-11-02 22:41:09,919 - INFO - \u2705 Graph execution completed

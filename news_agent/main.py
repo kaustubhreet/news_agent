@@ -10,7 +10,7 @@ from news_agent.agents.graph import build_graph
 
 if __name__ == "__main__":
     try:
-        logger.info("App started")
+        logger.info("========== NEWS AGENT STARTED ==========")
         app = build_graph()
         logger.info("⚙️ Graph execution started")
         result = app.invoke({})
