@@ -703,5 +703,105 @@
     "title": "New York City\u2019s Mamdani criticizes Madison Square Garden owner over surveillance tech",
     "normalized": "new york city's mamdani criticizes madison square garden owner over surveillance tech",
     "content_hash": "39f9cfcc097df1a1785e5558e5f3c336"
+  },
+  {
+    "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+    "normalized": "reddit tests ads in search results as traffic declines and growth concerns mount",
+    "content_hash": "304257af30480ec0b78dc5c1a8d20ee5"
+  },
+  {
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "normalized": "google will let schools disable its ai tools, but not without sacrificing search",
+    "content_hash": "c9d3b1e6cb967be6d401d588278bd004"
+  },
+  {
+    "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe\u2019s startup scene",
+    "normalized": "yvonne bajela is bringing $17m in fresh capital to europe's startup scene",
+    "content_hash": "303ab07fd15899b5784edc70fc3be711"
+  },
+  {
+    "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+    "normalized": "google warns llmjacking attacks are costing some enterprises up to $1 million in cloud charges",
+    "content_hash": "0a9d938bcf92553592f9e722f20fe0cd"
+  },
+  {
+    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+    "normalized": "show hn: uncracked city, detective game where you question llm suspects that lie",
+    "content_hash": "77cdc2cc3c3f8155d4bc11454994c67b"
+  },
+  {
+    "title": "Show HN: A live-built agent newsroom for tracking midterms today",
+    "normalized": "show hn: a live-built agent newsroom for tracking midterms today",
+    "content_hash": "16119323d5b52d4b0e2cceac1b228ca0"
+  },
+  {
+    "title": "More daily API calls than Google searches, now applied to LLM inference",
+    "normalized": "more daily api calls than google searches, now applied to llm inference",
+    "content_hash": "3f9ab44f2ebb11a8645a3b441df89344"
+  },
+  {
+    "title": "278M PII detection model bests OpenAI, AWS and Microsoft",
+    "normalized": "278m pii detection model bests openai, aws and microsoft",
+    "content_hash": "bc0e9a261179c27285ea032d993b7dd0"
+  },
+  {
+    "title": "Eval-production behavior gaps in agent safety and the role of eval-awareness",
+    "normalized": "eval-production behavior gaps in agent safety and the role of eval-awareness",
+    "content_hash": "8756031d9bea2dc134553895a56e2f9a"
+  },
+  {
+    "title": "Show HN: Replacing Turn-Based LLM Agents with SQLite and System One Models",
+    "normalized": "show hn: replacing turn-based llm agents with sqlite and system one models",
+    "content_hash": "ceedc798e2fb9417c3af82482656a63e"
+  },
+  {
+    "title": "LangChain Brings LangSmith BYOC Beta to Azure and Google Cloud",
+    "normalized": "langchain brings langsmith byoc beta to azure and google cloud",
+    "content_hash": "5ee34fb96c538645ecbcecd70516b763"
+  },
+  {
+    "title": "Fireworks Announces Faster Agent Inference and Sovereign Deployment",
+    "normalized": "fireworks announces faster agent inference and sovereign deployment",
+    "content_hash": "ec6a80882d489cf839a678ffdc66b8b3"
+  },
+  {
+    "title": "OpenAI Tests Astra on Physical Engineering From Devices to Vehicles",
+    "normalized": "openai tests astra on physical engineering from devices to vehicles",
+    "content_hash": "dd2c3fdc9a3c0a1fc4312a05b678a709"
+  },
+  {
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "normalized": "data centers are turning to old jet engines as the wait for power grows",
+    "content_hash": "077f9f07d7196222263e4fc8984996ae"
+  },
+  {
+    "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "normalized": "ted schlein's ballistic ventures seeks $490m for new funds amid ai-driven cybersecurity boom",
+    "content_hash": "71b046ae5b33143654c8cac63bebf918"
+  },
+  {
+    "title": "Apple restricts dating apps and AI companions to users 18 and up",
+    "normalized": "apple restricts dating apps and ai companions to users 18 and up",
+    "content_hash": "472f6e350c97c0e28d60e2276fa6b210"
+  },
+  {
+    "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+    "normalized": "binance says hackers used well-known tricks to carry out a $6.34 billion heist",
+    "content_hash": "53aa8564cc67bc9dabefc914e93902a7"
+  },
+  {
+    "title": "Here\u2019s Why You Shouldn\u2019t Use AI to Vote",
+    "normalized": "here's why you shouldn't use ai to vote",
+    "content_hash": "7dcb3ca5cffdcb6e7bcb4ec6073684e6"
+  },
+  {
+    "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+    "normalized": "binance reveals how fake job interviews and ai tool abuse led to $6.43 billion theft",
+    "content_hash": "b7bf6ff707aafc79f29356f11a902a75"
+  },
+  {
+    "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+    "normalized": "amd rides data center riches to 'largest and most profitable' quarter in history",
+    "content_hash": "f8c5cae255c0a06b4615d3a7595bbd9e"
   }
 ]
