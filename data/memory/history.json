@@ -803,5 +803,80 @@
     "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
     "normalized": "amd rides data center riches to 'largest and most profitable' quarter in history",
     "content_hash": "f8c5cae255c0a06b4615d3a7595bbd9e"
+  },
+  {
+    "title": "Anthropic is working on a system to prove AI models\u2019 identity",
+    "normalized": "anthropic is working on a system to prove ai models' identity",
+    "content_hash": "e98c0d9249dc6bd6d4f5094b33f8c002"
+  },
+  {
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "normalized": "ai inference startup fal doubles its valuation to $16b as demand surges",
+    "content_hash": "c2c06beb25e6172f1d1cd4309b8c0c0f"
+  },
+  {
+    "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+    "normalized": "researchers uncover prompt adware hidden in openai codex jailbreak toolkit",
+    "content_hash": "faeebc27de44d3bf37069fb540608fde"
+  },
+  {
+    "title": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
+    "normalized": "i tried apple's siri recaps. they're surprisingly useful -- and a little unsettling",
+    "content_hash": "201ebe2dec493fe1d1bbe14f20a5e555"
+  },
+  {
+    "title": "India\u2019s EloElo nabs $80M from NBCUniversal to bet on the country\u2019s rising microdrama market",
+    "normalized": "india's eloelo nabs $80m from nbcuniversal to bet on the country's rising microdrama market",
+    "content_hash": "3054b2998a7c09d99a4166ff6fefbf87"
+  },
+  {
+    "title": "Xbox previews two new ways to control cloud games",
+    "normalized": "xbox previews two new ways to control cloud games",
+    "content_hash": "946b297001c588fec3a36c8f84656910"
+  },
+  {
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "normalized": "nothing teases a screen-free ai device ahead of launch next month",
+    "content_hash": "74b6c4460735c8f62166c65a0d54747a"
+  },
+  {
+    "title": "Nintendo is losing a Switch cartridge supplier",
+    "normalized": "nintendo is losing a switch cartridge supplier",
+    "content_hash": "d6488049fc43dc4d05d881daaa330353"
+  },
+  {
+    "title": "Anker\u2019s new window-mounted camera monitors the outside of your home from within it",
+    "normalized": "anker's new window-mounted camera monitors the outside of your home from within it",
+    "content_hash": "839d9348b958e42ecb667a40f4c01cc3"
+  },
+  {
+    "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+    "normalized": "rian johnson explains why he had to build his own iphone camera app",
+    "content_hash": "6237d87007a2742cca0c93b50bcc0a74"
+  },
+  {
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "normalized": "nvidia rtx spark encrypted firmware slows inference speed to 35% on linux",
+    "content_hash": "b0e218bd0fe5ad8f93c93293ae20a71c"
+  },
+  {
+    "title": "Pierre Computer is being acquired by OpenAI",
+    "normalized": "pierre computer is being acquired by openai",
+    "content_hash": "c515d681f3008448b8f4cbf455ef69f2"
+  },
+  {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "normalized": "heimstaden is changing residential real estate management with ai",
+    "content_hash": "28645555420fe366f81845dcb0605c7d"
+  },
+  {
+    "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+    "normalized": "four layers of context engineering for production ai agents: how deep insight applies them in working code",
+    "content_hash": "711225e4a1aa1c974112a45275eac9d4"
+  },
+  {
+    "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+    "normalized": "servicenow on-behalf-of token exchange with bedrock agentcore gateway",
+    "content_hash": "4850711247f989d9547c90051dd41016"
   }
 ]
