@@ -1378,5 +1378,130 @@
     "title": "The Cybertruck\u2019s Death Is Actually Great News for EVs",
     "normalized": "the cybertruck's death is actually great news for evs",
     "content_hash": "facdedfb90fea1727d87109979bb7bb9"
+  },
+  {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "normalized": "megaspeed exec was recruited to spy on nvidia ceo, according to us intelligence memo",
+    "content_hash": "774b3d55e013131a640cb8a5df0d7afc"
+  },
+  {
+    "title": "Uncensored LLMs in agent loops: 31 models, 5 tasks, most fail half the time",
+    "normalized": "uncensored llms in agent loops: 31 models, 5 tasks, most fail half the time",
+    "content_hash": "614422c72041d123c0932c370eb2f732"
+  },
+  {
+    "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
+    "normalized": "ask hn: if llm reverse engineering is deemed illegal, is that precedent for oss?",
+    "content_hash": "f291b8e1af1dbb4a7fe8a7b55702bb30"
+  },
+  {
+    "title": "GPT\u20116 Cyber",
+    "normalized": "gpt\u20116 cyber",
+    "content_hash": "b18352197142a3059620fef60be53deb"
+  },
+  {
+    "title": "ChatGPT Images 2.6",
+    "normalized": "chatgpt images 2.6",
+    "content_hash": "a95b329de2bacf848db7489df1b22600"
+  },
+  {
+    "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+    "normalized": "costco members can get $5 off the reimagined ocarina of time",
+    "content_hash": "11e59540804b4d084cd0c4319b4287e6"
+  },
+  {
+    "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "normalized": "nyt cooking's ai assistant saved my weeknight chicken, but almost ruined my cake",
+    "content_hash": "9e3466e58b32cfcb05042902fdb27879"
+  },
+  {
+    "title": "AI broke the cybersecurity world. What\u2019s next?",
+    "normalized": "ai broke the cybersecurity world. what's next?",
+    "content_hash": "e1e101b699801ec0445ac3541ebf093c"
+  },
+  {
+    "title": "Good riddance, Cybertruck!",
+    "normalized": "good riddance, cybertruck!",
+    "content_hash": "843a7ff72b4cb4b7728a4fe5aaaad4c8"
+  },
+  {
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "normalized": "the end of microsoft research's ai frontiers group",
+    "content_hash": "5d7d323ce841dc1d70b4b94e75898f28"
+  },
+  {
+    "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
+    "normalized": "anthropic warns that it's close to rsi capability, a.k.a. self-building ai",
+    "content_hash": "ad8ccd8c64ea44fac29237acf884e75c"
+  },
+  {
+    "title": "An AI agent's public attempt to get 5k GitHub stars in a month (it's at 0)",
+    "normalized": "an ai agent's public attempt to get 5k github stars in a month (it's at 0)",
+    "content_hash": "065be9423fd3128f2882fd75f0b58d93"
+  },
+  {
+    "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
+    "normalized": "anthropic's falling ipo valuation raises stakes for broader ai trade",
+    "content_hash": "18c1f686867aead416ab4a791f9c047d"
+  },
+  {
+    "title": "Show HN: Sentient, Your Coding Agent Shouldn't Be a Black Box",
+    "normalized": "show hn: sentient, your coding agent shouldn't be a black box",
+    "content_hash": "5c16f74322ddd01a0704bc298f85698a"
+  },
+  {
+    "title": "Initial submission of Mellonbot \u2013 an AI agent for Linux server diagnostics",
+    "normalized": "initial submission of mellonbot - an ai agent for linux server diagnostics",
+    "content_hash": "3947f0772d1eb4c6a1cc823f812e3f4d"
+  },
+  {
+    "title": "Day AI: Context Graph and Agent Control Plane for GTM",
+    "normalized": "day ai: context graph and agent control plane for gtm",
+    "content_hash": "d73d52d58edf4d5ac9dbee041bb84338"
+  },
+  {
+    "title": "Show HN: Agent Manager \u2013 keyboard-first workflow for running many coding agents",
+    "normalized": "show hn: agent manager - keyboard-first workflow for running many coding agents",
+    "content_hash": "64d36829cfcb6e9b5e9eb47eb612824f"
+  },
+  {
+    "title": "Chatty \u2013 Open-source autonomous AI chat agent with tool calling",
+    "normalized": "chatty - open-source autonomous ai chat agent with tool calling",
+    "content_hash": "2f178c456bcb265fa488493b9a29f0e0"
+  },
+  {
+    "title": "Infinix \u2013 Abandoned Local AI Agent Base Seeking Developers",
+    "normalized": "infinix - abandoned local ai agent base seeking developers",
+    "content_hash": "5687d8bf3210f7af408c833f014ce2f6"
+  },
+  {
+    "title": "Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It",
+    "normalized": "google described its agent sandbox. i built one with firecracker and measured it",
+    "content_hash": "b09d84d3676a2fa79b07ac0dc7dd39ff"
+  },
+  {
+    "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+    "normalized": "sagemaker inference now supports multi-instance gpu to maximize gpu utilization for model endpoints",
+    "content_hash": "61b83fd02a90ee2f4c8151a5b37096bd"
+  },
+  {
+    "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+    "normalized": "how to run nvidia dory 4b with llama.cpp: loop by loop guide",
+    "content_hash": "86813c8c0d4dce7eef45bd819fe21001"
+  },
+  {
+    "title": "OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation",
+    "normalized": "openai launches gpt-image-2.6 flare and sunburst: adds gifs, svg export and 6-second api generation",
+    "content_hash": "160bd757026b3e691b52a0fb7717ff98"
+  },
+  {
+    "title": "Give Your Python AI Agent Persistent Memory with One JSON File",
+    "normalized": "give your python ai agent persistent memory with one json file",
+    "content_hash": "a2a0a4e1d98dddd593e8c476821efd39"
+  },
+  {
+    "title": "OpenAI Secures $11B in Initial Funding at $1.25T Valuation",
+    "normalized": "openai secures $11b in initial funding at $1.25t valuation",
+    "content_hash": "e1784b3cf72012135051c0ce457484b0"
   }
 ]
