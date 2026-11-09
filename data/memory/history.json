@@ -1628,5 +1628,130 @@
     "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
     "normalized": "hackers target openssh sshole flaw within hours of disclosure, gain root on honeypot",
     "content_hash": "7c1a9a2552f477cee069cebf9bf7761c"
+  },
+  {
+    "title": "Here\u2019s the full text of Jensen Huang\u2019s memo to Nvidia",
+    "normalized": "here's the full text of jensen huang's memo to nvidia",
+    "content_hash": "e7dca68d4ce4ef64d6426644182a9edb"
+  },
+  {
+    "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+    "normalized": "nvidia will investigate ceo jensen huang's relationship with possible chinese spy",
+    "content_hash": "c39351b6ba76f400671d4bc8b49bf6e9"
+  },
+  {
+    "title": "Apple is racing to make Siri more agentic",
+    "normalized": "apple is racing to make siri more agentic",
+    "content_hash": "120e232685a52ae17760fd4dfe73a922"
+  },
+  {
+    "title": "Nvidia is investigating Jensen Huang\u2019s relationship with a Chinese spy",
+    "normalized": "nvidia is investigating jensen huang's relationship with a chinese spy",
+    "content_hash": "2664c913958b5a7aec3c6e4872c27534"
+  },
+  {
+    "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+    "normalized": "sequoia partners reportedly blindsided when roelof botha joined spacex board",
+    "content_hash": "f7a20242610a835e9b9581891af80906"
+  },
+  {
+    "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
+    "normalized": "he arrested a hacker, then spent 18 months clearing his own name. now he's a cybersecurity vc.",
+    "content_hash": "9e40a1473e41eb48a4cd1cc65a65e18f"
+  },
+  {
+    "title": "Soul Glo\u2019s Diaspora Problems is a hardcore record like no other",
+    "normalized": "soul glo's diaspora problems is a hardcore record like no other",
+    "content_hash": "406667b13185ac4ef29a5b78bc730737"
+  },
+  {
+    "title": "Epic Games Launcher is coming to SteamOS",
+    "normalized": "epic games launcher is coming to steamos",
+    "content_hash": "84d0b190233b20c0cca72ab7f757130a"
+  },
+  {
+    "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+    "normalized": "ask hn: how do you manage your ai agents' context across clients and projects?",
+    "content_hash": "8d52fe69b75f50154f70ad2f64b1fb85"
+  },
+  {
+    "title": "Harness Leaderboard Which coding-agent harness should you run your open model in",
+    "normalized": "harness leaderboard which coding-agent harness should you run your open model in",
+    "content_hash": "7da4356cb430f4d764378f1215c57b84"
+  },
+  {
+    "title": "What Anthropic's IPO Filing Says About the Future of A.I",
+    "normalized": "what anthropic's ipo filing says about the future of a.i",
+    "content_hash": "69f7a7de68c94f3dcc3007f131be5594"
+  },
+  {
+    "title": "Show HN: Email-like interface to review, decide, and annotate agent work",
+    "normalized": "show hn: email-like interface to review, decide, and annotate agent work",
+    "content_hash": "f53a9c399a7a2c19e1b348dd5edd3458"
+  },
+  {
+    "title": "Show HN: psi, a 6.4 MB cross-platform portable coding agent in ANSI C & Lua",
+    "normalized": "show hn: psi, a 6.4 mb cross-platform portable coding agent in ansi c & lua",
+    "content_hash": "dd4f60c24a5ecbff0991c7405b4bd39c"
+  },
+  {
+    "title": "Show HN: Cinnamon AI \u2013 an agent you can share with your household",
+    "normalized": "show hn: cinnamon ai - an agent you can share with your household",
+    "content_hash": "3524a9230b107953511adb02fdc3ce4d"
+  },
+  {
+    "title": "OpenAI deal to cut Abu Dhabi government processing times from days to minutes",
+    "normalized": "openai deal to cut abu dhabi government processing times from days to minutes",
+    "content_hash": "21626b922dc3d285da7c783e907108df"
+  },
+  {
+    "title": "I made an open-web protocol for local LLM storage sharing",
+    "normalized": "i made an open-web protocol for local llm storage sharing",
+    "content_hash": "a4ff92d7478d8a0e27118cce1f16737b"
+  },
+  {
+    "title": "Anthropic Let an Outsider Check Its AI Progress. Here's What We Can't See",
+    "normalized": "anthropic let an outsider check its ai progress. here's what we can't see",
+    "content_hash": "25dc3532c4d9fa65a0764da8149541f6"
+  },
+  {
+    "title": "A 3-Line Torus Geometry Proof Wrecked OpenAI's $100B Biotech Venture",
+    "normalized": "a 3-line torus geometry proof wrecked openai's $100b biotech venture",
+    "content_hash": "bfd5b4eb6bec4c7d21c1283c5d56e0d4"
+  },
+  {
+    "title": "Kakao Mobility Signs NVIDIA MOU for Level 4 Autonomous Driving",
+    "normalized": "kakao mobility signs nvidia mou for level 4 autonomous driving",
+    "content_hash": "ff3e86c6c458f0c3dea99aac01e1c2f5"
+  },
+  {
+    "title": "NVIDIA Board Opens Review After Reported Foreign Intelligence Effort",
+    "normalized": "nvidia board opens review after reported foreign intelligence effort",
+    "content_hash": "2ccaa88450bb40f72491f740e8833287"
+  },
+  {
+    "title": "Apps to distract you from the endless cycle of doomscrolling",
+    "normalized": "apps to distract you from the endless cycle of doomscrolling",
+    "content_hash": "4e0ac9847c3cfd009f25e24bfcc89169"
+  },
+  {
+    "title": "If Snap\u2019s Specs are still ridiculously expensive, they\u2019re also a lot more comfortable than they used to be",
+    "normalized": "if snap's specs are still ridiculously expensive, they're also a lot more comfortable than they used to be",
+    "content_hash": "da140d3306accf54f881c7b1b76e83b8"
+  },
+  {
+    "title": "Coordinated disturbances haunt grids worldwide. Here\u2019s how researchers solved the mystery.",
+    "normalized": "coordinated disturbances haunt grids worldwide. here's how researchers solved the mystery.",
+    "content_hash": "cc9f0a6dfd49b0a1d1865b5a32f79cb8"
+  },
+  {
+    "title": "SNL has a new impression of Elon Musk, \u2018the worst thing South Africa has ever done\u2019",
+    "normalized": "snl has a new impression of elon musk, 'the worst thing south africa has ever done'",
+    "content_hash": "5ab620e266329fb1947bf206aa089dc5"
+  },
+  {
+    "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+    "normalized": "malicious browser extensions could use claude dispatch to run code on users' computers",
+    "content_hash": "1733ba35a3fecd6e71139e0f1ba64c74"
   }
 ]
