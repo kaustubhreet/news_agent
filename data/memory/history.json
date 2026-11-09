@@ -1753,5 +1753,105 @@
     "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
     "normalized": "malicious browser extensions could use claude dispatch to run code on users' computers",
     "content_hash": "1733ba35a3fecd6e71139e0f1ba64c74"
+  },
+  {
+    "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+    "normalized": "uber launches parking service following spothero acquisition, with an eye on robotaxis",
+    "content_hash": "d8270f79bfe008a00f00d4ccc1d3cb4d"
+  },
+  {
+    "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+    "normalized": "anthropic joins ai's natural gas frenzy, buys $3.4b worth of turbines",
+    "content_hash": "4ff9a6e7f98f756049ddaaaad3226d14"
+  },
+  {
+    "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u2018about a 50-50\u2019",
+    "normalized": "is jensen huang's job on the line? yale's jeffrey sonnenfeld estimates it's 'about a 50-50'",
+    "content_hash": "7c3d8748fd974713f9037d5e3fd0e1f6"
+  },
+  {
+    "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+    "normalized": "former openai engineer pleads not guilty to planting covert device in executive meeting room",
+    "content_hash": "c1eb727aec754d486f8e56c429785338"
+  },
+  {
+    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "normalized": "anthropic launches new claude fable and mythos 5.2 models",
+    "content_hash": "ce34c73d12178620c33a782c81dae2f0"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+    "normalized": "nvidia nemotron 3.5 super vl is now available in amazon sagemaker jumpstart",
+    "content_hash": "34aef0a18d1ffcf71f9b8e086908605f"
+  },
+  {
+    "title": "Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU",
+    "normalized": "google unveils tpu 8i max and tpu 8tx: a dual-chip tpu and a confidential tpu",
+    "content_hash": "83297695c51bb27908c0fe6d6b75ce8f"
+  },
+  {
+    "title": "E2B Tests NVIDIA Vera for High-Density Agent Sandbox Fleets",
+    "normalized": "e2b tests nvidia vera for high-density agent sandbox fleets",
+    "content_hash": "427c98ac64ede027ad52daaf20d6ad03"
+  },
+  {
+    "title": "Google Cloud Makes Pathways Runtime GA for Large-Scale TPU Workloads",
+    "normalized": "google cloud makes pathways runtime ga for large-scale tpu workloads",
+    "content_hash": "fb16d5e49d19923509be009dbf7122d3"
+  },
+  {
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "normalized": "anthropic releases new mythos and fable models amid rsi concerns",
+    "content_hash": "c0ecc946548171862030da58063e5131"
+  },
+  {
+    "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
+    "normalized": "medium's new tk app brings ai assistance directly into the writing process",
+    "content_hash": "e5c4fd4dacbd579b2dce846c3fdf67d0"
+  },
+  {
+    "title": "Meta expands Instagram\u2019s AI age-guessing tech globally",
+    "normalized": "meta expands instagram's ai age-guessing tech globally",
+    "content_hash": "71d5135b39d34efd9c8e6e4de1f51683"
+  },
+  {
+    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+    "normalized": "automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+    "content_hash": "1e3e24fba4b7388a5803f8b5ad01a9ba"
+  },
+  {
+    "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+    "normalized": "jensen huang hired a pr firm known for handling sex scandals last year",
+    "content_hash": "1bbe30a6778093de3c6e89e6a5559b30"
+  },
+  {
+    "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+    "normalized": "bikers and bug-lovers join forces to fight a new google data center",
+    "content_hash": "f98d137dfa97b70d23c4a904004798ba"
+  },
+  {
+    "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+    "normalized": "web3auth flaw exploited to steal keplr crypto, provider empties other wallets for safety",
+    "content_hash": "ac75834cf05828e48263d48dd3e03992"
+  },
+  {
+    "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+    "normalized": "taiwan-based hacker used bossai ai agents to steal taipei emergency dispatch records",
+    "content_hash": "44d3175a659e3cedcbe337c2bc636e1e"
+  },
+  {
+    "title": "Nvidia CEO's affair becomes a national security problem",
+    "normalized": "nvidia ceo's affair becomes a national security problem",
+    "content_hash": "43dee5202c9d1bf8088688d56e20cf7b"
+  },
+  {
+    "title": "The global pledge to use AI for climate good is a cruel joke",
+    "normalized": "the global pledge to use ai for climate good is a cruel joke",
+    "content_hash": "69783f9f3b298afa3729186e335e5dd4"
+  },
+  {
+    "title": "Apple\u2019s $50 Intelligence Usage Packs extend access to some AI features",
+    "normalized": "apple's $50 intelligence usage packs extend access to some ai features",
+    "content_hash": "bdf021100025171fff22ae63bacc967a"
   }
 ]
