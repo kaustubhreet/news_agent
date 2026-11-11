@@ -2003,5 +2003,130 @@
     "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
     "normalized": "russian turla hackers use new cereal malware to steal emails from government exchange servers",
     "content_hash": "10a9fc584191fd7427ef81f3f4c64032"
+  },
+  {
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "normalized": "openai rolls out new business profiles, making chatgpt just a little bit more like google",
+    "content_hash": "2a4044385717850a9c4c652cd189526a"
+  },
+  {
+    "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+    "normalized": "anthropic's claude fable 5.2 beats gpt-6 cyber in multi-stage cyberattack benchmark",
+    "content_hash": "70b4ce6cf9c9a16318bfb672418c5308"
+  },
+  {
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "normalized": "openai acquires odessia, travel startup created by sonder founder",
+    "content_hash": "412108abe9544445e1ba3a8d2fbffe86"
+  },
+  {
+    "title": "OpenAI, Anthropic face new oversight as New York\u2019s AI safety law takes effect",
+    "normalized": "openai, anthropic face new oversight as new york's ai safety law takes effect",
+    "content_hash": "ec4d78ed3aa1366b7169fff9a0cfbce9"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
+    "normalized": "nvidia ceo jensen huang's affair with alleged chinese spy: a timeline",
+    "content_hash": "21a3883a5cac06c14f9de34851a8ddc9"
+  },
+  {
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "normalized": "google broadens its ai hardware portfolio with two new specialized chips",
+    "content_hash": "7e7ee758d1b422e6d2c5343ca02bb075"
+  },
+  {
+    "title": "Microsoft\u2019s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+    "normalized": "microsoft's dlss competitor is out for the xbox ally x and works in handheld mode",
+    "content_hash": "a9fec768fe968947ed6ed1c6de35b48d"
+  },
+  {
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "normalized": "the us is winning the ai race. jensen huang could have blown it",
+    "content_hash": "41a1ab97d19e5fbf0d46fce8e64f8b87"
+  },
+  {
+    "title": "Bay Raises $37M Series A to Scale Enterprise AI Agent Security",
+    "normalized": "bay raises $37m series a to scale enterprise ai agent security",
+    "content_hash": "ae668e4a238287ba6b1f45247e33e71b"
+  },
+  {
+    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+    "normalized": "proximal ventures raises debut fund to back startups bringing ai to drug development",
+    "content_hash": "e244798a01d9b7419aa04092c01d602f"
+  },
+  {
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "normalized": "oura to acquire ai-native primary care startup counsel health for $625m",
+    "content_hash": "1b6690ddbde2adb217924433d01600ec"
+  },
+  {
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "normalized": "psi is trying to make a business out of ai-driven scientific discovery",
+    "content_hash": "390ec9a4330bc396ce826ef99a8400ab"
+  },
+  {
+    "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+    "normalized": "oura is acquiring medical ai chatbot startup counsel health",
+    "content_hash": "045226899a67489e3dedf32903833470"
+  },
+  {
+    "title": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+    "normalized": "show hn: mimzie, an agent-neutral alternative to the claude suite/claude cowork",
+    "content_hash": "00e5369d3bf0d5945781911a0aac6235"
+  },
+  {
+    "title": "Technical Debt Can Derail Coding Agents Through \"Agent Distraction\"",
+    "normalized": "technical debt can derail coding agents through \"agent distraction\"",
+    "content_hash": "15521af185a02d189067f580e38105f1"
+  },
+  {
+    "title": "AMD Releases Zen 6 EPYC Chips for Denser AI Agent Deployments",
+    "normalized": "amd releases zen 6 epyc chips for denser ai agent deployments",
+    "content_hash": "8e2c194e356f9eea16ac2bcdf68df57b"
+  },
+  {
+    "title": "Cribl Buys Tero to Build Observability for Humans and AI Agents",
+    "normalized": "cribl buys tero to build observability for humans and ai agents",
+    "content_hash": "616218ccba752aac3f7167b34287bcf1"
+  },
+  {
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "normalized": "all 7 anthropic founders will each cash out about $250m in ipo",
+    "content_hash": "62d0bc8f21a091ca22895d148648bb01"
+  },
+  {
+    "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+    "normalized": "sglang rce exploit breaches near ai, steals data from 18 agents and about 100 users",
+    "content_hash": "a4c14b1478abd7b5b5e35aaf547d8a2a"
+  },
+  {
+    "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
+    "normalized": "nvidia shareholders are suing the company and ceo jensen huang",
+    "content_hash": "7f9d6b339f83eba6511333fb8a58355e"
+  },
+  {
+    "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+    "normalized": "the vr disney plus app on meta quest now has 3d movies",
+    "content_hash": "7ceb8bbbea738408c97a52be966d1b2f"
+  },
+  {
+    "title": "Sony cancels live-service shooter Fairgames",
+    "normalized": "sony cancels live-service shooter fairgames",
+    "content_hash": "333b527858698c6e1717c4da6d6acbca"
+  },
+  {
+    "title": "The PlayStation Plus PC app is shutting down next month",
+    "normalized": "the playstation plus pc app is shutting down next month",
+    "content_hash": "f8c7dc4ed7c7340a127b7f6c2fbec7cf"
+  },
+  {
+    "title": "Google is making Pixel HiLight slightly more useful",
+    "normalized": "google is making pixel hilight slightly more useful",
+    "content_hash": "817edbcb4e04f4e167e63a96c618b683"
+  },
+  {
+    "title": "Anthropic Software Engineer Salaries",
+    "normalized": "anthropic software engineer salaries",
+    "content_hash": "870563a9e4106f02d07958ed5b853407"
   }
 ]
