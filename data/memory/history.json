@@ -1,60 +1,5 @@
 [
   {
-    "title": "Even \u2018Law & Order\u2019 Is Terrified of AI",
-    "normalized": "even 'law & order' is terrified of ai",
-    "content_hash": "08aac29d19a27aa35d074c2346a6360a"
-  },
-  {
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "normalized": "amazon and others are done keeping data center deals secret. is it enough to build trust?",
-    "content_hash": "f23b4a5197fbad8d6053bf4112298919"
-  },
-  {
-    "title": "Who Gets to Audit Frontier AI? The White House Accord\u2019s Missing Definition",
-    "normalized": "who gets to audit frontier ai? the white house accord's missing definition",
-    "content_hash": "1b6ff54d840dcb509a5871bb25b353cf"
-  },
-  {
-    "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
-    "normalized": "anthropic can't reliably control its ai agents. it's cutting off its internal evals from the live internet instead",
-    "content_hash": "dfbe5ac463e0d2cbc3935d7b619866e9"
-  },
-  {
-    "title": "Anthropic is cutting off its internal evaluations from the internet",
-    "normalized": "anthropic is cutting off its internal evaluations from the internet",
-    "content_hash": "c3411a4a974746a50e59dc84a4f7b94c"
-  },
-  {
-    "title": "AI agent makers are promising privacy \u2014 will they deliver?",
-    "normalized": "ai agent makers are promising privacy -- will they deliver?",
-    "content_hash": "88f7f8b741a01ebe40daf83f64977831"
-  },
-  {
-    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "normalized": "nvidia in talks to acquire us 'open' model startup reflection ai",
-    "content_hash": "d8249dafa17dde0cf5ca2edcaf8b9622"
-  },
-  {
-    "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
-    "normalized": "microsoft's satya nadella says ai models need an 'emergency brake'",
-    "content_hash": "d33a0d470f0e82fe5d1ce420cc7eccc6"
-  },
-  {
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "normalized": "apple discloses deal to hire team and license tech from personalized podcast startup huxe",
-    "content_hash": "4fa0e07423647186c813cc34802af917"
-  },
-  {
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "normalized": "3 days to techcrunch disrupt 2026: meet the startups before they hit mainstream",
-    "content_hash": "2025174836082522c5638a334d342245"
-  },
-  {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "normalized": "here are the top ai agents that can live in your text messages",
-    "content_hash": "f05fc6a5094a23f8d6391e8ae9e33e9a"
-  },
-  {
     "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
     "normalized": "elon musk intensifies attack on ambani over starlink india launch delay",
     "content_hash": "94d80ab786ddeb0b414f3a2be27028b3"
@@ -2428,5 +2373,130 @@
     "title": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming",
     "normalized": "improving fuzzy robustness in llm safety with automated red teaming",
     "content_hash": "5b3c5077946482626fc4589c63e6b6c1"
+  },
+  {
+    "title": "Donald Trump really wants Tim Cook to run Nvidia",
+    "normalized": "donald trump really wants tim cook to run nvidia",
+    "content_hash": "86e1e857996242b7cd7b25c343010c87"
+  },
+  {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+    "normalized": "democrats launch nvidia investigation, write scathing letter on huang's 'scheme' with trump",
+    "content_hash": "5c814788caf4015645abc3bda3544c91"
+  },
+  {
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "normalized": "jensen huang was having a third affair, reuters reports",
+    "content_hash": "028834764762f99bf691a20254b59e10"
+  },
+  {
+    "title": "\u2018It\u2019s a mistake\u2019: reactions from tech leaders on Jensen Huang\u2019s resignation",
+    "normalized": "'it's a mistake': reactions from tech leaders on jensen huang's resignation",
+    "content_hash": "6d9f660755e4233ffbcdfb225a660d71"
+  },
+  {
+    "title": "OpenAI, Google, Anthropic hit with lawsuit to stop AI development",
+    "normalized": "openai, google, anthropic hit with lawsuit to stop ai development",
+    "content_hash": "2f082b5424a3bd47578953ea891a53de"
+  },
+  {
+    "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "normalized": "fake openai, spacex events used to steal microsoft, google accounts",
+    "content_hash": "ae5796f68617d9bea46cf9551ce75a73"
+  },
+  {
+    "title": "Luminal Lands $25M Series A as Standard Capital Leads the Round",
+    "normalized": "luminal lands $25m series a as standard capital leads the round",
+    "content_hash": "c2736cfa846e751ccaf2b21a0a7d3409"
+  },
+  {
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "normalized": "nebius tests the neocloud playbook with $40 billion in planned spending",
+    "content_hash": "54ee47b65e4676284799aa219d7d861b"
+  },
+  {
+    "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
+    "normalized": "google's latest search upgrade promises better answers to your most complicated questions",
+    "content_hash": "8dca2f1ea86e7adcbaf87704e3e083ba"
+  },
+  {
+    "title": "Silicon Valley Is Still Defending Jensen Huang",
+    "normalized": "silicon valley is still defending jensen huang",
+    "content_hash": "34a76f9c4337f937f88013e6e0cee82a"
+  },
+  {
+    "title": "Jensen Huang Is Out. Will Nvidia\u2019s Rivals Cash In?",
+    "normalized": "jensen huang is out. will nvidia's rivals cash in?",
+    "content_hash": "9ae9b920514c3acb8d7e4c64bea37165"
+  },
+  {
+    "title": "Microsoft Outlook is still down",
+    "normalized": "microsoft outlook is still down",
+    "content_hash": "cc73312906e6b8063ef721972f5262bd"
+  },
+  {
+    "title": "Google\u2019s new Gemini model is better at understanding complicated questions",
+    "normalized": "google's new gemini model is better at understanding complicated questions",
+    "content_hash": "a8eafd3dbca1ace553f28b5a9d9ef78a"
+  },
+  {
+    "title": "Here are the 25 original Xbox games you can now play on PC",
+    "normalized": "here are the 25 original xbox games you can now play on pc",
+    "content_hash": "1cdcc59ebac4affedc4780071aa68784"
+  },
+  {
+    "title": "OpenAI wants agents to tell websites where you are",
+    "normalized": "openai wants agents to tell websites where you are",
+    "content_hash": "cc4a7301f94613aea9c36d51c6cc4769"
+  },
+  {
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "normalized": "nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "content_hash": "34c800f9abe0ae0d9da46ee40251dff6"
+  },
+  {
+    "title": "DuPont Partners with Microsoft and NobleAI on Agentic AI for R&D",
+    "normalized": "dupont partners with microsoft and nobleai on agentic ai for r&d",
+    "content_hash": "ac3faf4e3c2c555e2f67f894db137497"
+  },
+  {
+    "title": "Neal and Wyden Open Probe Into Nvidia\u2019s China Chip Sales",
+    "normalized": "neal and wyden open probe into nvidia's china chip sales",
+    "content_hash": "592c1569dff20ba69d0d52ea8c51ef4d"
+  },
+  {
+    "title": "Unemployment Labs Reports Blackwell Patterns in Chinese AI Models",
+    "normalized": "unemployment labs reports blackwell patterns in chinese ai models",
+    "content_hash": "8aff5c86c627629486ce6b9498093a9d"
+  },
+  {
+    "title": "Public Citizen, Advocacy Groups Sue to Freeze Frontier AI Development",
+    "normalized": "public citizen, advocacy groups sue to freeze frontier ai development",
+    "content_hash": "f7578e74515354c8d4028c9211ba25f2"
+  },
+  {
+    "title": "Muse can now place calls to US businesses \u2014 if you pay",
+    "normalized": "muse can now place calls to us businesses -- if you pay",
+    "content_hash": "96a0163ec0727eaad209521ba9958a8f"
+  },
+  {
+    "title": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
+    "normalized": "softbank's billion-dollar loss may have put a cap on ai's natural gas ambitions",
+    "content_hash": "0f8cd7614abef267bdca185b92f8fce0"
+  },
+  {
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "normalized": "phota labs uses ai to turn everyday photos into professional-looking shots",
+    "content_hash": "26c056cfbe46e027ddb64ee2259c52ca"
+  },
+  {
+    "title": "Jensen Huang agrees to testify before Congress",
+    "normalized": "jensen huang agrees to testify before congress",
+    "content_hash": "d9c5fc1648240877149e4bfd58103482"
+  },
+  {
+    "title": "Whoop just launched a social network",
+    "normalized": "whoop just launched a social network",
+    "content_hash": "3e890df5d49b4256fe769592185453e5"
   }
 ]
