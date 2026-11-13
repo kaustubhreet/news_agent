@@ -1,130 +1,5 @@
 [
   {
-    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "normalized": "elon musk intensifies attack on ambani over starlink india launch delay",
-    "content_hash": "94d80ab786ddeb0b414f3a2be27028b3"
-  },
-  {
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "normalized": "the maker of non-text ai model jev valued at $7.5b just weeks after launch",
-    "content_hash": "5dca7b5dcb53adc8bf415640fe221910"
-  },
-  {
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "normalized": "an anthropic ai model sent a false homicide tip to philadelphia police",
-    "content_hash": "66bbab2093c19b4074d45e8c897238cc"
-  },
-  {
-    "title": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
-    "normalized": "satya nadella says we should assume all ai models are 'compromised'",
-    "content_hash": "210dbcdd17c3c1204bab060bee11343a"
-  },
-  {
-    "title": "Ask HN: Best Local LLM Box ?",
-    "normalized": "ask hn: best local llm box ?",
-    "content_hash": "5183c09021ff8743e9e881cb69337919"
-  },
-  {
-    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-    "normalized": "rogue anthropic ai agent gave police fake tip in unsolved murder case",
-    "content_hash": "be357f51a5bd1a26901dc02a805b5cb3"
-  },
-  {
-    "title": "ShareBox \u2013 share the web tools your AI agent builds, like a Google Doc",
-    "normalized": "sharebox - share the web tools your ai agent builds, like a google doc",
-    "content_hash": "a9af12e385203f2208afed02ce077716"
-  },
-  {
-    "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Department Website",
-    "normalized": "anthropic agents tried to fill out visa forms on state department website",
-    "content_hash": "b9c576a44c7572767b46d638d231e985"
-  },
-  {
-    "title": "AI Agents Beat PyTorch: Writing Faster CUDA Kernels",
-    "normalized": "ai agents beat pytorch: writing faster cuda kernels",
-    "content_hash": "3d09403ab50767136c91b009ac47d27e"
-  },
-  {
-    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "normalized": "petra power looks to modernize energy for data centers and defense vehicles",
-    "content_hash": "471e9ac5d9451345807ba72480b75937"
-  },
-  {
-    "title": "Cloudflare acquires Deno to improve its Workers programming model",
-    "normalized": "cloudflare acquires deno to improve its workers programming model",
-    "content_hash": "dc685577007f1e7de82996fd3c4e2468"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Gamma\u2019s Grant Lee, Engine\u2019s Elia Wallen, and GV\u2019s Crystal Huang on landing your first 1,000 customers",
-    "normalized": "techcrunch disrupt 2026: gamma's grant lee, engine's elia wallen, and gv's crystal huang on landing your first 1,000 customers",
-    "content_hash": "92b24562c1e43cfef33b5d1c514882e9"
-  },
-  {
-    "title": "LumenUs helps automate tedious paperwork in times of grief",
-    "normalized": "lumenus helps automate tedious paperwork in times of grief",
-    "content_hash": "f36ed9ece01f1e4341eff5a945a7be04"
-  },
-  {
-    "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
-    "normalized": "we can't help treating ai like it's human. but should we?",
-    "content_hash": "8aa0e1dd48c2d1f5118edded78706659"
-  },
-  {
-    "title": "Remember Orkut? Its founder wants to bring it back",
-    "normalized": "remember orkut? its founder wants to bring it back",
-    "content_hash": "f433cebb3b513ccd7376efc699754e2b"
-  },
-  {
-    "title": "These execs think voice AI hasn\u2019t reached its ChatGPT moment yet",
-    "normalized": "these execs think voice ai hasn't reached its chatgpt moment yet",
-    "content_hash": "92d28f4c80475462b825c565eb236610"
-  },
-  {
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "normalized": "can the ai industry persuade data center opponents by getting rid of ndas?",
-    "content_hash": "b79ede708773e94c494821899783a89b"
-  },
-  {
-    "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-    "normalized": "techcrunch mobility: a roadblock clears for self-driving trucks",
-    "content_hash": "26dc4fa09e83678e39da254084639dc7"
-  },
-  {
-    "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
-    "normalized": "dawn myers is making it easier to style, detangle, and care for curly hair",
-    "content_hash": "e1c9e9c59d61c5f30175b23ed46fb1d1"
-  },
-  {
-    "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-    "normalized": "efferon wants to eradicate the devastating toll of pediatric sepsis",
-    "content_hash": "ebb3bf0193a008f1cbe6df3248cfd830"
-  },
-  {
-    "title": "What to know about the landmark Warner Bros.\u00a0Discovery sale",
-    "normalized": "what to know about the landmark warner bros. discovery sale",
-    "content_hash": "c9e6c39eb2cf7c9703a5e8cc27bdc263"
-  },
-  {
-    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "normalized": "book publishers are quietly using more ai. staff are revolting",
-    "content_hash": "c848dfe1e0228fead7779acde6ffa506"
-  },
-  {
-    "title": "The Best Mac Desktop to Buy (2026): Mac Mini, Mac Studio, or iMac?",
-    "normalized": "the best mac desktop to buy (2026): mac mini, mac studio, or imac?",
-    "content_hash": "44becbd968a9bc112792a2b149c154ea"
-  },
-  {
-    "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-    "normalized": "the third-party agent problem: why security built for ai you chose misses the agents you didn't",
-    "content_hash": "1fa7052e45e6616508bb09a76c894ac7"
-  },
-  {
-    "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-    "normalized": "anthropic cuts live internet access for internal ai tests after claude exploits injection flaws",
-    "content_hash": "47a28439fbec06b575e5fae0cd0cd451"
-  },
-  {
     "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
     "normalized": "fbi arrests another shinyhunters suspect reportedly involved in its jobs portal hack",
     "content_hash": "6f39a0393f41a21431bf2959290168f2"
@@ -2498,5 +2373,130 @@
     "title": "Whoop just launched a social network",
     "normalized": "whoop just launched a social network",
     "content_hash": "3e890df5d49b4256fe769592185453e5"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models\u2014uh oh, Jensen!",
+    "normalized": "export-banned nvidia chips are behind china's most powerful ai models--uh oh, jensen!",
+    "content_hash": "a8e0ee0681d0c4ca79911539a34fab83"
+  },
+  {
+    "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+    "normalized": "israel's vcs see opportunity for challengers in nvidia's turmoil",
+    "content_hash": "6adda8c79e86d05a29276e22a4a970c3"
+  },
+  {
+    "title": "Jensen Huang was reckless with the environment, too",
+    "normalized": "jensen huang was reckless with the environment, too",
+    "content_hash": "873e1317f620b39a83ad6842501ec9f1"
+  },
+  {
+    "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+    "normalized": "chatgpt's new wallet lets ai agents shop and check out for you",
+    "content_hash": "35de1cb71168b9de382c65909d389cdc"
+  },
+  {
+    "title": "What&#8217;s really at stake in the Jensen Huang saga",
+    "normalized": "what's really at stake in the jensen huang saga",
+    "content_hash": "18b339b177bb67a1355689dbb2fb5363"
+  },
+  {
+    "title": "Microsoft\u2019s latest email outage turned into a full-blown global cloud crisis",
+    "normalized": "microsoft's latest email outage turned into a full-blown global cloud crisis",
+    "content_hash": "6d8315c80e81717b1e258ef8320ae750"
+  },
+  {
+    "title": "Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang",
+    "normalized": "bloomberg details web of chinese ai companies with smuggled nvidia chips linked to alice huang",
+    "content_hash": "cafaad7a9aac039761a36c94fd2c2bac"
+  },
+  {
+    "title": "Microsoft&#8217;s massive Outlook outage continues",
+    "normalized": "microsoft's massive outlook outage continues",
+    "content_hash": "e8ff033f43037db7ef89444e35eb94db"
+  },
+  {
+    "title": "Databricks Details Three Enterprise Adoption Paths for OpenAI Tools",
+    "normalized": "databricks details three enterprise adoption paths for openai tools",
+    "content_hash": "96aefcac44d8ceb7bfa2438b61247eaa"
+  },
+  {
+    "title": "OpenAI Launches ChatGPT Wallet for Agent-Assisted Purchases",
+    "normalized": "openai launches chatgpt wallet for agent-assisted purchases",
+    "content_hash": "8dee64e1bb4a613b82ae7d8f44351631"
+  },
+  {
+    "title": "Uber confirms hackers stole thousands of drivers\u2019 license information in data breach",
+    "normalized": "uber confirms hackers stole thousands of drivers' license information in data breach",
+    "content_hash": "41a8e32a061351820ce80e752282dfa5"
+  },
+  {
+    "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
+    "normalized": "elevenlabs' new app combines meeting note-taking and dictation for teams",
+    "content_hash": "245cae5e9fc6183d92f75fb9ba769aa6"
+  },
+  {
+    "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+    "normalized": "this startup is betting on ai microdramas to get more black stories in hollywood",
+    "content_hash": "83c08c434d316c273af9b3537af66ff7"
+  },
+  {
+    "title": "\u2018Bring Back THE Boss\u2019: Nvidia Employees Petition for Jensen Huang\u2019s Return",
+    "normalized": "'bring back the boss': nvidia employees petition for jensen huang's return",
+    "content_hash": "c411603e3575b315ef4d4c8b90fef1f8"
+  },
+  {
+    "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+    "normalized": "when an ai agent goes wrong, can you stop it?",
+    "content_hash": "27a0b2a29cee0af7945d35c009580220"
+  },
+  {
+    "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+    "normalized": "hackers exploit n-central flaws to infect 21 servers, including 19 running hotfix 2",
+    "content_hash": "46bd0c0aa3ab2c7e3672fa18334347dc"
+  },
+  {
+    "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+    "normalized": "webinar: see how identity blind spots put your soc at risk and how to close them",
+    "content_hash": "2a9f8e6b08ebcbe3cd4e771f83afb271"
+  },
+  {
+    "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+    "normalized": "calendar invites and live proxies: inside a google session hijacking campaign",
+    "content_hash": "9209a0743425ad6a6a073ff9ce566e78"
+  },
+  {
+    "title": "You can now tempt fate and give your banking information to ChatGPT",
+    "normalized": "you can now tempt fate and give your banking information to chatgpt",
+    "content_hash": "d7d235127b146eb587f376a256ba82f3"
+  },
+  {
+    "title": "Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple",
+    "normalized": "surface laptop ultra review: the most powerful surface yet, but it still lags behind apple",
+    "content_hash": "4143ae0f7a0c42d0da7eb3e2ed8391a2"
+  },
+  {
+    "title": "Ex-NVIDIA CEO Jensen Huang is set to testify before Congress this month",
+    "normalized": "ex-nvidia ceo jensen huang is set to testify before congress this month",
+    "content_hash": "67f19ef23e3db27f0e2235ec45c862fa"
+  },
+  {
+    "title": "You can adjust the position of the trackball on Keychron\u2019s new wireless mouse",
+    "normalized": "you can adjust the position of the trackball on keychron's new wireless mouse",
+    "content_hash": "2b9a93d156c3358665bcf260aea4daf9"
+  },
+  {
+    "title": "The smallest version of Camp Snap\u2019s retro digital camcorder fits on your keychain",
+    "normalized": "the smallest version of camp snap's retro digital camcorder fits on your keychain",
+    "content_hash": "8af331dc17370cf3ea4e290e3e4f1293"
+  },
+  {
+    "title": "The new Apple TV has a YouTube problem",
+    "normalized": "the new apple tv has a youtube problem",
+    "content_hash": "f9233b2ca7172090e17d54ace7eb07d1"
+  },
+  {
+    "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+    "normalized": "apple announces release dates for the first apple home collection smart devices",
+    "content_hash": "b2d25b02abfc4e9f2fae4cc6e76fde38"
   }
 ]
