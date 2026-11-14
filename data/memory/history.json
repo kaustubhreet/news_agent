@@ -1,55 +1,5 @@
 [
   {
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "normalized": "openai and servicenow expand partnership across enterprise workflows",
-    "content_hash": "d393c007b7949a86a4322b3545ae15b1"
-  },
-  {
-    "title": "Legora is building the agentic operating system for legal work",
-    "normalized": "legora is building the agentic operating system for legal work",
-    "content_hash": "eb8ad636048c2b5413295c5aaf79327a"
-  },
-  {
-    "title": "Retell uses OpenAI models to help power 100M monthly calls",
-    "normalized": "retell uses openai models to help power 100m monthly calls",
-    "content_hash": "8137d3c6c8b48e885afd784c1cbf2926"
-  },
-  {
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "normalized": "openai expands partnership with oracle to bring its apps to chatgpt",
-    "content_hash": "96ddbf3f32ef9c311c1366631a4c4ba2"
-  },
-  {
-    "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
-    "normalized": "nvidia releases auto ontology: an open semantic layer that grounds ai agent sql",
-    "content_hash": "936e73198b9a87cbf4f7fd30775ef630"
-  },
-  {
-    "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
-    "normalized": "ai can make tech ceos' lives easier. what about everyone else?",
-    "content_hash": "e7a652117627460b888a02869dc98f90"
-  },
-  {
-    "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-    "normalized": "techcrunch mobility: a new, bigger av boom is here",
-    "content_hash": "8fa44df644e382fd21f01d9306d447f6"
-  },
-  {
-    "title": "Binance resumes withdrawals following $6.3 billion breach",
-    "normalized": "binance resumes withdrawals following $6.3 billion breach",
-    "content_hash": "9063036d68a1ef285772fc990c3b60d0"
-  },
-  {
-    "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-    "normalized": "pixel 11 pro fold: sturdy rectangle in a wide wide world",
-    "content_hash": "33ab6870b3ee1f512db743e0a2654a87"
-  },
-  {
-    "title": "Here\u2019s what \u2018renoa\u2019 \u2014 the first new fiber in 25 years \u2014 feels like",
-    "normalized": "here's what 'renoa' -- the first new fiber in 25 years -- feels like",
-    "content_hash": "7ce3dae8a99fc13d4e812abbde434635"
-  },
-  {
     "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
     "normalized": "in one of the largest deals in tech history, marvell buys lumentum for $115b",
     "content_hash": "2c2a79056ed5c15b444a0b991891e622"
@@ -2498,5 +2448,55 @@
     "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
     "normalized": "building a self-service llm gateway with amazon bedrock and litellm",
     "content_hash": "c63e6b35d5398c1c84cd54433b272917"
+  },
+  {
+    "title": "Evening newswrap: Rahul Gandhi questions legitimacy of 2024 polls; US flight meltdown exposes ageing air traffic control system, and more",
+    "normalized": "evening newswrap: rahul gandhi questions legitimacy of 2024 polls; us flight meltdown exposes ageing air traffic control system, and more",
+    "content_hash": "d9a017a8aa05d4202349b33a0fee47a5"
+  },
+  {
+    "title": "Businesses in ChatGPT",
+    "normalized": "businesses in chatgpt",
+    "content_hash": "a26b4dc2484b3c75912ceefb63eb4b79"
+  },
+  {
+    "title": "Here are our favorite deals from REI\u2019s giant Holiday Sale",
+    "normalized": "here are our favorite deals from rei's giant holiday sale",
+    "content_hash": "f5a5cad116d13178fcaf60a57827ec35"
+  },
+  {
+    "title": "Tesla is inviting some people to buy a Cybercab \u2018for personal use\u2019 \u2014 but read the fine print",
+    "normalized": "tesla is inviting some people to buy a cybercab 'for personal use' -- but read the fine print",
+    "content_hash": "596420c2de7d2b241990f3e0a03266b1"
+  },
+  {
+    "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+    "normalized": "synthcorp: a platform for creating benchmarks for data agents",
+    "content_hash": "20ca1a37e5692c9f6202a7d67fa6845b"
+  },
+  {
+    "title": "Rational Use of Time for Social Coordination in Humans and AI",
+    "normalized": "rational use of time for social coordination in humans and ai",
+    "content_hash": "09c515fa2f0921decea514532370fecc"
+  },
+  {
+    "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+    "normalized": "rsi-pdebench: a benchmark for self-improving agents in pde solving",
+    "content_hash": "6d81aee9ddf15ed9c05b396334aab85c"
+  },
+  {
+    "title": "EvoX: Rethinking the Agent Harness as a Runtime Policy",
+    "normalized": "evox: rethinking the agent harness as a runtime policy",
+    "content_hash": "2788062178eecb144f5694f8e883ee37"
+  },
+  {
+    "title": "Anthropic IPO Could Raise $64 Billion as Orders Reach Six Times",
+    "normalized": "anthropic ipo could raise $64 billion as orders reach six times",
+    "content_hash": "e11d83e070800dbf375d21542e92c5d3"
+  },
+  {
+    "title": "NVIDIA Says Permanent CEO Search Remains at Search-Firm Stage",
+    "normalized": "nvidia says permanent ceo search remains at search-firm stage",
+    "content_hash": "bc4cc3c4ee0c5b03e00d2331720c4811"
   }
 ]
