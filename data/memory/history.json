@@ -1,130 +1,5 @@
 [
   {
-    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-    "normalized": "fbi arrests another shinyhunters suspect reportedly involved in its jobs portal hack",
-    "content_hash": "6f39a0393f41a21431bf2959290168f2"
-  },
-  {
-    "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-    "normalized": "anthropic launches free ai vulnerability scanner for open-source projects",
-    "content_hash": "e9c7ed70c7400e674a46dd63024f6ef2"
-  },
-  {
-    "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-    "normalized": "attackers exploit ahsaycbs flaws to deploy xmrig miners disguised as microsoft edge",
-    "content_hash": "80c8caffae63296cea0a9b79856f6034"
-  },
-  {
-    "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-    "normalized": "the ai velocity paradox: why security is decades behind ai ambition",
-    "content_hash": "c8a4cdccb1322a26333746bc55f4e560"
-  },
-  {
-    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "normalized": "learning to use local ai is exciting, overwhelming, and frustrating",
-    "content_hash": "b848a5a9c2cf795a09bf4246cb609de2"
-  },
-  {
-    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "normalized": "distrokid has been quietly taking down songs in response to umg lawsuit",
-    "content_hash": "7344f17b094f0862a58075008e2a1f04"
-  },
-  {
-    "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-    "normalized": "ledger wallet tampering suspected after reports of crypto thefts",
-    "content_hash": "59c4e5643e07adacb5bd399082b07151"
-  },
-  {
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "normalized": "weave (yc w25) is hiring ml, ai, product, & design engineers",
-    "content_hash": "e83385280a2e91a4f78f5394b7c90885"
-  },
-  {
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "normalized": "pollo ai turns creative ideas into campaigns with openai",
-    "content_hash": "0fb07bcf83f800e8d5440f101d06df19"
-  },
-  {
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "normalized": "radisson hotel group brings hotel discovery into chatgpt",
-    "content_hash": "bac2e6f235cce1b0f76ddb3edc3171e9"
-  },
-  {
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "normalized": "how jump trading is scaling quant research with chatgpt",
-    "content_hash": "46908fddae6abcb12127275b028ceb4d"
-  },
-  {
-    "title": "Advancing computer use with Ironclad",
-    "normalized": "advancing computer use with ironclad",
-    "content_hash": "5f02c32cae40d6eec10afee4ac28ed08"
-  },
-  {
-    "title": "Building advertising for the way people use AI",
-    "normalized": "building advertising for the way people use ai",
-    "content_hash": "afb804a0b35411e3b7890d33808c51ae"
-  },
-  {
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "normalized": "chatham scales its capital markets expertise with openai",
-    "content_hash": "7478a16ff41ab19c89e41d9939f3bff0"
-  },
-  {
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "normalized": "how albertsons companies is reimagining retail from the inside out",
-    "content_hash": "0da830b8046a293f6e9f534d8e14deee"
-  },
-  {
-    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "normalized": "omen ai adds liquid know-how in $16 million aquatic labs acquisition",
-    "content_hash": "a97a07e3b484fbc51598124a1bf39d71"
-  },
-  {
-    "title": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
-    "normalized": "openai is finally merging chatgpt's chat and work tabs",
-    "content_hash": "076c9d3e411aa0a28580af65389fa562"
-  },
-  {
-    "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
-    "normalized": "accelerate agentic ai with nvidia nemotron models on amazon eks and sagemaker hyperpod eks",
-    "content_hash": "8c17271ae2c6e1bf2be14e3bbc3c32fc"
-  },
-  {
-    "title": "Towards Understanding Score-Seeking in LLMs",
-    "normalized": "towards understanding score-seeking in llms",
-    "content_hash": "3f2866735bb3a1e7e506b0a974bf3816"
-  },
-  {
-    "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
-    "normalized": "ai security agents compared: claude, codex, mantis, cloudflare",
-    "content_hash": "3a929545d0354825b4afa4237f24da82"
-  },
-  {
-    "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
-    "normalized": "openai might rebrand its data centers as 'ai compute campuses'",
-    "content_hash": "9559e8e0ddf05566284d38ea8fd44a37"
-  },
-  {
-    "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-    "normalized": "a shared chatgpt link could run attacker code in your session and read private chats",
-    "content_hash": "028e58fddd5571fc21408b469a7b252e"
-  },
-  {
-    "title": "GPT-Rosalind-6 System Card Addendum",
-    "normalized": "gpt-rosalind-6 system card addendum",
-    "content_hash": "401ead3709adcae90204a151e8a83d61"
-  },
-  {
-    "title": "OpenAI slashes funding target by $10B as tech anxieties mount",
-    "normalized": "openai slashes funding target by $10b as tech anxieties mount",
-    "content_hash": "e58a357ecb84fe49ea78b07ac4f14d99"
-  },
-  {
-    "title": "Anthropic Bans Reverse Engineering with Claude",
-    "normalized": "anthropic bans reverse engineering with claude",
-    "content_hash": "b636f8ec39987827d7da36cfad69d296"
-  },
-  {
     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
     "normalized": "openai and servicenow expand partnership across enterprise workflows",
     "content_hash": "d393c007b7949a86a4322b3545ae15b1"
@@ -2498,5 +2373,130 @@
     "title": "Apple announces release dates for the first Apple Home Collection smart devices",
     "normalized": "apple announces release dates for the first apple home collection smart devices",
     "content_hash": "b2d25b02abfc4e9f2fae4cc6e76fde38"
+  },
+  {
+    "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+    "normalized": "jensen huang's departure blasts big hole in ai startup funding, vcs and founders say",
+    "content_hash": "c65dac047eab0bf7e64d1d32ebe6fa71"
+  },
+  {
+    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "normalized": "nvidia allegedly engineered scarcity by funding ai startups to buy its gpus",
+    "content_hash": "ed252bd0d9b8875f276c6e0ef7f8c8e3"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
+    "normalized": "export-banned nvidia chips are behind china's most powerful ai models -- uh-oh, jensen!",
+    "content_hash": "3884c1017aa46ae21a9ebaa104285ee1"
+  },
+  {
+    "title": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
+    "normalized": "chatgpt wallet lets openai's dots agents make purchases for you",
+    "content_hash": "1d75b41a03ac5df476972a78f51f055a"
+  },
+  {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "normalized": "ai agent startup langchain hits $3b valuation",
+    "content_hash": "b27a78b5d2211729635e437fe5394924"
+  },
+  {
+    "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+    "normalized": "route coding agent requests to the right model on amazon bedrock with nvidia nemo switchyard",
+    "content_hash": "c09c4ccef3fc4b77a33eacc4e5530acc"
+  },
+  {
+    "title": "Here\u2019s how you can save on your GTA VI preorder ahead of launch",
+    "normalized": "here's how you can save on your gta vi preorder ahead of launch",
+    "content_hash": "4b3f8d2f8ec7d4072ed27acad32d4314"
+  },
+  {
+    "title": "Microsoft&#8217;s massive Outlook outage might be over",
+    "normalized": "microsoft's massive outlook outage might be over",
+    "content_hash": "e1dc6625eb52805956ce1d6e4a845ea8"
+  },
+  {
+    "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
+    "normalized": "us government grounds all flights across the united states 'due to extraordinary circumstances'",
+    "content_hash": "0ff58a0c846f754103a51d54bb167eb4"
+  },
+  {
+    "title": "This young startup wants to power floating data centers with the ocean\u2019s heat, and investors are already on board",
+    "normalized": "this young startup wants to power floating data centers with the ocean's heat, and investors are already on board",
+    "content_hash": "4f54fa86bf4c7c74dcd7f4ffa8a9d9e0"
+  },
+  {
+    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "normalized": "microsoft 365 crawls back to life after a 24-hour outage",
+    "content_hash": "7fcaa345ab7cc23566658118ccb52cea"
+  },
+  {
+    "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+    "normalized": "faa lifts nationwide ground stop that blocked takeoffs for hours",
+    "content_hash": "9b850081c7468a6c84664c6ba20a4ce2"
+  },
+  {
+    "title": "Amazon has a plan to index the world\u2019s online shopping data",
+    "normalized": "amazon has a plan to index the world's online shopping data",
+    "content_hash": "451408093d153f9f72abd968ed5bec42"
+  },
+  {
+    "title": "CMF\u2019s milk carton-shaped Bluetooth speaker is down to a new low price",
+    "normalized": "cmf's milk carton-shaped bluetooth speaker is down to a new low price",
+    "content_hash": "c0673ae938fbeaafaf6c1310ce88d939"
+  },
+  {
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "normalized": "reverse engineering my coway air purifier to ditch the cloud",
+    "content_hash": "26598e82d4b2a6bf122713691fb705ca"
+  },
+  {
+    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers hands-free",
+    "normalized": "anthropic upgrades claude code projects to run parallel ai workers hands-free",
+    "content_hash": "c0e45736122670eaefc92512995a9ce1"
+  },
+  {
+    "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+    "normalized": "nvidia director sold nearly $1b in stock weeks before the jensen huang scandal",
+    "content_hash": "4e2e1724cea52618b40ed036cdedf16b"
+  },
+  {
+    "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+    "normalized": "autonomous (yc f25) is hiring mts to build ai agents that manage your wealth",
+    "content_hash": "50a7ad2065ab94c8331ef8f3eaa52a69"
+  },
+  {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "normalized": "shield helps technicians hand off legacy portal work with openai",
+    "content_hash": "058835e95726dd49a96e06a195d8d2f3"
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+    "normalized": "how amplitude ships product improvements in 1-2 days with openai",
+    "content_hash": "581dbcf2bf9405815b6af0757de2d9cb"
+  },
+  {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "normalized": "gondola doubles revenue as its team builds more with codex",
+    "content_hash": "a66e662b345b2cf57024108ad1883ee5"
+  },
+  {
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "normalized": "cogent and openai build cyber defense factories for enterprises",
+    "content_hash": "11e173378caaf856924e773a91e4ee6d"
+  },
+  {
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "normalized": "kuken industries searches 70 years of drawings in minutes",
+    "content_hash": "4306846de2d397813f1028f29d2bdd78"
+  },
+  {
+    "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+    "normalized": "architecture patterns for fast session startup on amazon bedrock agentcore runtime",
+    "content_hash": "0fced8034a29f2e10e651b85b510ed53"
+  },
+  {
+    "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+    "normalized": "building a self-service llm gateway with amazon bedrock and litellm",
+    "content_hash": "c63e6b35d5398c1c84cd54433b272917"
   }
 ]
