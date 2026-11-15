@@ -1,130 +1,5 @@
 [
   {
-    "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-    "normalized": "in one of the largest deals in tech history, marvell buys lumentum for $115b",
-    "content_hash": "2c2a79056ed5c15b444a0b991891e622"
-  },
-  {
-    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-    "normalized": "openai pitches data center power plants as a way to protect nearby areas",
-    "content_hash": "7b10840dca85c2df81b232d0e82c0fbd"
-  },
-  {
-    "title": "Readwise takes on Amazon\u2019s Kindle and Goodreads with its new app for book lovers",
-    "normalized": "readwise takes on amazon's kindle and goodreads with its new app for book lovers",
-    "content_hash": "1ba848c17708c0c3c9e3ee703981d5ca"
-  },
-  {
-    "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
-    "normalized": "42ai comes out of stealth with $62.5m and a world model that can 'predict human behavior'",
-    "content_hash": "e686ce161b4a1213645dc742502aafc8"
-  },
-  {
-    "title": "Elon Musk throttles Grok Bot limits due to \u2018unsustainably high\u2019 costs",
-    "normalized": "elon musk throttles grok bot limits due to 'unsustainably high' costs",
-    "content_hash": "e3b610bdf436eaa3091bc140d8fb19ee"
-  },
-  {
-    "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-    "normalized": "critical langflow flaws could let unauthenticated attackers run code on servers",
-    "content_hash": "93d3cf4bd44c5794972a1bc76eeeec66"
-  },
-  {
-    "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-    "normalized": "is your soc ready for ai agents? a maturity check before you deploy",
-    "content_hash": "5625df430ca87fa5872d4e0042f33043"
-  },
-  {
-    "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-    "normalized": "attackers pose as it support on microsoft teams, abuse ad cs to steal company data",
-    "content_hash": "46c5a0f94922f62a501fe67490e13ac2"
-  },
-  {
-    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-    "normalized": "new volta infostealer uses claude, gemini, and kimi ai to rank victims by financial value",
-    "content_hash": "0b7556b578e3b1baeef7a4db8082d0eb"
-  },
-  {
-    "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-    "normalized": "hackers steal about $2.7 million from polymarket traders via hijacked debugbear script",
-    "content_hash": "24590363aab75d03ddbb9de554c6ebc6"
-  },
-  {
-    "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-    "normalized": "chainalysis confirms intrusion into internal tools and exposure of customer identity data",
-    "content_hash": "4ef5fdc022ca2af4d61ff0f476f5a8d4"
-  },
-  {
-    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-    "normalized": "the new york times sues brave web browser for ai scraping and bypassing paywalls",
-    "content_hash": "0dba3555dcb35faf43272983d74873bc"
-  },
-  {
-    "title": "Apple&#8217;s \u2018Ultra\u2019 smart home robot might have to wait until 2028",
-    "normalized": "apple's 'ultra' smart home robot might have to wait until 2028",
-    "content_hash": "f50938ec8aa25b9927cd1faaaf14a4e1"
-  },
-  {
-    "title": "Why Peacock is making a huge bet on YouTube",
-    "normalized": "why peacock is making a huge bet on youtube",
-    "content_hash": "cb88570ad2dbed93dc692b52d1a998b3"
-  },
-  {
-    "title": "Vivo\u2019s first Pro Max phone proves its Ultra is still in a league of its own",
-    "normalized": "vivo's first pro max phone proves its ultra is still in a league of its own",
-    "content_hash": "6ed03ae6a6ed12cb776f22a7313f11f9"
-  },
-  {
-    "title": "Could data center backlash flip Florida?",
-    "normalized": "could data center backlash flip florida?",
-    "content_hash": "c728bd4e85297fb6b1360069edca0c18"
-  },
-  {
-    "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
-    "normalized": "spacex could buy boost mobile as part of its big mobile carrier plans",
-    "content_hash": "01f1ff01bd8cd5f57c88341ae45a298d"
-  },
-  {
-    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-    "normalized": "anthropic's internal ai use, at retail prices, now exceeds its employee pay",
-    "content_hash": "e81dcd5738cec2d9ebdc2fca846a2971"
-  },
-  {
-    "title": "Last night an AI agent performed brain surgery on a mouse",
-    "normalized": "last night an ai agent performed brain surgery on a mouse",
-    "content_hash": "5a2f6c2d00ef356938e3222b6a977ab9"
-  },
-  {
-    "title": "Community safety report and new protections for teens",
-    "normalized": "community safety report and new protections for teens",
-    "content_hash": "98a33d8141276da0ff5cbe4b22ca7805"
-  },
-  {
-    "title": "Google, OpenAI, Microsoft, and Anthropic back a shared robots.txt",
-    "normalized": "google, openai, microsoft, and anthropic back a shared robots.txt",
-    "content_hash": "fe6ff04eeae4497f654e527efc58f9d1"
-  },
-  {
-    "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
-    "normalized": "anthropic clamps down on claude's ai video game clones",
-    "content_hash": "4601625be1be614cd4b6b064f0144521"
-  },
-  {
-    "title": "Show HN: Kubernetes Operator for the OpenAI Managed Agents API",
-    "normalized": "show hn: kubernetes operator for the openai managed agents api",
-    "content_hash": "22ae5c2144d26ccdeeabdc070b7d461f"
-  },
-  {
-    "title": "Anthropic and OpenAI Are Creating Warrooms for Election Misinformation",
-    "normalized": "anthropic and openai are creating warrooms for election misinformation",
-    "content_hash": "c9be2d284257206f9df38aa49da5f8cc"
-  },
-  {
-    "title": "Show HN: Hanging Context \u2013 news by an agent, for other agents",
-    "normalized": "show hn: hanging context - news by an agent, for other agents",
-    "content_hash": "cceaa5697be15cd0f8b57eaa75b82c64"
-  },
-  {
     "title": "Web host Squarespace lays off 19% of its employees",
     "normalized": "web host squarespace lays off 19% of its employees",
     "content_hash": "24ab4749b8e5cad9fc8eaa1c1c289ad0"
@@ -2498,5 +2373,130 @@
     "title": "NVIDIA Says Permanent CEO Search Remains at Search-Firm Stage",
     "normalized": "nvidia says permanent ceo search remains at search-firm stage",
     "content_hash": "bc4cc3c4ee0c5b03e00d2331720c4811"
+  },
+  {
+    "title": "Where was Nvidia\u2019s security team?",
+    "normalized": "where was nvidia's security team?",
+    "content_hash": "53de58cf956946aee4e3e3062b3dd60a"
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+    "normalized": "the ai graveyard: a running list of projects and startups that didn't make it",
+    "content_hash": "d14790faa76bdeff3bfb22d5aa426274"
+  },
+  {
+    "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+    "normalized": "asian governments react to nvidia ceo jensen huang's exit",
+    "content_hash": "5e452236017204db37c1e0bf76986a19"
+  },
+  {
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "normalized": "jensen huang and the decline of the visionary showman founder ceo",
+    "content_hash": "e98846d7bea6ea2fe9e6918bf7f0fca8"
+  },
+  {
+    "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
+    "normalized": "edge-native multimodal rag: hardware-aware quantization and architectural optimization for consumer gpus",
+    "content_hash": "444962467dfc9100f22ca50c4b6fd618"
+  },
+  {
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "normalized": "elon musk, other tech execs sign petition calling on nvidia to reinstate jensen huang",
+    "content_hash": "783ed62d3fd530aaaa4915b0c17331ab"
+  },
+  {
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "normalized": "the openai board member who fired sam altman says we still can't trust ai ceos",
+    "content_hash": "9d03a8c2de0342b1d1d131f251bf7436"
+  },
+  {
+    "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
+    "normalized": "tesla opens cybercab pre-orders 'for personal use,' with geo restrictions and a $299 monthly fee",
+    "content_hash": "10950f98d82205e20fee92e93ca2888e"
+  },
+  {
+    "title": "Transportation secretary blames \u2018routine\u2019 equipment upgrade for grounding flights nationwide",
+    "normalized": "transportation secretary blames 'routine' equipment upgrade for grounding flights nationwide",
+    "content_hash": "b18e6ecdbf4d51583e4086a415c3497d"
+  },
+  {
+    "title": "Work to replace old copper wire led to the FAA\u2019s ground stop",
+    "normalized": "work to replace old copper wire led to the faa's ground stop",
+    "content_hash": "4489ca1b25431f9091bfed29bd1f43b9"
+  },
+  {
+    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+    "normalized": "nvidia deliberately kept gpu prices high through circular financing deals",
+    "content_hash": "9de8b6962f84375853447827a4b6b940"
+  },
+  {
+    "title": "Reverse engineering a vintage diode-transistor logic chip",
+    "normalized": "reverse engineering a vintage diode-transistor logic chip",
+    "content_hash": "1cf9d8869eb621fc19fcf5efd9bd2108"
+  },
+  {
+    "title": "Reinstatement Letter for Jensen Huang Surpasses 100,000 Signatures",
+    "normalized": "reinstatement letter for jensen huang surpasses 100,000 signatures",
+    "content_hash": "152929dc60029b4d9199542e9a0c8c30"
+  },
+  {
+    "title": "Dyania Health Runs Synapsis AI on Hospital-Owned GPU Systems",
+    "normalized": "dyania health runs synapsis ai on hospital-owned gpu systems",
+    "content_hash": "083c12c981b0fb73163919257002bbc8"
+  },
+  {
+    "title": "Fady Saad, Founder and General Partner of Cybernetix Ventures \u2013 Interview Series",
+    "normalized": "fady saad, founder and general partner of cybernetix ventures - interview series",
+    "content_hash": "2617b07dfe600de3ed8cd40f486cc4b2"
+  },
+  {
+    "title": "Google Cloud Puts Agent Telemetry in Customer-Owned BigQuery Tables",
+    "normalized": "google cloud puts agent telemetry in customer-owned bigquery tables",
+    "content_hash": "c4f6f40252a43e5540a2c52c55396f43"
+  },
+  {
+    "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+    "normalized": "got an iphone duo? these 9 settings make it easier to use",
+    "content_hash": "91b829da5d37587abeb18cfceb3668d1"
+  },
+  {
+    "title": "Amazon\u2019s new Kindle Colorsoft is a premium e-reader with a premium price",
+    "normalized": "amazon's new kindle colorsoft is a premium e-reader with a premium price",
+    "content_hash": "2eac89bc4e5b80de465ab430f4fa1751"
+  },
+  {
+    "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
+    "normalized": "jensen huang didn't show confidence in his successor, report says",
+    "content_hash": "8d93251c779da8f21b820fb50cc8ecfc"
+  },
+  {
+    "title": "Beware the New AI-Fueled Ransomware Boom",
+    "normalized": "beware the new ai-fueled ransomware boom",
+    "content_hash": "2afdc180a9021cda2bd51bcc3d7fbf01"
+  },
+  {
+    "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "normalized": "no pilots. few air traffic controllers. what could go wrong?",
+    "content_hash": "7884307a388b5e0e97d36a400973f186"
+  },
+  {
+    "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
+    "normalized": "floods force gaza to choose between clean water and pumping out sewage",
+    "content_hash": "c4905bcbe3ba0b7e35550b52681682fa"
+  },
+  {
+    "title": "Outlook Went Down? Microsoft May Owe You Money",
+    "normalized": "outlook went down? microsoft may owe you money",
+    "content_hash": "16aadf0eff946d0ff0a4a865fdd70d82"
+  },
+  {
+    "title": "Wayfair Coupons: Up to 80% Off November 2026",
+    "normalized": "wayfair coupons: up to 80% off november 2026",
+    "content_hash": "0433dc39fd96e0016e1e13e453892638"
+  },
+  {
+    "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+    "normalized": "fbi says north korean hackers stole over $400 million in crypto using deepfake video calls",
+    "content_hash": "2f49851a02488a92f77758444b3ed482"
   }
 ]
