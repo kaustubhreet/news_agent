@@ -1,130 +1,5 @@
 [
   {
-    "title": "Web host Squarespace lays off 19% of its employees",
-    "normalized": "web host squarespace lays off 19% of its employees",
-    "content_hash": "24ab4749b8e5cad9fc8eaa1c1c289ad0"
-  },
-  {
-    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "normalized": "new york times and other outlets sue web browser brave over alleged content scraping",
-    "content_hash": "b550ae016bb70283086b411444ac349b"
-  },
-  {
-    "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-    "normalized": "snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-    "content_hash": "26b697038f280c637084c94150adcd77"
-  },
-  {
-    "title": "Ninja\u2019s first-ever microwave just replaced two of my kitchen appliances at once",
-    "normalized": "ninja's first-ever microwave just replaced two of my kitchen appliances at once",
-    "content_hash": "ad83e807052aa8fb029f53ba21ed8efe"
-  },
-  {
-    "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
-    "normalized": "northwood space raises $375m series c at a $2b valuation from a16z and dfj growth",
-    "content_hash": "1e70d9f282c8695638f4aefdbdf0bdda"
-  },
-  {
-    "title": "Ford launches a \u2018privacy promise\u2019 and explains how and why it uses customer data",
-    "normalized": "ford launches a 'privacy promise' and explains how and why it uses customer data",
-    "content_hash": "9e1bb16668c09f8f1e7f019c65cc254b"
-  },
-  {
-    "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
-    "normalized": "want to sign with a hollywood agent? start making fun of ai",
-    "content_hash": "7fef4ad2a6300ae867266e31387e7976"
-  },
-  {
-    "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
-    "normalized": "one of google's android partners turned 1.3 million set-top boxes into a botnet",
-    "content_hash": "bcffd82e8d4d67f943624c79504e1252"
-  },
-  {
-    "title": "Ford promises not to sell your driving habits to data brokers",
-    "normalized": "ford promises not to sell your driving habits to data brokers",
-    "content_hash": "7bd923c3d1c7c14bd4fff1a336165795"
-  },
-  {
-    "title": "Xbox&#8217;s former COO has \u2018serious concerns\u2019 about her abrupt departure",
-    "normalized": "xbox's former coo has 'serious concerns' about her abrupt departure",
-    "content_hash": "3f1de491ebc7bd56503ce5a3abddc408"
-  },
-  {
-    "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-    "normalized": "anthropic reveals $900b ai spending commitments ahead of ipo",
-    "content_hash": "dbdcba17aab0de1f7ab44a84b2c8282a"
-  },
-  {
-    "title": "Agentic backdoors via pretraining poisoning",
-    "normalized": "agentic backdoors via pretraining poisoning",
-    "content_hash": "a597f69e7fb9e076d63aa7941549fcb9"
-  },
-  {
-    "title": "Pigeonrank hits differently in the LLM era",
-    "normalized": "pigeonrank hits differently in the llm era",
-    "content_hash": "ec4bd254802dffbfaf98709aef486581"
-  },
-  {
-    "title": "PaidinToken \u2013 Open LLM Token Pricing and Local GPU VRAM Calculator",
-    "normalized": "paidintoken - open llm token pricing and local gpu vram calculator",
-    "content_hash": "9fc1a41c3a8884fbeb485009e956aee1"
-  },
-  {
-    "title": "Anthropic Is Racing to Obtain the A.I. Boom's Most Vital Resource",
-    "normalized": "anthropic is racing to obtain the a.i. boom's most vital resource",
-    "content_hash": "a1045fea527ff7c258ef072229ea3b15"
-  },
-  {
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "normalized": "google takes dreambeans to india in bid to bring ai-generated personal stories to the masses",
-    "content_hash": "d44a2ef6fb9ec471302dd5ac76000219"
-  },
-  {
-    "title": "Ukraine\u2019s new pocket-sized gadget turns Russian drones\u2019 cameras against them",
-    "normalized": "ukraine's new pocket-sized gadget turns russian drones' cameras against them",
-    "content_hash": "984a5d45691359cfb9dbc580aeed9858"
-  },
-  {
-    "title": "Y Combinator\u2019s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "normalized": "y combinator's garry tan uses ai agents so much, he spends up to $200k a year on tokens",
-    "content_hash": "f671283c95bc4e2923f382bbdf17591e"
-  },
-  {
-    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-    "normalized": "trajectory raises $45m to make ai model training accessible to nontechnical experts",
-    "content_hash": "8559008b9f4f87cfc5cd0a3433bb7276"
-  },
-  {
-    "title": "Apple\u2019s inventory surges 154% as memory chip costs climb",
-    "normalized": "apple's inventory surges 154% as memory chip costs climb",
-    "content_hash": "e9a09c35214229e97565fe2af8ceb7b7"
-  },
-  {
-    "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
-    "normalized": "anthropic warns that it's very close to rsi capability, aka self-building ai",
-    "content_hash": "fd87f3a8e533de9553095c0315137077"
-  },
-  {
-    "title": "How Open Models Win Against OpenAI and Anthropic [video]",
-    "normalized": "how open models win against openai and anthropic [video]",
-    "content_hash": "618cd936d75a74359f15fc2f1ee3f8e5"
-  },
-  {
-    "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
-    "normalized": "apple may try to increase revenue by doing...something with third-party ai apps",
-    "content_hash": "3c09e19991c1c5f43366e7c54517b1c1"
-  },
-  {
-    "title": "Apple says it\u2019s \u2018hard to predict\u2019 when iPhone Duo constraints will improve",
-    "normalized": "apple says it's 'hard to predict' when iphone duo constraints will improve",
-    "content_hash": "1ca77c92e07c45355dad203dce830768"
-  },
-  {
-    "title": "Apple is \u2018not able to predict\u2019 when it&#8217;ll have enough iPhone Duos to go around",
-    "normalized": "apple is 'not able to predict' when it'll have enough iphone duos to go around",
-    "content_hash": "defaacfca3c159a38b954b7e79d0781c"
-  },
-  {
     "title": "Scaling Git at OpenAI",
     "normalized": "scaling git at openai",
     "content_hash": "39c830a1395bb71fc4447a19c4cf4af4"
@@ -2498,5 +2373,130 @@
     "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
     "normalized": "fbi says north korean hackers stole over $400 million in crypto using deepfake video calls",
     "content_hash": "2f49851a02488a92f77758444b3ed482"
+  },
+  {
+    "title": "TechCrunch Mobility: The Nvidia backup plan for China\u2019s self-driving industry",
+    "normalized": "techcrunch mobility: the nvidia backup plan for china's self-driving industry",
+    "content_hash": "3a7e734ad2822c8193200c36299dcf2c"
+  },
+  {
+    "title": "An overview of Jensen Huang\u2019s messy days",
+    "normalized": "an overview of jensen huang's messy days",
+    "content_hash": "3671ce772f8bc0ff57c2b252c84724b4"
+  },
+  {
+    "title": "Show HN: A local-first AI agent for the desktop, no Electron, any LLM endpoint",
+    "normalized": "show hn: a local-first ai agent for the desktop, no electron, any llm endpoint",
+    "content_hash": "63ce841de4a148723b34a4e7ebda60fb"
+  },
+  {
+    "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+    "normalized": "cursor says stolen fireworks ai key led to trojanized claude code extension incident",
+    "content_hash": "4cd17a7d4762e6e07d2c74807e3fe0fe"
+  },
+  {
+    "title": "The Sony Aibo was a robot revolution dressed like a dog",
+    "normalized": "the sony aibo was a robot revolution dressed like a dog",
+    "content_hash": "ceebdd008eda812a6dae51592752b937"
+  },
+  {
+    "title": "Show HN: db-branch \u2013 database branches in seconds for AI agents and CI, via ZFS",
+    "normalized": "show hn: db-branch - database branches in seconds for ai agents and ci, via zfs",
+    "content_hash": "56589a95cb010500e9bc36147f18ef83"
+  },
+  {
+    "title": "Show HN: Local AI Video Agent",
+    "normalized": "show hn: local ai video agent",
+    "content_hash": "69738014463501db03b9ad9aeaed54e9"
+  },
+  {
+    "title": "Show HN: Pizza \u2013 An event-driven AI agent, no while true",
+    "normalized": "show hn: pizza - an event-driven ai agent, no while true",
+    "content_hash": "f370f6844f2d6a9206124097b09b700f"
+  },
+  {
+    "title": "FlashVMM \u2013 jail your AI agent in a MicroVM that boots in 18 ms",
+    "normalized": "flashvmm - jail your ai agent in a microvm that boots in 18 ms",
+    "content_hash": "7708761ae97d25e72e333605335f5ca5"
+  },
+  {
+    "title": "A Straight Line Predicts How Fast My Laptop Generates LLM Tokens",
+    "normalized": "a straight line predicts how fast my laptop generates llm tokens",
+    "content_hash": "64eb536f1fae2813dd2a1688a1c23cb9"
+  },
+  {
+    "title": "Anatomy of a trojan: backdooring an LLM by editing few dormant neurons",
+    "normalized": "anatomy of a trojan: backdooring an llm by editing few dormant neurons",
+    "content_hash": "0b9112c8e939d11928c726fb2fe9000e"
+  },
+  {
+    "title": "Let your AI agent call you, over MCP",
+    "normalized": "let your ai agent call you, over mcp",
+    "content_hash": "920a29a255ad56e65dd3f88671b1620f"
+  },
+  {
+    "title": "Stop building new AI agent orchestrators \u2013 there are 636",
+    "normalized": "stop building new ai agent orchestrators - there are 636",
+    "content_hash": "b4fb3c824e91a5990cd79f18433ba137"
+  },
+  {
+    "title": "Sandlock: Confining AI Agent Code with Unprivileged Linux Primitives",
+    "normalized": "sandlock: confining ai agent code with unprivileged linux primitives",
+    "content_hash": "2595059770e1a942667fdf449cedacf1"
+  },
+  {
+    "title": "Anthropic, can you please make up your mind with your models?",
+    "normalized": "anthropic, can you please make up your mind with your models?",
+    "content_hash": "5025ed4a373ab3e6b374e56e02f0f7db"
+  },
+  {
+    "title": "Anthropic bought a one-person, AI-powered biotech",
+    "normalized": "anthropic bought a one-person, ai-powered biotech",
+    "content_hash": "74bdc0dd4984ca5ce4982f6d2df3e270"
+  },
+  {
+    "title": "Bessent Gives Nvidia 10 Days to Address Export-Control Questions",
+    "normalized": "bessent gives nvidia 10 days to address export-control questions",
+    "content_hash": "35f8b9ccc711b4ddda3cf9ab67ab464c"
+  },
+  {
+    "title": "The tech products we enthusiastically recommend this holiday season",
+    "normalized": "the tech products we enthusiastically recommend this holiday season",
+    "content_hash": "07c70c76c639a59bf87ca83e3b0b25d7"
+  },
+  {
+    "title": "AI DJs Completely Kill My Groove",
+    "normalized": "ai djs completely kill my groove",
+    "content_hash": "9ba7c920149f8b6ca649e6e4fff85553"
+  },
+  {
+    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+    "normalized": "this ai tamagotchi turns everyday objects into needy virtual pets",
+    "content_hash": "f62e4a1266c7740f26a92355f54e312f"
+  },
+  {
+    "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+    "normalized": "trezor confirms hidden implants in cryptobilis-sold wallets that can steal recovery phrases",
+    "content_hash": "6a4259d20afd04c5da15ba1a21087050"
+  },
+  {
+    "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+    "normalized": "silentair hijacks asian telecom networks to intercept sms 2fa codes and spy on taiwanese users",
+    "content_hash": "4ff22f8bd74aa3d9eb0606ee4afc54ed"
+  },
+  {
+    "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+    "normalized": "operation endgame takes down gootloader, castlerat and stealc servers, seizes 6.4m stolen logins",
+    "content_hash": "b0db5aa1479eca2afb744f624b813720"
+  },
+  {
+    "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+    "normalized": "hackers exploit php2shell flaws in check point gateways to deploy tsga backdoor and wipe esxi files",
+    "content_hash": "d6dc06c14024d9c3d4c01e0e363d3bed"
+  },
+  {
+    "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+    "normalized": "threatsday: 59 linux kernel bugs, falcon spyware, gsocket backdoors + 17 more stories",
+    "content_hash": "f6dd6f08da54b9905d28949d87eb8c57"
   }
 ]
