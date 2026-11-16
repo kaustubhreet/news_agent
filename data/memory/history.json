@@ -1,30 +1,5 @@
 [
   {
-    "title": "OpenAI Conference at KITP",
-    "normalized": "openai conference at kitp",
-    "content_hash": "10347b04f22617fe3a59138c97759ee5"
-  },
-  {
-    "title": "How we detect frontier model misalignment",
-    "normalized": "how we detect frontier model misalignment",
-    "content_hash": "3a3ae8c54c63894eb9b6354702851cc2"
-  },
-  {
-    "title": "ChatGPT\u2019s expanding world of work",
-    "normalized": "chatgpt's expanding world of work",
-    "content_hash": "c94d3847bdc886a77c8b44f32db3c5ef"
-  },
-  {
-    "title": "Density-Guided Bootstrap Boundaries for Latent World-Model Reinforcement Learning",
-    "normalized": "density-guided bootstrap boundaries for latent world-model reinforcement learning",
-    "content_hash": "26361bb8e9d59bac4af732f5a0d00d1f"
-  },
-  {
-    "title": "We urgently need to monitor AI agents\u2019 actions in real time",
-    "normalized": "we urgently need to monitor ai agents' actions in real time",
-    "content_hash": "83eba9863a1d81582d94ffb6a9234ad0"
-  },
-  {
     "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
     "normalized": "deep principle releases hydrogen-1.0: a 753b open-weight model for scientific discovery",
     "content_hash": "581a61fb7aac34c731d1efe49abff807"
@@ -2498,5 +2473,30 @@
     "title": "Apple launches new app to study how people use AI for health",
     "normalized": "apple launches new app to study how people use ai for health",
     "content_hash": "bd45d9b933a2c87052d7e7c8c997523b"
+  },
+  {
+    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be \u2018fine\u2019",
+    "normalized": "sam altman on nvidia without jensen huang: the industry will be 'fine'",
+    "content_hash": "1a78375e93abd32b0650d2ddf3ffaef0"
+  },
+  {
+    "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports",
+    "normalized": "nvidia, openai and anthropic to be named ai national champions, wsj reports",
+    "content_hash": "e3edb1034fbeeba5c75b705e960c5400"
+  },
+  {
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "normalized": "california state ag sues openai over rogue agent incidents",
+    "content_hash": "1ff4e34c44a9820fbcea927d56f98036"
+  },
+  {
+    "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy did not threaten national security",
+    "normalized": "trump says ex-nvidia ceo jensen huang's affair with an alleged chinese spy did not threaten national security",
+    "content_hash": "86763705164b364b4db6d3eba0fae724"
+  },
+  {
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "normalized": "openai releases a new image classifier and chatgpt warnings to combat csam",
+    "content_hash": "4f3c7428da22d49e2c14ce49ca0901a0"
   }
 ]
