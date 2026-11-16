@@ -1,30 +1,5 @@
 [
   {
-    "title": "Scaling Git at OpenAI",
-    "normalized": "scaling git at openai",
-    "content_hash": "39c830a1395bb71fc4447a19c4cf4af4"
-  },
-  {
-    "title": "Anthropic warns that it's close to RSI capability",
-    "normalized": "anthropic warns that it's close to rsi capability",
-    "content_hash": "f07f698e24878c83713f7842843fda30"
-  },
-  {
-    "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
-    "normalized": "openai hires former us army secretary as military seeks to expand ai use",
-    "content_hash": "bc6683b31bec3c9f60877c9bb56f35ad"
-  },
-  {
-    "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
-    "normalized": "openai considers rebranding data centers to 'ai compute campuses\"",
-    "content_hash": "e389801bd964ba4b789f207adcc17d07"
-  },
-  {
-    "title": "Pando - OpenAI's alternative to Git for source control",
-    "normalized": "pando - openai's alternative to git for source control",
-    "content_hash": "d71359329542b5f04faa13c83b58ba86"
-  },
-  {
     "title": "OpenAI Conference at KITP",
     "normalized": "openai conference at kitp",
     "content_hash": "10347b04f22617fe3a59138c97759ee5"
@@ -2498,5 +2473,30 @@
     "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
     "normalized": "threatsday: 59 linux kernel bugs, falcon spyware, gsocket backdoors + 17 more stories",
     "content_hash": "f6dd6f08da54b9905d28949d87eb8c57"
+  },
+  {
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "normalized": "indian chip startup bharat semi lands $24m seed round as it eyes global ai sensor market",
+    "content_hash": "efab1c367160dc24c804e297465083dc"
+  },
+  {
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "normalized": "congress wants to tighten export rules on ai chips after nvidia spy scandal",
+    "content_hash": "a4dc5c281419344e44cc6913ee4dedd2"
+  },
+  {
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "normalized": "is bad news for jensen huang also bad news for the ai industry?",
+    "content_hash": "9d29b72a2d4d0a2b7b93ded0a2e31ad0"
+  },
+  {
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "normalized": "jensen huang might be plotting a return and more of the latest nvidia drama",
+    "content_hash": "1aeeec5cbfa65a16555757ccb50ea46e"
+  },
+  {
+    "title": "Apple launches new app to study how people use AI for health",
+    "normalized": "apple launches new app to study how people use ai for health",
+    "content_hash": "bd45d9b933a2c87052d7e7c8c997523b"
   }
 ]
