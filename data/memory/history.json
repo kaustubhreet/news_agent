@@ -1,30 +1,5 @@
 [
   {
-    "title": "Meta acquires AI coding startup Conductor",
-    "normalized": "meta acquires ai coding startup conductor",
-    "content_hash": "28989091311d83821b1a9c9f96bde41c"
-  },
-  {
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "normalized": "apple is reportedly cutting budgets for its internal ai usage",
-    "content_hash": "cb055b8b32b919f4bb14410215024e63"
-  },
-  {
-    "title": "Nothing CEO says company\u2019s mysterious AI-first device is dropping next month",
-    "normalized": "nothing ceo says company's mysterious ai-first device is dropping next month",
-    "content_hash": "fa528c0ac9b307bda79f4377308e4b56"
-  },
-  {
-    "title": "Almost no one uses AI agents to book their Uber, company says",
-    "normalized": "almost no one uses ai agents to book their uber, company says",
-    "content_hash": "c8718ea4827d3992971a9f35cb4f8082"
-  },
-  {
-    "title": "OpenAI is already trying to shape the 2028 election",
-    "normalized": "openai is already trying to shape the 2028 election",
-    "content_hash": "0cc44c04cb65751f7d9663da0d7548fa"
-  },
-  {
     "title": "Open source AI is booming. Hugging Face explains who profits.",
     "normalized": "open source ai is booming. hugging face explains who profits.",
     "content_hash": "dabf4c6383b9537ad22437ce7e811ce4"
@@ -2498,5 +2473,30 @@
     "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
     "normalized": "the nvidia scandal could upend chip sales to china. trump wants to keep them going",
     "content_hash": "6bdf47516dfb1024c8bd68d77eab0ec3"
+  },
+  {
+    "title": "Anthropic\u2019s IPO could deliver $156 billion to charity",
+    "normalized": "anthropic's ipo could deliver $156 billion to charity",
+    "content_hash": "69aa4e395457684fd4b2a3f4a67b45e9"
+  },
+  {
+    "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
+    "normalized": "former alibaba exec's everful raises $48.5m to connect retailers with chinese factories",
+    "content_hash": "44adf59204708de45c3052aac1ab8cdc"
+  },
+  {
+    "title": "UK government forced to disclose secret Apple backdoor order",
+    "normalized": "uk government forced to disclose secret apple backdoor order",
+    "content_hash": "321f69091aaea1816a3fab492880104f"
+  },
+  {
+    "title": "Elon Musk says: \u2018I\u2019m not MAGA\u2019",
+    "normalized": "elon musk says: 'i'm not maga'",
+    "content_hash": "52d85d3c9032c3f12d0af41d2c5ae25a"
+  },
+  {
+    "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
+    "normalized": "elon musk says ousting jensen huang is like 'kicking michael jordan off your team'",
+    "content_hash": "c33147bbbf4b25299af29e453b5bd214"
   }
 ]
