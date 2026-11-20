@@ -1,130 +1,5 @@
 [
   {
-    "title": "Open source AI is booming. Hugging Face explains who profits.",
-    "normalized": "open source ai is booming. hugging face explains who profits.",
-    "content_hash": "dabf4c6383b9537ad22437ce7e811ce4"
-  },
-  {
-    "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
-    "normalized": "duckduckgo pitches itself to schools amid backlash over google's ai policy",
-    "content_hash": "48a24f887afba4fc0f419fcd2b335b97"
-  },
-  {
-    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-    "normalized": "google faces backlash for plan that would turn off search for schools that restrict ai",
-    "content_hash": "e26acc1091a1b9057bc21d183e80038b"
-  },
-  {
-    "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-    "normalized": "titan os raises $46 million to expand its smart tv os internationally",
-    "content_hash": "c40efd3652e822d595a607f1ae8d4a7f"
-  },
-  {
-    "title": "X says its updated web app is way faster",
-    "normalized": "x says its updated web app is way faster",
-    "content_hash": "41ab92b88c54c62c4d3b9ce8d0361de0"
-  },
-  {
-    "title": "AI PACs spent millions trying to shape Congress \u2014 here\u2019s how they fared",
-    "normalized": "ai pacs spent millions trying to shape congress -- here's how they fared",
-    "content_hash": "b84867ce95a76367b08a0ad270140f45"
-  },
-  {
-    "title": "Snapchat surpasses 30M paid subscribers",
-    "normalized": "snapchat surpasses 30m paid subscribers",
-    "content_hash": "e1434b25caaa171c8f4573bf9e281004"
-  },
-  {
-    "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-    "normalized": "hackers stole dreamhost customer files and inboxes during months-long attack",
-    "content_hash": "f1f5d207d31213ff6875f004ad804515"
-  },
-  {
-    "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-    "normalized": "google is forcing ai overviews in classrooms. schools are searching for a way out",
-    "content_hash": "09413ab87334418e957074a75505fcab"
-  },
-  {
-    "title": "The Lawyer Holding Big Tech Accountable by \u2018Beating the Tar Out of Them\u2019 in Court",
-    "normalized": "the lawyer holding big tech accountable by 'beating the tar out of them' in court",
-    "content_hash": "93137090926cdfb19e8a3a7aaf57546d"
-  },
-  {
-    "title": "UK Officials Said AI Would Add \u00a3400 Billion to the Economy. That Figure Mainly Came From Google",
-    "normalized": "uk officials said ai would add \u00a3400 billion to the economy. that figure mainly came from google",
-    "content_hash": "1265fd7de9bdfa72a375390b6826e14a"
-  },
-  {
-    "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-    "normalized": "radio with no radar: why agent runtime security fails without the layers beneath it",
-    "content_hash": "22a598fa8a9c94a98acf2b84b405fdab"
-  },
-  {
-    "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-    "normalized": "google issues patches for critical android flaw that could allow rce without user interaction",
-    "content_hash": "da0fc81cb492360767be006c8d58ec28"
-  },
-  {
-    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-    "normalized": "qualcomm is betting big on data centers as smartphone sales sink",
-    "content_hash": "cc6e228b00a9bf9d981bd52a4c26bcdf"
-  },
-  {
-    "title": "17 better ways Elon Musk could have wasted $446 million",
-    "normalized": "17 better ways elon musk could have wasted $446 million",
-    "content_hash": "58123f82ef3ad62d44b457ce8929aa84"
-  },
-  {
-    "title": "Gemini for Home now plugs into AT&#038;T\u2019s smart security system",
-    "normalized": "gemini for home now plugs into at&t's smart security system",
-    "content_hash": "33270f88fa59161426398f89282a5d36"
-  },
-  {
-    "title": "Google\u2019s Pixel 11 phones are up to 27 percent off",
-    "normalized": "google's pixel 11 phones are up to 27 percent off",
-    "content_hash": "8e352d91aecb2efbf53cc19fa553a037"
-  },
-  {
-    "title": "Ask HN: What's your current AI agentic setup?",
-    "normalized": "ask hn: what's your current ai agentic setup?",
-    "content_hash": "a5155834691eaed41460158271add4b3"
-  },
-  {
-    "title": "OpenAI to acquire Pierre Computer Company",
-    "normalized": "openai to acquire pierre computer company",
-    "content_hash": "87653ff52e64e2cca5ddd86f1cdc2249"
-  },
-  {
-    "title": "Basically no one is using AI agents for their DoorDash orders",
-    "normalized": "basically no one is using ai agents for their doordash orders",
-    "content_hash": "0d063c3ee15287ebadf90a272a219d15"
-  },
-  {
-    "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-    "normalized": "food delivery startup wonder files for ipo as it explores its next big bite",
-    "content_hash": "b703f909c1a3bd8d21bab6ae55e90fb8"
-  },
-  {
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "normalized": "axiom math wants to keep ai slop out of mathematics",
-    "content_hash": "194833ba86a07b007920c1e707933084"
-  },
-  {
-    "title": "Box taps Nvidia\u2019s Nemotron for new agent-first content retrieval system",
-    "normalized": "box taps nvidia's nemotron for new agent-first content retrieval system",
-    "content_hash": "ece43bbd881cac924b143c71078c6fa1"
-  },
-  {
-    "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
-    "normalized": "slackbench: benchmarking agents on collaborative projects grounded in real code repositories",
-    "content_hash": "af077478837f51bc91d80b920ca98392"
-  },
-  {
-    "title": "Iterated creation, grading, and revision of data science projects by language models",
-    "normalized": "iterated creation, grading, and revision of data science projects by language models",
-    "content_hash": "af8f80b7ac613d16407f2659ff410508"
-  },
-  {
     "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
     "normalized": "the ex-secret service agent who flipped a hacker is now raising a second $250m cybersecurity fund",
     "content_hash": "73f0b13a13b247f795af472f30845693"
@@ -2498,5 +2373,130 @@
     "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
     "normalized": "elon musk says ousting jensen huang is like 'kicking michael jordan off your team'",
     "content_hash": "c33147bbbf4b25299af29e453b5bd214"
+  },
+  {
+    "title": "A brief history of Nvidia\u2019s recent stock fluctuations",
+    "normalized": "a brief history of nvidia's recent stock fluctuations",
+    "content_hash": "0ca8743f2633769714784f09aa3dc226"
+  },
+  {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "normalized": "apple may be developing its own ai agent that runs your mac",
+    "content_hash": "20b991734528a97021ab392a777a6a6e"
+  },
+  {
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "normalized": "google gives gemini the ability to use your mac for you",
+    "content_hash": "4d0a5c6b02fa936433b7a7c60928a3e4"
+  },
+  {
+    "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
+    "normalized": "anthropic's ipo puts ai's circular financing boom to the test",
+    "content_hash": "c8db74391398590862cdb607f47073d3"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "normalized": "microsoft ceo satya nadella explains why he asked 60k employees to quit",
+    "content_hash": "ff2a67f6a68dc9c4cd8835b1e9d5fe99"
+  },
+  {
+    "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+    "normalized": "attackers compromise microsoft's agent framework pypi package to steal cloud credentials",
+    "content_hash": "7d6e8f898952196897942d89981cc91f"
+  },
+  {
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "normalized": "apple is hiring engineers to build its own ai agent",
+    "content_hash": "33c1f67ec8c61bb2a561f141d5dde476"
+  },
+  {
+    "title": "NVIDIA Expands Microsoft AI Collaboration with Vera Rubin and Nemotron",
+    "normalized": "nvidia expands microsoft ai collaboration with vera rubin and nemotron",
+    "content_hash": "08711e1877f3222c194afdcd33bf6063"
+  },
+  {
+    "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+    "normalized": "anthropic rival says companies can (mostly) skip the pricey models",
+    "content_hash": "a7e8f1bd918aa7aa6e7910a842a4e6a8"
+  },
+  {
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "normalized": "these tech outages are giving y2k, ai agent style",
+    "content_hash": "e6427c7a925c199c28bae55dab7be125"
+  },
+  {
+    "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "normalized": "meta's ai agent muse is mixing up conversations and could be exposing private data, report says",
+    "content_hash": "300af18bb6d0c23bdae7d530e0dc1e32"
+  },
+  {
+    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+    "normalized": "anthropic hits nasdaq exchanges at $111, 33% above ipo price",
+    "content_hash": "e923ff49c18d583c2d8a342ebb8e116c"
+  },
+  {
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "normalized": "at nasdaq opening bell, anthropic ceo recommits to pacing ai development",
+    "content_hash": "bc648c2bc703ef63fdb68d6c2edfd479"
+  },
+  {
+    "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+    "normalized": "nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+    "content_hash": "0df28ea0541df3670c4e83b8a1ecf8f7"
+  },
+  {
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "normalized": "superhuman pushes its go assistant everywhere",
+    "content_hash": "47b5db6d890cde06d0ea4d8a6934a380"
+  },
+  {
+    "title": "What\u2019s With All These Outages?",
+    "normalized": "what's with all these outages?",
+    "content_hash": "f5d983e9c6520d7a519d760c3973ad32"
+  },
+  {
+    "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+    "normalized": "the jensen huang blast radius has hit his favorite restaurants",
+    "content_hash": "c183517ebed63ef671974d361aba5bdc"
+  },
+  {
+    "title": "Google Built a Giant \u2018Mirror Dimension\u2019 Internet to Test Its Chrome AI Agents",
+    "normalized": "google built a giant 'mirror dimension' internet to test its chrome ai agents",
+    "content_hash": "dca8b46c3efa6abb005a65601c29490b"
+  },
+  {
+    "title": "Meta\u2019s Muse Charm might cost $300",
+    "normalized": "meta's muse charm might cost $300",
+    "content_hash": "7e50141908f0c0be46cc09904216e6cb"
+  },
+  {
+    "title": "Google is putting AI chats right on the homepage",
+    "normalized": "google is putting ai chats right on the homepage",
+    "content_hash": "11b3f1ed5275e785c690d4eca28dc4b7"
+  },
+  {
+    "title": "Advancing chip design with OpenAI models",
+    "normalized": "advancing chip design with openai models",
+    "content_hash": "3e754ad87fdbc76467b4a4aedcf8eaf0"
+  },
+  {
+    "title": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+    "normalized": "regimecouncil: paired-evidence routing for memory conflict governance in llm agents",
+    "content_hash": "5286289403696a76288746359caa8ca5"
+  },
+  {
+    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+    "normalized": "telechat to xing4: advancing frontier agentic models on domestic chips and frameworks",
+    "content_hash": "cfdb822dd9b62e9024fd750477095385"
+  },
+  {
+    "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
+    "normalized": "perplexity launches orchestrator api for failover and model routing",
+    "content_hash": "8eeb516bb1d1ada0a4162e24fc610235"
+  },
+  {
+    "title": "Mast Releases NVIDIA and AMD AI Chip License Records for China",
+    "normalized": "mast releases nvidia and amd ai chip license records for china",
+    "content_hash": "745e8bcc1ce1102fd03b3d9e65714e51"
   }
 ]
