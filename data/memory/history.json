@@ -1,30 +1,5 @@
 [
   {
-    "title": "Physicl raises $10M to make the digital world real enough for robots",
-    "normalized": "physicl raises $10m to make the digital world real enough for robots",
-    "content_hash": "f9892027652d0e6cd0c23f30cb03535b"
-  },
-  {
-    "title": "Tesla will stop making the Cybertruck in 2027",
-    "normalized": "tesla will stop making the cybertruck in 2027",
-    "content_hash": "e4d2f0373860658f6730778b968e87b5"
-  },
-  {
-    "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-    "normalized": "meta, google, and tiktok sue california ag over teen social media law",
-    "content_hash": "b5453fcdd1cce757c2ef6a121466e817"
-  },
-  {
-    "title": "Serve Robotics launches new business to become the AWS for robots",
-    "normalized": "serve robotics launches new business to become the aws for robots",
-    "content_hash": "e98e0fd7e9e5464ffb56cac01e90e83e"
-  },
-  {
-    "title": "Ads in Chatbots Have Arrived. Here\u2019s What\u2019s Working\u2014and What\u2019s Not",
-    "normalized": "ads in chatbots have arrived. here's what's working--and what's not",
-    "content_hash": "0b348592f483db5da5bd54e05506a22f"
-  },
-  {
     "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
     "normalized": "openai valued at $1.25 trillion, as rival anthropic nears its ipo",
     "content_hash": "ff9872289438c51664d8452737718ca6"
@@ -2498,5 +2473,30 @@
     "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
     "normalized": "here are the apple deals actually worth picking up ahead of black friday",
     "content_hash": "3f3a20c624ef81b19bfd8806a12588be"
+  },
+  {
+    "title": "Google commits $5 million to IIT-Kharagpur for AI research, talent development",
+    "normalized": "google commits $5 million to iit-kharagpur for ai research, talent development",
+    "content_hash": "11fd27a8d2505ec746b8c0e61d20c28a"
+  },
+  {
+    "title": "IIT Kharagpur Secures $5M From Google to Expand Campus AI Work",
+    "normalized": "iit kharagpur secures $5m from google to expand campus ai work",
+    "content_hash": "ef14f1657235092b5373a2035aaf1d01"
+  },
+  {
+    "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+    "normalized": "attackers' ai agents found a zero-day in medical-imaging software and gained root access",
+    "content_hash": "642b6e5e8a3058062cc016b74ea56d83"
+  },
+  {
+    "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+    "normalized": "signal blocks ai agents from reading private chats via screenshots on android and ios",
+    "content_hash": "ff663063b7df95da5c16756cf5f3cd26"
+  },
+  {
+    "title": "Stitch Loop",
+    "normalized": "stitch loop",
+    "content_hash": "a9e21cb67415315915f961856bdacb1d"
   }
 ]
