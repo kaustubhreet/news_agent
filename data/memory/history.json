@@ -1,130 +1,5 @@
 [
   {
-    "title": "The US let Nvidia sell chips to an empty office in China",
-    "normalized": "the us let nvidia sell chips to an empty office in china",
-    "content_hash": "c649a4dfaf6adc2303f0fcf7917e100d"
-  },
-  {
-    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-    "normalized": "why a new report on anthropic automating ai development is alarming researchers",
-    "content_hash": "1d15913883c19a05703c46254a54f470"
-  },
-  {
-    "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
-    "normalized": "from the front row to the hot seat -- what the midterms mean for big tech",
-    "content_hash": "a0a5aa6fd416cc3ca0139ec543c61494"
-  },
-  {
-    "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-    "normalized": "claude code's \"don't ask again\" file exposes passwords and keys in 1,122 public copies on github",
-    "content_hash": "01d3dc70192f38794051b6cb0738f3c0"
-  },
-  {
-    "title": "China's main intelligence agency reportedly recruited the spy who targeted NVIDIA's CEO",
-    "normalized": "china's main intelligence agency reportedly recruited the spy who targeted nvidia's ceo",
-    "content_hash": "e121b9e26bc773c1d888eee9e1f11a59"
-  },
-  {
-    "title": "At least 10 local governments have moved to drop Flock\u2019s surveillance cameras since summer",
-    "normalized": "at least 10 local governments have moved to drop flock's surveillance cameras since summer",
-    "content_hash": "3056dc20dccd61f9cd4c0d59092bd16f"
-  },
-  {
-    "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-    "normalized": "the new york times reportedly in talks to buy letterboxd for $330 million",
-    "content_hash": "c89f966c6f84b27a6c4e677c571f8e67"
-  },
-  {
-    "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-    "normalized": "the best cat water fountains of 2026: petlibro, petkit, oneisall",
-    "content_hash": "83423bb61288914cb733773cd2016cdd"
-  },
-  {
-    "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-    "normalized": "apps for caregivers get a dose of ai, but that might not be enough",
-    "content_hash": "fbe2af3b592c7e20b48a30e10f403b30"
-  },
-  {
-    "title": "The Cybertruck\u2019s Death Is Actually Great News for EVs",
-    "normalized": "the cybertruck's death is actually great news for evs",
-    "content_hash": "facdedfb90fea1727d87109979bb7bb9"
-  },
-  {
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "normalized": "megaspeed exec was recruited to spy on nvidia ceo, according to us intelligence memo",
-    "content_hash": "774b3d55e013131a640cb8a5df0d7afc"
-  },
-  {
-    "title": "Uncensored LLMs in agent loops: 31 models, 5 tasks, most fail half the time",
-    "normalized": "uncensored llms in agent loops: 31 models, 5 tasks, most fail half the time",
-    "content_hash": "614422c72041d123c0932c370eb2f732"
-  },
-  {
-    "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
-    "normalized": "ask hn: if llm reverse engineering is deemed illegal, is that precedent for oss?",
-    "content_hash": "f291b8e1af1dbb4a7fe8a7b55702bb30"
-  },
-  {
-    "title": "GPT\u20116 Cyber",
-    "normalized": "gpt\u20116 cyber",
-    "content_hash": "b18352197142a3059620fef60be53deb"
-  },
-  {
-    "title": "ChatGPT Images 2.6",
-    "normalized": "chatgpt images 2.6",
-    "content_hash": "a95b329de2bacf848db7489df1b22600"
-  },
-  {
-    "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-    "normalized": "costco members can get $5 off the reimagined ocarina of time",
-    "content_hash": "11e59540804b4d084cd0c4319b4287e6"
-  },
-  {
-    "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
-    "normalized": "nyt cooking's ai assistant saved my weeknight chicken, but almost ruined my cake",
-    "content_hash": "9e3466e58b32cfcb05042902fdb27879"
-  },
-  {
-    "title": "AI broke the cybersecurity world. What\u2019s next?",
-    "normalized": "ai broke the cybersecurity world. what's next?",
-    "content_hash": "e1e101b699801ec0445ac3541ebf093c"
-  },
-  {
-    "title": "Good riddance, Cybertruck!",
-    "normalized": "good riddance, cybertruck!",
-    "content_hash": "843a7ff72b4cb4b7728a4fe5aaaad4c8"
-  },
-  {
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "normalized": "the end of microsoft research's ai frontiers group",
-    "content_hash": "5d7d323ce841dc1d70b4b94e75898f28"
-  },
-  {
-    "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
-    "normalized": "anthropic warns that it's close to rsi capability, a.k.a. self-building ai",
-    "content_hash": "ad8ccd8c64ea44fac29237acf884e75c"
-  },
-  {
-    "title": "An AI agent's public attempt to get 5k GitHub stars in a month (it's at 0)",
-    "normalized": "an ai agent's public attempt to get 5k github stars in a month (it's at 0)",
-    "content_hash": "065be9423fd3128f2882fd75f0b58d93"
-  },
-  {
-    "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
-    "normalized": "anthropic's falling ipo valuation raises stakes for broader ai trade",
-    "content_hash": "18c1f686867aead416ab4a791f9c047d"
-  },
-  {
-    "title": "Show HN: Sentient, Your Coding Agent Shouldn't Be a Black Box",
-    "normalized": "show hn: sentient, your coding agent shouldn't be a black box",
-    "content_hash": "5c16f74322ddd01a0704bc298f85698a"
-  },
-  {
-    "title": "Initial submission of Mellonbot \u2013 an AI agent for Linux server diagnostics",
-    "normalized": "initial submission of mellonbot - an ai agent for linux server diagnostics",
-    "content_hash": "3947f0772d1eb4c6a1cc823f812e3f4d"
-  },
-  {
     "title": "Day AI: Context Graph and Agent Control Plane for GTM",
     "normalized": "day ai: context graph and agent control plane for gtm",
     "content_hash": "d73d52d58edf4d5ac9dbee041bb84338"
@@ -2498,5 +2373,130 @@
     "title": "Oracle Says Funding for OpenAI Infrastructure Contract Is Secured",
     "normalized": "oracle says funding for openai infrastructure contract is secured",
     "content_hash": "fa0605a003e648a9fc9844a376c6410c"
+  },
+  {
+    "title": "Sub-30s LLM Pretraining on 8\u00d7H100? Modded-NanoGPT World Record Attempt (29.90 S)",
+    "normalized": "sub-30s llm pretraining on 8\u00d7h100? modded-nanogpt world record attempt (29.90 s)",
+    "content_hash": "c77070dd592c92b792dee789b611062a"
+  },
+  {
+    "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+    "normalized": "techcrunch mobility: a/b testing robots vs. humans",
+    "content_hash": "c8af1e73e214aaa0379b9e8da833021c"
+  },
+  {
+    "title": "Banks Have Had It Up to Here With Your AI Agent",
+    "normalized": "banks have had it up to here with your ai agent",
+    "content_hash": "2fd1a2da4d25c9a5204827cc45502cc6"
+  },
+  {
+    "title": "Delta flights in and out of Atlanta delayed due to system outage",
+    "normalized": "delta flights in and out of atlanta delayed due to system outage",
+    "content_hash": "3e7f3e3058000fcefb38bdb2a482a12e"
+  },
+  {
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "normalized": "binding of isaac developer removes ai music from repentance plus",
+    "content_hash": "a63c3e9f1b4de4557d69d4bf5dc31357"
+  },
+  {
+    "title": "Protesters storm Meta offices in India",
+    "normalized": "protesters storm meta offices in india",
+    "content_hash": "8e547f0cc370d8071a0e6af5d7342a21"
+  },
+  {
+    "title": "\u2018The show is starting soon. Please turn on your headphones.\u2019",
+    "normalized": "'the show is starting soon. please turn on your headphones.'",
+    "content_hash": "9acf06f854ff7ae081fc15a231b931f7"
+  },
+  {
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "normalized": "the vibe-coding revolution is coming to all the gadgets",
+    "content_hash": "5f76e5b4867cb463b297b6f4305f286b"
+  },
+  {
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "normalized": "show hn: i built a game where you are an llm's subagent",
+    "content_hash": "29ed7df9545716cbe37a5743213c8af8"
+  },
+  {
+    "title": "TSMC acquires 0.03% stake in Anthropic for US$500M",
+    "normalized": "tsmc acquires 0.03% stake in anthropic for us$500m",
+    "content_hash": "839b9a4cd8148a619bdb21b81c782cf7"
+  },
+  {
+    "title": "Ask HN: Why do these LLM models seem to improve like clockwork over time?",
+    "normalized": "ask hn: why do these llm models seem to improve like clockwork over time?",
+    "content_hash": "540044bc8d1c37fb1ee14c8f647927da"
+  },
+  {
+    "title": "Checking agent code against your intent",
+    "normalized": "checking agent code against your intent",
+    "content_hash": "69148644647ecc6a2e60e491abb4063d"
+  },
+  {
+    "title": "How do you check that an AI agent finished a task?",
+    "normalized": "how do you check that an ai agent finished a task?",
+    "content_hash": "cabf5583dd12907a69fe9ae8b6205b3f"
+  },
+  {
+    "title": "Building a Local Agent Run Production Studio",
+    "normalized": "building a local agent run production studio",
+    "content_hash": "fa6cd6d5e539465c07892c5842811b2f"
+  },
+  {
+    "title": "Show HN: HomeBrain \u2013 Your private cloud box, local agent. Data stays on Device",
+    "normalized": "show hn: homebrain - your private cloud box, local agent. data stays on device",
+    "content_hash": "c0d54c0851786cb660b29be80381e784"
+  },
+  {
+    "title": "Show HN: Agent Doctor \u2013 let domain experts tune your agent without code changes",
+    "normalized": "show hn: agent doctor - let domain experts tune your agent without code changes",
+    "content_hash": "0271fd81a5931a08cd9fa2f515a50130"
+  },
+  {
+    "title": "Double Agent finds chess position where all 63 moves check, beating 1968 record",
+    "normalized": "double agent finds chess position where all 63 moves check, beating 1968 record",
+    "content_hash": "8c7422c60f73032a42a54e430c830321"
+  },
+  {
+    "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+    "normalized": "nvidia releases alpamayo 2 edge: a 2b reasoning vla for drive thor",
+    "content_hash": "4e5d9f348c23f80541bed655a29cd8bb"
+  },
+  {
+    "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+    "normalized": "best personal ai agents in 2026: openclaw, hermes agent, gemini spark and more, compared on memory, security and cost",
+    "content_hash": "da5a7608444c49a1f211b6cbbcc4726e"
+  },
+  {
+    "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+    "normalized": "google ai previews tool retrieval in the gemini api for large tool libraries",
+    "content_hash": "0200a83de0d80a1a0ff8238b4e6120fd"
+  },
+  {
+    "title": "SEC Enforcement Staff Examine NVIDIA Accounting, Reuters Reports",
+    "normalized": "sec enforcement staff examine nvidia accounting, reuters reports",
+    "content_hash": "e390c20222c92058a47ea960d44c5c64"
+  },
+  {
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "normalized": "why data centers are at the center of the big tech backlash",
+    "content_hash": "145a08ff3bf559d4eded6627c352c7c8"
+  },
+  {
+    "title": "Can a TV be too large? An investigation",
+    "normalized": "can a tv be too large? an investigation",
+    "content_hash": "f2190525b7d464cf8abf36b3732e311f"
+  },
+  {
+    "title": "Trump says reported FBI database hack is \u2018not good\u2019",
+    "normalized": "trump says reported fbi database hack is 'not good'",
+    "content_hash": "5c7a463611a1aecb3f33a9380c0226c4"
+  },
+  {
+    "title": "Alaska, your next governor is a Wikipedia nerd",
+    "normalized": "alaska, your next governor is a wikipedia nerd",
+    "content_hash": "768e0f806dda9c1c2a05bf97bcb4c080"
   }
 ]
