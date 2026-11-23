@@ -1,130 +1,5 @@
 [
   {
-    "title": "Day AI: Context Graph and Agent Control Plane for GTM",
-    "normalized": "day ai: context graph and agent control plane for gtm",
-    "content_hash": "d73d52d58edf4d5ac9dbee041bb84338"
-  },
-  {
-    "title": "Show HN: Agent Manager \u2013 keyboard-first workflow for running many coding agents",
-    "normalized": "show hn: agent manager - keyboard-first workflow for running many coding agents",
-    "content_hash": "64d36829cfcb6e9b5e9eb47eb612824f"
-  },
-  {
-    "title": "Chatty \u2013 Open-source autonomous AI chat agent with tool calling",
-    "normalized": "chatty - open-source autonomous ai chat agent with tool calling",
-    "content_hash": "2f178c456bcb265fa488493b9a29f0e0"
-  },
-  {
-    "title": "Infinix \u2013 Abandoned Local AI Agent Base Seeking Developers",
-    "normalized": "infinix - abandoned local ai agent base seeking developers",
-    "content_hash": "5687d8bf3210f7af408c833f014ce2f6"
-  },
-  {
-    "title": "Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It",
-    "normalized": "google described its agent sandbox. i built one with firecracker and measured it",
-    "content_hash": "b09d84d3676a2fa79b07ac0dc7dd39ff"
-  },
-  {
-    "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-    "normalized": "sagemaker inference now supports multi-instance gpu to maximize gpu utilization for model endpoints",
-    "content_hash": "61b83fd02a90ee2f4c8151a5b37096bd"
-  },
-  {
-    "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
-    "normalized": "how to run nvidia dory 4b with llama.cpp: loop by loop guide",
-    "content_hash": "86813c8c0d4dce7eef45bd819fe21001"
-  },
-  {
-    "title": "OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation",
-    "normalized": "openai launches gpt-image-2.6 flare and sunburst: adds gifs, svg export and 6-second api generation",
-    "content_hash": "160bd757026b3e691b52a0fb7717ff98"
-  },
-  {
-    "title": "Give Your Python AI Agent Persistent Memory with One JSON File",
-    "normalized": "give your python ai agent persistent memory with one json file",
-    "content_hash": "a2a0a4e1d98dddd593e8c476821efd39"
-  },
-  {
-    "title": "OpenAI Secures $11B in Initial Funding at $1.25T Valuation",
-    "normalized": "openai secures $11b in initial funding at $1.25t valuation",
-    "content_hash": "e1784b3cf72012135051c0ce457484b0"
-  },
-  {
-    "title": "Chatbots might be coming to Apple\u2019s HomeView",
-    "normalized": "chatbots might be coming to apple's homeview",
-    "content_hash": "f61bcead5daf81fabd308190ef51b995"
-  },
-  {
-    "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-    "normalized": "techcrunch mobility: the cybertruck experiment is over",
-    "content_hash": "b7397a469a7909d68b0bb1a4194a5a18"
-  },
-  {
-    "title": "Elvis and Eminem rights holders are suing Suno",
-    "normalized": "elvis and eminem rights holders are suing suno",
-    "content_hash": "81b92ed0274f5ad2ea5b12f7dd009bce"
-  },
-  {
-    "title": "Apple\u2019s M5 MacBook Air is down to its lowest price since July",
-    "normalized": "apple's m5 macbook air is down to its lowest price since july",
-    "content_hash": "c987f57a0b969c48f465834f2c25cf2d"
-  },
-  {
-    "title": "OpenAI raises $11B at a $1.25T valuation",
-    "normalized": "openai raises $11b at a $1.25t valuation",
-    "content_hash": "1701152eb8e61a860785742fdf537c03"
-  },
-  {
-    "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
-    "normalized": "google ai releases elephant-goldfish model plugin for spec-first coding",
-    "content_hash": "f447cb252be37b58f34d42381d610097"
-  },
-  {
-    "title": "How to Build Multi-Agent Systems with the OpenAI Agents SDK",
-    "normalized": "how to build multi-agent systems with the openai agents sdk",
-    "content_hash": "d2776d52f07ac4f0c34e0ea08dea26dc"
-  },
-  {
-    "title": "Cognizant Completes Wizeline Deal to Expand AI Product Engineering",
-    "normalized": "cognizant completes wizeline deal to expand ai product engineering",
-    "content_hash": "1726fcbd378d563450c4ffe4d9f0a09d"
-  },
-  {
-    "title": "Anthropic Tests Claude Trading and Sabotage Detection in EVE",
-    "normalized": "anthropic tests claude trading and sabotage detection in eve",
-    "content_hash": "9454a69dd39450180b3a08b35b2ea803"
-  },
-  {
-    "title": "AWS Adds NVIDIA GPU Partitioning to SageMaker Inference Endpoints",
-    "normalized": "aws adds nvidia gpu partitioning to sagemaker inference endpoints",
-    "content_hash": "8808da8c6674b6b534745d83f7ec4288"
-  },
-  {
-    "title": "Ninja\u2019s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-    "normalized": "ninja's autobarista is impressively versatile, but one feature was a dealbreaker for me",
-    "content_hash": "36093e7712f71b3ed8a2f7f6408b3f9d"
-  },
-  {
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "normalized": "after the midterms, things are looking rocky for elon musk and data centers",
-    "content_hash": "b68d7048dc9f0380f7d217a1f998f60c"
-  },
-  {
-    "title": "Parents want safer phones for kids. These companies are answering the call.",
-    "normalized": "parents want safer phones for kids. these companies are answering the call.",
-    "content_hash": "0b2a35954038d748b4b4823b3417cd1a"
-  },
-  {
-    "title": "Binance CFO is leaving to \u2018pursue a new venture\u2019 after $6.3 billion hack",
-    "normalized": "binance cfo is leaving to 'pursue a new venture' after $6.3 billion hack",
-    "content_hash": "537bd096b0b9b88bfb0f55aec5965dd8"
-  },
-  {
-    "title": "Amazon\u2019s new basic Kindle proves you don\u2019t need all the bells and whistles",
-    "normalized": "amazon's new basic kindle proves you don't need all the bells and whistles",
-    "content_hash": "22baaf52ae0d74ed1f9637541948d926"
-  },
-  {
     "title": "Sequoia shutting down its Scouts program marks the end of an era",
     "normalized": "sequoia shutting down its scouts program marks the end of an era",
     "content_hash": "e3e23fbde47889f54166106992ad0c09"
@@ -2498,5 +2373,130 @@
     "title": "Alaska, your next governor is a Wikipedia nerd",
     "normalized": "alaska, your next governor is a wikipedia nerd",
     "content_hash": "768e0f806dda9c1c2a05bf97bcb4c080"
+  },
+  {
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "normalized": "how notable capital, gic, and baillie gifford bet big on anthropic before its ipo",
+    "content_hash": "f565bea35ddab48b2f1b22ebd07f147b"
+  },
+  {
+    "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+    "normalized": "openai's chief scientist has thoughts on how to limit ai development",
+    "content_hash": "7fb9aa56a241334df700db4ef3132bd1"
+  },
+  {
+    "title": "Bessent Declines to Back Huang\u2019s Return Amid Nvidia Investigations",
+    "normalized": "bessent declines to back huang's return amid nvidia investigations",
+    "content_hash": "fe7019db4c49abf3b0f5a7c5ec8aad05"
+  },
+  {
+    "title": "Kodak\u2019s next collectible is a tiny digital photo frame that doubles as a tracker",
+    "normalized": "kodak's next collectible is a tiny digital photo frame that doubles as a tracker",
+    "content_hash": "d088236fdaf433763be6a86a88fe0446"
+  },
+  {
+    "title": "\u2018You Can See Everything\u2019 has made more than $100M worldwide",
+    "normalized": "'you can see everything' has made more than $100m worldwide",
+    "content_hash": "9dfd69dfa85b80ce551ddbb151e11df7"
+  },
+  {
+    "title": "The best apps to make new friends right now",
+    "normalized": "the best apps to make new friends right now",
+    "content_hash": "fd8fc64f2d2e7640578eb8cbf64b4f09"
+  },
+  {
+    "title": "How This Year\u2019s Super El Ni\u00f1o Will Worsen Global Hunger",
+    "normalized": "how this year's super el ni\u00f1o will worsen global hunger",
+    "content_hash": "cd8e3bfe6c52366b2d005531df96d335"
+  },
+  {
+    "title": "The Outages Are Just Getting Started",
+    "normalized": "the outages are just getting started",
+    "content_hash": "82699bf697bf5365c0a8324dcd584975"
+  },
+  {
+    "title": "Mountain Hardwear Coupon Code 15% Off November",
+    "normalized": "mountain hardwear coupon code 15% off november",
+    "content_hash": "ab0e841ffe6fb61595fde2cd52261be2"
+  },
+  {
+    "title": "Google Workspace Promo Codes: 14% Off for November 2026",
+    "normalized": "google workspace promo codes: 14% off for november 2026",
+    "content_hash": "991765e1ef93d3ccd34f9ffb0636c765"
+  },
+  {
+    "title": "Hostinger Promo Code: 85% Off for November 2026",
+    "normalized": "hostinger promo code: 85% off for november 2026",
+    "content_hash": "ef541b2765c7f36a6064796836e3adde"
+  },
+  {
+    "title": "HostGator Coupon Codes: 76% Off Hosting in November 2026",
+    "normalized": "hostgator coupon codes: 76% off hosting in november 2026",
+    "content_hash": "3f03735bfab310824489effbb8f4d6d7"
+  },
+  {
+    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "normalized": "openrouter drops 3 providers after researchers catch months of prompt theft at ai hosting firms",
+    "content_hash": "78332e892d4323c8b9cdca0c4343b127"
+  },
+  {
+    "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "normalized": "researchers demonstrate ghostscript sandbox-escape rce via crafted file uploads in popular apps",
+    "content_hash": "44f23836d901aa7076b922b8819e354f"
+  },
+  {
+    "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+    "normalized": "sonicwall warns gen 6 firewalls won't get security patches, even for critical flaws",
+    "content_hash": "99d1280c356ced12395f41c55aa7bde6"
+  },
+  {
+    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+    "normalized": "china-linked hackers exploit critical vmware vcenter zero-day to gain admin access and steal data",
+    "content_hash": "427dd47b02f39c8c5295e562519210f8"
+  },
+  {
+    "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+    "normalized": "romulus clickfix attacks deliver rat that can spy on users and control pcs",
+    "content_hash": "1b9216f0dd8b2b5e0d151c2bcd612e32"
+  },
+  {
+    "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+    "normalized": "phpaftershell explained: how hackers could turn a php session flaw into code execution",
+    "content_hash": "b2754044567a4662571ab279baab44b0"
+  },
+  {
+    "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+    "normalized": "php fixes 7 critical flaws, including bugs that could allow remote code execution",
+    "content_hash": "c538eb7f9d81310a57ee30c6ff77356f"
+  },
+  {
+    "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
+    "normalized": "critical vmware vcenter zero-day flaw lets network attackers bypass authentication",
+    "content_hash": "050782170466509342487a412aa84b00"
+  },
+  {
+    "title": "Everything Is a Web Application, Including Your Firewall",
+    "normalized": "everything is a web application, including your firewall",
+    "content_hash": "f6c01e39f95fbe1dfb4ab9c6021d7df3"
+  },
+  {
+    "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+    "normalized": "hackers breach n-able cloud server, disrupting email security management across 3 regions",
+    "content_hash": "3d379aade4ef10bf1b692f6650337dc5"
+  },
+  {
+    "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
+    "normalized": "ruby ships fixes for 7 flaws, including critical ruby2shell, said to hit default rails apps pre-auth",
+    "content_hash": "7421d16df33e6460d6b1a186dc76b460"
+  },
+  {
+    "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+    "normalized": "researcher demonstrates database rce exploits affecting postgresql, mysql and oracle",
+    "content_hash": "304dbf76c5cd2ad3d04d68389c14696b"
+  },
+  {
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "normalized": "google rolls out new search homepage with ai chat history and no search button",
+    "content_hash": "6703543b42f22dbe82d3f824e37e6b06"
   }
 ]
