@@ -1,80 +1,5 @@
 [
   {
-    "title": "Sequoia shutting down its Scouts program marks the end of an era",
-    "normalized": "sequoia shutting down its scouts program marks the end of an era",
-    "content_hash": "e3e23fbde47889f54166106992ad0c09"
-  },
-  {
-    "title": "Underdog shows off a 32MB speech model in new demo",
-    "normalized": "underdog shows off a 32mb speech model in new demo",
-    "content_hash": "b4445a660f060d0769b9dd11045819d0"
-  },
-  {
-    "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
-    "normalized": "8 best computer speakers (2026) after testing 30 pairs",
-    "content_hash": "7c459e4b23457d3bbfcabc74e7b7f4e9"
-  },
-  {
-    "title": "I Used NYT Cooking\u2019s New AI-Powered Recipe Modifier, and It\u2019s Actually Pretty Good",
-    "normalized": "i used nyt cooking's new ai-powered recipe modifier, and it's actually pretty good",
-    "content_hash": "255b9ebc88627b6c802409e6ee054676"
-  },
-  {
-    "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
-    "normalized": "how to remind your boss of your pto without pissing them off",
-    "content_hash": "bde87be78566d7c2d014cf72993e12df"
-  },
-  {
-    "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-    "normalized": "the apple macbook pro m5 is on sale, and a top macbook to buy right now",
-    "content_hash": "bc120045ba66c6331d173292f04258d0"
-  },
-  {
-    "title": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know",
-    "normalized": "world models will soon be inescapable. here's what you need to know",
-    "content_hash": "f403b361caa3fd5870f1b12f6bffc090"
-  },
-  {
-    "title": "Rocco\u2019s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026",
-    "normalized": "rocco's black friday sale: smart fridges hit their lowest prices of 2026",
-    "content_hash": "092e15a3e8b48951076a8ee23afe41de"
-  },
-  {
-    "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-    "normalized": "ai companies really, really want to buy your work files and emails",
-    "content_hash": "56a3998697e3ebd399e37ff78e7a67ae"
-  },
-  {
-    "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-    "normalized": "hackers target openssh sshole flaw within hours of disclosure, gain root on honeypot",
-    "content_hash": "7c1a9a2552f477cee069cebf9bf7761c"
-  },
-  {
-    "title": "Here\u2019s the full text of Jensen Huang\u2019s memo to Nvidia",
-    "normalized": "here's the full text of jensen huang's memo to nvidia",
-    "content_hash": "e7dca68d4ce4ef64d6426644182a9edb"
-  },
-  {
-    "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
-    "normalized": "nvidia will investigate ceo jensen huang's relationship with possible chinese spy",
-    "content_hash": "c39351b6ba76f400671d4bc8b49bf6e9"
-  },
-  {
-    "title": "Apple is racing to make Siri more agentic",
-    "normalized": "apple is racing to make siri more agentic",
-    "content_hash": "120e232685a52ae17760fd4dfe73a922"
-  },
-  {
-    "title": "Nvidia is investigating Jensen Huang\u2019s relationship with a Chinese spy",
-    "normalized": "nvidia is investigating jensen huang's relationship with a chinese spy",
-    "content_hash": "2664c913958b5a7aec3c6e4872c27534"
-  },
-  {
-    "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-    "normalized": "sequoia partners reportedly blindsided when roelof botha joined spacex board",
-    "content_hash": "f7a20242610a835e9b9581891af80906"
-  },
-  {
     "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
     "normalized": "he arrested a hacker, then spent 18 months clearing his own name. now he's a cybersecurity vc.",
     "content_hash": "9e40a1473e41eb48a4cd1cc65a65e18f"
@@ -2498,5 +2423,80 @@
     "title": "Google rolls out new search homepage with AI chat history and no search button",
     "normalized": "google rolls out new search homepage with ai chat history and no search button",
     "content_hash": "6703543b42f22dbe82d3f824e37e6b06"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+    "normalized": "nvidia ceo jensen huang is back. what happens next?",
+    "content_hash": "995df503a7a74f7d6c1e07a545d8bc09"
+  },
+  {
+    "title": "Welcome to elite impunity, Jensen Huang",
+    "normalized": "welcome to elite impunity, jensen huang",
+    "content_hash": "0e654c39ba6f9be91248eec12036376d"
+  },
+  {
+    "title": "Claude AI can review pull requests and ship fixes on its own now",
+    "normalized": "claude ai can review pull requests and ship fixes on its own now",
+    "content_hash": "2c4e5999f42e5c24c2407542c6d22a6e"
+  },
+  {
+    "title": "Jensen Huang says he\u2019ll be a \u2018better CEO\u2019 as staff applauds his return",
+    "normalized": "jensen huang says he'll be a 'better ceo' as staff applauds his return",
+    "content_hash": "52580ac26aba2fcf361502cddf3a33ca"
+  },
+  {
+    "title": "How Jensen Huang ended up as Nvidia CEO again",
+    "normalized": "how jensen huang ended up as nvidia ceo again",
+    "content_hash": "e32817cea768704bdce9bd5000605535"
+  },
+  {
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "normalized": "elon musk and others rejoice as jensen huang is reinstated at nvidia amid scandal",
+    "content_hash": "33428e939f4fb6f0e9abe5c688d03f4d"
+  },
+  {
+    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company\u2019s HQ",
+    "normalized": "nvidia employees greet jensen huang like a hero as he returns to company's hq",
+    "content_hash": "699bc32ae5b30006dcc2bdbfaabfdda5"
+  },
+  {
+    "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "normalized": "google search's ai mode can now tap into drive and wallet for more personalized responses",
+    "content_hash": "1f920a48d0085d651da32b49101399be"
+  },
+  {
+    "title": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "normalized": "amazon snaps up decart's ai optimization tech for $7.5b as it prepares to sell trainium chips",
+    "content_hash": "692eecaeb5b0d5bbd9ce9b6aef2d30c8"
+  },
+  {
+    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
+    "normalized": "trump reportedly called into nvidia board meeting to advocate for huang's return",
+    "content_hash": "95065e8b6b473c554a0f312cd3c9869e"
+  },
+  {
+    "title": "CrowdStrike to acquire Zscaler for $44 billion",
+    "normalized": "crowdstrike to acquire zscaler for $44 billion",
+    "content_hash": "d8263fcb1d62f0544042ccbbba466cba"
+  },
+  {
+    "title": "Trump endorses Jensen Huang\u2019s return to Nvidia, says US has no evidence of wrongdoing",
+    "normalized": "trump endorses jensen huang's return to nvidia, says us has no evidence of wrongdoing",
+    "content_hash": "ccab4d445ed476471ef9c2d426b54585"
+  },
+  {
+    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+    "normalized": "nvidia reverses course and brings jensen huang back as ceo",
+    "content_hash": "7b422840ff7af129aa1cdd3b37d17e2d"
+  },
+  {
+    "title": "Jensen Huang Is Back as Nvidia CEO",
+    "normalized": "jensen huang is back as nvidia ceo",
+    "content_hash": "1cdd3b4e802450e7a6030aac06ed9997"
+  },
+  {
+    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+    "normalized": "nvidia is powering brain-computer interfaces now",
+    "content_hash": "bae72e3be828d8975b1c90c639124528"
   }
 ]
