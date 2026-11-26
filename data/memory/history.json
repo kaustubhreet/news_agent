@@ -1,80 +1,5 @@
 [
   {
-    "title": "Rosen\u2019s Proposed NVIDIA Suit Centers on Megaspeed Disclosures",
-    "normalized": "rosen's proposed nvidia suit centers on megaspeed disclosures",
-    "content_hash": "6e9a2baaef0e777391a7c46faf46b228"
-  },
-  {
-    "title": "JPMorganChase Broadens Claude Code Use Beyond Engineering Teams",
-    "normalized": "jpmorganchase broadens claude code use beyond engineering teams",
-    "content_hash": "cc252c90f62061e319629a5f104ac64b"
-  },
-  {
-    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-    "normalized": "a new ai tool from google deepmind proved the signal protocol is secure",
-    "content_hash": "5c4de552fea53be56f6f4a8ebf47d4c4"
-  },
-  {
-    "title": "David Ellison says AI could be the \u2018biggest creative unlock in modern history\u2019",
-    "normalized": "david ellison says ai could be the 'biggest creative unlock in modern history'",
-    "content_hash": "90671f102f7b89f48907bcb2166f8696"
-  },
-  {
-    "title": "Instagram\u2019s Effect Builder makes new filters from AI prompts",
-    "normalized": "instagram's effect builder makes new filters from ai prompts",
-    "content_hash": "573bbe28b7497e13902d08eb29ce6a46"
-  },
-  {
-    "title": "ChatGPT is getting verified AI \u2018Business Agents\u2019",
-    "normalized": "chatgpt is getting verified ai 'business agents'",
-    "content_hash": "f7370896c212717a7c88a1035d0f9787"
-  },
-  {
-    "title": "Anthropic has its own AI-powered office suite now",
-    "normalized": "anthropic has its own ai-powered office suite now",
-    "content_hash": "f2bdcb79d7f6937b245a384ed28198c1"
-  },
-  {
-    "title": "NVIDIA Donates OpenShell to CNCF and Adds Open-Source AI Factory Tools",
-    "normalized": "nvidia donates openshell to cncf and adds open-source ai factory tools",
-    "content_hash": "92e77defc2f838ad7beffa5b278990bd"
-  },
-  {
-    "title": "Pixel Tag, Google\u2019s $30 Android-ready answer to Apple\u2019s AirTag, is now available",
-    "normalized": "pixel tag, google's $30 android-ready answer to apple's airtag, is now available",
-    "content_hash": "f605902d06ff70a8eb70b983bc87875b"
-  },
-  {
-    "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "normalized": "meta's ai agent muse lands on apple watch and android wear os",
-    "content_hash": "6b24a02a90bcd7998ec79445b27cea38"
-  },
-  {
-    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-    "normalized": "adobe brings ai agents and new creative tools to photoshop, premiere, and firefly",
-    "content_hash": "ff81887e27b2c17514aabae2a89447fe"
-  },
-  {
-    "title": "Google\u2019s Pixel Tag tracker is now available",
-    "normalized": "google's pixel tag tracker is now available",
-    "content_hash": "111e08e15481df81b57a5b1333eae454"
-  },
-  {
-    "title": "eBay appears to have shut the door on third-party AI agents",
-    "normalized": "ebay appears to have shut the door on third-party ai agents",
-    "content_hash": "98c34a054ddba1cb4f93728eefad2173"
-  },
-  {
-    "title": "CodeRabbit scales agentic software development and ships 20x more",
-    "normalized": "coderabbit scales agentic software development and ships 20x more",
-    "content_hash": "2b71620dd0d8ee987f85b8fd0f03d920"
-  },
-  {
-    "title": "OpenAI Launches Business Hub and Business Agents in ChatGPT",
-    "normalized": "openai launches business hub and business agents in chatgpt",
-    "content_hash": "3f3fb225beaa7037b5e839f360ea327d"
-  },
-  {
     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
     "normalized": "anthropic launches claude meetings to turn workplace discussions into plans and tasks",
     "content_hash": "bc4994f1cb0d27edea1b676e0bbb9531"
@@ -2498,5 +2423,80 @@
     "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
     "normalized": "dozens of oil and shipping tankers hacked in recent weeks, per report",
     "content_hash": "0d1860bfb9ac824c14aaa3f4fa81c6fa"
+  },
+  {
+    "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+    "normalized": "anthropic's dario amodei calls accusations of surrendering human control to ai 'absurd'",
+    "content_hash": "e478ef495a33d555d3837f19df93b5d1"
+  },
+  {
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "normalized": "amazon and meta reportedly in talks to lift blockade on ai agent muse",
+    "content_hash": "18f8c2cc5f03120d083172cf287d60ba"
+  },
+  {
+    "title": "Not Just Nvidia: Inside Team Trump\u2019s Takeover of Intel",
+    "normalized": "not just nvidia: inside team trump's takeover of intel",
+    "content_hash": "5c1666c7488c1e46dd8b5ad326e5b02e"
+  },
+  {
+    "title": "Now Google\u2019s Familiar Faces AI feature works on Walmart\u2019s $35 smart home camera too",
+    "normalized": "now google's familiar faces ai feature works on walmart's $35 smart home camera too",
+    "content_hash": "7b05d68f5ceca239b48054a93d581ef4"
+  },
+  {
+    "title": "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future",
+    "normalized": "google's patent for custom ai video feeds paints a bleak picture of entertainment's future",
+    "content_hash": "d37f04502aa82241463b7399d537b5c2"
+  },
+  {
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "normalized": "openai cuts gpt-6.2 usage: astra hits limits 40% faster, sol 25% faster",
+    "content_hash": "b845b95c82d3b966ffa3f5fe7cb13944"
+  },
+  {
+    "title": "FCC approves SpaceX plan to put AI data centers in space",
+    "normalized": "fcc approves spacex plan to put ai data centers in space",
+    "content_hash": "f236f153bcc7495a33e491b0a074a4f5"
+  },
+  {
+    "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "normalized": "1password said hackers broke into its internal systems, but customer passwords are safe",
+    "content_hash": "6efd5eb5db6ad8f2412afac8c2f1cd69"
+  },
+  {
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "normalized": "want to buy your kid an ai toy this christmas? not in new york",
+    "content_hash": "d001103d3e5e981eef3467dab5f1ed1e"
+  },
+  {
+    "title": "Character.AI\u2019s plan to auction off users\u2019 private chats challenged by state AGs",
+    "normalized": "character.ai's plan to auction off users' private chats challenged by state ags",
+    "content_hash": "675fc998a36d7bdc536fa5df0f910f7f"
+  },
+  {
+    "title": "Todoist confirms 6% of customers\u2019 details were stolen in data breach",
+    "normalized": "todoist confirms 6% of customers' details were stolen in data breach",
+    "content_hash": "a5eb34f208028caf37d359b1f2bda0f9"
+  },
+  {
+    "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+    "normalized": "flipkart ceo kalyan krishnamurthy to step down next week amid ipo uncertainty",
+    "content_hash": "bcec9a321b690fd9f24751ae4ab6bd0b"
+  },
+  {
+    "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+    "normalized": "ex-openai employee accused of bugging company offices granted $1 million bail",
+    "content_hash": "01b339f7c33afef9dc6042ca9c3ac299"
+  },
+  {
+    "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+    "normalized": "amazon loses its latest attempt to get out of handling more recall notices",
+    "content_hash": "2b9055cdaa657794d16beb0316c32df3"
+  },
+  {
+    "title": "The Verge\u2019s 2026 holiday gift guide for travelers",
+    "normalized": "the verge's 2026 holiday gift guide for travelers",
+    "content_hash": "5dfc37fa5504ceb72f90f3dc5f0081f4"
   }
 ]
