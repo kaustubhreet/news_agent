@@ -1,30 +1,5 @@
 [
   {
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "normalized": "anthropic launches claude meetings to turn workplace discussions into plans and tasks",
-    "content_hash": "bc4994f1cb0d27edea1b676e0bbb9531"
-  },
-  {
-    "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more \u2014 without AI",
-    "normalized": "sundrop turns your endless baby photos into recaps, time lapses, and more -- without ai",
-    "content_hash": "da0fcd731ae6f1afcbfa5bac89bcef0b"
-  },
-  {
-    "title": "Reddit is turning user conversations into AI-powered product reviews",
-    "normalized": "reddit is turning user conversations into ai-powered product reviews",
-    "content_hash": "1d6e69f4f6562c3ea8f5bb7c464260e2"
-  },
-  {
-    "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-    "normalized": "new whatsapp head wants to make the app easier to use, give its ai more chops",
-    "content_hash": "1ac189f632bdce5c65350ecd69739529"
-  },
-  {
-    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-    "normalized": "anthropic sets ipo price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-    "content_hash": "84b12a98265a5c98a3c10f3b9e68cc4b"
-  },
-  {
     "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
     "normalized": "spotify's ai dj gets new voices, personalities, and an option for less chatter",
     "content_hash": "9031e9cf2c23be78be019ff3009972c9"
@@ -2498,5 +2473,30 @@
     "title": "The Verge\u2019s 2026 holiday gift guide for travelers",
     "normalized": "the verge's 2026 holiday gift guide for travelers",
     "content_hash": "5dfc37fa5504ceb72f90f3dc5f0081f4"
+  },
+  {
+    "title": "GTA VI developers vote against unionization",
+    "normalized": "gta vi developers vote against unionization",
+    "content_hash": "bce1b18cd1b2db9dee9d3ef5ec1f2825"
+  },
+  {
+    "title": "Measuring and mitigating agent sandbox escape with Siren",
+    "normalized": "measuring and mitigating agent sandbox escape with siren",
+    "content_hash": "30b811a2f325f8518b0787e38df93fa4"
+  },
+  {
+    "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+    "normalized": "qda: closed-loop llm quantization design with agents",
+    "content_hash": "67922d4d9ec1c372ee0f947789ab87d6"
+  },
+  {
+    "title": "Agent Harness",
+    "normalized": "agent harness",
+    "content_hash": "73cd35972fdaa1cb346c2ad50bf06193"
+  },
+  {
+    "title": "Saudi national charged in OpenAI bugging to be released on $1M bond",
+    "normalized": "saudi national charged in openai bugging to be released on $1m bond",
+    "content_hash": "c6d08cd145a966896ee858cb7296ed13"
   }
 ]
