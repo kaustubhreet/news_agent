@@ -1,130 +1,5 @@
 [
   {
-    "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
-    "normalized": "spotify's ai dj gets new voices, personalities, and an option for less chatter",
-    "content_hash": "9031e9cf2c23be78be019ff3009972c9"
-  },
-  {
-    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-    "normalized": "cyberattacks threaten to make open source ai a little less open, hugging face exec warns",
-    "content_hash": "30c97ad84f26ea6bc1148c9ae6c65770"
-  },
-  {
-    "title": "Otter AI can now follow conversations across 30+ languages",
-    "normalized": "otter ai can now follow conversations across 30+ languages",
-    "content_hash": "fd2140392fe53e26e5e22a6c0f648cd8"
-  },
-  {
-    "title": "California\u2019s proposed \u2018billionaire tax\u2019 fails to pass",
-    "normalized": "california's proposed 'billionaire tax' fails to pass",
-    "content_hash": "fda7abc916a9a868f560f0292f7db9d3"
-  },
-  {
-    "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-    "normalized": "russian turla hackers use new cereal malware to steal emails from government exchange servers",
-    "content_hash": "10a9fc584191fd7427ef81f3f4c64032"
-  },
-  {
-    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-    "normalized": "openai rolls out new business profiles, making chatgpt just a little bit more like google",
-    "content_hash": "2a4044385717850a9c4c652cd189526a"
-  },
-  {
-    "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-    "normalized": "anthropic's claude fable 5.2 beats gpt-6 cyber in multi-stage cyberattack benchmark",
-    "content_hash": "70b4ce6cf9c9a16318bfb672418c5308"
-  },
-  {
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "normalized": "openai acquires odessia, travel startup created by sonder founder",
-    "content_hash": "412108abe9544445e1ba3a8d2fbffe86"
-  },
-  {
-    "title": "OpenAI, Anthropic face new oversight as New York\u2019s AI safety law takes effect",
-    "normalized": "openai, anthropic face new oversight as new york's ai safety law takes effect",
-    "content_hash": "ec4d78ed3aa1366b7169fff9a0cfbce9"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
-    "normalized": "nvidia ceo jensen huang's affair with alleged chinese spy: a timeline",
-    "content_hash": "21a3883a5cac06c14f9de34851a8ddc9"
-  },
-  {
-    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-    "normalized": "google broadens its ai hardware portfolio with two new specialized chips",
-    "content_hash": "7e7ee758d1b422e6d2c5343ca02bb075"
-  },
-  {
-    "title": "Microsoft\u2019s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-    "normalized": "microsoft's dlss competitor is out for the xbox ally x and works in handheld mode",
-    "content_hash": "a9fec768fe968947ed6ed1c6de35b48d"
-  },
-  {
-    "title": "The US is winning the AI race. Jensen Huang could have blown it",
-    "normalized": "the us is winning the ai race. jensen huang could have blown it",
-    "content_hash": "41a1ab97d19e5fbf0d46fce8e64f8b87"
-  },
-  {
-    "title": "Bay Raises $37M Series A to Scale Enterprise AI Agent Security",
-    "normalized": "bay raises $37m series a to scale enterprise ai agent security",
-    "content_hash": "ae668e4a238287ba6b1f45247e33e71b"
-  },
-  {
-    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-    "normalized": "proximal ventures raises debut fund to back startups bringing ai to drug development",
-    "content_hash": "e244798a01d9b7419aa04092c01d602f"
-  },
-  {
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "normalized": "oura to acquire ai-native primary care startup counsel health for $625m",
-    "content_hash": "1b6690ddbde2adb217924433d01600ec"
-  },
-  {
-    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-    "normalized": "psi is trying to make a business out of ai-driven scientific discovery",
-    "content_hash": "390ec9a4330bc396ce826ef99a8400ab"
-  },
-  {
-    "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-    "normalized": "oura is acquiring medical ai chatbot startup counsel health",
-    "content_hash": "045226899a67489e3dedf32903833470"
-  },
-  {
-    "title": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
-    "normalized": "show hn: mimzie, an agent-neutral alternative to the claude suite/claude cowork",
-    "content_hash": "00e5369d3bf0d5945781911a0aac6235"
-  },
-  {
-    "title": "Technical Debt Can Derail Coding Agents Through \"Agent Distraction\"",
-    "normalized": "technical debt can derail coding agents through \"agent distraction\"",
-    "content_hash": "15521af185a02d189067f580e38105f1"
-  },
-  {
-    "title": "AMD Releases Zen 6 EPYC Chips for Denser AI Agent Deployments",
-    "normalized": "amd releases zen 6 epyc chips for denser ai agent deployments",
-    "content_hash": "8e2c194e356f9eea16ac2bcdf68df57b"
-  },
-  {
-    "title": "Cribl Buys Tero to Build Observability for Humans and AI Agents",
-    "normalized": "cribl buys tero to build observability for humans and ai agents",
-    "content_hash": "616218ccba752aac3f7167b34287bcf1"
-  },
-  {
-    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "normalized": "all 7 anthropic founders will each cash out about $250m in ipo",
-    "content_hash": "62d0bc8f21a091ca22895d148648bb01"
-  },
-  {
-    "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-    "normalized": "sglang rce exploit breaches near ai, steals data from 18 agents and about 100 users",
-    "content_hash": "a4c14b1478abd7b5b5e35aaf547d8a2a"
-  },
-  {
-    "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
-    "normalized": "nvidia shareholders are suing the company and ceo jensen huang",
-    "content_hash": "7f9d6b339f83eba6511333fb8a58355e"
-  },
-  {
     "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
     "normalized": "the vr disney plus app on meta quest now has 3d movies",
     "content_hash": "7ceb8bbbea738408c97a52be966d1b2f"
@@ -2498,5 +2373,130 @@
     "title": "Saudi national charged in OpenAI bugging to be released on $1M bond",
     "normalized": "saudi national charged in openai bugging to be released on $1m bond",
     "content_hash": "c6d08cd145a966896ee858cb7296ed13"
+  },
+  {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "normalized": "nvidia hits pause on chip shipments to southeast asia",
+    "content_hash": "6f83aba2135054e2e096c5782e8f14a1"
+  },
+  {
+    "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+    "normalized": "the best black friday deals on airpods, macbooks, and other apple gear",
+    "content_hash": "e4d32829d32b6fa8a52b77fa5d8260e1"
+  },
+  {
+    "title": "Apple\u2019s AirPods Pro 3 are a whopping $100 off for Black Friday",
+    "normalized": "apple's airpods pro 3 are a whopping $100 off for black friday",
+    "content_hash": "a1836032e765a8395514d478565b6d01"
+  },
+  {
+    "title": "Is Alice Huang a spy or not?",
+    "normalized": "is alice huang a spy or not?",
+    "content_hash": "75f9d10449da84f3694dce7f897c7e07"
+  },
+  {
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "normalized": "openai says heavy chatgpt users may hit limits sooner as it merges chat and work",
+    "content_hash": "3e2d31a2718712a914c1540ddc694c86"
+  },
+  {
+    "title": "Best Black Friday AirPods Deals I\u2019ve Found (2026)",
+    "normalized": "best black friday airpods deals i've found (2026)",
+    "content_hash": "5a3109973144bd2891186881ac983810"
+  },
+  {
+    "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
+    "normalized": "apple black friday deals (2026): airpods, ipads, macbooks, and more",
+    "content_hash": "f3129d694a2ec8ecc6df6feace18ab9d"
+  },
+  {
+    "title": "The 24 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
+    "normalized": "the 24 very best amazon black friday deals (2026): up to 60% off",
+    "content_hash": "ba8ab67963e9eb3a6ed4d53a4ccd3f16"
+  },
+  {
+    "title": "Best Black Friday Google Pixel Deals (2026): Up to $400 Off",
+    "normalized": "best black friday google pixel deals (2026): up to $400 off",
+    "content_hash": "2ba30afd2a646530ae8e992e19f30ef5"
+  },
+  {
+    "title": "The best Black Friday deals on smart home gear",
+    "normalized": "the best black friday deals on smart home gear",
+    "content_hash": "92f8cb594ac1ac76fce86af4ebb91b95"
+  },
+  {
+    "title": "The absolute best Black Friday deals we\u2019ve found (so far)",
+    "normalized": "the absolute best black friday deals we've found (so far)",
+    "content_hash": "275ee03115c2dbe4c10dc07017b59865"
+  },
+  {
+    "title": "Here are the best Black Friday deals you can grab for $30 or less",
+    "normalized": "here are the best black friday deals you can grab for $30 or less",
+    "content_hash": "588f05f8a9d66a57ef37ffb9761100b0"
+  },
+  {
+    "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+    "normalized": "buying a laptop right now is rough, but these black friday deals help",
+    "content_hash": "c0072b21987ecd6d99b06906aa3a0886"
+  },
+  {
+    "title": "Grand Theft Auto VI proves why efficiency isn\u2019t a virtue",
+    "normalized": "grand theft auto vi proves why efficiency isn't a virtue",
+    "content_hash": "e2b03b877ac34707b01584b493acfc00"
+  },
+  {
+    "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
+    "normalized": "s&p considers nvidia credit downgrade over governance and 'key man' risks",
+    "content_hash": "c41769558ec7b05ba23d624c961e3743"
+  },
+  {
+    "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+    "normalized": "jensen huang broke nvidia's code of conduct, and his employees may not forget it",
+    "content_hash": "1ca30c80c64e2dcd905083f584cdcf80"
+  },
+  {
+    "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
+    "normalized": "black friday deals on household essentials and affordable toys to donate",
+    "content_hash": "97f77cbebb10a0162728b97c09f7d3d3"
+  },
+  {
+    "title": "Black Friday Mattress Deals: Get Up to 55% Off (2026)",
+    "normalized": "black friday mattress deals: get up to 55% off (2026)",
+    "content_hash": "ff2dea1b667c7fc51a36ff7c330c016d"
+  },
+  {
+    "title": "2026\u2019s Best Black Friday Deals: We\u2019ve Been Tracking Since 4 AM",
+    "normalized": "2026's best black friday deals: we've been tracking since 4 am",
+    "content_hash": "64387ae7d6e9cea8841d12c200b48abd"
+  },
+  {
+    "title": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)",
+    "normalized": "best black friday espresso machine deals: up to 38% off (2026)",
+    "content_hash": "df4754474b72663a5113eaa2eb305cff"
+  },
+  {
+    "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
+    "normalized": "best currentbody black friday deals (2026): 20% off led masks and more",
+    "content_hash": "0ca2c6f54c25f395f99abaa2dc49066f"
+  },
+  {
+    "title": "Walking Pad Deals to Shop This Black Friday (2026)",
+    "normalized": "walking pad deals to shop this black friday (2026)",
+    "content_hash": "7fcd06151a76dfae9e0fbd7caa649ab7"
+  },
+  {
+    "title": "Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to $700 Off",
+    "normalized": "best black friday robot vacuum deals from roborock (2026): up to $700 off",
+    "content_hash": "2ac6a087f904206f66ffba7269774073"
+  },
+  {
+    "title": "The Best Black Friday Sonos Deals (2026): Up to 34% Off",
+    "normalized": "the best black friday sonos deals (2026): up to 34% off",
+    "content_hash": "a0c065616beec2fdf451a401fac645ef"
+  },
+  {
+    "title": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale (2026)",
+    "normalized": "our favorite merino wool is 30% off during the unbound merino black friday sale (2026)",
+    "content_hash": "0134314e140c437f137d40d19cc70be1"
   }
 ]
